@@ -1,0 +1,35 @@
+{
+  "SIT_GC01":
+  {
+    "link"  : "https://www.vodafone.de/netz-assistent/chatbot?i=756aa3696ca101ea8542040bac7c4782bc2305720c956133967f87748c6e3b1246a781&c=DSL&a=034&p=256e267e58f1633c414ebbd0d66cf6ac65466fa2df6bc283a84ba99df80cc9831e29ca41d1c4"
+  }
+,
+  "SIT_GC02":
+  {
+    "link"  : "https://www.vodafone.de/netz-assistent/chatbot?i=900b1ddf9381c9d75c4288cc0412a0f5fd88f52e0862c762cf4a37af7456efcb62cb9285491d3869ff&c=CABLE&a=&p=&c_id=hilfe_netzass_kip"
+  },
+  "SIT_GC04":
+  {
+    "link"  : "https://www.vodafone.de/netz-assistent/chatbot?i=900b1ddf9381c9d75c4288cc0412a0f5fd88f52e0862c762cf4a37af7456efcb62cb9285491d3869ff&c=CABLE&a=&p=&c_id=hilfe_netzass_kip"
+
+  },
+  "SIT_GC05":
+  {
+    "link"  : "https://www.vodafone.de/netz-assistent/chatbot?i=756aa3696ca101ea8542040bac7c4782bc2305720c956133967f87748c6e3b1246a781&c=DSL&a=034&p=256e267e58f1633c414ebbd0d66cf6ac65466fa2df6bc283a84ba99df80cc9831e29ca41d1c4"
+  },
+
+  "SIT_GC06":
+  {
+    "link"  : "https://www.vodafone.de/netz-assistent/chatbot?i=1d5d41caa1dc9288077d729fa828fe9515f83df02a5a28f6e5e0d8d9974c4f9630a2b938bf39831206a5ceea&c=DSL&a=06184&p=737cfd614b5abedbb973542e881c700bbfb8184ea531392bea4c2bc926980a1835683c1ba4cd775f633219e1"
+  },
+  "SIT_GC07":
+  {
+    "link"  : "https://www.vodafone.de/netz-assistent/chatbot?i=756aa3696ca101ea8542040bac7c4782bc2305720c956133967f87748c6e3b1246a781&c=DSL&a=034&p=256e267e58f1633c414ebbd0d66cf6ac65466fa2df6bc283a84ba99df80cc9831e29ca41d1c4"
+  },
+  "SIT_GC08":
+  {
+    "link": "https://www.vodafone.de/netz-assistent/chatbot?i=1d5d41caa1dc9288077d729fa828fe9515f83df02a5a28f6e5e0d8d9974c4f9630a2b938bf39831206a5ceea&c=DSL&a=06184&p=737cfd614b5abedbb973542e881c700bbfb8184ea531392bea4c2bc926980a1835683c1ba4cd775f633219e1"
+  }
+
+
+}

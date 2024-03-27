@@ -1,0 +1,43 @@
+{
+  "GC01": {
+    "userName" : "christine.netzassistent",
+    "password" : "TEST@1234",
+    "Link" : "netz-assistent/tickets"
+  },
+
+  "GC02": {
+    "userName" : "christine.netzassistent",
+    "password" : "TEST@1234",
+    "Link" : "netz-assistent/tickets"
+  },
+
+  "GC03": {
+    "userName" : "christine.netzassistent",
+    "password" : "TEST@1234",
+    "Link" : "netz-assistent/tickets"
+  },
+
+  "GC04": {
+    "userName" : "christine.netzassistent",
+    "password" : "TEST@1234",
+    "Link" : "netz-assistent/tickets"
+  },
+
+  "GC05": {
+    "userName" : "christine.netzassistent",
+    "password" : "TEST@1234",
+    "Link" : "netz-assistent/tickets"
+  },
+
+  "GC15": {
+    "tokenLink": "netz-assistent/tb/?sys=1%26ta=TA0000014999899%26token=US%2BsuIav85fm%2Fjm5bhwV9s1cO4IlVbjUZApFh5O8%2B1c%3D"
+  },
+
+  "GC16": {
+    "tokenLink": "netz-assistent/tb/?sys=1%26ta=TA0000014999900%26token=PsuTnNRNMdeNdxcHl4oxoA6%2FvtNgxrXEw4A2szu3hCg%3D"
+  },
+
+  "GC17": {
+    "tokenLink": "netz-assistent/tb/?sys=1%26ta=TA0000014999900%26token=PsuTnNRNMdeNdxcHl4oxoA6%2FvtNgxrXEw4A2szu3hCg%3D"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "GC01_paulUserWithOneOfferCheckPointsOffersInTheDashboard":
+  {
+    "name"  : "paul.1offer",
+    "password": "paul.1offer",
+    "offer1text": "offer1",
+    "offer2text": "offer2",
+    "offer3text": "offer3",
+    "offersCount": "0"
+
+  },
+  "GC02_paulTNUserWithThreeOffersSameTypeCheckPointsOffersInTheDashboard":
+  {
+    "name"  : "paul.TN.3offers.sametype",
+    "password": "paul.TN.3offers.sametype",
+    "offersCount": "3",
+    "offer1text": "offer1",
+    "offer2text": "offer2",
+    "offer3text": "offer3"
+  },
+  "GC03_paulKdUserWithFiveOffersCheckPointsOffersInTheDashboard":
+  {
+    "name"  : "paul.KD.5offers",
+    "password": "paul.KD.5offers",
+    "offersCount": "5"
+
+  },
+  "GC04_paulUserWithZeroOfferCheckPointsOffersInTheDashboard":
+  {
+    "name"  : "paul.0offers",
+    "password": "paul.0offers",
+    "offersCount": "0"
+
+  },
+  "GC05_paulUserWithInformativeOfferCheckPointsOffersInTheDashboard":
+  {
+    "name"  : "paul.informativeoffer",
+    "password": "paul.informativeoffer",
+    "informativeOfferOverlayDescription": "Hast Du Lust unbegrenzt und überall Musik zu hören und immer die aktuellen News zu bekommen? Dann hol Dir jetzt ganz einfach und bequem mit Deinem Prepaid-Guthaben Deezer, Spotify oder BILDplus. Buche jetzt hier in der App und bezahle sicher mit Deinem Prepaid-Guthaben. Die Abos sind jederzeit kündbar.",
+    "informativeOfferOverlayTitle" : "informative offer",
+    "offer1text": "informative offer"
+  },
+  "GC06_paulUserWithFailureInPointsGetServiceCheckPointsOffersInTheDashboard":
+  {
+    "name"  : "paul.seriveofferfailure",
+    "password": "paul.seriveofferfailure",
+    "offersCount": "0"
+  }
+}

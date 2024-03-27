@@ -1,0 +1,92 @@
+# Settingsbot: https://github.vodafone.com/VFDE-ISS/tool-settingsbot
+
+# General repository settings
+# If null or unspecified, no repository settings are managed
+# If null or unspecified with an _extends config containing repository config: _extends config will be used.
+# On the base config all values must be specified, if _extend is used you can selectively override specific settings
+repository:
+  description: "E2E Test Automation project for Web Factory"
+  homepage: ""
+  has_wiki: true
+  has_issues: true
+  has_pages: false
+  has_projects: false
+  has_downloads: true
+  is_template: false
+
+  # Merge options: at least one must be true
+  allow_rebase_merge: true
+  allow_squash_merge: true
+  allow_merge_commit: true
+
+  allow_auto_merge: false
+  delete_branch_on_merge: true
+
+  # Extends logic:
+  # Topics are always replaced, never merged with _extends.
+  topics:
+    - settingsbot-managed
+
+# Full list of branch protections
+# If null or unspecified, branch protections are not managed.
+# If null or unspecified with an _extends config branch protections from _extends are used.
+# If empty list, all existing branch protections will be removed.
+#
+# Extends logic:
+# Using _extends the list is merged together with the _extends list of branches.
+# If both patterns match the _extends config will get merged/overwritten.
+# If _extends enables branch management, it can not be disabled
+branches:
+  # Name of the branch to protect, can be a pattern with wildcards
+  - name: main
+    # Branch Protection settings. Set to null to override the settings from _extend config and delete this branch protection.
+    protection:
+      # Allow branch deletions
+      allow_deletions: false
+      # Allow branch force pushes for
+      allow_force_pushes: false
+      # Pull request reviews rules, must not be null.
+      # This feature is automatically disabled if no sub-feature is enable, like code_owner_reviews or dismissal_restrictions
+      required_pull_request_reviews:
+        # The number of approvals required. (0-6)
+        # Specifying 0 if all other attributes are false. Otherwise review_count must be greater than 0
+        required_approving_review_count: 1
+        # Dismiss approved reviews automatically when a new commit is pushed.
+        dismiss_stale_reviews: true
+        # Blocks merge until code owners have reviewed.
+        require_code_owner_reviews: false
+        # Specify which users and teams can dismiss pull request reviews.
+        # Enable + empty teams list means that this feature is enabled and teams selected by github (org and repo admins) can dismiss.
+        # has a different meaning than disabling it.
+        # Disabling it disables the dismissal functionality all together.
+        dismissal_restrictions:
+          enabled: false
+          # Specify team names. Individuals are not supported here.
+          # Team must be part of current organization.
+          teams: []
+      # Require status checks to pass before merging.
+      # Will be disabled completely if contexts list is empty and strict is false.
+      required_status_checks:
+        # Require branches to be up to date before merging.
+        strict: true
+        # The list of status checks to require in order to merge into this branch
+        contexts:
+          - "PolicyBot: master"
+      # Enforce all configured restrictions for administrators. Set to true to enforce required status checks for repository administrators.
+      enforce_admins: true
+      # Enforce conversation resolution before merge
+      required_conversation_resolution: true
+      # needs to be signed with a key
+      required_signed_commits: false
+      # Prevent merge commits from being pushed to matching branches
+      required_linear_history: true
+      # Restrict who can push to this branch. Only teams and apps are supported.
+      restrictions:
+        # Enable this feature. Can be disabled even if _extend config specifies attributes.
+        # To disable this set false and use empty apps: [] and teams: []
+        enabled: true
+        # List of app names or appIds (not installation ids).
+        apps: ["iss-bulldozer"]
+        # List of team names.
+        teams: ["wf-owners", "team-webfactory-write"]
+#        users: ["mahmoud-elsharkawy"]

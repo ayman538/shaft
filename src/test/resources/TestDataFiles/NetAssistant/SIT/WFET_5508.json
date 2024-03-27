@@ -1,0 +1,20 @@
+{
+  "GC01":
+  {
+    "Link" : "netz-assistent/chatbot?i=0ffae042ac288781febeab55ac7edd38d82d06c826e4b185cfe6aff196b64687338208f74d5f99fb4115c536&c=DSL&a=030&p=0cbde6a2a1c04884704d870590955bf5c17a5157ae161bff504e20366ce40c3a41889f58ea1f0b6a&s=&c_id=hilfe_netzass_dsl",
+    "name"  : "elisabeth.musterfrau",
+    "password": "TEST@1234"
+  },
+  "GC02":
+  {
+    "Link" : "netz-assistent/chatbot?i=0ffae042ac288781febeab55ac7edd38d82d06c826e4b185cfe6aff196b64687338208f74d5f99fb4115c536&c=DSL&a=030&p=0cbde6a2a1c04884704d870590955bf5c17a5157ae161bff504e20366ce40c3a41889f58ea1f0b6a&s=&c_id=hilfe_netzass_dsl",
+    "name"  : "karl.netzassistent",
+    "password": "TEST@1234"
+  },
+  "GC03":
+  {
+    "Link" : "netz-assistent/chatbot?i=0ffae042ac288781febeab55ac7edd38d82d06c826e4b185cfe6aff196b64687338208f74d5f99fb4115c536&c=DSL&a=030&p=0cbde6a2a1c04884704d870590955bf5c17a5157ae161bff504e20366ce40c3a41889f58ea1f0b6a&s=&c_id=hilfe_netzass_dsl",
+    "name"  : "bw489235904@umpost.de",
+    "password": "TestLab1"
+  }
+}

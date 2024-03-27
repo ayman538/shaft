@@ -1,0 +1,12 @@
+{
+  "gc01":
+  {
+    "name": "Multi_contracts",
+    "password": "TEST@1234"
+  },
+  "gc02":
+  {
+    "name": "Multi_contracts",
+    "password": "TEST@1234"
+  }
+}

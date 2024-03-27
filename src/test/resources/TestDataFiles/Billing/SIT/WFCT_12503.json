@@ -1,0 +1,11 @@
+{
+  "GC01_MarieUserWithOnlineBillChecksEinstellungenPage": {
+    "name": "multi_delta",
+    "password": "TEST@1234",
+    "billType": "Online-Rechnung",
+    "emailStatus": "E-Mail ist aktiviert",
+    "smsStatus": "Du hast keine SMS-Benachrichtigung aktiviert",
+    "emailColor": "230, 0, 0",
+    "contractOrder": "1"
+  }
+}

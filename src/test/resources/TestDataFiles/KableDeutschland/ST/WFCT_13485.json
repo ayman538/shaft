@@ -1,0 +1,10 @@
+{
+  "GC01_SohoUserChecksEinstellungenTab": {
+    "name": "soho.phone.product",
+    "password": "soho.phone.product"
+  },
+  "GC02_ConsumerUserChecksEinstellungenTab": {
+    "name": "consumer.phone.product",
+    "password": "consumer.phone.product"
+  }
+}

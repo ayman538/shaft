@@ -1,0 +1,17 @@
+{
+  "GC01_VerifySolsticeMbo":
+  {
+    "name"  : "Solstice114810",
+    "password": "Solstice114810"
+  },
+  "GC02_VerifyLegacyMbo":
+  {
+    "name": "Legacy11810",
+    "password": "Legacy11810"
+  },
+  "BC01_VerifyServiceErrorNotification":
+  {
+    "name": "Solstice311810",
+    "password": "Solstice311810"
+  }
+}

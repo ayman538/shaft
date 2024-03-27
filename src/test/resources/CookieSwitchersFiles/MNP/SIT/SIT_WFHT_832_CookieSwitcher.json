@@ -1,0 +1,22 @@
+{
+  "GC01":
+  {
+    "bob-mnp-app-draft": "feature-wfht-832-application-login",
+    "msisdn": "IjAxNjIyNTA3NDkyIg=="
+  },
+  "GC02":
+  {
+    "bob-mnp-app-draft": "feature-wfht-832-application-start-page",
+    "msisdn": "IjAxNjIyNTA3NDkyIg=="
+  },
+  "GC03":
+  {
+    "bob-mnp-app-draft": "feature-wfht-832-application-start-page",
+    "msisdn": "IjAxNjIyNTA3NDgyMyI="
+  },
+  "GC05":
+  {
+    "bob-mnp-app-draft": "feature-wfht-832-application-start-page",
+    "msisdn": "IjAxNjIyNTA3NDgyIg=="
+  }
+}

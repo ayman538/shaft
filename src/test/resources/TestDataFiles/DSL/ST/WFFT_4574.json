@@ -1,0 +1,40 @@
+{
+  "GC01":
+  {
+    "name"  : "dslpayment501",
+    "password": "dslpayment501",
+    "title": "Aktueller Stand Deines Rechnungskontos  108883330",
+    "subtitle": "Zahlungen sind berücksichtigt bis zum letzten Werktag.",
+    "price": "Zu zahlender Betrag: 31,00 €"
+  },
+  "GC02":
+  {
+    "name"  : "dslpayment502",
+    "password": "dslpayment502",
+    "title": "Aktueller Stand Deines Rechnungskontos  108883331",
+    "subtitle": "Zahlungen sind berücksichtigt bis zum letzten Werktag.",
+    "price": "Zu zahlender Betrag: 80,00 €",
+    "notificationTitle": "Wichtig für Dich",
+    "notificationSubtitle": "Du hast offene Beträge. Du kannst sie auch direkt hier bezahlen.",
+    "button": "Direkt bezahlen"
+  },
+  "GC03":
+  {
+    "name"  : "dslpayment503",
+    "password": "dslpayment503",
+    "title": "Aktueller Stand Deines Rechnungskontos  108883332",
+    "subtitle": "Zahlungen sind berücksichtigt bis zum letzten Werktag.",
+    "price": "Zu zahlender Betrag: 50,00 €",
+    "notificationTitle": "Wichtig für Dich",
+    "notificationSubtitle": "Du hast überfällige Beträge. Bitte zahl Deine überfälligen und offenen Beträge. Du kannst auch direkt hier bezahlen.",
+    "button": "Direkt bezahlen"
+  },
+  "GC04":
+  {
+    "name"  : "dslpayment504",
+    "password": "dslpayment504",
+    "title": "Aktueller Stand Deines Rechnungskontos  108883333",
+    "subtitle": "Zahlungen sind berücksichtigt bis zum letzten Werktag.",
+    "price": "Dein Konto ist ausgeglichen: 0,00 €"
+  }
+}

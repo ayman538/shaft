@@ -1,0 +1,177 @@
+{
+  "GC01_MarieChecksConnectionOverviewTabAndFAQsAtTheSameTab": {
+    "name": "marie.withoutTotalAmount",
+    "password": "marie.withoutTotalAmount",
+    "totalAmount": "Siehe Rechnung"
+  },
+  "GC02_KayChecksConnectionOverviewTabAndFAQsAtTheSameTab": {
+    "name": "kay.normal.flow",
+    "password": "kay.normal.flow",
+    "totalAmount": "10000000,56565 €"
+  },
+  "GC03_MarieChecksConnectionOverviewTabWithNotRetrievedTotalAmount": {
+    "name": "marie.withoutTotalAmount",
+    "password": "marie.withoutTotalAmount",
+    "totalAmount": "Siehe Rechnung"
+  },
+  "GC04_KayChecksConnectionOverviewTabFailure": {
+    "name": "kay.failed.connectionOverviewTab",
+    "password": "kay.failed.connectionOverviewTab",
+    "reloadButtonText": "Neu laden",
+    "reloadButtonColor": "51, 51, 51",
+    "errorMessageColor": "254, 240, 240"
+  },
+  "GC05_KayChecksDownloadFailureAtConnectionOverviewTab": {
+    "name": "kay.FailedDownload.CSV.PDF",
+    "password": "kay.FailedDownload.CSV.PDF"
+  },
+  "GC06_MarieWithMissingPDFChecksConnectionOverviewTab": {
+    "name": "marie.with.MissingPDF",
+    "password": "marie.with.MissingPDF",
+    "errorMessageColor" : "254, 240, 240"
+  },
+  "GC07_MarieWithCsvNotAbleToBeLoadedChecksConnectionOverviewTab": {
+    "name": "marie.with.missigCSV",
+    "password": "marie.with.missigCSV",
+    "errorMessageColor": "254, 240, 240"
+  },
+  "GC08_BrandnewKayUserChecksConnectionOverviewTab": {
+    "name": "kay.brandNewCustomer",
+    "password": "kay.brandNewCustomer",
+    "notificationTitle": "Es gibt noch keine Rechnung",
+    "notificationBody": "Deine erste Rechnung kommt bald. Daher siehst Du keine Daten. Du findest alle wichtigen Infos unter Rechnungen.",
+    "notificationColor": "240, 247, 249"
+  },
+  "GC09_KayWithNoUsageAtCertainBillCycleChecksConnectionOverviewTab": {
+    "name": "kay.noUsage",
+    "password": "kay.noUsage",
+    "notificationTitle": "Keine Daten gefunden",
+    "notificationBody": "Du hattest im ausgewählten Monat keine kostenpflichtigen Verbindungen. Daher siehst Du keine Daten. Wähl bitte einen anderen Monat.",
+    "totalAmount": "0,0000 €",
+    "notificationColor": "240, 247, 249",
+    "number" : "016201620161"
+  },
+  "GC10_KayWithoutBookingItemizedBillChecksConnectionOverviewTab": {
+    "name": "kay.withoutBookingCallDetails",
+    "password": "kay.withoutBookingCallDetails",
+    "notificationTitle": "Hol Dir Deine Verbindungsübersicht",
+    "notificationBody": "Du hast leider keine Verbindungsübersicht gebucht. Daher siehst Du keine Daten. Buch Deine Verbindungsübersicht hier.",
+    "totalAmount": "Siehe Rechnung",
+    "notificationColor": "240, 247, 249",
+    "detailedText": "Verbindungsübersicht in der Detail-Variante beauftragen",
+    "miniText": "Verbindungsübersicht in der Mini-Variante beauftragen",
+    "detailedUrl": "https://www.vodafone.de/infofaxe/325.pdf",
+    "miniUrl": "https://www.vodafone.de/infofaxe/326.pdf"
+  },
+  "GC11_PeterUserBookedItemizedBillChecksConnectionOverviewTab": {
+    "name": "peter.one.MSISDN",
+    "password": "peter.one.MSISDN"
+  },
+  "GC12_BartWithItemizedBillAndOneBillCycleChecksConnectionOverviewTab": {
+    "name": "bart.normal.flow",
+    "password": "bart.normal.flow"
+  },
+  "GC13_MaireWithOneNumberBookedItemizedBillAndOneBillCycleAndNoUsageChecksConnectionOverviewTab": {
+    "name": "marie.OneMSISDN.BillCycle.NoUsage",
+    "password": "marie.OneMSISDN.BillCycle.NoUsage",
+    "totalAmount": "0,0000 €",
+    "notificationTitle": "Keine Daten gefunden",
+    "notificationBody": "Du hattest im ausgewählten Monat keine kostenpflichtigen Verbindungen. Daher siehst Du keine Daten. Wähl bitte einen anderen Monat.",
+    "notificationColor" : "240, 247, 249"
+  },
+  "GC14_MarieWithMissingPDFAndNoAbleToLoadCSVChecksConnectionOverviewTab": {
+    "name": "marie.without.CSV.PDF",
+    "password": "marie.without.CSV.PDF",
+    "totalAmount": "0,0000 €",
+    "notificationTitle": "Keine Daten gefunden",
+    "notificationBody": "Du hattest im ausgewählten Monat keine kostenpflichtigen Verbindungen. Daher siehst Du keine Daten. Wähl bitte einen anderen Monat."
+  },
+  "GC15_MarieWithoutNumbersToBeDisplayedChecksConnectionOverviewTabFailure": {
+    "name": "marie.withoutMSISDN",
+    "password": "marie.withoutMSISDN",
+    "notificationTitle": "Das hat leider nicht geklappt",
+    "notificationBody": "Entschuldige bitte, unser Fehler. Versuch es einfach später nochmal.",
+    "notificationColor": "0, 124, 146, 1"
+
+  },
+  "Tag01_KayChecksConnectionOverviewFailureErrorTracking": {
+    "name": "kay.failed.connectionOverviewTab",
+    "password": "kay.failed.connectionOverviewTab",
+    "type": "technical",
+    "action": "displayed",
+    "code": "400",
+    "area": "connection overview",
+    "message": "das hat leider nicht geklappt"
+  },
+  "Tag02_KayChecksConnectionOverviewPdfAndCsvDownloadFailureErrorTracking": {
+    "name": "kay.FailedDownload.CSV.PDF",
+    "password": "kay.FailedDownload.CSV.PDF",
+    "csvErrorDetails": "could not download csv",
+    "pdfErrorDetails": "could not download pdf",
+    "type": "technical",
+    "action": "displayed",
+    "code": "401",
+    "area": "connection overview",
+    "message": "das hat nicht geklappt"
+  },
+  "Tag03_MarieWithMissingPdfChecksConnectionOverviewNotificationTracking": {
+    "name": "marie.with.MissingPDF",
+    "password": "marie.with.MissingPDF",
+    "action": "displayed",
+    "type": "notification",
+    "message": "pdf is missing",
+    "area": "connection overview"
+  },
+  "Tag04_MarieWithNotAbleToLoadCsvChecksConnectionOverviewNotificationTracking": {
+    "name": "marie.with.missigCSV",
+    "password": "marie.with.missigCSV",
+    "action": "displayed",
+    "type": "notification",
+    "message": "csv is missing",
+    "area": "connection overview"
+  },
+  "Tag05_BrandNewKayCustomerChecksConnectionOverviewNotificationTracking": {
+    "name": "kay.brandNewCustomer",
+    "password": "kay.brandNewCustomer",
+    "action": "displayed",
+    "type": "notification",
+    "message": "brand new customer, no bill available yet",
+    "area": "connection overview"
+  },
+  "Tag06_KayWithNoUsageChecksConnectionOverviewNotificationTracking": {
+    "name": "kay.noUsage",
+    "password": "kay.noUsage",
+    "action": "displayed",
+    "type": "notification",
+    "message": "no data available",
+    "area": "connection overview"
+  },
+  "Tag07_MarieWithMissingPdfAndNotAbleToLoadCsvChecksConnectionOverviewNotificationTracking": {
+    "name": "marie.without.CSV.PDF",
+    "password": "marie.without.CSV.PDF",
+    "action": "displayed",
+    "type": "notification",
+    "message": "csv is missing",
+    "area": "connection overview",
+    "action1": "displayed",
+    "type1": "notification",
+    "message1": "csv is missing",
+    "area1": "connection overview"
+  },
+  "Tag08_MarieWithoutNumbersToBeDisplayedChecksConnectionOverviewTabTracking": {
+    "name": "marie.withoutMSISDN",
+    "password": "marie.withoutMSISDN",
+    "action": "displayed",
+    "type": "notification",
+    "message": "no phone number to choose from",
+    "area": "connection overview"
+  },
+  "Tag09_KayWithoutBookingItemizedBillChecksConnectionOverviewTabTracking": {
+    "name": "kay.withoutBookingCallDetails",
+    "password": "kay.withoutBookingCallDetails",
+    "action": "displayed",
+    "type": "notification",
+    "message": "no connection overview booked",
+    "area": "connection overview"
+  }
+}

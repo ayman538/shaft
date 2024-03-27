@@ -1,0 +1,56 @@
+{
+  "GC01": {
+    "urn": "7070809090",
+    "headerText1": "Richte Dein WLAN ein",
+    "subheaderText": "Willst Du Deine Vodafone Station mit dem SuperWLAN-Verstärker verbinden?",
+    "firstOption": "Ja, mit SuperWLAN-Verstärker",
+    "secondOption": "Nein, ohne SuperWLAN-Verstärker",
+    "nextButton": "Weiter",
+    "firstQuestion": "Was ist SuperWLAN?",
+    "secondQuestion": "Was ist ein SuperWLAN-Verstärker?",
+    "thirdQuestion": "Was ist die SuperConnect-App?",
+    "secondHeaderText": "Richte Dein WLAN mit dem SuperWLAN-Verstärker ein",
+    "instructionsButton": "Zur Verstärker-Anleitung",
+    "superConnectBtn": "Weiter mit SuperConnect-App",
+    "connectYourDeviceText": "Verbinde Deine Geräte mit dem WLAN",
+    "connectYourDeviceBtn": "Zur WLAN-Anleitung",
+    "wifiSettingsText": "Du willst mehr WLAN-Einstellungen vornehmen?",
+    "wifiSettingsBtn": "WLAN-Einstellungen vornehmen",
+    "backBtn": "Zurück"
+  },
+  "GC02": {
+    "urn": "70708090",
+    "secondHeaderText": "Richte Dein WLAN ein",
+    "instructionsButton": "Zur WLAN-Anleitung",
+    "superConnectBtn": "Weiter mit GetConnected-App",
+    "wifiSettingsText": "Du willst mehr WLAN-Einstellungen vornehmen?",
+    "wifiSettingsBtn": "WLAN-Einstellungen vornehmen",
+    "backBtn": "Zum Start-Portal"
+  },
+  "GC03": {
+    "urn": "70708091",
+    "secondHeaderText": "Richte Dein WLAN ein",
+    "instructionsButton": "Zur WLAN-Anleitung",
+    "superConnectBtn": "Weiter mit GetConnected-App",
+    "wifiSettingsText": "Du willst mehr WLAN-Einstellungen vornehmen?",
+    "wifiSettingsBtn": "WLAN-Einstellungen vornehmen",
+    "backBtn": "Zum Start-Portal"
+  },
+  "GC04": {
+    "urn": "7070809090",
+    "headerText1": "Richte Dein WLAN ein",
+    "subheaderText": "Willst Du Deine Vodafone Station mit dem SuperWLAN-Verstärker verbinden?",
+    "firstOption": "Ja, mit SuperWLAN-Verstärker",
+    "secondOption": "Nein, ohne SuperWLAN-Verstärker",
+    "nextButton": "Weiter",
+    "firstQuestion": "Was ist SuperWLAN?",
+    "secondQuestion": "Was ist ein SuperWLAN-Verstärker?",
+    "thirdQuestion": "Was ist die SuperConnect-App?",
+    "secondHeaderText": "Richte Dein WLAN ohne SuperWLAN-Verstärker ein",
+    "instructionsButton": "Zur WLAN-Anleitung",
+    "superConnectBtn": "Weiter mit SuperConnect-App",
+    "wifiSettingsText": "Du willst mehr WLAN-Einstellungen vornehmen?",
+    "wifiSettingsBtn": "WLAN-Einstellungen vornehmen",
+    "backBtn": "Zurück"
+  }
+}

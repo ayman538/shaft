@@ -1,0 +1,15 @@
+{
+  "Techinstallinstallanknowmorescreen": {
+    "urn": "543289542",
+    "Knowmorepage_url": "https://simplicity.wf-de.vodafone.com/cable-anschaltung/upgrade/installation-date-information",
+    "Techinstalldashboard_url": "https://simplicity.wf-de.vodafone.com/cable-anschaltung/upgrade/landing-page"
+
+
+  },
+  "Technstallmoreinfolink": {
+    "urn": "543289542",
+    "Knowmorepage_url": "https://simplicity.wf-de.vodafone.com/cable-anschaltung/upgrade/installation-date-information",
+    "Moreinfopage_url": "https://simplicity.wf-de.vodafone.com/cable-anschaltung/upgrade/FAQ"
+
+  }
+}

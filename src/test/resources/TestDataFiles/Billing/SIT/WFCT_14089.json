@@ -1,0 +1,59 @@
+{
+  "GC05_MatrinDownloadsAndPreviewsBillsAtRechnungTabChecksTracking":
+  {
+    "name": "KD934655941",
+    "password": "TEST@1234",
+    "clickTagName": "ebpa click",
+    "downloadTagName": "ebpa download",
+    "clickTagContentForPreviewCustomerBill" : "{name:customer bill,info:preview}",
+    "downloadTagContentForPreviewCustomerBill" : "{type:preview,name:customer bill}",
+    "billRowOrder" : "1",
+    "clickTagContentForDownloadCustomerBill" : "{name:customer bill,info:pdf}",
+    "downloadTagContentForDownloadCustomerBill" : "{type:pdf,name:customer bill}",
+    "secondItemizedBill" : "4",
+    "clickTagContentForPreviewItemizedBill" : "{name:itemized bill,info:preview}",
+    "downloadTagContentForPreviewItemizedBill" : "{type:preview,name:itemized bill}",
+    "clickTagContentForDownloadItemizedBill" : "{name:itemized bill,info:pdf}",
+    "downloadTagContentForDownloadItemizedBill" : "{type:pdf,name:itemized bill}",
+    "secondBill" : "2"
+  },
+  "GC06_KayDownloadsAndPreviewsBillsAtCostOverViewTabChecksTracking":
+  {
+    "name": "multi_delta",
+    "password": "TEST@1234",
+    "clickTagName": "ebpa click",
+    "downloadTagName": "ebpa download",
+    "clickTagContentForPreviewSubscriberBill" : "{name:subscriber bill,info:preview}",
+    "downloadTagContentForPreviewSubscriberBill" : "{type:preview,name:subscriber bill}",
+    "billRowOrder" : "1",
+    "clickTagContentForDownloadSubscriberBill" : "{name:subscriber bill,info:pdf}",
+    "downloadTagContentForDownloadSubscriberBill" : "{type:pdf,name:subscriber bill}",
+    "secondItemizedBill" : "2",
+    "clickTagContentForPreviewItemizedBill" : "{name:itemized bill,info:preview}",
+    "downloadTagContentForPreviewItemizedBill" : "{type:preview,name:itemized bill}",
+    "clickTagContentForDownloadItemizedBill" : "{name:itemized bill,info:pdf}",
+    "downloadTagContentForDownloadItemizedBill" : "{type:pdf,name:itemized bill}",
+    "secondBill" : "2",
+    "contractNumber" : "4"
+  },
+  "GC07_PeterDownloadsAndPreviewsBillsAtCostOverViewTabChecksTracking":
+  {
+    "name": "MULLTI_NBAs",
+    "password": "TEST@1234",
+    "clickTagName": "ebpa click",
+    "downloadTagName": "ebpa download",
+    "clickTagContentForPreviewSubscriberBill" : "{name:subscriber bill,info:preview}",
+    "downloadTagContentForPreviewSubscriberBill" : "{type:preview,name:subscriber bill}",
+    "billRowOrder" : "1",
+    "clickTagContentForDownloadSubscriberBill" : "{name:subscriber bill,info:pdf}",
+    "downloadTagContentForDownloadSubscriberBill" : "{type:pdf,name:subscriber bill}",
+    "secondItemizedBill" : "6",
+    "clickTagContentForPreviewItemizedBill" : "{name:itemized bill,info:preview}",
+    "downloadTagContentForPreviewItemizedBill" : "{type:preview,name:itemized bill}",
+    "clickTagContentForDownloadItemizedBill" : "{name:itemized bill,info:pdf}",
+    "downloadTagContentForDownloadItemizedBill" : "{type:pdf,name:itemized bill}",
+    "secondBill" : "2",
+    "thirdBill" : "4",
+    "contractNumber" : "3"
+  }
+}

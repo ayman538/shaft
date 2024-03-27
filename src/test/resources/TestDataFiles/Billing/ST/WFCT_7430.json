@@ -1,0 +1,65 @@
+{
+  "GC01_UteUserChecksTheInvoiceDetailsPage":
+  {
+    "name"  : "ute.invoice.details",
+    "password": "ute.invoice.details",
+    "detailsPageOrder": "10",
+    "amountValue" : "40,54 €",
+    "accountNum" : "8293682996768",
+    "dueDate": "09.12.2021",
+    "invDate": "05.12.2021",
+    "invNum": "01060086016",
+    "usageValue": "0,56 €",
+    "oneTimeValue": "16,17 €",
+    "subTotalValue": "111.111,33 €",
+    "tax16Value": "4,03 €",
+    "invoiceAmount": "47,79 €",
+    "unPaidAmount": "33,10 €",
+    "amountToPay": "0,00 €",
+    "basisPriceValue": "",
+    "tax19Value": ""
+
+  },
+  "GC02_UteUserWithCreditChecksTheDetailsSummaryPage":
+  {
+    "name": "ute.credit.invoice.details",
+    "password": "ute.credit.invoice.details",
+    "detailsPageOrder": "3",
+    "amountValue" : "400,40 €",
+    "accountNum" : "88656337613199",
+    "dueDate": "09.12.2021",
+    "invDate": "05.12.2021",
+    "invNum": "01123758935",
+    "usageValue": "0,60 €",
+    "oneTimeValue": "16,17 €",
+    "subTotalValue": "111,00 €",
+    "tax16Value": "4,04 €",
+    "invoiceAmount": "47,79 €",
+    "unPaidAmount": "-4,47 €",
+    "amountToPay": "Siehe PDF-Rechnung",
+    "basisPriceValue": "300,80 €",
+    "tax19Value": "4,04 €"
+
+  },
+  "GC03_UteUserWithPositiveUnPaidAmountChecksDetailsSummaryPage":
+  {
+    "name": "ute.unpaid.amount.invoice.details",
+    "password": "ute.unpaid.amount.invoice.details",
+    "detailsPageOrder": "2",
+    "amountValue" : "40,54 €",
+    "accountNum" : "85544853996770",
+    "dueDate": "Siehe Rechnung",
+    "invDate": "05.12.2021",
+    "invNum": "01755878299",
+    "usageValue": "0,70 €",
+    "oneTimeValue": "16,18 €",
+    "subTotalValue": "111,11 €",
+    "tax16Value": "4,05 €",
+    "invoiceAmount": "47,79 €",
+    "unPaidAmount": "44,30 €",
+    "amountToPay": "Siehe PDF-Rechnung",
+    "basisPriceValue": "300,90 €",
+    "tax19Value": "4,05 €"
+
+  }
+}

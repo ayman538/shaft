@@ -1,0 +1,52 @@
+{
+  "GC01_kayAmountAndBillCycleNotRetrievedChecksKostenubersichtTab":
+  {
+    "name"  : "kay.no.amount",
+    "password": "kay.no.amount"
+  },
+  "GC02_BartKonstenPdfNotRetrieved":
+  {
+    "name": "bart.no.cost.pdf",
+    "password": "bart.no.cost.pdf"
+
+  },
+  "GC03_KayConnectionPdfNotRetrievedChecksKostenubersichtTab":
+  {
+    "name": "kay.no.itemized.pdf",
+    "password": "kay.no.itemized.pdf"
+
+  },
+
+  "GC04_BartWithNotReturnedCostAndConnectionPdfChecksKostenubersichtTab":
+  {
+    "name": "bart.no.all.pdf",
+    "password": "bart.no.all.pdf",
+    "rowOrder": "1",
+    "columnOrder": "3"
+
+  },
+  "GC05_KayMissingOneMonthInfoOneMSISDNChecksKostenubersichtTab":
+  {
+    "name": "kay.no.one.msisdn.info",
+    "password": "kay.no.one.msisdn.info"
+
+  },
+  "GC06_BartMissingInfoAllMSISDNChecksKostenubersichtTab":
+  {
+    "name": "bart.no.all.msisdn.info",
+    "password": "bart.no.all.msisdn.info"
+
+  },
+  "GC07_KayBEResponseEmptyChecksKostenubersichtTab":
+  {
+    "name": "kay.response.empty",
+    "password": "kay.response.empty"
+
+  },
+  "GC08_BartBEResponseErrorChecksKostenubersichtTab":
+  {
+    "name": "bart.response.error",
+    "password": "bart.response.error"
+
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "GC01": {
+    "name": "martin001",
+    "password": "martin001",
+    "noInvoicesInfoTitleMsg": "Es gibt noch keine Rechnung",
+    "noInvoicesInfoContentMsg": "Deine erste Rechnung kommt bald. In diesem Bereich findest Du dann alle wichtigen Infos rund ums Thema Rechnung."
+  },
+  "GC03": {
+    "name": "martin002",
+    "password": "martin002",
+    "noProductNameAndPDFInfoContentMsg": "Du kannst einige Rechnungen gerade nicht downloaden. Entschuldige bitte, unser Fehler. Versuch’s bitte später nochmal.",
+    "tableProductName": "Nicht verfügbar",
+    "tablePDFErrorMsg": "PDF-Dokument kann gerade nicht geladen werden"
+  },
+  "GC05": {
+    "name": "martin003",
+    "password": "martin003",
+    "tableAmount": "Siehe Rechnung",
+    "tableDueDate": "Kabelanschluss"
+  },
+  "GC07": {
+    "name": "martin004",
+    "password": "martin004",
+    "tableFirstAmount": "Siehe Rechnung",
+    "tableFirstDueDate": "Kabelanschluss",
+    "tableSecondAmount": "Siehe Rechnung",
+    "tableSecondDueDate": "Internet & Telefon"
+  },
+  "GC13": {
+    "name": "martin007",
+    "password": "martin007",
+    "tabNotLoadedErrorTitle": "Das hat leider nicht geklappt",
+    "tabNotLoadedErrorContent": "Entschuldige bitte, unser Fehler. Versuch es bitte später nochmal.",
+    "tabNotLoaded_NochmalVersuchen": "Nochmal versuchen"
+  }
+}

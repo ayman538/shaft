@@ -1,0 +1,20 @@
+{
+  "gc01":
+  {
+    "name"  : "Marie_NotRegisteredSubscriber",
+    "password": "DELT@1234"
+
+  },
+  "gc02":
+  {
+    "name"  : "KAY_2NotRegisteredSubscriber",
+    "password": "DELT@1234"
+
+  },
+  "gc03":
+  {
+    "name"  : "KAY_4NotRegisteredSubscriber",
+    "password": "DELT@1234"
+
+  }
+  }

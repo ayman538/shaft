@@ -1,0 +1,39 @@
+{
+  "verifyDOPForDeviceFirstFlow": {
+    "bob-device-overview-app-draft": "feature-set-device-overview-app",
+    "mint-session-id": "Im1vcmVUaGFuIg=="
+  },
+
+  "verifyDOPForTariffFirstFlow": {
+    "bob-device-overview-app-draft": "feature-set-device-overview-app",
+    "mint-session-id": "Im1vcmVUaGFuIg=="
+  },
+  "verifyMandatoryFields": {
+    "bob-device-overview-app-draft": "feature-set-device-overview-app",
+    "mint-session-id": "Im1vcmVUaGFuIg=="
+  },
+  "validateLoadMoreFunctionalityLessThan12": {
+    "bob-device-overview-app-draft": "feature-set-device-overview-app",
+    "mint-session-id": "Imxlc3NUaGFuIg=="
+  },
+  "validateLoadMoreFunctionalityMoreThan12": {
+    "bob-device-overview-app-draft": "feature-set-device-overview-app",
+    "mint-session-id": "Im1vcmVUaGFuIg=="
+  },
+  "validateProductCardIsClickable": {
+    "bob-device-overview-app-draft": "feature-set-device-overview-app",
+    "mint-session-id": "Im1vcmVUaGFuIg=="
+  },
+  "validateMonthlyTariffCostOnlyExistsInTariffFirstFlow": {
+    "bob-device-overview-app-draft": "feature-set-device-overview-app",
+    "mint-session-id": "Im1vcmVUaGFuIg=="
+  },
+  "validateErrorMsgPageFailedToLoad": {
+    "bob-device-overview-app-draft": "feature-set-device-overview-app",
+    "mint-session-id": "ImVycm9yIg=="
+  },
+  "validateErrorMsgZeroDevices": {
+    "bob-device-overview-app-draft": "feature-set-device-overview-app",
+    "mint-session-id": "Ilplcm9EZXZpY2VzIg=="
+  }
+}

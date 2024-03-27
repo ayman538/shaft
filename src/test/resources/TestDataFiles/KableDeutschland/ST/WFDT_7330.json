@@ -1,0 +1,62 @@
+{
+  "gc01": {
+    "name": "KD_CallForward01",
+    "password": "KD_CallForward01"
+  },
+  "gc02": {
+    "name": "KD_CallForward02",
+    "password": "KD_CallForward02"
+  },
+  "gc03": {
+    "name": "KD_CallForward03",
+    "password": "KD_CallForward03"
+  },
+  "gc04": {
+    "name": "KD_CallForward04",
+    "password": "KD_CallForward04"
+  },
+  "gc05": {
+    "name": "KD_CallForward05",
+    "password": "KD_CallForward05"
+  },
+  "gc06": {
+    "name": "KD_CallForward06",
+    "password": "KD_CallForward06"
+  },
+  "gc07": {
+    "name": "KD_CallForward07",
+    "password": "KD_CallForward07"
+  },
+  "gc08": {
+    "name": "KD_CallForward08",
+    "password": "KD_CallForward08"
+  },
+  "gc09": {
+    "name": "KD_CallForward09",
+    "password": "KD_CallForward09"
+  },
+  "gc10": {
+    "name": "KD_CallForward10",
+    "password": "KD_CallForward10"
+  },
+  "gc11": {
+    "name": "KD_CallForward11",
+    "password": "KD_CallForward11"
+  },
+  "gc12": {
+    "name": "KD_CallForward12",
+    "password": "KD_CallForward12"
+  },
+  "gc14": {
+    "name": "KD_CallForward14",
+    "password": "KD_CallForward14"
+  },
+  "bc01": {
+    "name": "KD_CallForwardBC01",
+    "password": "KD_CallForwardBC01"
+  },
+  "bc02": {
+    "name": "KD_CallForwardBC02",
+    "password": "KD_CallForwardBC02"
+  }
+}

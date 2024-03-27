@@ -1,0 +1,10 @@
+{
+  "gc01": {
+    "name": "MartinSuspendedContract",
+    "password": "MartinSuspendedContract"
+  },
+  "gc02": {
+    "name": "MartinSOHOSuspendedContract",
+    "password": "MartinSOHOSuspendedContract"
+  }
+}

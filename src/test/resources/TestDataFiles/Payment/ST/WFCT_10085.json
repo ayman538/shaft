@@ -1,0 +1,30 @@
+{
+  "GC01_PaulUserDeleteAutoTopupSavedPaymentMethod":
+  {
+    "name"  : "paul.activeGpp.auto.topup.20day",
+    "password": "paul.activeGpp.auto.topup.20day",
+    "contract_number": "1",
+    "saved_payment_method_number": "1"
+  },
+  "GC02_PaulUserDeleteSavedPaymentMethod":
+  {
+    "name"  : "paul.activeGpp.auto.topup.20day",
+    "password": "paul.activeGpp.auto.topup.20day",
+    "contract_number": "1",
+    "saved_payment_method_number": "2"
+  },
+  "GC03_PaulUserFailsToDeleteAutoTopupSavedPaymentMethod":
+  {
+    "name"  : "paul.pausedGpp.auto.topup.30day",
+    "password": "paul.pausedGpp.auto.topup.30day",
+    "contract_number": "1",
+    "saved_payment_method_number": "1"
+  },
+  "GC04_PaulUserFailsToDeleteSavedPaymentMethod":
+  {
+    "name"  : "paul.pausedGpp.auto.topup.30day",
+    "password": "paul.pausedGpp.auto.topup.30day",
+    "contract_number": "1",
+    "saved_payment_method_number": "2"
+  }
+}

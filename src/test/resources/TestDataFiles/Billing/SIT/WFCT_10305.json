@@ -1,0 +1,26 @@
+{
+
+  "GC01_KayConnectionPdfNotRetrievedChecksKostenubersichtTab":
+  {
+    "name": "multi_contracts",
+    "password": "TEST@1234",
+    "contractOrder": "10",
+    "itemized_RowOrder": "13",
+    "itemized_ColOrder": "4"
+
+
+  },
+
+  "GC02_BartWithNotReturnedCostAndConnectionPdfChecksKostenubersichtTab":
+  {
+    "name": "multi_contracts",
+    "password": "TEST@1234",
+    "contractOrder": "10",
+    "cost_RowOrder": "13",
+    "cost_ColOrder": "3",
+    "itemized_RowOrder": "13",
+    "itemized_ColOrder": "4"
+
+  }
+
+}

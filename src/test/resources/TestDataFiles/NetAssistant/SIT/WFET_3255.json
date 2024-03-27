@@ -1,0 +1,117 @@
+{
+  "GC02":
+  {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+
+  "GC04":
+  {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "emailAddress": "Test@test.com"
+  },
+
+  "GC06":
+  {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "mobileNumber": "01223082323"
+  },
+
+  "GC08":
+  {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "mobileNumber": "01223082323"
+  },
+
+  "GC09":
+  {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+
+  "GC10":
+  {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+
+  "GC11":
+  {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+
+  "GC12":
+  {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+
+  "GC13":
+  {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "emailAddress": "Test@test.com"
+  },
+
+  "GC14":
+  {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "invalidEmailAddress": "Test@test"
+  },
+  "GC15":
+  {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "invalidEmailAddress": "Test@test",
+    "emailAddress": "Test@test.com"
+  },
+
+  "GC16":
+  {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "mobileNumber": "01223082323"
+  },
+
+  "GC18":
+  {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "mobileNumber": "01223082323",
+    "invalidMobileNumber": "0312"
+  },
+
+  "GC19":
+  {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "invalidEmailAddress": "Test@test"
+  },
+
+  "GC20":
+  {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "invalidMobileNumber": "0312"
+  }
+}

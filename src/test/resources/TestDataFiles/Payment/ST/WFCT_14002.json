@@ -1,0 +1,26 @@
+{
+  "GC01_PaulUserWithBookOptionOfferChecksBookingTheOffer": {
+    "name": "paul.book.offer",
+    "password": "paul.book.offer",
+    "offerTitle": "name for book offer",
+    "offerDescription": "description for book offer"
+  },
+  "GC02_PaulUserWithChangeTariffOfferChecksBookingTheOffer": {
+    "name": "paul.change.tariff.offer",
+    "password": "paul.change.tariff.offer",
+    "offerTitle": "name for change tariff offer",
+    "offerDescription": "description for change tariff offer"
+  },
+  "GC03_PaulUserWithVariousOfferChecksBookingTheOffer": {
+    "name": "paul.various.offer",
+    "password": "paul.various.offer",
+    "offerTitle": "name for various offer",
+    "offerDescription": "description for various offer"
+  },
+  "GC04_PaulUserWithTopUpOfferChecksBookingTheOffer": {
+    "name": "paul.various.offers",
+    "password": "paul.various.offers",
+    "offerTitle": "name for Topup offer",
+    "offerDescription": "description for Topup offer"
+  }
+}

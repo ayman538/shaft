@@ -1,0 +1,26 @@
+{
+  "GC01_kayUserWithLessThan12BillsCheckRechnungTableInMeineRechnungen":
+  {
+    "name"  : "kay.less.than.12",
+    "password": "kay.less.than.12"
+  },
+  "GC02_bartUserWith12BillsSomeOfThemAreInTheSameMonthCheckRechnungTableInMeineRechnungen":
+  {
+    "name": "bart.12.bill",
+    "password": "bart.12.bill"
+
+  },
+    "GC03_MarieUserWithMoreThan12BillsSomeOfThemAreItemizedInThelast6MonthsCheckRechnungTableInMeineRechnungen":
+  {
+    "name": "marie.more.than.12",
+    "password": "marie.more.than.12"
+
+  },
+
+  "GC04_MarieUserWithLessThan12BillsAndHasNoItemizedBillCheckRechnungTableInMeineRechnungen":
+  {
+    "name": "marie.no.itemized",
+    "password": "marie.no.itemized"
+
+  }
+}

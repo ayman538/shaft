@@ -1,0 +1,59 @@
+{
+  "GC01": {
+    "urlIdent": "12987",
+    "Dashboardheader": "Teste Deine Router-Verbindung",
+    "CheckAddressheader": "Alles richtig?",
+    "CheckAddressSubHeadline": "Der Telekom-Techniker hat Dich hier gesucht und leider nicht gefunden:",
+    "CheckAddressSecondSubHeadline": "Stimmt die Adresse?",
+    "AddressText": "Max Mustermann Warschauer Str. 58 10243 Berlin",
+    "ConfirmAddressheader": "Neuer Versuch",
+    "ConfirmAddressSubHeadline": "Gibt es für den Techniker etwas zu beachten, sodass er Dich in jedem Fall findet?",
+    "ConfirmAddressSecondSubHeadline": "Dein Hinweis an den Techniker:",
+    "ConfirmAddressTerminAuswählenBtn": "Termin auswählen",
+    "Calendarheader": "Wann soll der Techniker kommen?",
+    "ReviewDataheader": "Damit der Techniker Dich findet",
+    "ReviewDataFirstText": "Dass alles klappt, ist uns sehr wichtig. Hier hast Du ein Klingelschild. So findet Dich der Techniker garantiert",
+    "ReviewDataklingelschildDruckenButton": "Klingelschild drucken",
+    "ReviewDate-DateCL": "Dein Termin:",
+    "TerminwahlbestätigenButtonTxt": "Abschicken",
+    "ConfirmedDateheader": "Vielen Dank für Deine Termin-Wahl"
+  },
+
+  "GC02": {
+    "urlIdent": "12987",
+    "Dashboardheader": "Teste Deine Router-Verbindung",
+    "CheckAddressheader": "Alles richtig?",
+    "CheckAddressSubHeadline": "Der Telekom-Techniker hat Dich hier gesucht und leider nicht gefunden:",
+    "CheckAddressSecondSubHeadline": "Stimmt die Adresse?",
+    "AddressText": "Max Mustermann Warschauer Str. 58 10243 Berlin",
+    "Recallheader": "Vereinbare einen Rückruf.",
+    "RecallSubHeadline": "Du willst Deine Adresse korrigieren. Kein Problem. Wir prüfen mit Dir am Telefon, ob sich dadurch an Deinem Tarif was ändert.",
+    "RecallSecondSubHeadline": "Gib hier Deine Nummer ohne Leer- oder Sonderzeichen ein, zum Beispiel: 01721234566. Wir melden uns in wenigen Minuten bei Dir. ",
+    "RecallAbschicken Btn": "Abschicken",
+    "RecallPhoneNo": "01721234566",
+    "RecallConfirmationheader": "Danke! Wir melden uns gleich bei Dir."
+  },
+
+  "GC05": {
+    "urlIdent": "12987",
+    "Dashboardheader": "Teste Deine Router-Verbindung",
+    "CheckAddressheader": "Alles richtig?",
+    "CheckAddressSubHeadline": "Der Telekom-Techniker hat Dich hier gesucht und leider nicht gefunden:",
+    "CheckAddressSecondSubHeadline": "Stimmt die Adresse?",
+    "AddressText": "Max Mustermann Warschauer Str. 58 10243 Berlin",
+    "ConfirmAddressheader": "Neuer Versuch",
+    "ConfirmAddressSubHeadline": "Gibt es für den Techniker etwas zu beachten, sodass er Dich in jedem Fall findet?",
+    "ConfirmAddressSecondSubHeadline": "Dein Hinweis an den Techniker:",
+    "ConfirmAddressNotesText": "Address is right:",
+    "ConfirmAddressTerminAuswählenBtn": "Termin auswählen",
+    "Calendarheader": "Wann soll der Techniker kommen?",
+    "Morning CheckBox Text": "Vormittags 8-13 Uhr",
+    "Evening CheckBox Text": "Nachmittags 12-17 Uhr",
+    "ReviewDataheader": "Damit der Techniker Dich findet",
+    "ReviewDataFirstText": "Dass alles klappt, ist uns sehr wichtig. Hier hast Du ein Klingelschild. So findet Dich der Techniker garantiert",
+    "ReviewDataklingelschildDruckenButton": "Klingelschild drucken",
+    "ReviewDate-DateCL": "Dein Termin:",
+    "TerminwahlbestätigenButtonTxt": "Abschicken",
+    "ConfirmedDateheader": "Vielen Dank für Deine Termin-Wahl"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "GC02":
+  {
+    "userName"  : "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot/review?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC05":
+  {
+    "userName"  : "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot/review?icmp=mvw_db_netzass_dsl",
+    "phoneNumber" : "015170107393",
+    "Steps"  : ["Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC06":
+  {
+    "userName"  : "simone.netzassistent",
+    "password": "TEST@1234",
+    "phoneNumber" : "015170107393",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC08":
+  {
+    "userName"  : "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot/review?icmp=mvw_db_netzass_dsl",
+    "phoneNumber" : "015170107393",
+    "Steps"  : ["Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC09":
+  {
+    "userName"  : "simone.netzassistent",
+    "password": "TEST@1234",
+    "phoneNumber" : "015170107393",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC10":
+  {
+    "userName"  : "n678440302@umpost.de",
+    "password": "TestLab1",
+    "link": "netz-assistent/?c_id=mvw_db_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC11":
+  {
+    "userName"  : "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot/review?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC12":
+  {
+    "userName"  : "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot/review?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC13":
+  {
+    "userName"  : "n678440302@umpost.de",
+    "password": "TestLab1",
+    "phoneNumber" : "015170107393",
+    "link": "netz-assistent/?c_id=mvw_db_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC16":
+  {
+    "userName"  : "n678440302@umpost.de",
+    "password": "TestLab1",
+    "phoneNumber" : "015170107393",
+    "link": "netz-assistent/?c_id=mvw_db_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  }
+
+}

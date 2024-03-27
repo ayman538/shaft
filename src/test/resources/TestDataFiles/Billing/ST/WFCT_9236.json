@@ -1,0 +1,66 @@
+{
+  "GC01_peterLessThan12BillChecksKostenubersichtTab":
+  {
+    "name"  : "peter.less.than.12",
+    "password": "peter.less.than.12",
+    "tableRowOrder" : "1"
+  },
+  "GC02_peterWith12BillChecksKostenubersichtTab":
+  {
+    "name": "peter.booked.noRetrieved",
+    "password": "peter.booked.noRetrieved",
+    "tableRowOrder" : "1",
+    "secondRowOrder" : "2"
+  },
+  "GC03_peterMoreThan12BillChecksKostenubersichtTab":
+  {
+    "name": "peter.more.than.12",
+    "password": "peter.more.than.12",
+    "tableRowOrder" : "1"
+  },
+
+  "GC04_peterAmountDateNotRetrievedChecksKostenubersichtTab":
+  {
+    "name": "peter.amount.date.notretrieved",
+    "password": "peter.amount.date.notretrieved",
+    "tableRowOrder" : "1"
+
+  },
+  "GC05_peterConnectionOverviewPDFNotRetrievedChecksKostenubersichtTab":
+  {
+    "name": "peter.connectionPDF.notretrieved",
+    "password": "peter.connectionPDF.notretrieved",
+    "itemizedBillWarningIconRowNum": "1"
+
+  },
+  "GC06_peterCostOverviewPDFNotRetrievedChecksKostenubersichtTab":
+  {
+    "name": "peter.costOverViewPDF.notretrieved",
+    "password": "peter.costOverViewPDF.notretrieved"
+
+  },
+  "GC07_peterConnectionAndCostOverviewPDFSBothNotRetrievedChecksKostenubersichtTab":
+  {
+    "name": "peter.bothPDF.notretrieved",
+    "password": "peter.bothPDF.notretrieved" ,
+    "itemizedBillWarningIconRowNum": "1"
+  },
+  "GC08_peterWithoutConnectionOverviewChecksKostenubersichtTab":
+  {
+    "name": "peter.without.connections.bills",
+    "password": "peter.without.connections.bills"
+
+  },
+  "GC09_peterWithNoInvoicesChecksKostenubersichtTab":
+  {
+    "name": "peter.without.bills",
+    "password": "peter.without.bills"
+
+  },
+  "GC10_peterWithInvoiceWhileServiceErrorChecksKostenubersichtTab":
+  {
+    "name": "peter.service.error",
+    "password": "peter.service.error"
+
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "gc01": {
+    "name": "MartinInsideGermany",
+    "password": "MartinInsideGermany"
+  },
+  "gc03": {
+    "name": "MartinOutsideGermany",
+    "password": "MartinOutsideGermany"
+  },
+  "gc04": {
+    "name": "MartinSuspended1",
+    "password": "MartinSuspended1"
+  },
+  "gc05": {
+    "name": "MartinNotInDB",
+    "password": "MartinNotInDB"
+  },
+  "gc06": {
+    "name": "MartinOutsideGermany",
+    "password": "MartinOutsideGermany"
+  },
+  "gc07": {
+    "name": "SOHOInsideGermany",
+    "password": "SOHOInsideGermany"
+  }
+}

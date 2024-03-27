@@ -1,0 +1,6 @@
+{
+  "payment-draft": "feature-set-payment-migration",
+  "sandbox-draft":"sandbox",
+  "payment-usecase-draft": "PrepayTestNoBooking",
+  "simplicity-draft": "develop"
+}

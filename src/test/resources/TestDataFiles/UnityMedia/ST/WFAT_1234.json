@@ -1,0 +1,15 @@
+{
+  "testLoginScenarioUM":
+  {
+    "name"  : "n678846606@umpost.de",
+    "password": "TEST@1234",
+    "PhoneNum": "01019909968"
+  }
+,
+  "testLoginScenarioUM2":
+  {
+    "name"  : "n678846606@umpost.de",
+    "password": "TEST@1234"
+  }
+
+}

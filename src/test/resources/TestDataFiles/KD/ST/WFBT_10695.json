@@ -1,0 +1,22 @@
+{
+  "GC01_CheckExistenceOfKabelTVAccordionInDashboard":
+  {
+    "name"  : "Automated-wfbt_10695_1",
+    "password": "Automated-wfbt_10695_1"
+  },
+  "GC02_CheckExistenceOfMeinKabelTVSODetails":
+  {
+    "name"  : "Automated-wfbt_10695_1",
+    "password": "Automated-wfbt_10695_1"
+  },
+  "GC03_CheckWhenClickOnMeinKabelTVSOMeinKabelTVAccordionWillExpand":
+  {
+    "name"  : "Automated-wfbt_10695_1",
+    "password": "Automated-wfbt_10695_1"
+  },
+  "GC04_CheckMeinKabelTVAddedToBurgerMenuFirstOption":
+  {
+    "name"  : "Automated-wfbt_10695_1",
+    "password": "Automated-wfbt_10695_1"
+  }
+}

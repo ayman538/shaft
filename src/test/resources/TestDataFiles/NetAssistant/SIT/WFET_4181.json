@@ -1,0 +1,50 @@
+{
+  "SIT_GC01": {
+    "name": "mark.biesek",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","3 Answers"]
+  },
+  "SIT_GC02": {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","3 Answers"]
+  },
+  "SIT_GC03": {
+    "name": "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test_Formular_RadioCombo","Automatic","3 Answers"]
+  },
+  "SIT_GC04": {
+    "name": "mark.biesek",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","2 Answers"]
+  },
+  "SIT_GC07": {
+    "name": "mark.biesek",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","4 Answers"]
+  },
+  "SIT_GC08": {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","4 Answers"]
+  },
+  "SIT_GC09": {
+    "name": "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test_Formular_RadioCombo","Automatic","4 Answers"]
+  },
+  "SIT_GC10": {
+    "name": "mark.biesek",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","4 Answers"]
+  }
+}

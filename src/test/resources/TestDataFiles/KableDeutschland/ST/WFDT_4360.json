@@ -1,0 +1,28 @@
+{
+  "gc01":
+  {
+    "name"  : "martin_privacy_management",
+    "password": "martin_privacy_management"
+  },
+  "gc02":
+  {
+    "name"  : "martin_privacy_management",
+    "password": "martin_privacy_management"
+  },
+  "gc03":
+  {
+    "name"  : "martin_privacy_management",
+    "password": "martin_privacy_management"
+  },
+  "gc04":
+  {
+    "name"  : "martin_privacy_management",
+    "password": "martin_privacy_management"
+  },
+  "gc05":
+  {
+    "name"  : "martin_privacy_management",
+    "password": "martin_privacy_management"
+  }
+
+}

@@ -1,0 +1,27 @@
+{
+  "GC01": {
+    "name": "martin.outstanding1",
+    "password": "martin.outstanding1",
+    "headerNew" : "Aktuelle Informationen zum Referenzkonto 0001",
+   "subHeaderNew":"Du hast eine offene Zahlung bei uns. Wir buchen den offenen Betrag per Lastschrift von Deinem Konto ab.\nIn der Übersicht siehst Du alle Buchungsposten auf Deinem Konto und die Beträge.",
+    "subHeaderNew2": "In Deinem Referenzkonto sind folgende Produkte zusammengefasst. Die Vertragsnummern zeigen wir Dir, wenn Du es aufklappst."
+  },
+  "GC02": {
+    "name": "martin.No7",
+    "password": "martin.No7",
+    "headerNew" : "Aktuelle Informationen zum Referenzkonto 0001",
+    "headerHotspot": "Aktuelle Informationen zum Referenzkonto 0005",
+    "headerProdukt": "Aktuelle Informationen zum Referenzkonto 0002",
+    "subHeaderNew": "Du hast eine offene Zahlung bei uns. Überweis bitte den offenen Betrag. Die Bankverbindung siehst Du weiter unten.\nDenk bitte an die Rechnungsnummer beim Verwendungszweck.\nDu findest in der Übersicht alle Buchungen und Beträge Deines Referenzkontos.",
+    "subHeaderNew2": "In Deinem Referenzkonto sind folgende Produkte zusammengefasst. Die Vertragsnummern zeigen wir Dir, wenn Du es aufklappst."
+
+  },
+  "GC04": {
+    "name": "martin.all4",
+    "password": "martin.all4",
+    "headerNew" : "Aktuelle Informationen zum Referenzkonto 0001",
+    "headerTv": "Aktuelle Informationen zum Referenzkonto 0004",
+    "subHeaderInkaso": "Du hast schon länger offene Zahlungen bei uns. Wir haben die Bearbeitung deshalb an ein Inkassobüro übergeben.\nZahl bitte den offenen Betrag so bald wie möglich! Wende Dich bei allen Fragen dazu ab jetzt nur noch an:"
+
+  }
+}

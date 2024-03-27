@@ -1,0 +1,17 @@
+{
+  "GC03_MartinUserWithNoItemizedBillChecksEinstellungenTab": {
+    "name": "martin.no.call.detail",
+    "password": "martin.no.call.detail",
+    "selectedOption": "Kein Einzelverbindungsnachweis"
+  },
+  "GC02_MartinUserWithShortenedLast3DigitsItemizedBillChecksEinstellungenTab": {
+    "name": "martin.masked.call.detail",
+    "password": "martin.masked.call.detail",
+    "selectedOption": "Um die letzten 3 Stellen gekürzt"
+  },
+  "GC01_MartinUserWithCompleteItemizedBillChecksItemizedBillSectionInTheEinstellungenTab": {
+    "name": "martin.full.call.detail",
+    "password": "martin.full.call.detail",
+    "selectedOption": "Vollständiger Einzelverbindungsnachweis"
+  }
+}

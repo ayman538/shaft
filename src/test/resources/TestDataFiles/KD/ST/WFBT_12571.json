@@ -1,0 +1,20 @@
+{
+  "gc01": {
+    "name": "Automated-wfbt_10696_1",
+    "password": "Automated-wfbt_10696_1",
+    "meinTarifSO_KipOnly" : "Kabel Digital",
+    "meinTarifSO_KipOnly_LastDate" : "Laufzeit bis 27.11.2024"
+  },
+  "gc02": {
+    "name": "TVUserCLSOnly",
+    "password": "TVUserCLSOnly",
+    "meinTarifSO_CLSOnly_LastDate" : "Laufzeit bis 30.10.2025",
+    "meinTarifSO_CLSOnly" : "Treuegutschrift: 6 Monate -11,00 €, danach 0 €"
+  },
+  "gc03": {
+    "name": "TVUserCLSandMainTarif",
+    "password": "TVUserCLSandMainTarif",
+    "meinTarifSO_KipCLS_LastDate" : "Laufzeit bis 27.10.2023",
+    "meinTarifSO_KipCLS" : "HD Receiver"
+  }
+}

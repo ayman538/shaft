@@ -1,0 +1,17 @@
+{
+  "GC01":
+  {
+    "contactNumber"  : "0162 250 74 80",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html"
+  },
+  "GC02":
+  {
+    "contactNumber"  : "0162 250 74 80",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html"
+  },
+  "GC03":
+  {
+    "contactNumber"  : "0162 250 74 80",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html"
+  }
+}

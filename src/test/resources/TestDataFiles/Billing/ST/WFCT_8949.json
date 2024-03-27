@@ -1,0 +1,22 @@
+{
+  "GC01_MarieUserWithLessThan12InvoicesChecksCollectiveDownload":
+  {
+    "name"  : "marie.less.than.12.bill",
+    "password": "marie.less.than.12.bill",
+    "firstMonthOrder": 3,
+    "secondMonthOrder": 4
+  },
+  "GC02_KayUserWithMoreThan12InvoicesChecksCollectiveDownloadUsingSelectAll": {
+    "name"  : "marie.less.than.12.bill",
+    "password": "marie.less.than.12.bill",
+    "firstMonthOrder": 3,
+    "secondMonthOrder": 4
+  },
+  "BC01_BartUserWithBEErrorChecksCollectiveDownload":
+  {
+    "name": "bart.equals.12.bill",
+    "password": "bart.equals.12.bill",
+    "firstMonthOrder": 3,
+    "secondMonthOrder": 4
+  }
+}

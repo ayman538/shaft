@@ -1,0 +1,12 @@
+{
+  "viewBookedOptions":
+  {
+    "name"  : "Automated-wfbt_10678_I",
+    "password": "Automated-wfbt_10678_I"
+  },
+  "checkStaticNotificationInBookedOptionsAcc":
+  {
+    "name": "Automated-wfbt_10678_II",
+    "password": "Automated-wfbt_10678_II"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "GC01_marieHasNoItemizedBillBookedCheckRechnungenTab": {
+    "name": "marie.not.booked",
+    "password": "marie.not.booked",
+    "itemizedBillWarningIconRowNum": "",
+    "itemizedBillBlockingIconRowNum": ""
+  },
+  "GC02_marieHasItemizedBillBookedButNoUsageCheckRechnungenTab": {
+    "name": "marie.booked.noRetrieved",
+    "password": "marie.booked.noRetrieved",
+    "itemizedBillWarningIconRowNum": "1",
+    "itemizedBillBlockingIconRowNum": ""
+  },
+  "GC03_marieHasItemizedBillPartiallyBookedCheckRechnungenTab": {
+    "name": "marie.partially.booked",
+    "password": "marie.partially.booked",
+    "itemizedBillWarningIconRowNum": "",
+    "itemizedBillBlockingIconRowNum": "6",
+    "itemizedBillTableDescription" : "Hier findest Du alle Deine Rechnungen als PDF-Dokumente. Du kannst Dir alle Details anschauen und die Rechnungen herunterladen. Hast Du schon die Verbindungsübersicht gebucht? Beantrage sie einfach hier:    "
+  },
+  "GC04_marieHasItemizedBillPartiallyBookedWithPdfNotRetrievedCheckRechnungenTab": {
+    "name": "marie.partially.booked.notRetrieved",
+    "password": "marie.partially.booked.notRetrieved",
+    "itemizedBillWarningIconRowNum": "1",
+    "itemizedBillBlockingIconRowNum": "6",
+    "itemizedBillTableDescription" : "Hier findest Du alle Deine Rechnungen als PDF-Dokumente. Du kannst Dir alle Details anschauen und die Rechnungen herunterladen. Hast Du schon die Verbindungsübersicht gebucht? Beantrage sie einfach hier:    "
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "GC01_PeterUserChecksTheSubSummaryPage":
+  {
+    "name"  : "peter.with.invoices",
+    "password": "peter.with.invoices",
+    "invoiceMonth": "Februar",
+    "invoiceAmount": "10.000.000,22 €",
+    "accountNumber"  : "54636654",
+    "billPeriod": "26.01.2022 - 25.02.2022",
+    "billDate": "30.03.2022",
+    "invoiceDetails1_Name": "Anschlusspreis",
+    "invoiceDetails2_Name": "Basispreis / Paketpreis",
+    "invoiceDetails3_Name": "Verbindungspreise und Services",
+    "invoiceDetails4_Name": "Sonstiges",
+    "invoiceDetails5_Name": "Zu Ihren Gunsten",
+    "invoiceDetails6_Name": "Mobiles Bezahlen",
+    "invoiceDetails7_Name": "Transfer von Guthaben",
+    "invoiceDetails1_Value": "1.629,00 €",
+    "invoiceDetails2_Value": "1.628,00 €",
+    "invoiceDetails3_Value": "1.635,00 €",
+    "invoiceDetails4_Value": "1.635,00 €",
+    "invoiceDetails5_Value": "-16,35 €",
+    "invoiceDetails6_Value": "1.635,00 €",
+    "invoiceDetails7_Value": "1.635,00 €",
+    "summationValue": "10.000.000,22 €",
+    "i": 7
+  },
+  "GC02_PeterUserWithCreditChecksTheSubSummaryPage":
+  {
+    "name": "peter.with.credit",
+    "password": "peter.with.credit",
+    "invoiceMonth": "März",
+    "invoiceAmount": "1.799,23 €",
+    "accountNumber"  : "5463542346536",
+    "billPeriod": "27.02.2022 - 26.03.2022",
+    "billDate": "30.03.2022",
+    "invoiceDetails1_Name": "Anschlusspreis",
+    "invoiceDetails2_Name": "Sonstiges",
+    "invoiceDetails3_Name": "Zu Ihren Gunsten",
+    "invoiceDetails1_Value": "200,00 €",
+    "invoiceDetails2_Value": "1.633,00 €",
+    "invoiceDetails3_Value": "201,00 €",
+    "summationValue": "1.799,23 €",
+    "i": 3
+
+  },
+  "GC04_PeterUserWithNoItemizedPDFChecksTheSubSummaryPage":
+  {
+    "name": "peter.with.pdf.1",
+    "password": "peter.with.pdf.1",
+    "i": 0
+
+  },
+  "GC05_PeterUserWithNoInvoicePDFChecksTheSubSummaryPage":
+  {
+    "name": "peter.with.pdf.2",
+    "password": "peter.with.pdf.2",
+    "i": 0
+
+  },
+  "GC06_PeterUserWithNoPDFChecksTheSubSummaryPage":
+  {
+    "name": "peter.with.no.pdf",
+    "password": "peter.with.no.pdf",
+    "i": 0
+
+  }
+
+}

@@ -1,0 +1,12 @@
+{
+  "GC01_SohoUserWithPhoneProductChecksEinstellungenTab": {
+    "name": "KD332881431",
+    "password": "TEST@1234"
+
+  },
+  "GC02_SohoUserWithNoPhoneProductChecksEinstellungenTab": {
+    "name": "KD934300996",
+    "password": "TEST@1234"
+
+  }
+}

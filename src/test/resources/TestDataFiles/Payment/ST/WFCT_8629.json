@@ -1,0 +1,16 @@
+{
+  "GC03_PaulUserChecksTopUpWithIbanWhenCardNumberNotReturned":
+  {
+    "name"  : "paul.no.card.num",
+    "password": "paul.no.card.num",
+    "contractOrder": "1",
+    "saved_payment_method_number": "1"
+  },
+  "GC04_PaulUserChecksTopUpWithIbanForDunningUser":
+  {
+    "name"  : "marie.dunning.iban",
+    "password": "marie.dunning.iban",
+    "contractOrder": "1",
+    "saved_payment_method_number": "2"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "GC01":
+  {
+    "name"  : "Delg1",
+    "password": "Delg1"
+  },
+  "GC02":
+  {
+    "name": "Delg2",
+    "password": "Delg2"
+  },
+  "GC03":
+  {
+    "name": "Delg3",
+    "password": "Delg3"
+  }
+}

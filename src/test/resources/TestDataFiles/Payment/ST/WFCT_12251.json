@@ -1,0 +1,47 @@
+{
+  "GC01_paulUserNavigatesToBankverbindungThenAssertOnAutoTopUpNotificationHLAndBodyAndBtnTextAndRedirectionToGPP": {
+    "name": "paul.autoTopUp.hasIBAN",
+    "password": "paul.autoTopUp.hasIBAN",
+    "contractOrder": "1",
+    "autoTopUpNotificationHL" : "Du willst Deine Bankverbindung ändern?",
+    "bankAccordionCTA" :"Automatische Aufladung bearbeiten",
+    "autoTopUpNotificationBody" : "Das geht ganz einfach: Klick unten auf den Button und lösch zuerst Deine bestehende Bezahlmethode für die automatische Aufladung. Aktiviere als nächstes eine neue automatische Aufladung mit der Bezahlmethode Sofort mit Deiner neuen Bankverbindung. Achte darauf, dass Du die Bezahlmethode speicherst. Das Feld dafür ist schon automatisch ausgewählt. Danach kannst Du Deine Bankverbindung hier in der Übersicht sehen."
+  },
+
+  "GC02_paulUserNavigatesToBankverbindungThenAssertOn_NO_AutoTopUpNotificationHLAndBodyAndBtnTextAndRedirectionToGPP": {
+    "name": "paul.noAutoTopUp.hasIBAN",
+    "password": "paul.noAutoTopUp.hasIBAN",
+    "contractOrder": "1",
+    "autoTopUpNotificationHL" : "Du willst Deine Bankverbindung ändern?",
+    "bankAccordionCTA" :"Automatische Aufladung einrichten",
+    "autoTopUpNotificationBody" : "Das geht ganz einfach: Klick unten auf den Button und richte die automatische Aufladung mit der Bezahlmethode Sofort mit Deiner neuen Bankverbindung ein. Achte darauf, dass Du die Bezahlmethode speicherst. Das Feld dafür ist schon automatisch ausgewählt. Danach kannst Du Deine neue Bankverbindung hier in der Übersicht sehen."
+  },
+
+  "GC03_paulUserNavigatesToBankverbindungThenAssertOn_NO_IBAN_NotificationHLAndBodyAndBtnTextAndRedirectionToGPP": {
+    "name": "paul.noIBAN",
+    "password": "paul.noIBAN",
+    "contractOrder": "1",
+    "autoTopUpNotificationHL" : "Du willst eine automatische Aufladung per Lastschrift einrichten?",
+    "bankAccordionCTA" :"Autom. Aufladung einrichten oder bearbeiten",
+    "autoTopUpNotificationBody" :"Das geht ganz einfach: Klick unten auf den Button und aktiviere die automatische Aufladung mit der Bezahlmethode Sofort. Achte darauf, dass Du die Bezahlmethode speicherst. Das Feld dafür ist schon automatisch ausgewählt."
+  },
+
+  "GC07_paulUserWithFailed_GETPaymentMethodService_ThenChecksBankverbindungAccordion": {
+    "name": "paul.FailedAutoTopUp",
+    "password": "paul.FailedAutoTopUp",
+    "contractOrder": "1"
+  },
+
+  "GC08_paulUserWithFailed_GETBankDetailsService_ThenChecksBankverbindungAccordion": {
+    "name": "paul.failedBankDetails",
+    "password": "paul.failedBankDetails",
+    "contractOrder": "1"
+  },
+
+  "GC09_paulUserWithFailed_GETBankDetailsAndGETPaymentMethodServices_ThenChecksBankverbindungAccordion": {
+    "name": "paul.failedBankDetailsAndAutoTopUp",
+    "password": "paul.failedBankDetailsAndAutoTopUp",
+    "contractOrder": "1"
+  }
+}
+

@@ -1,0 +1,33 @@
+{
+  "GC01_MartinUserWithNoIndividualConnectionsOptionChecksEinstellungenTab": {
+    "name": "martin.no.call.detail",
+    "password": "martin.no.call.detail",
+    "selectedOption": "Kein Einzelverbindungsnachweis"
+  },
+  "GC02_MartinUserWithShortenedByLast3DigitsOptionChecksEinstellungenTab": {
+    "name": "martin.masked.call.detail",
+    "password": "martin.masked.call.detail",
+    "selectedOption": "Um die letzten 3 Stellen gekürzt"
+  },
+  "GC03_MartinUserWithCompleteOptionChecksEinstellungenTab": {
+    "name": "martin.full.call.detail",
+    "password": "martin.full.call.detail",
+    "selectedOption": "Vollständiger Einzelverbindungsnachweis"
+  },
+  "GC04_MartinUserChangesItemizedBillSettingFromNoIndividualConnectionsToCompleteSuccessfully": {
+    "name": "martin.change.flow",
+    "password": "martin.change.flow",
+    "selectedOption": "Kein Einzelverbindungsnachweis",
+    "newOption": "Vollständiger Einzelverbindungsnachweis",
+    "optionOrder": "1"
+  },
+  "BC01_MartinUserWithBeErrorChecksEinstellungenTab": {
+    "name": "martin.setting.error",
+    "password": "martin.setting.error"
+  },
+  "BC02_MartinUserFailsToChangeItemizedBillSettings": {
+    "name": "martin.confirmation.error",
+    "password": "martin.confirmation.error",
+    "selectedOption": "Kein Einzelverbindungsnachweis"
+  }
+}

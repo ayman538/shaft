@@ -1,0 +1,20 @@
+{
+  "GC01":
+  {
+    "userName"  : "WFET-3454 | UM | TicketTokenDeepLink",
+    "userPassword": "WFET-3454 | UM | TicketTokenDeepLink",
+    "tokenlink" : "netz-assistent/tb?sys=4&token=3454"
+  },
+  "GC02":
+  {
+    "userName"  : "WFET-3454 | UM | TicketTokenDeepLink",
+    "userPassword": "WFET-3454 | UM | TicketTokenDeepLink",
+    "tokenlink" : "netz-assistent/tb?sys=4&token=3454"
+  },
+  "GC03":
+  {
+    "userName"  : "WFET-3454 | UM | TicketTokenDeepLink",
+    "userPassword": "WFET-3454 | UM | TicketTokenDeepLink",
+    "tokenlink" : "netz-assistent/tb?sys=4&token=3454"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "GC01_MartinChecksProductartWithReferenceBillingAccount": {
+    "name": "martin.with.reference.billing.account",
+    "password": "martin.with.reference.billing.account",
+    "collectionCl": "Sammelrechnung",
+    "firstProductOrder": "3"
+  },
+  "GC02_MartinChecksProuctartWithNoReferenceBillingAccount": {
+    "name": "martin.no.reference.billing.account",
+    "password": "martin.no.reference.billing.account",
+    "otherProductCl": "Sonstiges Produkt",
+    "firstProductOrder": "3"
+  },
+  "GC03_MartinHasMoreThanProductChecksAccountBalancePage": {
+    "name": "martin.multiple.products",
+    "password": "martin.multiple.products",
+    "collectionCl": "Sammelrechnung",
+    "pillOrder": "1"
+  },
+  "GC04_MartinHasInternetAndPhoneChecksProduktartColumn": {
+    "name": "martin.with.reference.billing.account",
+    "password": "martin.with.reference.billing.account",
+    "internetAndPhoneNewCl": "Internet & Phone",
+    "secondProductOrder": "6"
+  }
+}

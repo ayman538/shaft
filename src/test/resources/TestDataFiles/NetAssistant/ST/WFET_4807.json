@@ -1,0 +1,13 @@
+{
+  "ST_GC01": {
+    "userName": "WFET-4807 | DSL | MultipleDSLContracts",
+    "password": "WFET-4807 | DSL | MultipleDSLContracts",
+    "Link": "netz-assistent/tickets/review?i=0a15f3e682b444ec710e4897701bc46ef3f45efb43c647727b0989b3131e9d63cb7f18b4e09f9df3c0766a22&c=DSL&a=039&p=9e6c1c4b274677ad552c8b996e2bf50c1d4a75e40061bf82d8fbb3667375ba42b55eabf1ac67566c&s=&c_id=hilfe_netzass_dsl"
+  },
+  "ST_GC03": {
+    "userName": "WFET-4807 | DSL | MultipleDSLContracts",
+    "password": "WFET-4807 | DSL | MultipleDSLContracts",
+    "Link": "netz-assistent/tickets?i=403835ed2a323298889fb732869275b9d90a49e7fca580b37ce341d0042445509f54ff6f308bf5be3b1a&c=DSL&a=039&p=c28ba8dcb68078dbfb633249c89583a0373eee4baaca5301e18a550210ee7364fee156cf8263c4&s=&c_id=hilfe_netzass_dsl",
+    "contractNumber" : "480748074807"
+  }
+}

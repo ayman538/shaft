@@ -1,0 +1,162 @@
+{
+  "GC01_ConsumerKdDUserWithTwoReferenzKontoUpdatesBankAccountFromButton": {
+    "name": "Consumer.KD.2Referenz.1bank",
+    "password": "Consumer.KD.2Referenz.1bank",
+    "toolTipCl" : "Ich ermächtige die Vodafone GmbH, Zahlungen von meinem Konto mittels Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, diese Lastschriften einzulösen. Gut zu wissen: Ich kann innerhalb von 8 Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrags verlangen. Es gelten dabei die Bedingungen, die ich mit meinem Kreditinstitut vereinbart habe.",
+    "iban" : "DE86300700100002508000",
+    "sepaMandateCL" : "Hiermit erteile ich Vodafone ein SEPA-Lastschriftmandat."
+  },
+
+  "GC02_SohoKdUserWithTwoContractsAndTwoReferenzKontoUpdatesCertainBankAccountForCertainReferenzkontoFromHyperlink": {
+    "name": "Soho.Multi.KD.Custom.success.Message",
+    "password": "Soho.Multi.KD.Custom.success.Message",
+    "toolTipCl" : "Ich ermächtige die Vodafone GmbH, Zahlungen von meinem Konto mittels Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, diese Lastschriften einzulösen. Gut zu wissen: Ich kann innerhalb von 8 Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrags verlangen. Es gelten dabei die Bedingungen, die ich mit meinem Kreditinstitut vereinbart habe.",
+    "iban" : "DE86300700100002508000",
+    "sepaMandateCL" : "Hiermit erteile ich Vodafone ein SEPA-Lastschriftmandat.",
+    "firstContract" : "1"
+  },
+
+  "GC03_ConsumerKdUserWithOneReferenzKontoUpdatesBankAccountFromButton": {
+    "name": "Consumer.KD.1referenz.1bank",
+    "password": "Consumer.KD.1referenz.1bank",
+    "toolTipCl" : "Ich ermächtige die Vodafone GmbH, Zahlungen von meinem Konto mittels Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, diese Lastschriften einzulösen. Gut zu wissen: Ich kann innerhalb von 8 Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrags verlangen. Es gelten dabei die Bedingungen, die ich mit meinem Kreditinstitut vereinbart habe.",
+    "iban" : "DE86300700100002508000",
+    "sepaMandateCL" : "Hiermit erteile ich Vodafone ein SEPA-Lastschriftmandat."
+  },
+  "GC04_DebitKdUserWithTwoReferenzKontoUpdatesBankAccountFromButton": {
+    "name": "Debit.KD.Sanity",
+    "password": "Debit.KD.Sanity",
+    "toolTipCl" : "Ich ermächtige die Vodafone GmbH, Zahlungen von meinem Konto mittels Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, diese Lastschriften einzulösen. Gut zu wissen: Ich kann innerhalb von 8 Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrags verlangen. Es gelten dabei die Bedingungen, die ich mit meinem Kreditinstitut vereinbart habe.",
+    "iban" : "DE86300700100002508000",
+    "sepaMandateCL" : "Hiermit erteile ich Vodafone ein SEPA-Lastschriftmandat."
+  },
+
+  "GC05_KdUserChecksBackEndFailuresAtUpdatingBankDetailsPage": {
+    "name": "Kd.BE.FE.Error",
+    "password": "Kd.BE.FE.Error",
+    "errorTitle" : "Hier stimmt was nicht",
+    "iban" : "DE12121111111111111111",
+    "errorBody" : "Überprüf bitte Deine Eingabe und gib eine gültige IBAN ein."
+  },
+
+  "GC06_KdUserWithOneReferenzKontoFailedToUpdateBankDetailsAtConfirmationStep": {
+    "name": "KD.Failed.Update.Bank",
+    "password": "KD.Failed.Update.Bank",
+    "toolTipCl" : "Ich ermächtige die Vodafone GmbH, Zahlungen von meinem Konto mittels Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, diese Lastschriften einzulösen. Gut zu wissen: Ich kann innerhalb von 8 Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrags verlangen. Es gelten dabei die Bedingungen, die ich mit meinem Kreditinstitut vereinbart habe.",
+    "errorTitle" : "Das hat leider nicht geklappt",
+    "iban" : "DE86300700100002508000",
+    "errorBody" : "Die neue Bankverbindung konnte nicht gespeichert werden. Bitte versuch es nochmal.",
+    "sepaMandateCL" : "Hiermit erteile ich Vodafone ein SEPA-Lastschriftmandat."
+  },
+
+  "GC07_KdUserTriesToUpdateBankAccountForTwoReferenzkontoWithTwoBankAccountsAndPartiallySuccessfulChange": {
+    "name": "KD.patrially.success",
+    "password": "KD.patrially.success",
+    "errorTitle" : "Bankverbindung wurde nicht für alle Konten gespeichert",
+    "iban" : "DE86300700100002508000",
+    "errorBody" : "Die Bankverbindung konnte nur für ein Referenzkonto gespeichert werden.",
+    "sepaMandateCL" : "Hiermit erteile ich Vodafone ein SEPA-Lastschriftmandat.",
+    "toolTipCl" : "Ich ermächtige die Vodafone GmbH, Zahlungen von meinem Konto mittels Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, diese Lastschriften einzulösen. Gut zu wissen: Ich kann innerhalb von 8 Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrags verlangen. Es gelten dabei die Bedingungen, die ich mit meinem Kreditinstitut vereinbart habe."
+  },
+
+  "GC08_KdUserEntersValidIbanButNotTheIbanInTheContract": {
+    "name": "KD..not.match.IBAN",
+    "password": "KD..not.match.IBAN",
+    "errorTitle" : "Hier stimmt was nicht",
+    "iban" : "DE86300700100002508000",
+    "errorBody" : "Du kannst diese IBAN nicht nutzen. Der:Die Kontoinhaber:in stimmt nicht mit dem:der Vertragspartner:in überein. Bitte nutz eine IBAN des:der Vertragspartner:in. Hast Du Fragen? Ruf uns unter",
+    "sepaMandateCL" : "Hiermit erteile ich Vodafone ein SEPA-Lastschriftmandat.",
+    "toolTipCl" : "Ich ermächtige die Vodafone GmbH, Zahlungen von meinem Konto mittels Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, diese Lastschriften einzulösen. Gut zu wissen: Ich kann innerhalb von 8 Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrags verlangen. Es gelten dabei die Bedingungen, die ich mit meinem Kreditinstitut vereinbart habe."
+  },
+
+  "GC09_KdUserWithFalseFlagAtIsModificationOfBankDetailsAllowedChecksBankverbindungAccordion": {
+    "name": "Kd.BE.FE.Error",
+    "password": "Kd.BE.FE.Error"
+  },
+
+  "GC10_KdUserWithNotReturnedNameAtBankDetailsAccordionChangesHisBankDetailsByUsingNameFromAddress": {
+    "name": "Consumer.KD.CheckAddressName",
+    "password": "Consumer.KD.CheckAddressName",
+    "iban" : "DE86300700100002508000"
+  },
+
+  "GC11_KdUserWithNotReturnedNameAtBankDetailsAccordionChangesHisBankDetailsAndNoNameAtAddressToUse": {
+    "name": "Consumer.KD.AddresNameNotReturned",
+    "password": "Consumer.KD.AddresNameNotReturned"
+  },
+
+  "GC12_KdUserInDunningTriesToChangeBankDetails": {
+    "name": "Consumer.KD.InDunning",
+    "password": "Consumer.KD.InDunning"
+  },
+
+
+  "Tag01_KdCserChecksStartAndEndTaggingForSuccessfullyChangedBankDetails": {
+    "name": "Consumer.KD.2Referenz.1bank",
+    "password": "Consumer.KD.2Referenz.1bank",
+    "start":"{name:change bank details,formStep:1,formStepName:change bank details,formStatus:[start],formtype:ecare,oApplication:{type:myvodafone:transaction,name:change bank details}}",
+    "siteStructure1" : "mein vodafone,services,bank details,change bank details",
+    "pageview" : "pageview",
+    "oForm" : "oForm",
+    "iban" : "DE86300700100002508000",
+    "review" : "{name:change bank details,formStep:2,formStepName:add IBAN,formStatus:[review],formtype:ecare,oApplication:{type:myvodafone:transaction,name:change bank details}}",
+    "siteStructure2" : "mein vodafone,services,bank details,change bank details,add iban",
+    "endSuccess" : "{name:change bank details,formStep:3,formStepName:confirmation,formStatus:[end,success],formtype:ecare,oApplication:{type:myvodafone:transaction,name:change bank details}}",
+    "siteStructure3" : "mein vodafone,services,bank details,change bank details,confirm"
+  },
+
+  "Tag02_KdUserChecksBeFailuresTrackingAtChangeBankDetailsPage": {
+    "name": "Kd.BE.FE.Error",
+    "password": "Kd.BE.FE.Error",
+    "iban" : "DE12121111111111111111",
+    "errorTagContent" : "{error_action:displayed,error_type:technical,error_message:hier stimmt was nicht,error_code:200,error_area:addbankdetails}",
+    "error" : "error"
+  },
+
+  "Tag03_KdUserWithOneReferenzKontoFailedToChangeBankDetailsAtConfirmationStepChecksTagging": {
+    "name": "KD.Failed.Update.Bank",
+    "password": "KD.Failed.Update.Bank",
+    "start":"{name:change bank details,formStep:1,formStepName:change bank details,formStatus:[start],formtype:ecare,oApplication:{type:myvodafone:transaction,name:change bank details}}",
+    "siteStructure1" : "mein vodafone,services,bank details,change bank details",
+    "pageview" : "pageview",
+    "oForm" : "oForm",
+    "iban" : "DE86300700100002508000",
+    "review" : "{name:change bank details,formStep:2,formStepName:add IBAN,formStatus:[review],formtype:ecare,oApplication:{type:myvodafone:transaction,name:change bank details}}",
+    "siteStructure2" : "mein vodafone,services,bank details,change bank details,add iban",
+    "endFailure" : "{name:change bank details,formStep:3,formStepName:confirmation,formStatus:[end,failure],formtype:ecare,oApplication:{type:myvodafone:transaction,name:change bank details}}",
+    "siteStructure3" : "mein vodafone,services,bank details,change bank details,confirm"
+  },
+
+  "Tag04_KdCheckTrackingAtPartiallySuccessfulUpdateBankAccount": {
+    "name": "KD.patrially.success",
+    "password": "KD.patrially.success",
+    "start":"{name:change bank details,formStep:1,formStepName:change bank details,formStatus:[start],formtype:ecare,oApplication:{type:myvodafone:transaction,name:change bank details}}",
+    "siteStructure1" : "mein vodafone,services,bank details,change bank details",
+    "pageview" : "pageview",
+    "oForm" : "oForm",
+    "iban" : "DE86300700100002508000",
+    "review" : "{name:change bank details,formStep:2,formStepName:add IBAN,formStatus:[review],formtype:ecare,oApplication:{type:myvodafone:transaction,name:change bank details}}",
+    "siteStructure2" : "mein vodafone,services,bank details,change bank details,add iban",
+    "endSuccess" : "{name:change bank details,formStep:3,formStepName:confirmation,formStatus:[end,success],formtype:ecare,oApplication:{type:myvodafone:transaction,name:change bank details}}",
+    "siteStructure3" : "mein vodafone,services,bank details,change bank details,confirm",
+    "errorTagContent" : "{error_action:displayed,error_type:technical,error_message:bankverbindung wurde nicht fur alle konten gespeichert,error_code:200,error_area:addbankdetails}",
+    "error" : "error"
+  },
+
+  "Tag05_KdChecksTrackingForValidIbanButNotTheIbanInTheContract": {
+    "name": "KD..not.match.IBAN",
+    "password": "KD..not.match.IBAN",
+    "start":"{name:change bank details,formStep:1,formStepName:change bank details,formStatus:[start],formtype:ecare,oApplication:{type:myvodafone:transaction,name:change bank details}}",
+    "siteStructure1" : "mein vodafone,services,bank details,change bank details",
+    "pageview" : "pageview",
+    "oForm" : "oForm",
+    "iban" : "DE86300700100002508000",
+    "review" : "{name:change bank details,formStep:2,formStepName:add IBAN,formStatus:[review],formtype:ecare,oApplication:{type:myvodafone:transaction,name:change bank details}}",
+    "siteStructure2" : "mein vodafone,services,bank details,change bank details,add iban",
+    "endFailure" : "{name:change bank details,formStep:3,formStepName:confirmation,formStatus:[end,failure],formtype:ecare,oApplication:{type:myvodafone:transaction,name:change bank details}}",
+    "siteStructure3" : "mein vodafone,services,bank details,change bank details,confirm",
+    "errorTagContent" : "{error_action:displayed,error_type:validation,error_message:hier stimmt was nicht,error_code:200,error_area:addbankdetails}",
+    "error" : "error"
+  }
+
+}

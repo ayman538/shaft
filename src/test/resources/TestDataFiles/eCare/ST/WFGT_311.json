@@ -1,0 +1,16 @@
+{
+  "GC01": {
+    "name": "Automated-wfgt_311_1",
+    "password": "Automated-wfgt_311_1",
+    "expectedHyperlinkText": "Hier findest Du Deine Vertragszusammenfassung. So kannst Du nochmal alles in Ruhe prüfen, bevor Du Deine Buchung abschickst.",
+    "expectedlegalText": "Es gelten die Allgemeinen Geschäftsbedingungen für Vodafone-Dienstleistungen und - bei Verträgen über Kabel- u./o. TV-Produkte - die Ergänzenden Geschäftsbedingungen für Vodafone Kabel-Dienstleistungen (Internet und Telefon) sowie Vodafone TV-Dienstleistungen und die Preisliste/Leistungsbeschreibung für das jeweils beauftragte Produkt. Für die Nutzung von TV-Inhalten über Smartphone oder TV-Hardware-Applikationen (sog. Entertainment-Apps) gelten zusätzlich die Besonderen Geschäftsbedingungen Vodafone Entertainment-Apps und Vodafone App-Plattform."
+  },
+  "BC01": {
+    "name": "Automated-wfgt_311_2",
+    "password": "Automated-wfgt_311_2",
+    "expectedHyperlinkText": "Hier findest Du Deine Vertragszusammenfassung. So kannst Du nochmal alles in Ruhe prüfen, bevor Du Deine Buchung abschickst.",
+    "expectedlegalText": "Es gelten die Allgemeinen Geschäftsbedingungen für Vodafone-Dienstleistungen und - bei Verträgen über Kabel- u./o. TV-Produkte - die Ergänzenden Geschäftsbedingungen für Vodafone Kabel-Dienstleistungen (Internet und Telefon) sowie Vodafone TV-Dienstleistungen und die Preisliste/Leistungsbeschreibung für das jeweils beauftragte Produkt. Für die Nutzung von TV-Inhalten über Smartphone oder TV-Hardware-Applikationen (sog. Entertainment-Apps) gelten zusätzlich die Besonderen Geschäftsbedingungen Vodafone Entertainment-Apps und Vodafone App-Plattform."
+    "expectedErrorTitle": "Das hat leider nicht geklappt",
+    "expectedErrorBody": "Entschuldige bitte,unser Fehler. versuch es bitte später nochmal."
+  }
+}

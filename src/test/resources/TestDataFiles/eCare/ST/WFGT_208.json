@@ -1,0 +1,30 @@
+{
+  "GC01": {
+    "name": "Automated-wfgt_208_1",
+    "password": "Automated-wfgt_208_1",
+    "overlayHeader": "Wichtig zu wissen",
+    "overlayContent": "Du möchtest Deine Daten oder Deinen Vertrag ändern? Das geht momentan nur telefonisch. Ruf uns einfach kostenlos unter der 0800 xxxxxxx an."
+  },
+  "GC02": {
+    "name": "Automated-wfgt_208_2",
+    "password": "Automated-wfgt_208_2",
+    "overlayHeader": "Wichtig zu wissen",
+    "overlayContent": "Du möchtest Deine Daten oder Deinen Vertrag ändern? Das geht momentan nur telefonisch. Ruf uns einfach kostenlos unter der 0800 xxxxxxx an."
+  },
+  "GC03": {
+    "name": "Automated-wfgt_208_3",
+    "password": "Automated-wfgt_208_3",
+    "overlayHeader": "Wichtig zu wissen",
+    "overlayContent": "Du möchtest Deine Daten oder Deinen Vertrag ändern? Das geht momentan nur telefonisch. Ruf uns einfach kostenlos unter der 0800 xxxxxxx an."
+  },
+  "GC05": {
+    "name": "Automated-wfgt_208_4",
+    "password": "Automated-wfgt_208_4"
+  },
+  "GC04": {
+    "name": "Automated-wfgt_208_3",
+    "password": "Automated-wfgt_208_3",
+    "overlayHeader": "Wichtig zu wissen",
+    "overlayContent": "Du möchtest Deine Daten oder Deinen Vertrag ändern? Das geht momentan nur telefonisch. Ruf uns einfach kostenlos unter der 0800 xxxxxxx an."
+  }
+}

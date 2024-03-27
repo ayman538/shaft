@@ -1,0 +1,64 @@
+{
+  "SIT_GC01_paulUserFailToPayUsingPayPal": {
+    "name": "arno-testcard",
+    "password": "Vodafone2019",
+    "ContractNumber": "7"
+  },
+  "SIT_GC02_paulUserFailToPayUsingAmazonPay": {
+    "name": "arno-testcard",
+    "password": "Vodafone2019",
+    "ContractNumber": "7"
+  },
+  "SIT_GC03_paulUserFailToPayUsingSofort": {
+    "name": "arno-testcard",
+    "password": "Vodafone2019",
+    "ContractNumber": "7"
+  },
+  "SIT_GC04_paulUserFailToPayUsingCreditCard": {
+    "name": "arno-testcard",
+    "password": "Vodafone2019",
+    "ContractNumber": "7"
+  },
+  "SIT_GC05_paulUserFailToPayUsingCreditCard3DSecure": {
+    "name": "arno-testcard",
+    "password": "Vodafone2019",
+    "ContractNumber": "7"
+  },
+  "SIT_GC06_paulUserFailToPayUsingSavedPaymentMethod": {
+    "name": "arno-testcard",
+    "password": "Vodafone2019",
+    "ContractNumber": "6"
+  },
+  "SIT_GC07_nonLoggedInUserFailToPay": {
+    "name": "arno-testcard",
+    "password": "Vodafone2019",
+    "ContractNumber": "7"
+  },
+  "PayPalEmail": "aya.megala@vodafone.com",
+  "PayPalPassword": "123456789*",
+  "AmazonPayEmail": "marcus.labohm@vodafone.com",
+  "AmazonPayPassword": "VodafoneTestBuyer",
+  "GooglePayEmail": "charliewebfactorytesting@gmail.com",
+  "GooglePayPassword": "Vodafone@123",
+  "SofortAccountNum": "88888888",
+  "SofortPin": "12345",
+  "SofortTan": "12345",
+  "CreditCardNum": "3700 0000 0100 018",
+  "CreditCardMonth": "03",
+  "CreditCardYear": "2030",
+  "CreditCardCvc": "7373",
+  "CreditCardHolder": "Max",
+  "3D_CreditCardNum": "3714 4963 5398 431",
+  "3D_CreditCardMonth": "03",
+  "3D_CreditCardYear": "2030",
+  "3D_CreditCardCvc": "7373",
+  "3D_CreditCardHolder": "Max",
+  "3D_CreditCardPassword": "password",
+  "InvalidCreditCardNum": "4111 1111 1111 1111",
+  "InvalidCreditCardMonth": "12",
+  "InvalidCreditCardYear": "2025",
+  "InvalidCreditCardCvc": "737",
+  "InvalidCreditCardHolder": "Max",
+  "ExternalNumber": "4915222152112",
+  "InvalidExternalNumber": "015222151692"
+}

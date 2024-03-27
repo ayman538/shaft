@@ -1,0 +1,14 @@
+{
+  "gc01": {
+    "name": "KDCallblockHuawei01",
+    "password": "KDCallblockHuawei01"
+  },
+  "gc02": {
+    "name": "KDCallblockHuawei02",
+    "password": "KDCallblockHuawei02"
+  },
+  "bc01": {
+    "name": "BC_KDCallblockHuawei03",
+    "password": "BC_KDCallblockHuawei03"
+  }
+}

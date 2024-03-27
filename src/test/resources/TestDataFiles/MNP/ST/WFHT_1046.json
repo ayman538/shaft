@@ -1,0 +1,86 @@
+{
+  "GC01":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "provider" : "DOKO",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email": "mayar.metwally@vodafone.com",
+    "repeatEmail": "mayar.metwally@vodafone.com"
+  },
+  "GC02":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "provider" : "DOKO",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email": "mayar.metwally@vodafone.com",
+    "repeatEmail": "mayar.metwally@vodafone.co"
+  },
+  "GC03":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "provider" : "DOKO",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email": "mayar.metwallyvodafone.co",
+    "repeatEmail": "mayar.metwally@vodafone.com"
+  },
+  "GC04":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "provider" : "DOKO",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email": "mayar.metwallyvodafone.com",
+    "repeatEmail": "mayar.metwallyvodafone.com"
+  },
+  "GC05":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "provider" : "DOKO",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email": "mayar.metwally@vodafone.com",
+    "repeatEmail": "mayar.metwallyvodafone.com"
+  },
+  "GC06":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "provider" : "DOKO",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email": "mayar.metwally@vodafone.com",
+    "repeatEmail": "mayar.metwally@vodafone.com"
+  },
+  "GC07":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "provider" : "DOKO",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email": "mayar.metwally@vodafone.com",
+    "repeatEmail": "mayar.metwally@vodafone.com"
+  }
+}

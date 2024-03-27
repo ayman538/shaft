@@ -1,0 +1,17 @@
+{
+  "validateRedPlusOwner":
+  {
+    "name"  : "prodtest01",
+    "password": "GerKonPu1999"
+  },
+  "assertMaxLimitData":
+  {
+    "name"  : "speedbucket_user",
+    "password": "test@1234"
+  },
+  "validateQuickCheckAccordion":
+  {
+    "name"  : "prodtest01",
+    "password": "GerKonPu1999"
+  }
+}

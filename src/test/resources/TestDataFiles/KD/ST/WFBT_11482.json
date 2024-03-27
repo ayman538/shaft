@@ -1,0 +1,31 @@
+{
+  "GC01CheckCLOfLegalTextTransactionPage":
+  {
+    "name"  : "Automated-wfbt_11053_1",
+    "password": "Automated-wfbt_11053_1",
+    "AccordionHeaderTitleInternetCL": "Willst Du SuperWLAN buchen?",
+    "ContractSummaryPreTextCL": "Hier findest Du Deine",
+    "ContractSummaryPostTextCL": ". So kannst Du nochmal alles in Ruhe prüfen, bevor Du Deine Buchung abschickst.",
+    "ContractSummaryTextCL": "Vertragszusammenfassung"
+  },
+  "GC02CheckContractSummaryPDFDownloaded":
+  {
+    "name"  : "Automated-wfbt_11053_1",
+    "password": "Automated-wfbt_11053_1"
+  },
+  "BC01CheckInCaseOfContractSummaryAvailableInternet":
+  {
+    "name"  : "Automated-wfbt_11053_10",
+    "password": "Automated-wfbt_11053_10",
+    "ErrorNotificationHeaderCL": "Das hat leider nicht geklappt",
+    "ErrorNotificationSubLineCL": "Entschuldige bitte, unser Fehler. Versuch es bitte später nochmal oder buche direkt über unsere Hotline: 0800 955 4000."
+  },
+  "BC02CheckInCaseOfContractSummaryUnAvailableTelefon":
+  {
+    "name"  : "Automated-wfbt_11053_13",
+    "password": "Automated-wfbt_11053_13",
+    "TryAgainNotificationHeaderCL": "Das hat leider nicht geklappt",
+    "TryAgainNotificationSubLineCL": "Entschuldige bitte, unser Fehler. Die Vertragszusammmenfassung konnte nicht geladen werden.",
+    "TryAgainNotificationCTACL": "Nochmal versuchen"
+  }
+}

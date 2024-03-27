@@ -1,0 +1,26 @@
+{
+  "ST_GC02": {
+    "userName": "WFET-4961 | Cable | Add auto refresh & hotline",
+    "password": "WFET-4961 | Cable | Add auto refresh & hotline",
+    "Link": "netz-assistent/tickets?i=41718d03f2e8883dda5a40bd2de82427856c0eb8959b5217f3c5a9d11a4fefaa3df96c35c0a8fe84&c=CABLE&icmp=mvw_db_netzass_kip",
+    "phoneNumber" : "01000010102"
+  },
+  "ST_GC05": {
+    "userName": "WFET-4961 | UM | Add auto refresh & hotline",
+    "password": "WFET-4961 | UM | Add auto refresh & hotline",
+    "Link": "netz-assistent/tickets?i=83c2fe99032205a542fc5e91d2cda9a111915afa4ec8aebb5971d23172cc0066fc2d501821ca427d&c=UM&s=NRW&icmp=mvw_db_netzass_um",
+    "phoneNumber" : "01000010102"
+  },
+  "ST_GC08": {
+    "userName": "Ismail_US4649_Cable_TechnicianAppointment",
+    "password": "Ismail_US4649_Cable_TechnicianAppointment",
+    "Link": "netz-assistent/tb?sys=4&token=4961",
+    "phoneNumber" : "01000010102"
+  },
+  "ST_GC11": {
+    "userName": "Ismail_US4649_Cable_TechnicianAppointment",
+    "password": "Ismail_US4649_Cable_TechnicianAppointment",
+    "Link": "netz-assistent/tb?sys=4&token=4962",
+    "phoneNumber" : "01000010102"
+  }
+}

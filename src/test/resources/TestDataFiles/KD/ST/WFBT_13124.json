@@ -1,0 +1,42 @@
+{
+  "gc01": {
+    "name": "KIPUserCancelledCLSTOnly",
+    "password": "KIPUserCancelledCLSTOnly",
+    "kipUserCancelledCLSTOnly_Title": "Tarif gekündigt",
+    "kipUserCancelledCLSTOnly_Body": "Bis wann Du Deinen Tarif noch nutzen kannst, findest Du in Deiner Kündigungsbestätigung."
+  },
+
+  "gc02": {
+    "name": "KIPUserCancelledMainTOnly",
+    "password": "KIPUserCancelledMainTOnly",
+    "kipUserCancelledMainTOnly_Title": "Tarif gekündigt",
+    "kipUserCancelledMainTOnly_Body": "Bis wann Du Deinen Tarif noch nutzen kannst, findest Du in Deiner Kündigungsbestätigung."
+  },
+
+  "gc03": {
+    "name": "KIPUserCancelledMainTandCancelledCLST",
+    "password": "KIPUserCancelledMainTandCancelledCLST",
+    "kipUserCancelledMainTandCancelledCLST_Title": "Tarif gekündigt",
+    "kipUserCancelledMainTandCancelledCLST_Body": "Bis wann Du Deinen Tarif noch nutzen kannst, findest Du in Deiner Kündigungsbestätigung."
+  },
+
+  "gc04": {
+    "name": "KIPUserCancelledMainTandCLST",
+    "password": "KIPUserCancelledMainTandCLST",
+    "kipUserCancelledMainTandActiveCLST_Title": "Tarif gekündigt",
+    "kipUserCancelledMainTandActiveCLST_Body": "Einer Deiner Tarife ist gekündigt. Das Vertragsende siehst Du in den Details unten und in Deiner Kündigungsbestätigung."
+  },
+
+  "gc05": {
+    "name": "KIPUserCancelledCLSTandMainT",
+    "password": "KIPUserCancelledCLSTandMainT",
+    "kipUserActiveCLSTandCancelledMeinTarif_Body": "Laufzeit bis 12.05.2024"
+  },
+
+  "gc06": {
+    "name": " KIPUserMulipleCLSTOneCLSCancelled",
+    "password": " KIPUserMulipleCLSTOneCLSCancelled",
+    "kipUserMultipleCLSTandOneISCancelled_Title": "Tarif gekündigt",
+    "kipUserMultipleCLSTandOneISCancelled_Body": "Einer Deiner Tarife ist gekündigt. Das Vertragsende siehst Du in den Details unten und in Deiner Kündigungsbestätigung."
+  }
+}

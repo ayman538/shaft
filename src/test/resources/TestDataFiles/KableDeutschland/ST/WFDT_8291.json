@@ -1,0 +1,18 @@
+{
+  "gc01": {
+    "name"  : "martin_GigaTV01",
+    "password": "martin_GigaTV01"
+  },
+  "gc02": {
+    "name"  : "martin_GigaTV03",
+    "password": "martin_GigaTV03"
+  },
+  "gc04": {
+    "name"  : "martin_GigaTV04",
+    "password": "martin_GigaTV04"
+  },
+  "gc05": {
+    "name"  : "martin_GigaTV05",
+    "password": "martin_GigaTV05"
+  }
+}

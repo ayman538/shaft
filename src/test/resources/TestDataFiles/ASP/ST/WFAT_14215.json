@@ -1,0 +1,32 @@
+{
+  "GC01":
+{
+"emailAddress"  : "Menh@gmail.com",
+"CustomerNumber": "1234567891",
+"AreaCode" : "002",
+"PhoneNumber" : "1234545345"
+},
+  "GC02":
+  {
+    "emailAddress"  : "Menh@gmail.com",
+    "CustomerNumber": "1234567891",
+   "ContractNumber": "1234567891",
+    "AreaCode" : "002",
+    "PhoneNumber" : "1234545345"
+  },
+  "GC03":
+  {
+    "emailAddress"  : "Menh@gmail.com",
+    "CustomerNumber": "1234567891",
+    "AreaCode" : "002",
+    "PhoneNumber" : "1234545345"
+  },
+  "GC04":
+  {
+    "emailAddress"  : "Menh@gmail.com",
+    "CustomerNumber": "1234567891",
+    "ContractNumber": "1234567891",
+    "AreaCode" : "002",
+    "PhoneNumber" : "1234545345"
+  }
+}

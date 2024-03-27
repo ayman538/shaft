@@ -1,0 +1,24 @@
+{
+  "GC01": {
+    "name": "ute.thirdpartyvideo.single1",
+    "password": "ute.thirdpartyvideo.single1",
+    "headerTxt": "Verbindungskosten von Drittanbietern",
+    "subHeaderTxt": "Deine Drittanbieter-Kosten sind Endpreise. Die Mehrwertsteuer ist dabei nicht extra ausgewiesen, weil sie vom Drittanbieter abgeführt wird.",
+    "billName": "Netflix",
+    "billPrice": "2,99 €",
+    "billDate": "Datum",
+    "billDateNum": "26.06.2020",
+    "billTime": "Uhrzeit"
+  },
+  "GC02": {
+    "name": "ute.thirdpartyvideo.single1",
+    "password": "ute.thirdpartyvideo.single1",
+    "headerTxt": "Verbindungskosten von Drittanbietern",
+    "subHeaderTxt": "Deine Drittanbieter-Kosten sind Endpreise. Die Mehrwertsteuer ist dabei nicht extra ausgewiesen, weil sie vom Drittanbieter abgeführt wird.",
+    "billName": "Netflix",
+    "billPrice": "2,99 €",
+    "billDate": "Datum",
+    "billDateNum": "26.06.2020",
+    "billTime": "Uhrzeit"
+  }
+}

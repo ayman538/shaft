@@ -1,0 +1,52 @@
+{
+  "ST_GC01_UserWithActiveAutoTopUp_checkDisplayedNotificationInGPPPage_CheckDisableOfAutoTopUpOptions":
+  {
+    "name"  : "paul.Active.11860.auto.topup",
+    "password": "paul.Active.11860.auto.topup",
+    "tileOrder": "1",
+    "contractIndex": "1",
+    "numberIndex": "2",
+    "autotopupAmount": "5",
+    "autotopupDate": "12.5.2021"
+  },
+  "ST_GC02_UserWithPausedAutoTopUp_checkDisplayedNotificationInGPPPage_CheckDisableOfAutoTopUpOptions":
+  {
+    "name"  : "paul.paused.11860.auto.topup",
+    "password": "paul.paused.11860.auto.topup",
+    "tileOrder": "1",
+    "contractIndex": "1",
+    "numberIndex": "2",
+    "autotopupAmount": "15",
+    "autotopupDate": "12.05.2021"
+  },
+  "ST_GC03_UserWithBlockedAutoTopUp_checkDisplayedNotificationInGPPPage_CheckDisableOfAutoTopUpOptions":
+  {
+    "name"  : "paul.blocked.11860.auto.topup",
+    "password": "paul.blocked.11860.auto.topup",
+    "tileOrder": "1",
+    "contractIndex": "1",
+    "numberIndex": "2",
+    "autotopupAmount": "5",
+    "autotopupDate": "12.05.2021"
+  },
+  "ST_GC04_UserWithInProgressAutoTopUp_checkDisplayedNotificationInGPPPage_CheckDisableOfAutoTopUpOptions":
+  {
+    "name"  : "paul.inprogress.11860.auto.topup",
+    "password": "paul.inprogress.11860.auto.topup",
+    "tileOrder": "1",
+    "contractIndex": "1",
+    "numberIndex": "2",
+    "autotopupAmount": "15",
+    "autotopupDate": "12.05.2021"
+  },
+  "ST_GC05_UserWithActiveAutoTopUpChangesTheSelectionOfTheNumberWithNoAutoTopUp":
+  {
+    "name"  : "paul.Active.11860.auto.topup",
+    "password": "paul.Active.11860.auto.topup",
+    "tileOrder": "1",
+    "contractIndex": "1",
+    "numberIndex": "2",
+    "autotopupAmount": "5",
+    "autotopupDate": "12.05.2021"
+  }
+}

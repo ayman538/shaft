@@ -1,0 +1,36 @@
+{
+  "GC01_MarieWithCreditChecksEntryPointToInvoiceSummaryThroughRechnungenTable": {
+    "name": "marie.creditAmount.bill",
+    "password": "marie.creditAmount.bill",
+    "firstAmountValue" : "10.000.000.000.000,00 €",
+    "amountToBePaid" : "1.000,00 €",
+    "underlineAndColorCssProperty" : "underline solid rgb(0, 138, 0)",
+    "firstRaw" : "1"
+  },
+  "GC02_BartWithZeroAmountChecksEntryPointToInvoiceSummaryThroughRechnungenTable": {
+    "name": "bart.zeroAmount.bill",
+    "password": "bart.zeroAmount.bill",
+    "firstAmountValue" : "0,00 €",
+    "amountToBePaid" : "1.000,00 €",
+    "underlineAndColorCssProperty" : "underline solid rgb(13, 13, 13)"
+  },
+  "GC03_KayChecksEntryPointToInvoiceSummaryThroughRechnungenTable": {
+    "name": "kay.Amount.bill",
+    "password": "kay.Amount.bill",
+    "firstAmountValue" : "38,14 €",
+    "amountToBePaid" : "1.000,00 €",
+    "underlineAndColorCssProperty" : "underline solid rgb(13, 13, 13)"
+  },
+  "GC04_MarieWithNotRetrievedAmountChecksEntryPointToInvoiceSummaryThroughRechnungenTable": {
+    "name": "marie.notReturnedAmount.bill",
+    "password": "marie.notReturnedAmount.bill",
+    "firstAmountValue" : "Siehe Rechnung",
+    "amountToBePaid" : "1.000,00 €"
+  },
+  "GC05_KayWithNoBillsChecksEntryPointToInvoiceSummaryThroughRechnungenTable": {
+    "name": "kay.returnedAmount.noReturnedBills",
+    "password": "kay.returnedAmount.noReturnedBills",
+    "firstAmountValue" : "318,36 €",
+    "amountToBePaid" : "1.000,00 €"
+  }
+}

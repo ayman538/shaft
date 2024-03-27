@@ -1,0 +1,61 @@
+{
+  "SIT_GC04": {
+    "userName": "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?i=44dba91b6054f0be6dea6055c2bb7c0b7d7b64fc2af700abd91565b5c4fc529e871e0f4ad160f74779fc16f2&c=DSL&a=02241&p=3f0c853711ff55eec8df791edc7f248a3f4c9e572ca6bad0efa5aec74a9a2fac2b7bf5ab95666f&icmp=mvw_db_netzass_dsl"
+  },
+
+  "SIT_GC05": {
+    "userName": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?i=d82719a1e6d0bd11b017a6a4ace30d3397167f3e6d9e2fcda4334af8fcff7a61eff6786301005d7b10&c=cable&icmp=mvw_db_netzass_kip"
+  },
+
+  "SIT_GC07": {
+    "userName": "christian.netzassistent",
+    "password": "TEST@1234",
+    "contractNumber": "001944194562"
+  },
+  "SIT_GC08": {
+    "userName": "simone.netzassistent",
+    "password": "TEST@1234",
+    "contractNumber": "332881148"
+  },
+
+  "SIT_GC09": {
+    "userName": "marco.netzassistent",
+    "password": "TEST@1234",
+    "contractNumber": "309660902"
+  },
+
+  "SIT_GC13": {
+    "userName": "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "meinvodafone/public/netzassistent/review?product=dsl"
+  },
+
+  "SIT_GC14": {
+    "userName": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "meinvodafone/public/netzassistent/review?product=cable"
+  },
+
+  "SIT_GC15": {
+    "userName": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "meinvodafone/public/netzassistent/review?product=cable"
+  },
+
+  "SIT_GC16": {
+    "userName": "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?i=44dba91b6054f0be6dea6055c2bb7c0b7d7b64fc2af700abd91565b5c4fc529e871e0f4ad160f74779fc16f2&c=DSL&a=02241&p=3f0c853711ff55eec8df791edc7f248a3f4c9e572ca6bad0efa5aec74a9a2fac2b7bf5ab95666f&icmp=mvw_db_netzass_dsl"
+  },
+
+  "SIT_GC17": {
+    "userName": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?i=d82719a1e6d0bd11b017a6a4ace30d3397167f3e6d9e2fcda4334af8fcff7a61eff6786301005d7b10&c=cable&icmp=mvw_db_netzass_kip"
+  }
+
+}

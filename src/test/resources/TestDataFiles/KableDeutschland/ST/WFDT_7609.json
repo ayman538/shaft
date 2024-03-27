@@ -1,0 +1,42 @@
+{
+  "gc01": {
+    "name": "MartinBMDeactivate",
+    "password": "MartinBMDeactivate"
+  },
+  "gc02": {
+    "name": "SOHOBMActivate",
+    "password": "SOHOBMActivate"
+  },
+  "gc03": {
+    "name": "MartinBMDeactivate",
+    "password": "MartinBMDeactivate"
+  },
+  "gc04": {
+    "name": "SOHOBMHomebox",
+    "password": "SOHOBMHomebox"
+  },
+  "gc05": {
+    "name": "martinViewHomespot_06",
+    "password": "martinViewHomespot_06"
+  },
+  "gc06": {
+    "name": "MartinBMDeactivate",
+    "password": "MartinBMDeactivate"
+  },
+  "gc07": {
+    "name": "MartinBMNotReturned",
+    "password": "MartinBMNotReturned"
+  },
+  "gc08": {
+    "name": "MartinBMNoKIP",
+    "password": "MartinBMNoKIP"
+  },
+  "bc01": {
+    "name": "SOHOBMFailureOFF",
+    "password": "SOHOBMFailureOFF"
+  },
+  "bc02": {
+    "name": "MartinBMFailureOn",
+    "password": "MartinBMFailureOn"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "GC01": {
+    "name": "martin.Multiple2",
+    "password": "martin.Multiple2"
+  },
+  "GC02": {
+    "name": "martin.Multiple2",
+    "password": "martin.Multiple2"
+  },
+  "GC03": {
+    "name": "martin.NoBills",
+    "password": "martin.NoBills"
+  },
+  "GC04": {
+    "name": "martin.NoBooked",
+    "password": "martin.NoBooked"}
+}

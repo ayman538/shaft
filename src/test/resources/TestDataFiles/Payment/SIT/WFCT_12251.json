@@ -1,0 +1,22 @@
+{
+  "paulUserNavigatesToBankverbindungThenAssertOnAutoTopUpNotificationHLAndBodyAndBtnTextAndRedirectionToGPP":
+  {
+    "name"  : "arno-test2",
+    "password": "Vodafone2019!",
+    "contractOrder": "3",
+    "autoTopUpNotificationHL" : "Du willst Deine Bankverbindung ändern?",
+    "bankAccordionCTA" :"Automatische Aufladung bearbeiten",
+    "autoTopUpNotificationBody" : "Das geht ganz einfach: Klick unten auf den Button und lösch zuerst Deine bestehende Bezahlmethode für die automatische Aufladung. Aktiviere als nächstes eine neue automatische Aufladung mit der Bezahlmethode Sofort mit Deiner neuen Bankverbindung. Achte darauf, dass Du die Bezahlmethode speicherst. Das Feld dafür ist schon automatisch ausgewählt. Danach kannst Du Deine Bankverbindung hier in der Übersicht sehen."
+  },
+
+  "paulUserNavigatesToBankverbindungThenAssertOn_NO_IBAN_NotificationHLAndBodyAndBtnTextAndRedirectionToGPP":
+  {
+    "name"  : "arno-testcard",
+    "password": "Vodafone2019",
+    "contractOrder": "6",
+    "autoTopUpNotificationHL" : "Du willst eine automatische Aufladung per Lastschrift einrichten?",
+    "bankAccordionCTA" :"Autom. Aufladung einrichten oder bearbeiten",
+    "autoTopUpNotificationBody" :"Das geht ganz einfach: Klick unten auf den Button und aktiviere die automatische Aufladung mit der Bezahlmethode Sofort. Achte darauf, dass Du die Bezahlmethode speicherst. Das Feld dafür ist schon automatisch ausgewählt. Danach kannst Du Deine Bankverbindung hier in der Übersicht sehen.\\n\" +\n            \"Hast Du schon eine automatische Aufladung ohne Bankverbindung aktiviert (z. B. mit PayPal)? Dann musst Du diese zuerst löschen. Erst danach kannst Du die neue Aufladung wie oben beschrieben einrichten."
+
+  }
+}

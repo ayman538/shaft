@@ -1,0 +1,42 @@
+{
+  "SIT_GC01":
+  {
+    "helpform" : "meinvodafone/public/netzassistent/review?product=dsl"
+  },
+  "SIT_GC02":
+  {
+    "helpform" : "meinvodafone/public/netzassistent/review?product=cable"
+  },
+  "SIT_GC03":
+  {
+    "helpform" : "meinvodafone/public/netzassistent/review?product=dsl"
+  },
+  "SIT_GC04":
+  {
+    "helpform" : "meinvodafone/public/netzassistent/review?product=cable"
+  },
+  "SIT_GC05":
+  {
+    "helpform" : "meinvodafone/public/netzassistent/review?product=dsl"
+  },
+  "SIT_GC06":
+  {
+    "helpform" : "meinvodafone/public/netzassistent/review?product=cable"
+  },
+  "SIT_GC07":
+  {
+    "helpform" : "meinvodafone/public/netzassistent/review?product=dsl"
+  },
+  "SIT_GC08":
+  {
+    "helpform" : "meinvodafone/public/netzassistent/review?product=cable"
+  },
+  "SIT_GC09":
+  {
+    "helpform" : "meinvodafone/public/netzassistent/review?product=dsl"
+  },
+  "SIT_GC10":
+  {
+    "helpform" : "meinvodafone/public/netzassistent/review?product=cable"
+  }
+}

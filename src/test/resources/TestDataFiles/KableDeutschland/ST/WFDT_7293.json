@@ -1,0 +1,30 @@
+{
+  "gc01": {
+    "name": "MartinKDInsideGermany",
+    "password": "MartinKDInsideGermany"
+  },
+  "gc02": {
+    "name": "MartinKDOutsideGermany",
+    "password": "MartinKDOutsideGermany"
+  },
+  "gc04": {
+    "name": "MartinUMInsideGermany",
+    "password": "MartinUMInsideGermany"
+  },
+  "gc05": {
+    "name": "MartinNoVFInsideGermany",
+    "password": "MartinNoVFInsideGermany"
+  },
+  "gc06": {
+    "name": "MartinDSLKDInsideGermany",
+    "password": "MartinDSLKDInsideGermany"
+  },
+  "gc07": {
+    "name": "MartinDSLUMInsideGermany",
+    "password": "MartinDSLUMInsideGermany"
+  },
+  "bc01": {
+    "name": "MartinDSLInsideGermanySF",
+    "password": "MartinDSLInsideGermanySF"
+  }
+}

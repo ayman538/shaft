@@ -1,0 +1,72 @@
+{
+  "GC01":
+  {
+    "name"  : "Automated-wfbt_10838_1",
+    "password": "Automated-wfbt_10838_1"
+  },
+  "GC02":
+  {
+    "name": "Automated-wfbt_10838_2",
+    "password": "Automated-wfbt_10838_2"
+  },
+  "GC03":
+  {
+    "name": "Automated-wfbt_10838_1",
+    "password": "Automated-wfbt_10838_1"
+  },
+  "GC04":
+  {
+    "name": "Automated-wfbt_10838_3",
+    "password": "Automated-wfbt_10838_3"
+  },
+  "GC05":
+  {
+    "name": "Automated-wfbt_10838_4",
+    "password": "Automated-wfbt_10838_4"
+  },
+  "GC06":
+  {
+    "name": "Automated-wfbt_10838_5",
+    "password": "Automated-wfbt_10838_5"
+  },
+  "GC07":
+  {
+    "name": "Automated-wfbt_10838_6",
+    "password": "Automated-wfbt_10838_6"
+  },
+  "GC08":
+  {
+    "name": "Automated-wfbt_10838_7",
+    "password": "Automated-wfbt_10838_7"
+  },
+  "GC09":
+  {
+    "name": "Automated-wfbt_10838_8",
+    "password": "Automated-wfbt_10838_8"
+  },
+  "GC10":
+  {
+    "name": "Automated-wfbt_10838_9",
+    "password": "Automated-wfbt_10838_9"
+  },
+  "GC11":
+  {
+    "name": "Automated-wfbt_10838_10",
+    "password": "Automated-wfbt_10838_10"
+  },
+  "GC12":
+  {
+    "name": "Automated-wfbt_10838_14",
+    "password": "Automated-wfbt_10838_14"
+  },
+  "BC01":
+  {
+    "name": "Automated-wfbt_10838_12",
+    "password": "Automated-wfbt_10838_12"
+  },
+  "BC02":
+  {
+    "name": "Automated-wfbt_10838_13",
+    "password": "Automated-wfbt_10838_13"
+  }
+}

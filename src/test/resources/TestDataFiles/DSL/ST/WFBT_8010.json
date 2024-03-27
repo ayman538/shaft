@@ -1,0 +1,23 @@
+{
+  "GC01":
+  {
+    "name"  : "Automated-wfbt_8010_1",
+    "password": "Automated-wfbt_8010_1",
+    "buttonText": "Jetzt buchen",
+    "reviewDetailsHeaderCL": "Deine gewählte Option",
+    "optionName": "Vodafone-Flatrate",
+    "optionPrice": "4,99 €",
+    "confirmBookingCTA": "Jetzt kostenpflichtig bestellen"
+  },
+
+  "GC02":
+  {
+    "name": "Automated-wfbt_8010_5",
+    "password": "Automated-wfbt_8010_5",
+    "buttonText": "Jetzt kostenlos buchen",
+    "reviewDetailsHeaderCL": "Deine gewählte Option",
+    "optionName": "Free DSL Extra",
+    "optionPrice": "Kostenlos",
+    "confirmBookingCTA": "Jetzt bestellen"
+  }
+}

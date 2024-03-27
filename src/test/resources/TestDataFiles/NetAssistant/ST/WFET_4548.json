@@ -1,0 +1,49 @@
+{
+  "GC01": {
+    "userName" : "automationTESTt-DSL10",
+    "password" : "automationTESTt-DSL10",
+    "Link" : "netz-assistent/tickets"
+  },
+
+  "GC02": {
+    "userName" : "automationTESTt-DSL10",
+    "password" : "automationTESTt-DSL10",
+    "Link" : "netz-assistent/tickets"
+  },
+
+  "GC03": {
+    "userName" : "automationTESTt-DSL10",
+    "password" : "automationTESTt-DSL10",
+    "Link" : "netz-assistent/tickets"
+  },
+
+  "GC04": {
+    "userName" : "automationTESTt-DSL10",
+    "password" : "automationTESTt-DSL10",
+    "Link" : "netz-assistent/tickets"
+  },
+
+  "GC05": {
+    "userName" : "automationTESTt-DSL10",
+    "password" : "automationTESTt-DSL10",
+    "Link" : "netz-assistent/tickets"
+  },
+
+  "GC15": {
+    "userName" : "automationTESTt-DSL10",
+    "password" : "automationTESTt-DSL10",
+    "tokenLink": "netz-assistent/tb?sys=1%26ta%3DTA2830928386%26token%3DFlhaJwENqaH0tS1zo6PZSuwRtKFoUr2%2BB0VkTOwzKS4%3D"
+  },
+
+  "GC16": {
+    "userName" : "automationTESTt-DSL10",
+    "password" : "automationTESTt-DSL10",
+    "tokenLink": "netz-assistent/tb?sys=1%26ta%3DTA2830928388%26token%3DTCL83nwKoFEcrdjTQS3zwThoSM7%2BTMYO6UZWvpBh0U8%3D"
+  },
+
+  "GC17": {
+    "userName" : "automationTESTt-DSL10",
+    "password" : "automationTESTt-DSL10",
+    "tokenLink": "netz-assistent/tb?sys=1%26ta%3DTA2830928386%26token%3DFlhaJwENqaH0tS1zo6PZSuwRtKFoUr2%2BB0VkTOwzKS4%3D"
+  }
+}

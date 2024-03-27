@@ -1,0 +1,20 @@
+{
+  "GC01": {
+    "urlIdent": "553311",
+    "Dashboardheader": "Teste Deine Router-Verbindung",
+    "MissedTechnicianheader": "Techniker verpasst?",
+    "MissedTechnicianText": "Die Telekom hat uns mitgeteilt, dass der Techniker bei Dir war und niemand aufgemacht hat.",
+    "TechnikerTerminauswählen": "Techniker-Termin auswählen",
+    "Calendarheader": "Wann soll der Techniker kommen?",
+    "MorningCheckBoxText": "Vormittags 8-13 Uhr",
+    "ReviewDataheader": "Stimmt das so?",
+    "ReviewDataFirstText": "Sag uns eins noch:",
+    "ReviewDataSecondText": "Warst Du zuhause?",
+    "JaCheckBox": "Ja, ich war zuhause.",
+    "NeinCheckBox": "Nein, ich hab´s leider verpasst.",
+    "JaCheckBoxAlert": "Ich bestätige, dass ich oder eine von mir autorisierte Person im angekündigten Zeitraum vor Ort auf den Techniker gewartet hat und er nicht erschienen ist.",
+    "ReviewDateDateCL": "Dein Termin:",
+    "TerminwahlbestätigenButtonTxt": "Terminwahl bestätigen",
+    "ConfirmedDateheader": "Vielen Dank für Deine Termin-Wahl"
+  }
+}

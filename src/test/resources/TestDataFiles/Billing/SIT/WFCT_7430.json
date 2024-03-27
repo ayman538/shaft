@@ -1,0 +1,16 @@
+{
+  "GC01_UteChecksHisInvoiceDetailsFromTheBillsChart":
+  {
+    "name"  : "hussein.hakim@vodafone.com",
+    "password": "TEST@1234",
+    "detailsPageOrder": "12",
+    "contractOrder": "1",
+    "amountValue" : "14,99 €",
+    "accountNum" : "880268702",
+    "usageValue": "0,00 €",
+    "oneTimeValue": "0,00 €",
+    "subTotalValue": "-12,60 €",
+    "invoiceAmount": "-14,99 €",
+    "unPaidAmount": "106,02 €"
+  }
+}

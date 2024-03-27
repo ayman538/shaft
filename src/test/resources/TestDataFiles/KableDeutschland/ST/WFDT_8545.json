@@ -1,0 +1,27 @@
+{
+  "gc01":
+  {
+    "name"  : "MartinAddPhoneBook",
+    "password": "MartinAddPhoneBook"
+  },
+  "gc02":
+  {
+    "name"  : "MartinAddPhoneBook",
+    "password": "MartinAddPhoneBook"
+  },
+  "gc03":
+  {
+    "name"  : "MartinAddPhoneBook",
+    "password": "MartinAddPhoneBook"
+  },
+  "gc05":
+  {
+    "name"  : "MartinAddPhoneBook",
+    "password": "MartinAddPhoneBook"
+  },
+  "bc01":
+  {
+    "name"  : "SOHOAddNotFirma",
+    "password": "SOHOAddNotFirma"
+  }
+}

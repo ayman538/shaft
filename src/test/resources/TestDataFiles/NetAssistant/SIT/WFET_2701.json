@@ -1,0 +1,12 @@
+{
+  "SIT_GC01":
+  {
+    "link"  : "https://www.vodafone.de/netz-assistent/tickets?i=4b3fee8ca5bbdd3113ea8cb1ac29e1472894c0bb24b043fafce5e63a6f37774b9eb3d6e720642a9776&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip"
+  }
+,
+  "SIT_GC05":
+  {
+    "link"  : "https://www.vodafone.de/netz-assistent/tickets?i=5760f5085c6a53740ae9d596461d5f47bb49238386dc5102c41f25626ca892d3d304b3ec53d5509d9f&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip"
+  }
+
+}

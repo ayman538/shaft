@@ -1,0 +1,119 @@
+{
+  "TC01":
+  {
+    "name"  : "Legacy2FALogin",
+    "password": "Legacy2FALogin"
+  },
+  "TC03":
+  {
+    "name"  : "Legacy2FALogin",
+    "password": "Legacy2FALogin",
+    "federalState": "HESSEN",
+    "customerNumber": "106079303",
+    "postalCode": "12345"
+  },
+  "TC04":
+  {
+    "federalState": "HESSEN",
+    "customerNumber": "106079303",
+    "postalCode": "12345",
+    "captcha": "1234"
+  },
+  "TC05":
+  {
+    "name"  : "Legacy2FALogin",
+    "password": "Legacy2FALogin",
+    "federalState": "HESSEN",
+    "customerNumber": "106079303",
+    "postalCode": "12345"
+  },
+  "TC06":
+  {
+    "federalState": "HESSEN",
+    "customerNumber": "106079303",
+    "postalCode": "12345",
+    "captcha": "1234"
+  },
+  "TC09":
+  {
+    "name"  : "Legacy2FALogin",
+    "password": "Legacy2FALogin",
+    "federalState": "",
+    "customerNumber": "106079303",
+    "postalCode": "12345"
+  },
+  "TC10":
+  {
+    "federalState": "",
+    "customerNumber": "106079303",
+    "postalCode": "12345",
+    "captcha": "124"
+  },
+  "TC11":
+  {
+    "name"  : "Legacy2FALogin",
+    "password": "Legacy2FALogin",
+    "federalState": "HESSEN",
+    "customerNumber": "",
+    "postalCode": "12345"
+  },
+  "TC12":
+  {
+    "federalState": "HESSEN",
+    "customerNumber": "",
+    "postalCode": "12345",
+    "captcha": "Solstice2FANotActS1"
+  },
+  "TC13":
+  {
+    "name"  : "Legacy2FALogin",
+    "password": "Legacy2FALogin",
+    "federalState": "HESSEN",
+    "customerNumber": "106079303",
+    "postalCode": ""
+  },
+  "TC14":
+  {
+    "federalState": "HESSEN",
+    "customerNumber": "106079303",
+    "postalCode": "",
+    "captcha": "Solstice2FANotActS1"
+  },
+  "TC15":
+  {
+    "federalState": "HESSEN",
+    "customerNumber": "106079303",
+    "postalCode": "12345",
+    "captcha": ""
+  },
+  "TC16":
+  {
+    "name"  : "Legacy2FALogin",
+    "password": "Legacy2FALogin",
+    "federalState": "HESSEN",
+    "customerNumber": "wrongCustomerNumber",
+    "postalCode": "12345"
+  },
+  "TC17":
+  {
+    "federalState": "HESSEN",
+    "customerNumber": "12345678910",
+    "postalCode": "12345",
+    "captcha": "123"
+  },
+  "TC18":
+  {
+    "name"  : "Legacy2FALogin",
+    "password": "Legacy2FALogin",
+    "federalState": "HESSEN",
+    "customerNumber": "106079303",
+    "postalCode": "131"
+  },
+  "TC19":
+  {
+    "federalState": "HESSEN",
+    "customerNumber": "106079303",
+    "postalCode": "123456",
+    "captcha": "Solstice2FANotActS1"
+  }
+}

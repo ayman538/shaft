@@ -1,0 +1,16 @@
+{
+  "GC01": {
+    "urlIdent": "1T9999999999123",
+    "dashboardHeaderText": "Hallo Maxi Klette!",
+    "dashboardButtonText": "Los geht's",
+    "firstStepHeaderText": "Such Dir einen Termin aus",
+    "secondStepHeaderText": "Wer hat den DSL-Anschluss bisher genutzt?"
+  },
+  "GC02": {
+    "urlIdent": "1T9999999999123",
+    "dashboardHeaderText": "Hallo Maxi Klette!",
+    "dashboardButtonText": "Los geht's",
+    "firstStepHeaderText": "Such Dir einen Termin aus",
+    "thirdStepHeaderText": "Check bitte Deine Daten"
+  }
+}

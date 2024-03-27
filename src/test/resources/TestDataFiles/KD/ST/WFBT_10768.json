@@ -1,0 +1,37 @@
+{
+  "GC01_CheckSOMeinKabelTVExistsInKabelTVTarifPage":
+  {
+    "name"  : "Automated-wfbt_10768_1",
+    "password": "Automated-wfbt_10768_1"
+  },
+  "GC02_CheckMeinKabelTVSOLinkedCorrectlyWithRelatedAccordionWithAllDetails":
+  {
+    "name": "Automated-wfbt_10768_1",
+    "password": "Automated-wfbt_10768_1"
+  },
+  "GC03_ValidateFirstCardInMeinkabelTVAccordion":
+  {
+    "name"  : "Automated-wfbt_10768_1",
+    "password": "Automated-wfbt_10768_1"
+  },
+  "GC04_ValidateContractDetailsInTheSecondCardInMeinKabelTVAccordionIfUserIsSelf_Paid":
+  {
+    "name"  : "Automated-wfbt_10768_1",
+    "password": "Automated-wfbt_10768_1"
+  },
+  "GC05_ValidateContractDetailsInTheSecondCardInMeinKabelTVAccordionIfUserIsRenter":
+  {
+    "name"  : "Automated-wfbt_10768_2",
+    "password": "Automated-wfbt_10768_2"
+  },
+  "GC06_CheckThatTheBannerSuggestionsWithLinksToBookAreDisplayedInCaseThereIsNoTariffs":
+  {
+    "name"  : "Automated-wfbt_10768_3",
+    "password": "Automated-wfbt_10768_3"
+  },
+  "BC01_CheckMeinKabelTVAccordionWhenItReturnsGeneralError":
+  {
+    "name" : "Automated-wfbt_10768_4",
+    "password" : "Automated-wfbt_10768_4"
+  }
+}

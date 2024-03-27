@@ -1,0 +1,20 @@
+{
+  "GC01": {
+    "name": "martin008",
+    "password": "martin008",
+    "creditAmountInfoTitleMsg": "Du hast Guthaben",
+    "creditAmountInfoContentMsg": "Dieses verrechnen wir mit der nächsten Rechnung. Wie sich der Betrag zusammensetzt, siehst Du auf Deiner PDF-Rechnung."
+  },
+  "GC03": {
+    "name": "martin0002",
+    "password": "martin0002",
+    "firstInvoiceInfoTitleMsg": "Deine erste Rechnung ist vielleicht etwas höher als erwartet",
+    "firstInvoiceInfoContentMsg": "Das liegt daran, dass Deine erste Rechnung eventuell auch einmalige Kosten enthält, z.B. die Anschlussgebühr. Woraus sich der Betrag zusammensetzt, siehst Du auf der Rechnung."
+  },
+  "GC05": {
+    "name": "martin.Onlynormal.single4",
+    "password": "martin.Onlynormal.single4",
+    "downloadFailedInfoTitleMsg": "Das hat leider nicht geklappt",
+    "downloadFailedInfoContentMsg": "Entschuldige bitte, unser Fehler. Versuch es einfach später nochmal."
+  }
+}

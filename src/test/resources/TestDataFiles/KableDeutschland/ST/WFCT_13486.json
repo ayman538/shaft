@@ -1,0 +1,22 @@
+{
+  "BC01_MartinUserWithErrorInProductInventoryService": {
+    "name": "martin.product.fail",
+    "password": "martin.product.fail"
+  },
+  "BC02_ConsumerUserWithErrorInItemizedBillService": {
+    "name": "consumer.itemized.fail",
+    "password": "consumer.itemized.fail"
+  },
+  "BC03_MartinUserWithErrorInItemizedBillAndInvoiceSettingsServices": {
+    "name": "martin.both.fail",
+    "password": "martin.both.fail"
+  },
+  "BC04_SohoUserWithErrorInItemizedBillService": {
+    "name": "soho.itemized.fail",
+    "password": "soho.itemized.fail"
+  },
+  "BC05_ConsumerUserNoPhoneProductHasErrorInItemizedBillService": {
+    "name": "consumer.no.product.itemized.fail",
+    "password": "consumer.no.product.itemized.fail"
+  }
+}

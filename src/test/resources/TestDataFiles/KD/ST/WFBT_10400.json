@@ -1,0 +1,13 @@
+{
+  "assertOnDynamicDateInMeinTariffSO":
+  {
+    "name"  : "Automated-wfbt_10400_I",
+    "password": "Automated-wfbt_10400_I"
+  },
+  "goToInternetAndPhoneTariffPageFromTheBurgerMenu":
+  {
+    "name": "Automated-wfbt_10400_I",
+    "password": "Automated-wfbt_10400_I",
+    "PageHeaderCL": "Internet & Festnetz – Tarif"
+  }
+}

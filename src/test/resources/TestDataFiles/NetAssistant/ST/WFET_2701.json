@@ -1,0 +1,16 @@
+{
+  "ST_GC01":
+  {
+    "name"  : "WFET-2701 | Cable | TicketDetails",
+    "password": "WFET-2701 | Cable | TicketDetails",
+    "deeplink" : "netz-assistent/tickets/review?i=766ba2559a85df81d2d52bfd5f159fafe33aa8e27609331dfe65d1729c39510859b949f96b0765c9&c=cable&icmp=mvw_db_netzass_kip"
+  }
+,
+  "ST_GC05":
+  {
+    "name"  : "WFET-2701 | Cable | TicketDetails",
+    "password": "WFET-2701 | Cable | TicketDetails",
+    "deeplink" : "netz-assistent/tickets/review?i=766ba2559a85df81d2d52bfd5f159fafe33aa8e27609331dfe65d1729c39510859b949f96b0765c9&c=cable&icmp=mvw_db_netzass_kip"
+  }
+
+}

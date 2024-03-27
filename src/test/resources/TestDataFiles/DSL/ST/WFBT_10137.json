@@ -1,0 +1,15 @@
+{
+  "GC01":
+  {
+    "name": "Automated-wfbt_10137_1",
+    "password": "Automated-wfbt_10137_1"
+  },
+  "GC02":
+  {
+    "name": "Automated-wfbt_10137_1",
+    "password": "Automated-wfbt_10137_1",
+    "bookedOptionTV1": "Drittanbieter Abos sperren",
+    "bookedOptionTV2": "Vodafone Data Roaming Limit",
+    "bookedOptionVoice1": "ReisePaket World Tag"
+  }
+}

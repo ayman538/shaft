@@ -1,0 +1,18 @@
+{
+  "GC01": {
+    "name": "martin004",
+    "password": "martin004",
+    "tableFirstAmount": "Siehe Rechnung",
+    "tableFirstDueDate": "Kabelanschluss",
+    "tableSecondAmount": "Siehe Rechnung",
+    "tableSecondDueDate": "Internet & Telefon"
+  },
+  "GC03": {
+    "name": "martin005",
+    "password": "martin005",
+    "tableFirstAmount": "Siehe Rechnung",
+    "tableFirstDueDate": "Kabelanschluss",
+    "tableSecondAmount": "Siehe Rechnung",
+    "tableSecondDueDate": "Internet & Telefon"
+  }
+}

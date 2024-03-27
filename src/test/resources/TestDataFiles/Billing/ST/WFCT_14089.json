@@ -1,0 +1,159 @@
+{
+  "GC03_UteDownloadsAndPreviewsCustomerBillAtRechnungTabChecksTracking":
+  {
+    "name"  : "ute.credit.invoice.details",
+    "password": "ute.credit.invoice.details",
+    "clickTagName": "ebpa click",
+    "downloadTagName": "ebpa download",
+    "clickTagContentForPreviewCustomerBill" : "{name:customer bill,info:preview}",
+    "downloadTagContentForPreviewCustomerBill" : "{type:preview,name:customer bill}",
+    "billRowOrder" : "1",
+    "clickTagContentForDownloadCustomerBill" : "{name:customer bill,info:pdf}",
+    "downloadTagContentForDownloadCustomerBill" : "{type:pdf,name:customer bill}",
+    "secondItemizedBill" : "4",
+    "clickTagContentForPreviewItemizedBill" : "{name:itemized bill,info:preview}",
+    "downloadTagContentForPreviewItemizedBill" : "{type:preview,name:itemized bill}",
+    "clickTagContentForDownloadItemizedBill" : "{name:itemized bill,info:pdf}",
+    "downloadTagContentForDownloadItemizedBill" : "{type:pdf,name:itemized bill}",
+    "secondBill" : "2"
+  },
+  "GC04_MarieDownloadsAndPreviewsBillsAtRechnungTabChecksTracking":
+  {
+    "name"  : "marie.partially.booked",
+    "password": "marie.partially.booked",
+    "clickTagName": "ebpa click",
+    "downloadTagName": "ebpa download",
+    "clickTagContentForPreviewCustomerBill" : "{name:customer bill,info:preview}",
+    "downloadTagContentForPreviewCustomerBill" : "{type:preview,name:customer bill}",
+    "billRowOrder" : "1",
+    "clickTagContentForDownloadCustomerBill" : "{name:customer bill,info:pdf}",
+    "downloadTagContentForDownloadCustomerBill" : "{type:pdf,name:customer bill}",
+    "secondItemizedBill" : "4",
+    "clickTagContentForPreviewItemizedBill" : "{name:itemized bill,info:preview}",
+    "downloadTagContentForPreviewItemizedBill" : "{type:preview,name:itemized bill}",
+    "clickTagContentForDownloadItemizedBill" : "{name:itemized bill,info:pdf}",
+    "downloadTagContentForDownloadItemizedBill" : "{type:pdf,name:itemized bill}",
+    "secondBill" : "2"
+  },
+  "GC05_MatrinDownloadsAndPreviewsBillsAtRechnungTabChecksTracking":
+  {
+    "name": "martin.Itemizedbills.single4",
+    "password": "martin.Itemizedbills.single4",
+    "clickTagName": "ebpa click",
+    "downloadTagName": "ebpa download",
+    "clickTagContentForPreviewCustomerBill" : "{name:customer bill,info:preview}",
+    "downloadTagContentForPreviewCustomerBill" : "{type:preview,name:customer bill}",
+    "billRowOrder" : "1",
+    "clickTagContentForDownloadCustomerBill" : "{name:customer bill,info:pdf}",
+    "downloadTagContentForDownloadCustomerBill" : "{type:pdf,name:customer bill}",
+    "secondItemizedBill" : "4",
+    "clickTagContentForPreviewItemizedBill" : "{name:itemized bill,info:preview}",
+    "downloadTagContentForPreviewItemizedBill" : "{type:preview,name:itemized bill}",
+    "clickTagContentForDownloadItemizedBill" : "{name:itemized bill,info:pdf}",
+    "downloadTagContentForDownloadItemizedBill" : "{type:pdf,name:itemized bill}",
+    "secondBill" : "2"
+  },
+  "GC06_KayDownloadsAndPreviewsBillsAtCostOverViewTabChecksTracking":
+  {
+    "name": "kay.Kost.partiallyBooked",
+    "password": "kay.Kost.partiallyBooked",
+    "clickTagName": "ebpa click",
+    "downloadTagName": "ebpa download",
+    "clickTagContentForPreviewSubscriberBill" : "{name:subscriber bill,info:preview}",
+    "downloadTagContentForPreviewSubscriberBill" : "{type:preview,name:subscriber bill}",
+    "billRowOrder" : "1",
+    "clickTagContentForDownloadSubscriberBill" : "{name:subscriber bill,info:pdf}",
+    "downloadTagContentForDownloadSubscriberBill" : "{type:pdf,name:subscriber bill}",
+    "secondItemizedBill" : "2",
+    "clickTagContentForPreviewItemizedBill" : "{name:itemized bill,info:preview}",
+    "downloadTagContentForPreviewItemizedBill" : "{type:preview,name:itemized bill}",
+    "clickTagContentForDownloadItemizedBill" : "{name:itemized bill,info:pdf}",
+    "downloadTagContentForDownloadItemizedBill" : "{type:pdf,name:itemized bill}",
+    "secondBill" : "2"
+  },
+  "GC07_PeterDownloadsAndPreviewsBillsAtCostOverViewTabChecksTracking":
+  {
+    "name": "peter.partially.booked",
+    "password": "peter.partially.booked",
+    "clickTagName": "ebpa click",
+    "downloadTagName": "ebpa download",
+    "clickTagContentForPreviewSubscriberBill" : "{name:subscriber bill,info:preview}",
+    "downloadTagContentForPreviewSubscriberBill" : "{type:preview,name:subscriber bill}",
+    "billRowOrder" : "1",
+    "clickTagContentForDownloadSubscriberBill" : "{name:subscriber bill,info:pdf}",
+    "downloadTagContentForDownloadSubscriberBill" : "{type:pdf,name:subscriber bill}",
+    "secondItemizedBill" : "4",
+    "clickTagContentForPreviewItemizedBill" : "{name:itemized bill,info:preview}",
+    "downloadTagContentForPreviewItemizedBill" : "{type:preview,name:itemized bill}",
+    "clickTagContentForDownloadItemizedBill" : "{name:itemized bill,info:pdf}",
+    "downloadTagContentForDownloadItemizedBill" : "{type:pdf,name:itemized bill}",
+    "secondBill" : "2",
+    "thirdBill" : "3"
+
+  },
+  "GC08_PeterDownloadsAndPreviewsBillsAtInvoiceSummaryChecksTracking":
+  {
+    "name": "peter.with.invoices",
+    "password": "peter.with.invoices",
+    "clickTagName": "ebpa click",
+    "downloadTagName": "ebpa download",
+    "clickTagContentForDownloadSubscriberBill" : "{name:subscriber bill,info:pdf}",
+    "downloadTagContentForDownloadSubscriberBill" : "{type:pdf,name:subscriber bill}",
+    "clickTagContentForDownloadItemizedBill" : "{name:itemized bill,info:pdf}",
+    "downloadTagContentForDownloadItemizedBill" : "{type:pdf,name:itemized bill}"
+  },
+
+  "GC09_UteDownloadsAndPreviewsBillsAtInvoiceSummaryhecksTracking":
+  {
+    "name": "ute.credit.invoice.details ",
+    "password": "ute.credit.invoice.details ",
+    "clickTagName": "ebpa click",
+    "downloadTagName": "ebpa download",
+    "clickTagContentForDownloadCustomerBill" : "{name:customer bill,info:pdf}",
+    "downloadTagContentForDownloadCustomerBill" : "{type:pdf,name:customer bill}",
+    "clickTagContentForDownloadItemizedBill" : "{name:itemized bill,info:pdf}",
+    "downloadTagContentForDownloadItemizedBill" : "{type:pdf,name:itemized bill}"
+  },
+
+  "GC11_MarieDownloadsAndPreviewsBillsAtMeineDokumentePageChecksTracking":
+  {
+    "name": "marie.normal.flow",
+    "password": "marie.normal.flow",
+    "clickTagName": "ebpa click",
+    "downloadTagName": "ebpa download",
+    "billRowOrder" : "1",
+    "clickTagContentForPreviewDynamicBill" : "{name:Ihre Verbindußgsübersicht,info:preview}",
+    "downloadTagContentForPreviewDynamicBill" : "{name:Ihre Verbindußgsübersicht,type:preview}",
+    "clickTagContentForDownloadBill" : "{name:Ihre Verbindußgsübersicht,info:pdf}",
+    "downloadTagContentForDownloadBill" : "{type:pdf,name:Ihre Verbindußgsübersicht}"
+
+  },
+
+  "GC12_MartinDownloadsAndPreviewsBillsAtMeineDokumentePageChecksTracking":
+  {
+    "name": "martin.consumer.change.completeTag1",
+    "password": "martin.consumer.change.completeTag1",
+    "clickTagName": "ebpa click",
+    "downloadTagName": "ebpa download",
+    "billRowOrder" : "1",
+    "clickTagContentForPreviewDynamicBill" : "{name:Rechnung,info:preview}",
+    "downloadTagContentForPreviewDynamicBill" : "{name:Rechnung,type:preview}",
+    "clickTagContentForDownloadBill" : "{name:Rechnung,info:pdf}",
+    "downloadTagContentForDownloadBill" : "{type:pdf,name:Rechnung}"
+
+  },
+
+  "GC13_UteDownloadsAndPreviewsBillsAtMeineDokumentePageChecksTracking":
+  {
+    "name": "ute.invoice.details",
+    "password": "ute.invoice.details",
+    "clickTagName": "ebpa click",
+    "downloadTagName": "ebpa download",
+    "billRowOrder" : "1",
+    "clickTagContentForPreviewDynamicBill" : "{name:text for inbox,info:preview}",
+    "downloadTagContentForPreviewDynamicBill" : "{name:text for inbox,type:preview}",
+    "clickTagContentForDownloadBill" : "{name:text for inbox,info:pdf}",
+    "downloadTagContentForDownloadBill" : "{type:pdf,name:text for inbox}"
+
+  }
+}

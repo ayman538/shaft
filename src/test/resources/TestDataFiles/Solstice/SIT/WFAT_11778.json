@@ -1,0 +1,19 @@
+{
+  "GC01_VerifyMobileWithAdmins":
+  {
+    "name"  : "Kay107941668",
+    "password": "TEST@1234"
+  },
+  "GC02_VerifyMobileWithOutAdmins":
+  {
+    "name": "marten.riedel@t-online.de",
+    "password": "fexpog-Kibpam-joxvu7"
+
+  },
+  "GC03_VerifyUMWithInvitations":
+  {
+    "name": "UM2MBO",
+    "password": "test@1234"
+
+  }
+}

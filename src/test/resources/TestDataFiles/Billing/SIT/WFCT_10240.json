@@ -1,0 +1,19 @@
+{
+  "GC01_KayUserFiltersKostenübersichtTabDataByMonth":
+  {
+    "name"  : "multi_contracts",
+    "password": "TEST@1234",
+    "month": "Februar 2022",
+    "contractOrder": "10"
+  },
+  "GC02_BartUserFiltersKostenübersichtTabDataByMonthAndPhoneNumber":
+  {
+    "name"  : "multi_contracts",
+    "password": "TEST@1234",
+    "month": "Februar 2022",
+    "contractOrder": "10",
+    "mobileNum": "4915200488813"
+  }
+
+
+}

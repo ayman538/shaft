@@ -1,0 +1,99 @@
+{
+  "GC01_CheckCancellationFlowSuccessFlow":
+  {
+    "name"  : "Automated-wfbt_12295_1",
+    "password": "Automated-wfbt_12295_1",
+    "ConfirmationNotificationBodyCL": "Wir haben die Option für Dich gekündigt."
+  },
+  "GC02_CheckConfirmationPageDetailsSuccessFlow":
+  {
+    "name": "Automated-wfbt_12295_1",
+    "password": "Automated-wfbt_12295_1",
+    "CancellationConfirmationPageHeaderCL": "Option stornieren",
+    "ConfirmationNotificationBodyCL": "Wir haben die Option für Dich gekündigt.",
+    "WorkOrderNotificationHeaderCL": "Wir bearbeiten jetzt Deine Kündigung",
+    "WorkOrderCTACL": "Meine Aufträge anzeigen",
+    "CancellableOptionTileHeaderCL": "Sky Film Paket",
+    "StartCancellingDateHeaderCL": "Deine Option endet am:",
+    "WorkOrderCardCL": "Meine Aufträge"
+  },
+  "GC03_CheckCancellationTransactionPageDetails":
+  {
+    "name"  : "Automated-wfbt_12295_1",
+    "password": "Automated-wfbt_12295_1",
+    "CancellationTransactionPageHeaderCL": "Option stornieren",
+    "CancellationDetailsAccordionHeaderCL": "Willst Du Sky Film Paket kündigen?",
+    "StartCancellingDateTitleCL": "Deine Option endet am:",
+    "ContractSummaryPreTextCL": "Hier findest Du Deine",
+    "ContractSummaryTextCL": "Vertragszusammenfassung",
+    "ContractSummaryPostTextCL": ". So kannst Du nochmal alles in Ruhe prüfen, bevor Du Deine Buchung abschickst.",
+    "CancelOptionCTACL": "Diese Option kündigen",
+    "CancellationBookedOptionHeadline": "Dies sind Deine gebuchten Optionen",
+    "CancellationBookedOptionSubHeadline": "Diese Optionen ergänzen Deinen Tarif im Moment. Du willst etwas ändern? Hier siehst Du, wann Du eine Option kündigen kannst:"
+  },
+  "GC04_CheckWhenUserClicksOnHyperLinkContractSummaryPdfIsDownloaded":
+  {
+    "name"  : "Automated-wfbt_12295_1",
+    "password": "Automated-wfbt_12295_1"
+  },
+  "GC05_CheckAfterCancelBookedOptionThenGoBackToTryToCancelAnotherBookedOption":
+  {
+    "name"  : "Automated-wfbt_12295_1",
+    "password": "Automated-wfbt_12295_1",
+    "ConfirmationNotificationBodyCL": "Wir haben die Option für Dich gekündigt.",
+    "ConfirmationNotificationBodyCL": "Wir haben die Option für Dich gekündigt."
+  },
+  "GC09_CheckCancellationFlowSuccessFlowWhenUserHasTwoSmartcards":
+  {
+    "name" : "Automated-wfbt_12295_2",
+    "password" : "Automated-wfbt_12295_2",
+    "CancellationOptionWithFirstSmartCardHeadline": "Optionen auf Deiner Smartcard",
+    "CancellationBookedOptionHeadline": "Deine gebuchten Optionen für: ",
+    "CancellationBookedOptionSubHeadline": "Diese Optionen ergänzen Deinen Tarif im Moment. Du willst etwas ändern? Hier siehst Du, wann Du eine Option kündigen kannst:",
+    "CancellationOptionWithSecondSmartCardHeadline": "Optionen auf Deiner Smartcard"
+  },
+  "BC01_CheckBEGeneralErrorWhenAnErrorOccursDuringConfirmation":
+  {
+    "name" : "Automated-wfbt_12295_6",
+    "password" : "Automated-wfbt_12295_6",
+    "GeneralErrorNotificationHeaderCL": "Das hat leider nicht geklappt",
+    "GeneralErrorNotificationBodyCL": "Entschuldige bitte, unser Fehler. Versuch es bitte später nochmal."
+  },
+  "BC02_CheckBEGeneralErrorWhenAnErrorOccursDuringTransaction":
+  {
+    "name" : "Automated-wfbt_12295_5",
+    "password" : "Automated-wfbt_12295_5",
+    "GeneralErrorNotificationHeaderCL": "Das hat leider nicht geklappt",
+    "GeneralErrorNotificationBodyCL": "Entschuldige bitte, unser Fehler. Versuch es bitte später nochmal."
+  },
+  "BC03_CheckTransactionPageWhenOrderServiceFailureWith422Available":
+  {
+    "name" : "Automated-wfbt_12295_3",
+    "password" : "Automated-wfbt_12295_3",
+    "ErrorScreenNotificationHeaderCL": "Das hat leider nicht geklappt",
+    "ErrorScreenNotificationBodyCL": "Entschuldige bitte, unser Fehler. Versuch es bitte später nochmal oder kündige direkt über die Hotline: 0800 172 1212."
+  },
+  "BC04_CheckTransactionPageWhenOrderServiceFailure422Unavailable":
+  {
+    "name" : "Automated-wfbt_12295_4",
+    "password" : "Automated-wfbt_12295_4",
+    "TryAgainNotificationHeaderCL": "Das hat leider nicht geklappt",
+    "TryAgainNotificationBodyCL": "Entschuldige bitte, unser Fehler. Die Vertragszusammmenfassung konnte nicht geladen werden.",
+    "TryAgainNotificationCTACL": "Nochmal versuchen"
+  },
+  "BC06_CheckTransactionPageWhenDownloadServiceFailureWith422Available":
+  {
+    "name" : "Automated-wfbt_12295_3",
+    "password" : "Automated-wfbt_12295_3",
+    "ErrorScreenNotificationHeaderCL": "Das hat leider nicht geklappt",
+    "ErrorScreenNotificationBodyCL": "Entschuldige bitte, unser Fehler. Versuch es bitte später nochmal oder kündige direkt über die Hotline: 0800 172 1212."
+  },
+  "BC07_CheckTransactionPageWhenDownloadServiceFailureWith422NotAvailable":
+  {
+    "name" : "Automated-wfbt_12295_4",
+    "password" : "Automated-wfbt_12295_4",
+    "TryAgainNotificationHeaderCL": "Das hat leider nicht geklappt",
+    "TryAgainNotificationBodyCL": "Entschuldige bitte, unser Fehler. Die Vertragszusammmenfassung konnte nicht geladen werden.",
+    "TryAgainNotificationCTACL": "Nochmal versuchen"
+  }
+}

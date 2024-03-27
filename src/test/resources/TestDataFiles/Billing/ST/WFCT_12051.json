@@ -1,0 +1,24 @@
+{
+  "GC01_KayUserChecksTheItemizedBillsForAllNumbersInLatest6MonthsInKostenübersichtTab": {
+    "name": "kay.costoverview",
+    "password": "kay.costoverview",
+    "latestMonth": "November 2022",
+    "lastMonthEligibleForItemizedBill": "Juli 2022",
+    "firstConnectionOverViewPreviewIconRowNum": "1",
+    "lastConnectionOverViewPreviewIconRowNum": "8"
+  },
+  "GC02_BartUserChecksTheItemizedBillsCtaAndColumnInMonth7InKostenübersichtTab": {
+    "name": "bart.costoverview",
+    "password": "bart.costoverview",
+    "latestMonth": "November 2022",
+    "firstMonthNotEligibleForItemizedBill": "Juni 2022",
+    "firstConnectionOverViewPreviewIconRowNum": "1",
+    "lastConnectionOverViewPreviewIconRowNum": "8",
+    "msisdn": "491627209100"
+  },
+  "GC03_peterUserChecksCreditAmountInCostOverviewPage": {
+    "name": "peter.costOverViewPDF.notretrieved",
+    "password": "peter.costOverViewPDF.notretrieved",
+    "amountRowNum": "1"
+  }
+}

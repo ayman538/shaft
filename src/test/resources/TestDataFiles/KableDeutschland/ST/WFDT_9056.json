@@ -1,0 +1,35 @@
+{
+  "gc01": {
+    "name": "soho_viewgigatv01",
+    "password": "soho_viewgigatv01"
+  },
+  "gc02": {
+    "name": "martinDeleteGigaTV_01",
+    "password": "martinDeleteGigaTV_01"
+  },
+  "gc03": {
+    "name": "soho_viewgigatv02",
+    "password": "soho_viewgigatv02"
+  },
+  "gc04": {
+    "name": "martin_viewgigatv02",
+    "password": "martin_viewgigatv02"
+  },
+  "gc05": {
+    "name": "martin_viewgigatv03",
+    "password": "martin_viewgigatv03"
+  },
+  "gc06": {
+    "name": "soho_viewgigatv003",
+    "password": "soho_viewgigatv003"
+  },
+  "gc07": {
+    "name": "martinDeleteGigaTV_01",
+    "password": "martinDeleteGigaTV_01"
+  },
+  "bc01": {
+    "name": "martin_viewgigatv05",
+    "password": "martin_viewgigatv05"
+  }
+
+}

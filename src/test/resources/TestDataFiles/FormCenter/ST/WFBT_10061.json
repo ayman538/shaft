@@ -1,0 +1,12 @@
+{
+  "checkSubmissionButton":
+  {
+    "name"  : "dummyUN",
+    "password": "dummyPW"
+  },
+  "checkSubmissionButtonIsNotEnable":
+  {
+    "name"  : "dummyUN",
+    "password": "dummyPW"
+  }
+}

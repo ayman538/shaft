@@ -1,0 +1,11 @@
+{
+  "GC01_peterUserCheckBackButtonInInvoiceSummaryPage": {
+    "name": "MULLTI_NBAs",
+    "password": "TEST@1234",
+    "contractNumber": "3"
+  },
+  "GC02_UteUserCheckBackButtonInInvoiceSummaryPage": {
+    "name": "hussein.hakim@vodafone.com",
+    "password": "TEST@1234"
+  }
+}

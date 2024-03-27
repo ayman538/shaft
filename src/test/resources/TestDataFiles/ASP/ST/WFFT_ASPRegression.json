@@ -1,0 +1,198 @@
+{
+  "GC01": {
+    "MSISDN": "1100110011",
+    "zipcode": "11001",
+    "DashboardHeader": "Vodafone Retouren-Portal",
+    "DashboardTrackingHeader": "Widerruf möglich",
+    "DashboardTrackingSubHeadline": "Du kannst Deine Bestellung noch widerrufen.",
+    "RevocationOptionsHeader": "Dein Widerrufswunsch",
+    "RevocationOptionsFirstOptionHeadline": "Du bist mit dem Gerät unzufrieden?",
+    "RevocationOptionsFirstOptionDescription": "Tausch es einfach gegen ein anderes Gerät um. Hier geht's zur Auswahl.",
+    "RevocationOptionsSecondOptionHeadline": "Du bist mit Deinem Tarif unzufrieden?",
+    "RevocationOptionsSecondOptionDescription": "Wir machen Dir gerne ein besseres Angebot.",
+    "RevocationOptionsThirdOptionHeadline": "Du hast Fragen?",
+    "RevocationOptionsThirdOptionDescription": "Kontaktiere unsere Kundenbetreuung.",
+    "RevocationOptionsFourthOptionHeadline": "Du willst Deine Bestellung ohne Begründung widerrufen?",
+    "RevocationOptionsFourthOptionDescription": "Das geht hier.",
+    "ExchangeHWStepOneHeader": "Dein Wunschgerät",
+    "ExchangeHWName": "iPhone 11",
+    "ExchangeHWStepTwoHeader": "Dein Wunschgerät",
+    "ExchangeHWStepThreeHeader": "Dein Wunschgerät",
+    "ConfirmationPageHeader": "Deine Rücksendung",
+    "SalesAgentPageHeader": "Wir sind für Dich da",
+    "OpenQuestionsPageHeader": "Kontakt",
+    "ServiceAgentPageHeader": "Wir sind für Dich da",
+    "WinbackPageHeader": "Du möchtest gehen? Sicher?",
+    "SingleHWRevocationReviewPageHeader": "Deine Rücksendung",
+
+    "SingleHWReportDefectPageHeader": "Deine Defektmeldung",
+    "SpecifyingDefectPageHeader": "Deine Defektmeldung",
+    "HWReportDefectReviewpage": "Deine Rücksendung",
+    "HWReportDefectConfirmationpage": "Deine Rücksendung",
+    "SIMReportDefectpage": "Deine Defektmeldung"
+  },
+  "GC02": {
+    "MSISDN": "11936765632",
+    "zipcode": "12345",
+    "DashboardHeader": "Vodafone Retouren-Portal",
+    "DashboardTrackingHeader": "Widerruf möglich",
+    "DashboardTrackingSubHeadline": "Du kannst Deine Bestellung noch widerrufen.",
+    "RevocationOptionsHeader": "Dein Widerrufswunsch",
+    "ExchangeHWStepOneHeader": "Dein Wunschgerät",
+    "ExchangeHWStepTwoHeader": "Dein Wunschgerät",
+    "ExchangeHWStepThreeHeader": "Dein Wunschgerät",
+    "ConfirmationPageHeader": "Deine Rücksendung",
+
+    "SingleHWReportDefectPageHeader": "Deine Defektmeldung",
+    "SpecifyingDefectPageHeader": "Deine Defektmeldung",
+    "HWReportDefectReviewpage": "Deine Rücksendung",
+    "HWReportDefectConfirmationpage": "Deine Rücksendung",
+    "ESIMReportDefectpageHeader": "Deine Defektmeldung"
+  },
+  "GC03": {
+    "MSISDN": "3849322194",
+    "zipcode": "09876",
+    "DashboardHeader": "Vodafone Retouren-Portal",
+    "DashboardTrackingHeader": "Widerruf möglich",
+    "DashboardTrackingSubHeadline": "Du kannst Deine Bestellung noch widerrufen.",
+    "RevocationSelectionHeader": "Dein Widerrufswunsch",
+    "MultipleHWRevocationReviewHeader": "Dein Widerrufswunsch",
+    "MultipleHWRevocationConfirmationHeader": "Deine Rücksendung"
+  },
+  "GC04": {
+    "MSISDN": "3849323219",
+    "zipcode": "12345",
+    "DashboardHeader": "Vodafone Retouren-Portal",
+    "RevocationBtn": "Artikel zurücksenden",
+    "ReportDefectBtn": "Defekt melden",
+    "RevocationHeader": "Dein Widerrufswunsch",
+    "WinbackHeader": "Du möchtest gehen? Sicher?",
+    "RevocationReviewHeader": "Deine Rücksendung",
+    "ConfirmationHeader": "Deine Rücksendung",
+    "ReportDefectHeader": "Deine Defektmeldung",
+    "SpecifyingDefectHeader": "Deine Defektmeldung",
+    "ReviewDefectHeader": "Deine Rücksendung"
+  },
+  "GC05": {
+    "MSISDN": "3849322213",
+    "zipcode": "09876",
+    "DashboardHeader": "Vodafone Retouren-Portal",
+    "RevocationBtn": "Zum Widerruf",
+    "ReportDefectBtn": "Defekt melden",
+    "RevocationHeader": "Dein Widerrufswunsch",
+    "WinbackHeader": "Du möchtest gehen? Sicher?",
+    "RevocationReviewHeader": "Deine Rücksendung",
+    "ConfirmationHeader": "Deine Rücksendung",
+    "ReportDefectHeader": "Deine Defektmeldung",
+    "SpecifyingDefectHeader": "Deine Defektmeldung",
+    "ReviewDefectHeader": "Deine Rücksendung"
+  },
+  "GC06": {
+    "MSISDN": "1234312343",
+    "zipcode": "09876",
+    "DashboardHeader": "Vodafone Retouren-Portal",
+    "RevocationBtn": "Zum Widerruf",
+    "ReportDefectBtn": "Defekt melden",
+    "RevocationHeader": "Dein Widerrufswunsch",
+    "WinbackHeader": "Du möchtest gehen? Sicher?",
+    "RevocationReviewHeader": "Deine Rücksendung",
+    "ConfirmationHeader": "Dein Widerrufswunsch",
+    "ConfirmationSubHeader": "Deine Widerrufserklärung haben wir erhalten."
+  },
+  "GC07": {
+    "MSISDN": "0171020304058",
+    "zipcode": "09876",
+    "DashboardHeader": "Vodafone Retouren-Portal",
+    "RevocationBtn": "Zum Widerruf",
+    "ReportDefectBtn": "Defekt melden",
+    "RevocationHeader": "Dein Widerrufswunsch",
+    "WinbackHeader": "Du möchtest gehen? Sicher?",
+    "RevocationReviewHeader": "Deine Rücksendung",
+    "ConfirmationHeader": "Dein Widerrufswunsch",
+    "ConfirmationSubHeader": "Deine Widerrufserklärung haben wir erhalten."
+  },
+  "GC08": {
+    "MSISDN": "1829326251",
+    "zipcode": "12345",
+    "DashboardHeader": "Vodafone Retouren-Portal",
+    "RevocationBtn": "Zum Widerruf",
+    "ReportDefectBtn": "Defekt melden",
+    "RevocationHeader": "Dein Widerrufswunsch",
+    "ConfirmationHeader": "Deine Rücksendung",
+    "ReportDefectHeader": "Deine Defektmeldung",
+    "ReviewDefectHeader": "Deine Rücksendung"
+  },
+  "GC09": {
+    "MSISDN": "10028765632",
+    "zipcode": "12345",
+    "trackingHeader": "Sie möchten Ihre defekte Ware zurücksenden? Dann wählen Sie „Defekt melden“.",
+    "trackingSubHeadline": "Sie möchten Ihre Ware aus einem anderen Grund zurücksenden? Dann wählen Sie trotzdem „Defekt melden“, klicken als Fehlergrund „Sonstige Fehler“ an und schreiben Ihren Rücksendegrund in das Textfeld.",
+    "DashboardHeader": "Vodafone Retouren-Portal",
+    "DefectReportHeader": "Deine Defektmeldung",
+    "SummaryHeader": "Deine Defektmeldung",
+    "ConfirmationHeader": "Ihre Rücksendung"
+  },
+
+  "GC10": {
+    "MSISDN": "1012347388",
+    "zipcode": "12345",
+    "trackingHeader": "Du möchtest Deine defekte Ware zurücksenden? Dann wähl „Defekt melden“.",
+    "trackingSubHeadline": "Du möchtest Deine Ware aus einem anderen Grund zurücksenden? Dann wähl trotzdem „Defekt melden“, klick als Fehlergrund „Sonstige Fehler“ an und schreib Deinen Rücksendegrund in das Textfeld.",
+    "DashboardHeader": "Vodafone Retouren-Portal",
+    "DefectReportHeader": "Deine Defektmeldung",
+    "SummaryHeader": "Deine Defektmeldung",
+    "ConfirmationHeader": "Deine Rücksendung"
+  },
+
+  "GC11": {
+    "MSISDN": "8839326251",
+    "zipcode": "12345",
+    "DashboardHeader": "Vodafone Retouren-Portal",
+    "trackingHeader": "Widerruf möglich",
+    "trackingSubHeadline": "Du kannst Deine Bestellung noch widerrufen.",
+    "SummaryHeader": "Deine Rücksendung",
+    "DefectReportHeader": "Deine Defektmeldung",
+    "ConfirmationHeader": "Deine Rücksendung"
+  },
+
+  "GC12": {
+    "MSISDN": "1234561119",
+    "zipcode": "09876",
+    "trackingHeader": "Deine Sendung konnte nicht zugestellt werden.",
+    "trackingSubHeadline": "Du kannst die Bestellung widerrufen oder Dir den Artikel nochmal zusenden lassen.",
+    "DashboardHeader": "Vodafone Retouren-Portal",
+    "Header": "Deine Bestellung – zweiter Versuch"
+  },
+
+  "GC13": {
+    "MSISDN": "9119999991",
+    "zipcode": "12345",
+    "trackingHeader": "Deine Sendung konnte nicht zugestellt werden.",
+    "trackingSubHeadline": "Du kannst die Bestellung widerrufen oder Dir den Artikel nochmal zusenden lassen.",
+    "DashboardHeader": "Vodafone Retouren-Portal",
+    "Header": "Deine Bestellung – zweiter Versuch"
+  },
+
+  "GC14": {
+    "MSISDN": "6665555555",
+    "zipcode": "12345",
+    "trackingHeader": "Deine Sendung konnte nicht zugestellt werden.",
+    "trackingSubHeadline": "Du kannst die Bestellung widerrufen oder Dir den Artikel nochmal zusenden lassen.",
+    "DashboardHeader": "Vodafone Retouren-Portal",
+    "Header": "Deine Bestellung – zweiter Versuch"
+  },
+
+  "GC15": {
+    "MSISDN": "1199112200",
+    "zipcode": "10022",
+    "DashboardHeader": "Vodafone Retouren-Portal",
+    "CobraWarningText": "Wichtig: Wenn Du widerrufen willst, prüfen wir Deinen Wunsch auf Widerruf, sobald Dein Paket angekommen ist. Wir informieren Dich dann nach ein paar Tagen.Du möchtest ein Mietgerät zurücksenden? Wie das geht, siehst Du hier"
+  },
+  "GC16": {
+    "MSISDN": "1258888888",
+    "zipcode": "12588",
+    "DashboardHeader": "Vodafone Retouren-Portal",
+    "OteloSIMReportDefectHeader": "Deine Defektmeldung",
+    "OteloRevocationURL": "https://www.otelo.de/widerruf"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "GC01":
+  {
+    "name"  : "multi_contracts",
+    "password": "TEST@1234"
+  },
+  "GC02":
+  {
+    "name"  : "multi_contracts",
+    "password": "TEST@1234"
+  },
+  "GC03":
+  {
+    "name"  : "multi_contracts",
+    "password": "TEST@1234"
+  },
+  "GC04":
+  {
+    "name"  : "multi_contracts",
+    "password": "TEST@1234"
+  },
+  "GC05":
+  {
+    "name"  : "multi_contracts",
+    "password": "TEST@1234"
+  },
+  "GC06":
+  {
+    "name"  : "multi_contracts",
+    "password": "TEST@1234"
+  },
+  "GC07":
+  {
+    "name"  : "multi_contracts",
+    "password": "TEST@1234"
+  },
+  "GC10":
+  {
+    "name"  : "multi_contracts",
+    "password": "TEST@1234"
+  }
+}

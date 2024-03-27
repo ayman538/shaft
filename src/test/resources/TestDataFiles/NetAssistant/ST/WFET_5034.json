@@ -1,0 +1,60 @@
+{
+  "ST_GC01": {
+    "name": "WFET-41814181 | Cable",
+    "password": "WFET-41814181 | Cable",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","4 Answers"]
+  },
+  "ST_GC02": {
+    "name": "WFET-4181 | UM",
+    "password": "WFET-4181 | UM",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","4 Answers"]
+  },
+  "ST_GC03": {
+    "name": "WFET-4181 | DSL | dropDown",
+    "password": "WFET-4181 | DSL | dropDown",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test_Formular_RadioCombo","Automatic","4 Answers"]
+  },
+
+  "ST_GC04": {
+    "name": "WFET-4181 | UM",
+    "password": "WFET-4181 | UM",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","4 Answers"]
+  },
+
+  "ST_GC05": {
+    "name": "WFET-41814181 | Cable",
+    "password": "WFET-41814181 | Cable",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","4 Answers"]
+  },
+
+  "ST_GC06": {
+    "name": "WFET-4181 | DSL | dropDown",
+    "password": "WFET-4181 | DSL | dropDown",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test_Formular_RadioCombo","Automatic","4 Answers"]
+  },
+
+  "ST_GC07": {
+    "name": "WFET-41814181 | Cable | optionPicker",
+    "password": "WFET-41814181 | Cable | optionPicker",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","3 Answers"]
+  },
+  "ST_GC08": {
+    "name": "WFET-4181 | UM | OptionPicker",
+    "password": "WFET-4181 | UM | OptionPicker",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","3 Answers"]
+  },
+  "ST_GC09": {
+    "name": "WFET-4181 | DSL | optionPicker",
+    "password": "WFET-4181 | DSL | optionPicker",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test_Formular_RadioCombo","Automatic","3 Answers"]
+  }
+}

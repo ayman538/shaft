@@ -1,0 +1,26 @@
+{
+  "ST_GC01": {
+    "userName" : "WFET-3453 | UM | Manage technicianApp",
+    "password" : "WFET-3453 | UM | Manage technicianApp",
+    "Link" : "netz-assistent/tickets/review?i=d330c24d3bb640d014c872d0c284f2f060903d48b5e9ec52879ca6e54d17b62fcb5f58b46ece1a07&c=UM&s=NRW&icmp=mvw_db_netzass_um"
+  },
+
+  "ST_GC03": {
+    "userName" : "WFET-3453 | UM | Manage technicianApp",
+    "password" : "WFET-3453 | UM | Manage technicianApp",
+    "Link" : "netz-assistent/tickets/review?i=d330c24d3bb640d014c872d0c284f2f060903d48b5e9ec52879ca6e54d17b62fcb5f58b46ece1a07&c=UM&s=NRW&icmp=mvw_db_netzass_um"
+  },
+
+  "ST_GC04": {
+    "userName" : "WFET-3453 | UM | Manage technicianApp",
+    "password" : "WFET-3453 | UM | Manage technicianApp",
+    "Link" : "netz-assistent/tickets/review?i=d330c24d3bb640d014c872d0c284f2f060903d48b5e9ec52879ca6e54d17b62fcb5f58b46ece1a07&c=UM&s=NRW&icmp=mvw_db_netzass_um"
+  },
+
+  "ST_GC09": {
+    "userName" : "WFET-3453 | UM | Manage technicianApp",
+    "password" : "WFET-3453 | UM | Manage technicianApp",
+    "Link" : "netz-assistent/tickets/review?i=d330c24d3bb640d014c872d0c284f2f060903d48b5e9ec52879ca6e54d17b62fcb5f58b46ece1a07&c=UM&s=NRW&icmp=mvw_db_netzass_um"
+  }
+
+}

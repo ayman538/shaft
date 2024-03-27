@@ -1,0 +1,24 @@
+{
+  "GCO1":
+  {
+    "name"  : "Solstice12207",
+    "password": "Solstice12207",
+    "firstName": "Nader",
+    "lastName": "Elrashedy",
+    "email": "Nader@saykoo.com"
+  },
+  "GCO2":
+  {
+    "name"  : "Solstice12207",
+    "password": "Solstice12207",
+    "firstName": "Mohamed",
+    "lastName": "Ali",
+    "email": "Mo@Ali.com"
+  },
+  "GCO3":
+  {
+    "name"  : "Solstice12207",
+    "password": "Solstice12207"
+  }
+
+}

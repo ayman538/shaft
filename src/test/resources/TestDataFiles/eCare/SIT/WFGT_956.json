@@ -1,0 +1,21 @@
+{
+  "GC02": {
+    "name": "UnityRechnung",
+    "password": "Unity2021!",
+    "ServicePinPageHeader": "Service-PIN",
+    "PINAnsehenAccordionTitle": "Service-PIN ansehen",
+    "PINAnsehenAccordionDetailsFirstPart": "Die Service-PIN brauchst Du, um an der Hotline kostenpflichtige Optionen und Services buchen zu können. Sie ist so lange gültig, bis Du eine neue anforderst.",
+    "PINAnsehenAccordionDetailsSecondPart": "Pass auf, dass niemand Deine PIN mitlesen kann.",
+    "ServicePinHeader": "Neue PIN anfordern",
+    "ServiceDetailsFirstPart": "Die Service-PIN brauchst Du, um an der Hotline kostenpflichtige Optionen und Services buchen zu können. Sie ist so lange gültig, bis Du eine neue anforderst.",
+    "ServiceDetailsSecondPart": "Pass auf, dass niemand Deine PIN mitlesen kann.",
+    "ansehenServicePinMessage": "Ist Deine PIN nicht mehr sicher? Forder hier eine neue an.",
+    "NeuePINanfordernButton": "Neue PIN anfordern"
+  },
+  "GC04": {
+    "name": "n973997302@um3",
+    "password": "TEST@1234",
+    "ErrorTitleNopin": "Dein Service-PIN",
+    "ErrorDetailsNopin": "Mit der Service-PIN bestätigst Du Deine Identität an der Hotline. Und kannst Optionen und Services buchen.\n\nAktuell hast Du noch keine PIN. Bitte warte noch etwas, oder ruf hier an: 1212"
+  }
+}

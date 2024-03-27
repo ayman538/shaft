@@ -1,0 +1,15 @@
+{
+  "GC03_UteUserHasBillsForTheLast13MonthsChecksMeineRechnungenPage": {
+    "name": "UnityRechnung",
+    "password": "Unity2021!",
+    "contractOrder": "1"
+
+  },
+  "GC04_UteUserWithZeroAmount": {
+    "name": "UnityRechnung",
+    "password": "Unity2021!",
+    "firstBarOrder": "7",
+    "firstBarHeight": "2px",
+    "contractOrder": "1"
+  }
+}

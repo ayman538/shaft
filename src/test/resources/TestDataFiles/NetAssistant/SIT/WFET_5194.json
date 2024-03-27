@@ -1,0 +1,114 @@
+{
+  "SIT_GC01": {
+    "name": "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test NetzAssiMemo_field_not_required","nicht pflicht"]
+  },
+  "SIT_GC02": {
+    "name": "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "meinvodafone/services/netzassistent/review?product=dsl",
+    "Steps"  : ["Testbereich","Test NetzAssiMemo_field_not_required","nicht pflicht"]
+  },
+  "SIT_GC03": {
+    "name": "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test NetzAssiMemo_field_not_required","pflicht"]
+  },
+
+  "SIT_GC04": {
+    "name": "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "meinvodafone/services/netzassistent/review?product=dsl",
+    "Steps"  : ["Testbereich","Test NetzAssiMemo_field_not_required","pflicht"]
+  },
+
+  "SIT_GC05": {
+    "name": "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "meinvodafone/services/netzassistent/review?product=dsl",
+    "Steps"  : ["Testbereich","Test NetzAssiMemo_field_not_required","nicht gesetzt"]
+  },
+
+  "SIT_GC06": {
+    "name": "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "meinvodafone/services/netzassistent/review?product=dsl",
+    "Steps"  : ["Testbereich","Test NetzAssiMemo_field_not_required","nicht gesetzt"]
+  },
+
+  "SIT_GC07": {
+    "name"  : "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht pflicht"]
+  },
+  "SIT_GC08": {
+    "name"  : "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "meinvodafone/services/netzassistent/review?product=kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht pflicht"]
+  },
+  "SIT_GC09": {
+    "name"  : "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/?icmp=mvw_db_netzass_kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","pflicht"]
+  },
+  "SIT_GC10": {
+    "name"  : "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "meinvodafone/services/netzassistent/review?product=kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","pflicht"]
+  },
+  "SIT_GC11": {
+    "name"  : "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "meinvodafone/services/netzassistent/review?product=kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht gesetzt"]
+  },
+  "SIT_GC12": {
+    "name"  : "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "meinvodafone/services/netzassistent/review?product=kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht gesetzt"]
+  },
+  "SIT_GC13": {
+    "name": "n341449201@umpost.de",
+    "password": "TestLab1",
+    "link": "meinvodafone/services/netzassistent/review?product=kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht pflicht"]
+  },
+  "SIT_GC14": {
+    "name": "n341449201@umpost.de",
+    "password": "TestLab1",
+    "link": "meinvodafone/services/netzassistent/review?product=kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht pflicht"]
+  },
+  "SIT_GC15": {
+    "name": "n341449201@umpost.de",
+    "password": "TestLab1",
+    "link": "meinvodafone/services/netzassistent/review?product=kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","pflicht"]
+  },
+  "SIT_GC16": {
+    "name": "n341449201@umpost.de",
+    "password": "TestLab1",
+    "link": "meinvodafone/services/netzassistent/review?product=kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","pflicht"]
+  },
+  "SIT_GC17": {
+    "name": "n341449201@umpost.de",
+    "password": "TestLab1",
+    "link": "meinvodafone/services/netzassistent/review?product=kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht gesetzt"]
+  },
+  "SIT_GC18": {
+    "name": "n341449201@umpost.de",
+    "password": "TestLab1",
+    "link": "meinvodafone/services/netzassistent/review?product=kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht gesetzt"]
+  }
+}

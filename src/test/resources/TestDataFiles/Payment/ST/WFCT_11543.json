@@ -1,0 +1,18 @@
+{
+  "GC01_PaulUserWith28DaysAutoTopupChecksGPP":
+  {
+    "name"  : "paul.auto.28.days",
+    "password": "paul.auto.28.days",
+    "contract_number": "1",
+    "autotopupAmount": "3.21",
+    "autotopupDate": "11.10.2022"
+  },
+  "GC02_PaulUserWithLessThan5EurosAutoTopupChecksGPP":
+  {
+    "name"  : "paul.auto.less.than.5",
+    "password": "paul.auto.less.than.5",
+    "contract_number": "1",
+    "autotopupAmount": "1.2",
+    "autotopupDate": "11.10.2022"
+  }
+}

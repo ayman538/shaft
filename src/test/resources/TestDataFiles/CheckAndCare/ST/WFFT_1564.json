@@ -1,0 +1,64 @@
+{
+"GC01": {
+"urlIdent": "12664",
+"Dashboardheader": "Teste Deine Router-Verbindung",
+"RefusedProductheader": "Leider hat's nicht geklappt.",
+"ReserveAppointmentheader": "Neuer Versuch",
+"Calendarheader": "Wann soll der Techniker kommen?",
+"ReviewDataheader": "Passt alles für Dich?",
+"ConfirmedDateheader": "Vielen Dank für Deine Termin-Wahl"
+},
+  "GC02": {
+    "urlIdent": "553311",
+    "Dashboardheader": "Teste Deine Router-Verbindung",
+    "MissedTechnicianheader": "Techniker verpasst?",
+    "Calendarheader": "Wann soll der Techniker kommen?",
+    "ReviewDataheader": "Stimmt das so?",
+    "ConfirmedDateheader": "Vielen Dank für Deine Termin-Wahl"
+  },
+  "GC03":
+  {
+    "urlIdent":"553322",
+    "Dashboardheader": "Teste Deine Router-Verbindung",
+    "APLInfoheader": "Der Hausverteiler war nicht zugänglich",
+    "Calendarheader": "Wann soll der Techniker kommen?",
+    "ReviewDateheader": "Passt alles für Dich?",
+    "ConfirmedDateheader": "Vielen Dank für Deine Termin-Wahl"
+  },
+  "GC04": {
+    "urlIdent": "12987",
+    "Dashboardheader": "Teste Deine Router-Verbindung",
+    "CheckAddressheader": "Alles richtig?",
+    "ConfirmAddressheader": "Neuer Versuch",
+    "Calendarheader": "Wann soll der Techniker kommen?",
+    "ReviewDataklingelschildDruckenButton": "Klingelschild drucken",
+    "ConfirmedDateheader": "Vielen Dank für Deine Termin-Wahl"
+  },
+
+  "GC05": {
+    "urlIdent": "12987",
+    "Dashboardheader": "Teste Deine Router-Verbindung",
+    "CheckAddressheader": "Alles richtig?",
+    "Recallheader": "Vereinbare einen Rückruf.",
+    "RecallPhoneNo": "01721234566",
+    "RecallConfirmationheader": "Danke! Wir melden uns gleich bei Dir."
+  },
+  "GC06": {
+    "urlIdent": "918211",
+    "Dashboardheader": "Teste Deine Router-Verbindung",
+    "Recallheader": "Hat nicht geklappt",
+    "RecallPhoneNo": "01721234566",
+    "RecallConfirmationheader": "Rückruf vereinbart"
+  },
+  "GC07": {
+    "urlIdent": "918211",
+    "Dashboardheader": "Teste Deine Router-Verbindung",
+    "InstalledConfirmationheader": "Super! Danke für Deine Antwort."
+  },
+  "GC08": {
+    "urlIdent": "918211",
+    "Dashboardheader": "Teste Deine Router-Verbindung",
+    "InstalledConfirmationheader": "Super! Danke für Deine Antwort.",
+    "InstalledBackbuttonText": "Dein Internet funktioniert doch nicht? Geh zurück zum Start und klick auf \"Nein geht leider nicht.\""
+  }
+}

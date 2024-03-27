@@ -1,0 +1,12 @@
+{
+  "GC01":
+  {
+    "name"  : "Legacy2FANotAct",
+    "password": "Legacy2FANotAct"
+  },
+  "GC02":
+  {
+    "name": "Solstice2FAAct",
+    "password": "Solstice2FAAct"
+  }
+}

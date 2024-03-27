@@ -1,0 +1,11 @@
+{
+  "GC01":
+  {
+    "name": "martin.yes",
+    "password": "martin.yes",
+    "headerText": "Meine Rechnungen",
+    "NotificationMessageHeadlineText" : "Dein Konto weist aktuell einen offenen Saldo aus.",
+    "NotificationMessageSubHeadlineText" : "Wie sich der Betrag zusammensetzt, kannst Du hier einsehen.",
+    "CheckButton" : "Kontostand besuchen",
+    "Dunningheader" : "Aktuelle Informationen zum Referenzkonto 0001"
+  }}

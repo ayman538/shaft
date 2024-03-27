@@ -1,0 +1,20 @@
+{
+  "gc01": {
+    "name": "KIPUserMainTariffOnly",
+    "password": "KIPUserMainTariffOnly",
+    "meinTarifSO_KipOnly" : "Vodafone Basic TV Cable",
+    "meinTarifSO_KipOnly_LastDate" : "Laufzeit bis 27.10.2024"
+  },
+  "gc02": {
+    "name": "KIPUserCLSOnly",
+    "password": "KIPUserCLSOnly",
+    "meinTarifSO_CLSOnly_LastDate" : "Laufzeit bis 27.10.2024",
+    "meinTarifSO_CLSOnly" : "Vodafone Basic TV Cable"
+  },
+  "gc03": {
+    "name": "KIPUserCLSandMain",
+    "password": "KIPUserCLSandMain",
+    "meinTarifSO_KipCLS_LastDate" : "Laufzeit bis 27.10.2025",
+    "meinTarifSO_KipCLS" : "Red Internet & Phone 200 Cable FOC"
+  }
+}

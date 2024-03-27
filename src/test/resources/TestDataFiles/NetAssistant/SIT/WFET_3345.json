@@ -1,0 +1,18 @@
+{
+  "GC01":
+  {
+    "name"  : "simone.netzassistent",
+    "password": "TEST@1234"
+  },
+  "GC02":
+  {
+    "name"  : "simone.netzassistent",
+    "password": "TEST@1234"
+  },
+  "GC05":
+  {
+    "name"  : "simone.netzassistent",
+    "password": "TEST@1234"
+  }
+
+}

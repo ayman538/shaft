@@ -1,0 +1,94 @@
+{
+  "ST_GC09": {
+    "userName"  : "WFET-3016 | DSL | MIC&CallBack",
+    "password": "WFET-3016 | DSL | MIC&CallBack",
+    "link" : "netz-assistent/chatbot?i=26de9d364973bf9642da47b12c8b5fea5e8f1f22027b13e28a6695a178b99e186b7f60920a9eb8b5862c55c9&c=DSL&a=039&p=519da76b7820006d374ec6a6fbc4c7e5307e6f7e11d59d712e589b36595c5b6e6e880c95b03135&s=&c_id=hilfe_netzass_dsl"
+
+  },
+  "ST_GC19": {
+    "userName" : "WFET-Hadeer-Cable10-singlemass",
+    "password" : "WFET-Hadeer-Cable10-singlemass",
+    "link": "netz-assistent/chatbot?i=7b02c83166876d5cbcaffafba450b91319bc32977cbe2ba6d3850c2f871f7253a058202ced2bc468&c=UM&s=NRW&icmp=mvw_db_netzass_um"
+
+  },
+  "ST_GC11":
+  {
+    "userName" : "WFET-2397 | ChatbotAutomation | no mass outage",
+    "password" : "WFET-2397 | ChatbotAutomation | no mass outage",
+    "link"  : "netz-assistent/chatbot?i=56685666bd6348de0fe66c9e5fbc2ea93f7cafe4f9c49b1defa651c53f07eb1ef2aa5eb70e76f3d68354ebe6&c=DSL&a=035&p=e20d9275482760bdfc93b7b42d0a1079a3acbad4ab06ca7cabb7d56cbe52c1d32818fce3ab&s=&c_id=hilfe_netzass_dsl",
+    "phoneNumber" : "012312313133",
+    "Steps"  : ["Verkabelung-WLAN","mit Emulator","Nein, weiter mit der bisherigen Kundennummer","Kein Internet","EasyBox 804","WLAN","Leuchtet grün","Leuchtet rot","Die Steckdose funktioniert","Rückruf anfordern","Sofort angerufen werden"]
+  },
+  "ST_GC18":
+  {
+    "userName" : "WFET-2397 | No MassOutage | Cable",
+    "password" : "WFET-2397 | No MassOutage | Cable",
+    "link"  : "netz-assistent/chatbot?i=6ce68a27b592d1dae3ed0fa8b859d5bc1fc8e3206cf0d8c50456bf7e61dc1c47a152a68d729a3a0d&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip",
+    "phoneNumber" : "015170107393",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet","Compal CH7466CE","LAN-Kabel","Aus","Schalter war aus","Timer überspringen","Problem besteht weiterhin","Kabel ist defekt","Rückruf anfordern"]
+  },
+
+  "ST_GC20":
+  {
+    "userName" : "WFET-Hadeer-Cable10-nomass",
+    "password" : "WFET-Hadeer-Cable10-nomass",
+    "link"  : "netz-assistent/chatbot?i=b8ff29cef1f1af825093b216a7818322c05c0e1b25509f8b50dca78275b998fc3c59bc7dc8da6c4b&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip"
+  },
+
+  "ST_GC01": {
+    "link": "netz-assistent/tickets?i=e6b51e1c1f2e4ec110b2a5653b92b8ddf198ab66bc30287e04e06eb5f91efdd6386617c7d006a41fc0e6a2ec&c=DSL&a=0393&p=8c27b380aa37895318f1d8a9231e90240e9fed058f24d4ca293041e17dff63cda45a71c3ca2c&s=&c_id=hilfe_netzass_dsl"
+  },
+
+  "ST_GC02": {
+    "link": "netz-assistent/tickets?i=de99cf8f4f98d059d5415f73178bf53084c83c9d2adb3dc313a8e7789ae20632fc18cf974416e31cbfb94e95&c=DSL&a=0383&p=2cd1e315e06aff5a4f50844f8e2bd0713b7ee100f053c6778d76ea0e111926ea45ee7b5853262c&s=&c_id=hilfe_netzass_dsl"
+  },
+  "ST_GC04": {
+    "userName" : "WFET-3016 | DSL | MIC&CallBack",
+    "password" : "WFET-3016 | DSL | MIC&CallBack",
+    "link": "netz-assistent/tickets/review?i=566377f46881b00e9a96f73e37d4847aa43126972f9c7b564e3aa3d0e79aa17c63eb28f1a5e0c2ff&c=dsl&icmp=mvw_db_netzass_um%22"
+  },
+  "ST_GC05": {
+    "userName" : "WFET-3016 | DSL | CallbackForm",
+    "password" : "WFET-3016 | DSL | CallbackForm",
+    "link": "netz-assistent/tickets/review?i=26de9d364973bf9642da47b12c8b5fea5e8f1f22027b13e28a6695a178b99e186b7f60920a9eb8b5862c55c9&c=DSL&a=039&p=519da76b7820006d374ec6a6fbc4c7e5307e6f7e11d59d712e589b36595c5b6e6e880c95b03135&s=&c_id=hilfe_netzass_dsl"
+  },
+  "ST_GC03": {
+    "link": "netz-assistent/tickets?i=de99cf8f4f98d059d5415f73178bf53084c83c9d2adb3dc313a8e7789ae20632fc18cf974416e31cbfb94e95&c=DSL&a=0383&p=2cd1e315e06aff5a4f50844f8e2bd0713b7ee100f053c6778d76ea0e111926ea45ee7b5853262c&s=&c_id=hilfe_netzass_dsl"
+  },
+
+  "ST_GC13": {
+    "userName" : "Ismail-US3754",
+    "password" : "Ismail-US3754",
+    "link" : "netz-assistent/tickets/review?i=f9e83978032434a7fcb2dd324349eb1cb1eeabb354c4429ab24f3c58896d18b6f6deb84e0f107c9f&c=cable&a=&p=&c_id=hilfe_netzass_kip"
+  },
+  "ST_GC14": {
+    "userName" : "Ismail-US3754",
+    "password" : "Ismail-US3754",
+    "link" : "netz-assistent/tickets/review?i=f9e83978032434a7fcb2dd324349eb1cb1eeabb354c4429ab24f3c58896d18b6f6deb84e0f107c9f&c=cable&a=&p=&c_id=hilfe_netzass_kip"
+  },
+  "ST_GC15":
+  {
+    "userName" : "WFET-3016 | Cable",
+    "password" : "WFET-3016 | Cable",
+    "link"  : "netz-assistent/tickets/review?i=74e59145265a3ca16d6160eff436eb8a060018a9cdee9b415d57400080b462f091c79fefa56440dc&c=cable&icmp=mvw_db_netzass_kip",
+    "phoneNumber" : "012312321333",
+    "text" : "facing some issues"
+  },
+  "ST_GC16":
+  {
+    "userName" : "Ismail-US3754",
+    "password" : "Ismail-US3754",
+    "link" : "netz-assistent/tickets/review?i=f9e83978032434a7fcb2dd324349eb1cb1eeabb354c4429ab24f3c58896d18b6f6deb84e0f107c9f&c=cable&a=&p=&c_id=hilfe_netzass_kip"
+  },
+  "ST_GC17":
+  {
+    "userName" : "Ismail-US3754",
+    "password" : "Ismail-US3754",
+    "link" : "netz-assistent/tickets/review?i=f9e83978032434a7fcb2dd324349eb1cb1eeabb354c4429ab24f3c58896d18b6f6deb84e0f107c9f&c=cable&a=&p=&c_id=hilfe_netzass_kip"
+  },
+  "ST_GC22":
+  {
+    "link"  : "netz-assistent/tickets?i=c25ad47e68a04095efe68c02ef7b679c3efe5c6f253d28d565e05ae535f34855374c51c32e42ad29e1&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip"
+  }
+
+}

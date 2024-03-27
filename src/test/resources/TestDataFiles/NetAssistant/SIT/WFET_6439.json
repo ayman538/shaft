@@ -1,0 +1,52 @@
+{
+  "GC03": {
+    "userName": "n341449201@umpost.de",
+    "password": "TestLab1",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "phoneNumber": "017312313133",
+    "Steps": ["go on","Testbereich","Test Form_CallBack","Ohne Übergabe Rufnummer"]
+  },
+  "GC04": {
+    "userName": "n341449201@umpost.de",
+    "password": "TestLab1",
+    "phoneNumber": "017312313133",
+    "Steps": ["go on","Testbereich","Test Form_CallBack","Ohne Übergabe Rufnummer"]
+  },
+  "GC06": {
+    "userName": "n341449201@umpost.de",
+    "password": "TestLab1",
+    "Steps": ["go on","Testbereich","Test Form_CallBack","Mit Übergabe Rufnummer"]
+  },
+  "GC07": {
+    "userName": "n341449201@umpost.de",
+    "password": "TestLab1",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "phoneNumber": "017312313133",
+    "Steps": ["go on","Testbereich","Test Form_CallBack","Ohne Übergabe Rufnummer"]
+  },
+  "GC09": {
+    "userName": "n341449201@umpost.de",
+    "password": "TestLab1",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "phoneNumber": "017312313133",
+    "Steps": ["go on","Testbereich","Test Form_CallBack","Ohne Übergabe Rufnummer"]
+  },
+  "GC12": {
+    "userName": "n341449201@umpost.de",
+    "password": "TestLab1",
+    "phoneNumber": "017312313133",
+    "Steps": ["go on","Testbereich","Test Form_CallBack","Ohne Übergabe Rufnummer"]
+  },
+  "GC13": {
+    "userName": "n341449201@umpost.de",
+    "password": "TestLab1",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "phoneNumber": "3243242424242",
+    "Steps": ["go on","Testbereich","Test Form_CallBack","Ohne Übergabe Rufnummer"]
+  },
+  "GC16": {
+    "userName": "n341449201@umpost.de",
+    "password": "TestLab1",
+    "Steps": ["go on","Testbereich","Test Form_CallBack","Ohne Übergabe Rufnummer"]
+  }
+}

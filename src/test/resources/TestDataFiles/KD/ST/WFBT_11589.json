@@ -1,0 +1,31 @@
+{
+  "GC01_CheckSOOrderingtariffDetailsPageInKIP":
+  {
+    "name"  : "Automated-wfbt_11053_1",
+    "password": "Automated-wfbt_11053_1"
+  },
+  "GC02_CheckTarifWechselnSOCameBeforeGebuchteOptionenSO":
+  {
+    "name"  : "Automated-wfbt_11053_1",
+    "password": "Automated-wfbt_11053_1",
+    "TariffChangeSOTitleCL":"Tarif wechseln",
+    "TariffChangeSOBodyCL": "Alle verfügbaren Tarife und Geräte-Optionen"
+  },
+  "GC03_CheckWLANHotspotLoginsSOCameLastOne":
+  {
+    "name"  : "Automated-wfbt_11053_1",
+    "password": "Automated-wfbt_11053_1",
+    "WLANHotspotSOTitleCL": "WLAN-Hotspot-Logins",
+    "WLANHotspotSOBodyCL": "Hotspot-Logins verwalten"
+  },
+  "GC04_CheckTarifWechselnSOwhenClickOnItWillDirectedToItsPartInMeinTarif":
+  {
+    "name"  : "Automated-wfbt_11053_1",
+    "password": "Automated-wfbt_11053_1"
+  },
+  "GC05_CheckWhenClickOnWLANHotspotSOWillRedirectedToExternalLinkInNewTab":
+  {
+    "name"  : "Automated-wfbt_11053_1",
+    "password": "Automated-wfbt_11053_1"
+  }
+}

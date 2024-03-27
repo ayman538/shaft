@@ -1,0 +1,12 @@
+{
+  "TC01":
+  {
+    "name"  : "Kay107941668",
+    "password": "TEST@1234"
+  },
+  "TC02":
+  {
+    "name": "Alpha11777",
+    "password": "test@1234"
+  }
+}

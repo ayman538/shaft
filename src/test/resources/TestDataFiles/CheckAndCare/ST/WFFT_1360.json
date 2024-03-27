@@ -1,0 +1,31 @@
+{
+  "GC01_verifyInternetWorksFineInCaseCustomerHasRefusedProduction":
+  {
+    "urlIdent": "12345"
+  },
+
+  "GC02_verifyInternetWorksFineInCaseCustomerNotAtHome":
+  {
+    "urlIdent": "553311"
+  },
+
+  "GC03_verifyInternetWorksFineInCaseTechnicianCannotReachTheHouseConnection":
+  {
+    "urlIdent": "553322"
+  },
+
+  "GC04_verifyInternetWorksFineInCaseCustomerNotFound":
+  {
+    "urlIdent": "12987"
+  },
+
+  "GC06_verifyInternetWorksFineInCaseOtherReasons":
+  {
+    "urlIdent": "3675"
+  },
+
+  "GC08_verifyInternetWorksFineInCaseOtherReasons":
+  {
+    "urlIdent": "7536"
+  }
+}

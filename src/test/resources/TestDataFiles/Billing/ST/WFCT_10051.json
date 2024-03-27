@@ -1,0 +1,18 @@
+{
+  "GC01_BartUserWithOnlyPaperBillChecksMeineRechnungenPage":
+  {
+    "name"  : "bart.only.paper.bill",
+    "password": "bart.only.paper.bill"
+  },
+  "GC02_KayUserHasPaperInvoicesWithOldOnlineBillsChecksMeineRechnungenPage":
+  {
+    "name": "kay.paper.and.old.online.bill",
+    "password": "kay.paper.and.old.online.bill"
+  },
+  "GC03_MarieUserWithPaperAndOnlineBillsChecksMeineRechnungenPage":
+  {
+    "name": "marie.paper.and.online.bill",
+    "password": "marie.paper.and.online.bill"
+
+  }
+}

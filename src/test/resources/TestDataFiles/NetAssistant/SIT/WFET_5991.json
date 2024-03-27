@@ -1,0 +1,22 @@
+{
+  "SIT_GC02": {
+    "name": "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_FormularOneColumn"]
+  },
+
+  "SIT_GC05": {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/?c_id=mvw_db_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+
+  "SIT_GC08": {
+    "name": "n341449302@umpost.de",
+    "password": "TEST@1234",
+    "link": "netz-assistent/?c_id=mvw_db_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  }
+}

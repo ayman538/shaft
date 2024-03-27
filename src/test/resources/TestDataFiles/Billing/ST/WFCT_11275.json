@@ -1,0 +1,16 @@
+{
+  "GC01_KayUserCheckCostOverviewPageInCaseOfTariffChange": {
+    "name": "kay.kost.double",
+    "password": "kay.kost.double",
+    "contract_number": "",
+    "firstPhoneNumber": "0162 720 91 00",
+    "secondPhoneNumber": "0162 722 21 87",
+    "msisdn": "491627209100"
+  },
+  "GC02_BartUserCheckCostOverviewPageInCaseOfCreditAmount": {
+    "name": "bart.kost.double",
+    "password": "bart.kost.double",
+    "contract_number": "",
+    "amountRowNum": "2"
+  }
+}

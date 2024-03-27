@@ -1,0 +1,25 @@
+{
+  "GC01": {
+    "urlIdent": "12664",
+    "Dashboardheader": "Teste Deine Router-Verbindung",
+    "RefusedProductheader": "Leider hat's nicht geklappt.",
+    "RefusedProduct-JAButton": "Ja, los. Weiter geht's!",
+    "RefusedProduct-NeinButton": "Nein, ich will den Anschluss nicht mehr.",
+    "CancelContractheader": "Das ist schade.",
+    "CancelContractSubHeadline": "Wir leiten Dich jetzt in unser Retourenportal weiter. Folge dort einfach den Anweisungen.",
+    "CancelContractSecondSubHeadline": "Du willst doch einen neuen Termin aussuchen?"
+  },
+  "GC02": {
+    "urlIdent": "12664",
+    "Dashboardheader": "Teste Deine Router-Verbindung",
+    "RefusedProductheader": "Leider hat's nicht geklappt.",
+    "RefusedProduct-JAButton": "Ja, los. Weiter geht's!",
+    "RefusedProduct-NeinButton": "Nein, ich will den Anschluss nicht mehr.",
+    "CancelContractheader": "Das ist schade.",
+    "CancelContractSubHeadline": "Wir leiten Dich jetzt in unser Retourenportal weiter. Folge dort einfach den Anweisungen.",
+    "CancelContractSecondSubHeadline": "Du willst doch einen neuen Termin aussuchen?",
+    "Calendarheader": "Wann soll der Techniker kommen?",
+    "ReviewDataheader": "Passt alles für Dich?",
+    "ConfirmedDateheader": "Vielen Dank für Deine Termin-Wahl"
+  }
+}

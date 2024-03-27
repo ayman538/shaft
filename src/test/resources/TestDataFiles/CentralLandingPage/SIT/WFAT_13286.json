@@ -1,0 +1,14 @@
+{
+  "GC01":
+  {
+    "urlExtention"  : "legitimation",
+    "name"  : "nader.elrasheedy@vodafone.com",
+    "password": "test@1234"
+  },
+  "GC02":
+  {
+    "urlExtention"  : "legitimation",
+    "name"  : "multi_contracts",
+    "password": "TEST@1234"
+  }
+}

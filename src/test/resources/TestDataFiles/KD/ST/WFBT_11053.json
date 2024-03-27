@@ -1,0 +1,143 @@
+{
+  "GC01BookingTransactionNoReplaceExistingOptionInternet":
+  {
+    "name"  : "Automated-wfbt_11053_1",
+    "password": "Automated-wfbt_11053_1",
+    "AccordionHeaderTitleInternetCL": "Willst Du SuperWLAN buchen?",
+    "InternetFirstOptionNameCL": "SuperWLAN",
+    "InternetFirstOptionPriceCL": "Kostenlos",
+    "StartDateInternetFirstOptionHeadlineCL": "Beginnt nach Buchung am:",
+    "BookWithCostCTACL": "Kostenpflichtig buchen"
+  },
+  "GC02BookingTransactionReplacesOneExistingOptionInternet":
+  {
+    "name": "Automated-wfbt_11053_2",
+    "password": "Automated-wfbt_11053_2",
+    "ExistingOptionNotificationHeaderCL": "Gut zu wissen",
+    "ExistingOptionNotificationSubLineOneOptionCL": "Du willst die Option Vodafone Sicherheitspaket Plus buchen. Wenn Du weitermachst, löschen wir Deine aktuelle Option Upload Option 50."
+  },
+  "GC03BookingTransactionReplacesManyExistingOptionInternet":
+  {
+    "name"  : "Automated-wfbt_11053_3",
+    "password": "Automated-wfbt_11053_3",
+    "ExistingOptionNotificationHeaderCL": "Gut zu wissen",
+    "ExistingOptionNotificationSubLineOneOptionCL": "Du willst die Option Vodafone Sicherheitspaket Plus buchen. Wenn Du weitermachst, löschen wir Deine aktuellen Optionen:"
+  },
+  "GC06ConfirmationPageNoReplaceExistingOptionInternet":
+  {
+    "name"  : "Automated-wfbt_11053_1",
+    "password": "Automated-wfbt_11053_1",
+    "ConfirmationPageHeaderCL": "Optionen buchen",
+    "ConfirmationNotificationHeaderCL": "Wir haben die Option für Dich gebucht.",
+    "OrderNotificationHeaderCL": "Wir bearbeiten jetzt Deinen Auftrag",
+    "OrderNotificationCTACL": "Meine Aufträge anzeigen",
+    "InternetOptionNameCL": "SuperWLAN",
+    "InternetOptionPriceCL": "Kostenlos",
+    "StartDateHeadlineCL": "Beginnt nach Buchung am:",
+    "CloseCTACL": "Schließen"
+  },
+  "GC09BookingTransactionInCaseOnBackButton":
+  {
+    "name" : "Automated-wfbt_11053_1",
+    "password" : "Automated-wfbt_11053_1",
+    "BookableInternetOptionsAccordionHeaderCL": "Buchbare Optionen Internet",
+    "PageHeaderCL": "Internet & Festnetz – Tarif"
+  },
+  "GC10BookingTransactionNoReplaceExistingOptionTelephone":
+  {
+    "name" : "Automated-wfbt_11053_5",
+    "password" : "Automated-wfbt_11053_5",
+    "AccordionHeaderTitleTelefonCL": "Willst Du Mobile & International-Allnet-Flat buchen?",
+    "PhoneFirstOptionNameCL": "Mobile & International-Allnet-Flat",
+    "PhoneFirstOptionPriceCL": "19,99 €",
+    "StartDatePhoneFirstOptionHeadlineCL": "Beginnt nach Buchung am:",
+    "BookWithCostCTACL": "Kostenpflichtig buchen"
+  },
+  "GC11BookingTransactionReplacesOneExistingOptionTelephone":
+  {
+    "name" : "Automated-wfbt_11053_6",
+    "password" : "Automated-wfbt_11053_6",
+    "ExistingOptionNotificationHeaderCL": "Gut zu wissen",
+    "ExistingOptionNotificationSubLineOneOptionCL": "Du willst die Option Mobile & International-Allnet-Flat buchen. Wenn Du weitermachst, löschen wir Deine aktuelle Option Mobile & Euro-Flat plus."
+  },
+  "GC12BookingTransactionReplacesManyExistingOptionTelephone":
+  {
+    "name" : "Automated-wfbt_11053_7",
+    "password" : "Automated-wfbt_11053_7",
+    "ExistingOptionNotificationHeaderCL": "Gut zu wissen",
+    "ExistingOptionNotificationSubLineOneOptionCL": "Du willst die Option Mobile & Euro-Flat plus buchen. Wenn Du weitermachst, löschen wir Deine aktuellen Optionen:"
+  },
+  "GC15ConfirmationPageNoReplaceExistingOptionTelephone":
+  {
+    "name" : "Automated-wfbt_11053_5",
+    "password" : "Automated-wfbt_11053_5",
+    "ConfirmationPageHeaderCL": "Optionen buchen",
+    "ConfirmationNotificationHeaderCL": "Wir haben die Option für Dich gebucht.",
+    "OrderNotificationHeaderCL": "Wir bearbeiten jetzt Deinen Auftrag",
+    "OrderNotificationCTACL": "Meine Aufträge anzeigen",
+    "PhoneOptionNameCL": "Mobile & International-Allnet-Flat",
+    "PhoneOptionPriceCL": "19,99 €",
+    "StartDateHeadlineCL": "Beginnt nach Buchung am:",
+    "CloseCTACL": "Schließen"
+  },
+  "GC18RedirectionWhileBookingExternalBookingOption":
+  {
+    "name" : "Automated-wfbt_11053_8",
+    "password" : "Automated-wfbt_11053_8"
+  },
+  "GC19CheckContractSummary":
+  {
+    "name" : "Automated-wfbt_11053_1",
+    "password" : "Automated-wfbt_11053_1",
+    "InternetSecondOptionNameCL": "Vodafone Sicherheitspaket Plus",
+    "InternetSecondOptionPriceCL": "4,99 €"
+  },
+  "GC20CheckTransactionPageWhenNoReturnOptions":
+  {
+    "name" : "Automated-wfbt_11053_1",
+    "password" : "Automated-wfbt_11053_1"
+  },
+  "GC21CheckthatBookNowCTAIsMissingBookingChannel":
+  {
+    "name" : "Automated-wfbt_11053_1",
+    "password" : "Automated-wfbt_11053_1"
+  },
+  "BC01BookingTransactionGeneralError":
+  {
+    "name"  : "Automated-wfbt_11053_4",
+    "password": "Automated-wfbt_11053_4",
+    "ErrorNotificationHeaderCL": "Das hat leider nicht geklappt",
+    "ErrorNotificationSubLineCL": "Entschuldige bitte, unser Fehler. Versuch es bitte später nochmal.",
+    "ReturnCTACL": "Abbrechen"
+  },
+  "BC02CheckErrorMessageOrderAvailableBookableOptionsInternetAccordion":
+  {
+    "name" : "Automated-wfbt_11053_10",
+    "password" : "Automated-wfbt_11053_10",
+    "ErrorNotificationHeaderCL": "Das hat leider nicht geklappt",
+    "ErrorNotificationSubLineCL": "Entschuldige bitte, unser Fehler. Versuch es bitte später nochmal oder buche direkt über unsere Hotline: 0800 955 4000."
+  },
+  "BC03CheckTryAgainMessageOrderUnAvailableBookableOptionsInternetAccordion":
+  {
+    "name" : "Automated-wfbt_11053_11",
+    "password" : "Automated-wfbt_11053_11",
+    "TryAgainNotificationHeaderCL": "Das hat leider nicht geklappt",
+    "TryAgainNotificationSubLineCL": "Entschuldige bitte, unser Fehler. Die Vertragszusammmenfassung konnte nicht geladen werden.",
+    "TryAgainNotificationCTACL": "Nochmal versuchen"
+  },
+  "BC04CheckErrorMessageOrderAvailableBookableOptionsTelephoneAccordion":
+  {
+    "name" : "Automated-wfbt_11053_12",
+    "password" : "Automated-wfbt_11053_12",
+    "ErrorNotificationHeaderCL": "Das hat leider nicht geklappt",
+    "ErrorNotificationSubLineCL": "Entschuldige bitte, unser Fehler. Versuch es bitte später nochmal oder buche direkt über unsere Hotline: 0800 955 4000."
+  },
+  "BC05CheckTryAgainMessageOrderUnAvailableBookableOptionsTelephoneAccordion":
+  {
+    "name" : "Automated-wfbt_11053_13",
+    "password" : "Automated-wfbt_11053_13",
+    "TryAgainNotificationHeaderCL": "Das hat leider nicht geklappt",
+    "TryAgainNotificationSubLineCL": "Entschuldige bitte, unser Fehler. Die Vertragszusammmenfassung konnte nicht geladen werden.",
+    "TryAgainNotificationCTACL": "Nochmal versuchen"
+  }
+}

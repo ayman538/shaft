@@ -1,0 +1,14 @@
+{
+  "GC02_UteUserChecksTheInvoiceDetailsPageForOldMonths": {
+    "name": "hussein.hakim@vodafone.com",
+    "password": "TEST@1234",
+    "detailsPageOrder": "11",
+    "chartBarOrder": "11"
+  },
+  "GC03_UteUserWithCreditAmountChecksTheInvoiceDetailsPageForOldMonths": {
+    "name": "hussein.hakim@vodafone.com",
+    "password": "TEST@1234",
+    "detailsPageOrder": "2",
+    "chartBarOrder": "2"
+  }
+}

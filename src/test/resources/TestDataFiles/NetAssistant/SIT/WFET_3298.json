@@ -1,0 +1,14 @@
+{
+  "GC02":
+  {
+    "Link" : "https://vodafone.de/netz-assistent/tickets?i=c6f4acc33eb3fd520be337ae92ab6e58276bb779f9f93b6aebe1719b0732466a296aab3bb3c00ec488&c=UM&a=&p=&s=NRW&c_id=hilfe_netzass_um",
+    "name"  : "nrw701539801",
+    "password": "testTEST-1"
+  },
+  "GC03":
+  {
+    "Link" : "https://vodafone.de/netz-assistent/tickets?i=b6daa20ce54bea600e89d764d2e5bd687a586295c031808c88c4e7a036f335737ba1da2e8d5e84581b&c=UM&a=&p=&s=NRW&c_id=hilfe_netzass_um",
+    "name"  : "nrw701539801",
+    "password": "testTEST-1"
+  }
+}

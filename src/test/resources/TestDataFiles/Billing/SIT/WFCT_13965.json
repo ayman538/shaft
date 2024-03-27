@@ -1,0 +1,15 @@
+{
+  "GC01_KayUserWithOneSubscriberCheckTheViewOnInvoiceSummaryPage": {
+    "name": "Multi_contracts",
+    "password": "TEST@1234",
+    "endDate": "September",
+    "contractOrder": "8",
+    "subscriberCount": "1"
+  },
+  "GC04_MarieUserCheckTheDateMappingInInvoiceSummaryPage": {
+    "name": "Foxtrot_Team",
+    "password": "TEST@1234",
+    "contractOrder": "1",
+    "endDate": "September"
+  }
+}

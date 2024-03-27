@@ -1,0 +1,121 @@
+{
+  "GC01":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "provider" : "DOKO",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC02":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "provider" : "DOKO",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC03":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "provider" : "DOKO",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC04":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "provider" : "DOKO",
+    "firmenname" : "Google",
+    "kundnennummer" : "01622507481",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC06":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "provider" : "DOKO",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC07":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  :"01622507481",
+    "provider" : "DOKO",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email": "mostafa@gmail.com",
+    "repeatEmail": "mostafa@gmail.com"
+  },
+  "GC08":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "provider" : "DOKO",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC09":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "provider" : "DOKO",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "BC01":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "provider" : "DOKO",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "BC02":
+  {
+    "contactNumber"  : "01628919645",
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01628919645",
+    "provider" : "DOKO",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  }
+}

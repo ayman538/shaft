@@ -1,0 +1,24 @@
+{
+  "GC01": {
+    "name": "Automated-wfgt_260_1",
+    "password": "Automated-wfgt_260_1",
+    "expectedNotificationMsg" : "Du kannst Deinen Tarif aktuell aufgrund von Wartungsarbeiten nicht wechseln. Versuch es bitte später nochmal."
+  },
+  "GC03": {
+    "name": "Automated-wfgt_260_1",
+    "password": "Automated-wfgt_260_1",
+    "expectedNotificationHeader" : "Wartungsarbeiten",
+    "expectedNotificationBody" : "Du kannst diese Option aktuell nicht buchen. Versuch es bitte später nochmal."
+  },
+  "GC05": {
+    "name": "Automated-wfgt_260_4",
+    "password": "Automated-wfgt_260_4",
+    "expectedNotificationMsg" : "Du kannst Deinen Tarif aktuell aufgrund von Wartungsarbeiten nicht wechseln. Versuch es bitte später nochmal."
+  },
+  "GC06": {
+    "name": "Automated-wfgt_260_4",
+    "password": "Automated-wfgt_260_4",
+    "expectedNotificationHeader" : "Wartungsarbeiten",
+    "expectedNotificationBody" : "Du kannst diese Option aktuell nicht buchen. Versuch es bitte später nochmal."
+  }
+}

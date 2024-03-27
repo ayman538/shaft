@@ -1,0 +1,26 @@
+{
+  "GC01_CheckWhenUserHasMeinTariffOnly":
+  {
+    "name"  : "KIPUserMainTariffOnly",
+    "password": "KIPUserMainTariffOnly",
+    "MyTariffTitle": "Mein Tarif",
+    "MyTariffText": "Paket Comfort 1.-3. Monat 9,90 €",
+    "MyTariffDate": "Laufzeit bis 27.10.2024"
+  },
+  "GC02_CheckWhenUserHasCLSOnly":
+  {
+    "name": "KIPUserCLSOnly",
+    "password": "KIPUserCLSOnly",
+    "MyTariffTitle": "Mein Tarif",
+    "MyTariffText": "Vodafone Basic TV Cable",
+    "MyTariffDate": "Laufzeit bis 27.10.2024"
+  },
+  "GC03_CheckWhenUserHasBothMeinTariffAndCLSTariffMeinTariff":
+  {
+    "name"  : "KIPUserCLSandMain",
+    "password": "KIPUserCLSandMain",
+    "MyTariffTitle": "Mein Tarif",
+    "MyTariffText": "Red Internet & Phone 200 Cable FOC",
+    "MyTariffDate": "Laufzeit bis 27.10.2025"
+    }
+}

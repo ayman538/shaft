@@ -1,0 +1,13 @@
+{
+  "gc01": {
+    "name": "TVUserCLSOnly",
+    "password": "TVUserCLSOnly",
+    "clsTeaserHeader_CL": " Entdecke unser GigaTV ",
+    "clsTeaserTitle_CL": "Hol Dir die pure TV-Unterhaltung",
+    "clsTeaserText_CL": "Prüfe welches TV-Paket an Deiner Adresse verfügbar ist. Und los geht’s!"
+  },
+  "gc02": {
+    "name": "Automated-wfbt_10768_1",
+    "password": "Automated-wfbt_10768_1"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "GC01_MarieUserChecksZuZahlenderBetragMappingAndKontobezogeneKostenfield": {
+    "name": "marie.amountCheck.KostenCheck",
+    "password": "marie.amountCheck.KostenCheck",
+    "accountRelatedItemsValue" : "101.010,33 €",
+    "accountRelatedItemsTitle" : "Kontobezogene Posten",
+    "notReturnedCLResponse" : "Siehe Rechnung",
+    "totalDueAmount" : "1.111,11 €",
+    "totalDueAmountFieldCL" : "Zu zahlender Betrag",
+    "fieldOrder" : "1"
+  },
+  "GC02_KayUserChecksZuZahlenderBetragMappingAndKontobezogeneKostenfield": {
+    "name": "kay.amountCheck.KostenCheck",
+    "password": "kay.amountCheck.KostenCheck",
+    "accountRelatedItemsValue" : "101.010,33 €",
+    "accountRelatedItemsTitle" : "Kontobezogene Posten",
+    "notReturnedCLResponse" : "Siehe Rechnung",
+    "totalDueAmount" : "1.111,11 €",
+    "totalDueAmountFieldCL" : "Zu zahlender Betrag",
+    "fieldOrder" : "1"
+  },
+  "GC03_BartUserChecksZuZahlenderBetragMappingAndKontobezogeneKostenfield": {
+    "name": "bart.amountCheck.KostenCheck",
+    "password": "bart.amountCheck.KostenCheck",
+    "accountRelatedItemsValue" : "101.010,33 €",
+    "accountRelatedItemsTitle" : "Kontobezogene Posten",
+    "notReturnedCLResponse" : "Siehe Rechnung",
+    "totalDueAmount" : "1.111,11 €",
+    "totalDueAmountFieldCL" : "Zu zahlender Betrag",
+    "fieldOrder" : "1"
+  }
+}

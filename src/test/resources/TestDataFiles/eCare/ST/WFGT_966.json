@@ -1,0 +1,48 @@
+{
+  "GC01": {
+    "name": "Automated-wfgt_966_4",
+    "password": "Automated-wfgt_966_4",
+    "NeueServicePinPageHeader": "Neue Service-PIN",
+    "NeueServicePinHeader": "Deine Service-PIN",
+    "NeueServiceDetailsHeader": "Neue Service-PIN anfordern",
+    "NeueServiceDetailsContent": "Bitte bestätige, dass Du eine neue PIN brauchst. Deine alte ist danach nicht mehr gültig.",
+    "JetztBestätigenButton": "Jetzt bestätigen"
+  },
+  "GC02": {
+    "name": "Automated-wfgt_966_4",
+    "password": "Automated-wfgt_966_4",
+    "NeueServicePinPageHeader": "Neue Service-PIN",
+    "NeueServicePinHeader": "Deine Service-PIN",
+    "NeueServiceDetailsHeader": "Neue Service-PIN anfordern",
+    "NeueServiceDetailsContent": "Bitte bestätige, dass Du eine neue PIN brauchst. Deine alte ist danach nicht mehr gültig.",
+    "JetztBestätigenButton": "Jetzt bestätigen",
+    "ConfirmationPageHeader": "Neue Service-PIN",
+    "ConfirmationNotificationHeader": "Du hast jetzt eine neue PIN",
+    "ConfirmationNotificationContent": "Bitte pass auf, dass sie niemand sieht, der sie nicht sehen soll.",
+    "ÜbersichtHeader": "Übersicht",
+    "ÜbersichtHeadline": "Deine neue Service-PIN",
+    "ÜbersichtSubHeadline": "Service-PIN",
+    "backLink": "Schließen"
+  },
+  "GC03": {
+    "name": "Automated-wfgt_966_7",
+    "password": "Automated-wfgt_966_7",
+    "FailurePageHeader": "Neue Service-PIN",
+    "FailureNotificationHeader": "Das hat leider nicht geklappt",
+    "FailureNotificationContent": "Etwas ist schief gelaufen. Bitte probier es nochmal.",
+    "backLink": "Schließen"
+  },
+  "GC04": {
+    "name": "Automated-wfgt_966_10",
+    "password": "Automated-wfgt_966_10",
+    "ErrorTitleExceeds3Trials": "Dein PIN ist deaktiviert",
+    "ErrorDetailsExceeds3Trials": "Dein PIN ist deaktiviert. Nach 24 Stunden ist er wieder aktiv."
+  },
+  "GC11": {
+    "name": "Automated-wfgt_966_2",
+    "password": "Automated-wfgt_966_2",
+    "NeueServicePinPageHeader": "Neue Service-PIN",
+    "ErrorHeader3TrialsDeepLink": "Dein Limit ist erreicht",
+    "ErrorBody3TrialsDeepLink": "Du hast Deine PIN heute schon einmal erneuert. Leider ist das Limit schon erreicht. Probier es morgen nochmal."
+  }
+}

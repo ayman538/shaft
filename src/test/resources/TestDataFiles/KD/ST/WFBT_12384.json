@@ -1,0 +1,46 @@
+{
+  "gc01":
+  {
+    "name"  : "Automated-wfbt_12384_1",
+    "password": "Automated-wfbt_12384_1"
+  },
+  "gc02":
+  {
+    "name"  : "Automated-wfbt_12384_1",
+    "password": "Automated-wfbt_12384_1"
+  },
+  "gc03":
+  {
+    "name"  : "Automated-wfbt_12295_1",
+    "password": "Automated-wfbt_12295_1",
+    "bookedOptionNegativePriceTVCL": "14,99",
+    "bookedOptionCurrencyCL": "€",
+    "bookedOptionNegativePriceTextTVCL": "geschenkt",
+    "bookedOptionNegativePriceNotificationTVCL": "Du kannst diese Option leider nicht online kündigen. Wende Dich bitte an die Kundenbetreuung."
+  },
+  "gc04":
+  {
+    "name"  : "Automated-wfbt_12384_1",
+    "password": "Automated-wfbt_12384_1"
+  },
+  "gc05":
+  {
+    "name"  : "Automated-wfbt_12384_2",
+    "password": "Automated-wfbt_12384_2"
+  },
+  "gc06":
+  {
+    "name"  : "Automated-wfbt_12384_2",
+    "password": "Automated-wfbt_12384_2"
+  },
+  "gc07":
+  {
+    "name"  : "Automated-wfbt_12384_1",
+    "password": "Automated-wfbt_12384_1"
+  },
+  "bc01":
+  {
+    "name"  : "Automated-wfbt_12384_4",
+    "password": "Automated-wfbt_12384_4"
+  }
+}

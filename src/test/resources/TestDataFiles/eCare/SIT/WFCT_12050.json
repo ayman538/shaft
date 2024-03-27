@@ -1,0 +1,110 @@
+{
+  "GC01_MeineRechnungenDSLMarcUserChecksMeineRechnungenPage": {
+    "name": "DSL-Testkunde2WebFactory",
+    "password": "DSLTestkunde2WebFactory",
+    "smartObjectNum": "2"
+  },
+  "GC02_MeineRechnungenDSLMarcUserChecksRechnungsübersichtAccordionInMeineRechnungenPage": {
+    "name": "DSL-Testkunde2WebFactory",
+    "password": "DSLTestkunde2WebFactory"
+  },
+  "GC03_MeineRechnungenDSLMarcUserChecksJahresübersichtAccordionInMeineRechnungenPage": {
+    "name": "DSL-Testkunde2WebFactory",
+    "password": "DSLTestkunde2WebFactory"
+  },
+  "GC04_MeineDatenDSLMarcUserChecksMeineDatenPage": {
+    "name": "DSL-Testkunde2WebFactory",
+    "password": "DSLTestkunde2WebFactory",
+    "smartObjectNum": "7"
+  },
+  "GC05_MeineDatenDSLMarcUserChecksKontaktdatenAccordionInMeineDatenPage": {
+    "name": "DSL-Testkunde2WebFactory",
+    "password": "DSLTestkunde2WebFactory"
+  },
+  "GC06_MeineDatenDSLMarcUserChecksAdressenAccordionInMeineDatenPage": {
+    "name": "DSL-Testkunde2WebFactory",
+    "password": "DSLTestkunde2WebFactory"
+  },
+  "GC07_MeineDatenDSLMarcUserChecksVertragsdatenAccordionInMeineDatenPage": {
+    "name": "DSL-Testkunde2WebFactory",
+    "password": "DSLTestkunde2WebFactory"
+  },
+  "GC08_MeineDatenDSLMarcUserChecksBankverbindungAccordionInMeineDatenPage": {
+    "name": "DSL-Testkunde2WebFactory",
+    "password": "DSLTestkunde2WebFactory"
+  },
+  "GC09_MeineDatenDSLMarcUserChecksKennwortUndZugangsdatenAccordionInMeineDatenPage": {
+    "name": "DSL-Testkunde2WebFactory",
+    "password": "DSLTestkunde2WebFactory"
+  },
+  "GGC10_MeineDatenDSLMarcUserChecksDatenschutzUndWerbeeinstellungenAccordionInMeineDatenPage": {
+    "name": "DSL-Testkunde2WebFactory",
+    "password": "DSLTestkunde2WebFactory"
+  },
+  "GC15_MobileBankDetailsKayDunningUserWithSavedBankDetailsChecksBankDetailsAccordion": {
+    "name": "multi_contracts",
+    "password": "TEST@1234",
+    "contractOrder": "2"
+  },
+  "GC16_MobileBankDetailsKayUserWithSavedBankDetailsEditsBankDetails": {
+    "name": "multi_contracts",
+    "password": "TEST@1234",
+    "contractOrder": "2"
+  },
+  "GC17_MobileBankDetailMarieUserWithSavedBankDetailsChecksBankDetailsAccordion": {
+    "name": "Foxtrot_Team",
+    "password": "TEST@1234",
+    "kontoinhaberValue" : "TEST ACCOUNT",
+    "iBanValue": "DEXX 5001 0517 XXXX XXXX 90",
+    "bicValue": "INGDDEFFXXX",
+    "bankValue": "ING-DiBa Frankfurt am Main"
+
+  },
+  "GC19_MobileAddressesMarieUserWithMultipleAddressesChecksAdressenAccordion": {
+    "name": "multi_contracts",
+    "password": "TEST@1234",
+    "contractOrder": "4"
+  },
+  "GC24_QuickCheckPaulUserChecksQuickCheckPage": {
+    "name": "arno-testcard",
+    "password": "Vodafone2019",
+    "contractOrder": "6",
+    "smartObjectNum": "4"
+  },
+  "GC25_QuickCheckPaulUserChecksGuthabenAufladehistorieAccordion": {
+    "name": "arno-testcard",
+    "password": "Vodafone2019",
+    "contractOrder": "6"
+  },
+  "GC26_QuickCheckPaulUserChecksDatenVerbrauchAccordion": {
+    "name": "arno-testcard",
+    "password": "Vodafone2019",
+    "contractOrder": "6"
+  },
+
+
+"GC27_QuickCheckPaulUserChecksMobilesBezahlenAccordion": {
+  "name": "arno-testcard",
+  "password": "Vodafone2019",
+  "contractOrder": "6"
+
+},
+  "GC28_MobilePasswordKayUserChecksPasswordAccordionInMeineDatenPageAndChangesInternetPassword": {
+    "name": "multi_contracts",
+    "password": "TEST@1234",
+    "contractOrder": "1"
+  },
+  "GC29_MobilePasswordKayUserChecksKundenKennwortAndTeilnehmerKennwortInPasswordAccordion": {
+    "name": "multi_contracts",
+    "password": "TEST@1234",
+    "contractOrder": "1"
+  },
+  "actuelleGuthabenSO": "Aktuelles Guthaben",
+  "actuelleGuthabenAcc": "balanceDetails",
+  "datenSO": "Daten",
+  "datenAcc": "kostendetails",
+  "mobilBezahlenSO": "Mobiles Bezahlen",
+  "mobileBezahlenAcc": "bezahlen-per-handy",
+  "oldPassword": "TEST@1234",
+  "newPassword": "TEST@1234"
+}

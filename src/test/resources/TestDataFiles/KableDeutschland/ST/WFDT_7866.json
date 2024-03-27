@@ -1,0 +1,22 @@
+{
+  "gc01":
+  {
+    "name"  : "martin_CallSettings01",
+    "password": "martin_CallSettings01"
+  },
+  "gc02":
+  {
+    "name"  : "martin_CallSettings02",
+    "password": "martin_CallSettings02"
+  },
+  "gc03":
+  {
+    "name"  : "martin_CallSettings03",
+    "password": "martin_CallSettings03"
+  },
+  "bc04":
+  {
+    "name"  : "martin_CallSettings05",
+    "password": "martin_CallSettings05"
+  }
+}

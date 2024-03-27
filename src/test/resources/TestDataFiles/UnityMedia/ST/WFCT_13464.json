@@ -1,0 +1,27 @@
+{
+  "GC01_UteChangesBankDetailsSuccessfully": {
+    "name": "Ute.add.bank.details",
+    "password": "Ute.add.bank.details",
+    "IBAN": "DE12345"
+  },
+  "GC02_CancelledContractUteUserChecksSettingsAccordion": {
+    "name": "ute.itemized.deactivated",
+    "password": "ute.itemized.deactivated",
+    "cancelledNotificationHeadLine": "Vertrag gekündigt",
+    "cancelledNotificationHeadBody": "Dein Vertrag ist beendet. Darum kannst Du die folgenden Einstellungen nicht ändern."
+  },
+  "GC01_UteDunningUserNotEligibleToAddBankDetails": {
+    "name": "sit.ute.dunning.no.bank.details",
+    "password": "sit.ute.dunning.no.bank.details"
+  },
+  "GC03_UteChangeBankDetailsWithForeignIBAN": {
+    "name": "Ute.add.bank.details",
+    "password": "Ute.add.bank.details",
+    "IBAN": "EG12345"
+  },
+  "GC02_UteFailsToChangeBankDetails": {
+    "name": "Ute.fail.change.bank.details",
+    "password": "Ute.fail.change.bank.details",
+    "IBAN": "DE12345"
+  }
+  }

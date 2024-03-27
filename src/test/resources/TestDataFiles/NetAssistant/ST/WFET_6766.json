@@ -1,0 +1,110 @@
+{
+  "GC01":
+  {
+    "userName"  : "automationTESTt-UM13",
+    "password": "automationTESTt-UM13",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC03":
+  {
+    "userName"  : "automationTESTt-Cable14",
+    "password": "automationTESTt-Cable14",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC04":
+  {
+    "userName"  : "automationTESTt-UM13",
+    "password": "automationTESTt-UM13",
+    "phoneNumber" : "015170107393",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC06":
+  {
+    "userName"  : "automationTESTt-Cable14",
+    "password": "automationTESTt-Cable14",
+    "phoneNumber" : "015170107393",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC07":
+  {
+    "userName"  : "automationTESTt-UM13",
+    "password": "automationTESTt-UM13",
+    "phoneNumber" : "015170107393",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC09":
+  {
+    "userName"  : "automationTESTt-Cable14",
+    "password": "automationTESTt-Cable14",
+    "phoneNumber" : "015170107393",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC10":
+  {
+    "userName"  : "automationTESTt-UM13",
+    "password": "automationTESTt-UM13",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC11":
+  {
+    "userName"  : "automationTESTt-DSL13",
+    "password": "automationTESTt-DSL13",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC12":
+  {
+    "userName"  : "automationTESTt-Cable14",
+    "password": "automationTESTt-Cable14",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC13":
+  {
+    "userName"  : "automationTESTt-UM13",
+    "password": "automationTESTt-UM13",
+    "phoneNumber" : "015170107393",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC14":
+  {
+    "userName"  : "automationTESTt-DSL13",
+    "password": "automationTESTt-DSL13",
+    "phoneNumber" : "015170107393",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC15":
+  {
+    "userName"  : "automationTESTt-Cable14",
+    "password": "automationTESTt-Cable14",
+    "phoneNumber" : "015170107393",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC16":
+  {
+    "userName"  : "automationTESTt-UM13",
+    "password": "automationTESTt-UM13",
+    "phoneNumber" : "015170107393",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC17":
+  {
+    "userName"  : "automationTESTt-DSL13",
+    "password": "automationTESTt-DSL13",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC18":
+  {
+    "userName"  : "automationTESTt-Cable14",
+    "password": "automationTESTt-Cable14",
+    "phoneNumber" : "015170107393",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  }
+}

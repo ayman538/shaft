@@ -1,0 +1,10 @@
+{
+  "userHas_ValidatedEmailAddressAndSwitchedOffNotification_ThenActivatesOnlineBillNotification": {
+    "name": "MVA_DXL_Test051",
+    "password": "Vodafone22!",
+    "contractOrder" : "1",
+    "CTA_Text" : "Benachrichtigung aktivieren",
+    "ConfirmCTA_CL" : "Bestätigen"
+  }
+
+}

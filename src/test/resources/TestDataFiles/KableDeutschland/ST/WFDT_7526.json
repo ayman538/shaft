@@ -1,0 +1,26 @@
+{
+  "gc01": {
+    "name": "KDCallblockNokia01",
+    "password": "KDCallblockNokia01"
+  },
+  "gc02": {
+    "name": "KDCallblockNokia02",
+    "password": "KDCallblockNokia02"
+  },
+  "gc03": {
+    "name": "KDCallblockNokia03",
+    "password": "KDCallblockNokia03"
+  },
+  "gc04": {
+    "name": "KDCallblockNokia04",
+    "password": "KDCallblockNokia04"
+  },
+  "bc01": {
+    "name": "BC_KDCallblockNokia05",
+    "password": "BC_KDCallblockNokia05"
+  },
+  "bc02": {
+    "name": "BC_KDCallblockNokia06",
+    "password": "BC_KDCallblockNokia06"
+  }
+}

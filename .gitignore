@@ -1,0 +1,17 @@
+/.idea/
+/pom.xml/
+/target/
+/allure-results/
+/extent-reports/
+/execution-summary/
+debug.log
+generate_allure_report.bat
+generatedReport_*.zip
+generateJdk.*
+.settings
+.classpath
+.project
+/bin/
+/src/main/resources/properties/default/
+/src/test/resources/META-INF/services/org.testng.ITestNGListener
+/Sample.iml

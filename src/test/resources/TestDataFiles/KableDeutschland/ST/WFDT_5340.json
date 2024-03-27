@@ -1,0 +1,10 @@
+{
+  "gc01": {
+    "name": "martin_GDPR",
+    "password": "martin_GDPR"
+  },
+  "gc02": {
+    "name": "martin_GDPR_SOHO",
+    "password": "martin_GDPR_SOHO"
+  }
+}

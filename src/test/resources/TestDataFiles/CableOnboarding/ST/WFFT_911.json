@@ -1,0 +1,66 @@
+{
+  "GC01":
+  {
+    "urn":"223354521",
+    "header" : "Mehr Infos zu Deinem Kabel-Anschluss",
+    "SubHeader" : "Hier findest Du Antworten, die Dir beim Einrichten Deines Kabel-Anschlusses helfen.",
+    "acc1"  : "Wer installiert meinen Router?",
+    "acc1Description" : "Das kannst Du selbst machen. Es ist wirklich einfach: Du schließt den Router an die Kabel-Dose und ans Stromnetz an. Eine ausführliche Anleitung findest Du hier:",
+    "acc2": "Wann beginnt mein Vertrag?",
+    "acc2Description" : "Dein Vertrag beginnt, sobald Du den Router installiert hast und der Anschluss funktioniert. Falls Du den Router nicht anschließt, wird der Vertrag spätestens nach 14 Tagen aktiviert.",
+    "acc3": "Ab wann kann ich das Internet nutzen?",
+    "acc3Description" : "In der Regel ist Dein Anschluss schon 30 bis 60 Minuten nach der Router-Installation voll funktionsfähig. Hast Du nach über 60 Minuten immer noch keine Internet- oder Telefon-Verbindung, ruf uns bitte an: "
+  },
+
+  "GC02":
+  {
+    "urn" : "223353988",
+    "header" : "Mehr Infos zu Deinem Kabel-Anschluss",
+    "SubHeader" : "Hier findest Du Antworten, die Dir beim Einrichten Deines Kabel-Anschlusses helfen.",
+    "acc1"  : "Wer installiert meinen Router?",
+    "acc1Description" : "Das kannst Du selbst machen. Es ist wirklich einfach: Du schließt den Router an die Kabel-Dose und ans Stromnetz an. Eine ausführliche Anleitung findest Du hier:",
+    "acc2": "Wann beginnt mein Vertrag?",
+    "acc2Description" : "Dein Vertrag beginnt, sobald Du den Router installiert hast und der Anschluss funktioniert. Falls Du den Router nicht anschließt, wird der Vertrag spätestens nach 14 Tagen aktiviert.",
+    "acc3" : "Was ist der Anbieterwechsel?",
+    "acc3Description" : "Du hast noch einen alten DSL-Vertrag bei uns, einen Internet-Vertrag von Unitymedia oder anderen Anbieter:innen? Du willst, dass wir für Dich kündigen und Deine Festnetz-Nummer mitnehmen? Dann nutz unseren Wechselservice:",
+    "acc4": "Ab wann kann ich das Internet nutzen?",
+    "acc4Description" : "In der Regel ist Dein Anschluss schon 30 bis 60 Minuten nach der Router-Installation voll funktionsfähig. Hast Du nach über 60 Minuten immer noch keine Internet- oder Telefon-Verbindung, ruf uns bitte an: "
+
+
+  },
+  "GC03":
+  {
+    "urn" : "223350997",
+    "header" : "Mehr Infos zu Deinem Kabel-Anschluss",
+    "SubHeader" : "Hier findest Du Antworten, die Dir beim Einrichten Deines Kabel-Anschlusses helfen.",
+    "acc1"  : "Wer installiert meinen Router?",
+    "acc1Description": "Das macht unser Installationsservice installiert. Alle weiteren Einstellungen, wie z.B. das Ändern Deines WLAN-Passworts, kannst Du danach selbst erledigen.",
+    "acc2": "Wann beginnt mein Vertrag?",
+    "acc2Description": "Dein Vertrag beginnt, sobald Du den Router installiert hast und der Anschluss funktioniert. Falls Du den Router nicht anschließt, wird der Vertrag spätestens nach 14 Tagen aktiviert.",
+    "acc3": "Ab wann kann ich das Internet nutzen?",
+    "acc3Description": "In der Regel ist Dein Anschluss schon 30 bis 60 Minuten nach der Router-Installation voll funktionsfähig. Hast Du nach über 60 Minuten noch keine Internet- oder Telefon-Verbindung, ruf uns bitte an:",
+    "acc4": "Wie kann ich bei Anbieterwechsel meinen Anschluss sofort aktivieren?",
+    "acc4Description": "Du willst Deinen neuen Kabel-Internet- und Telefon-Anschluss sofort nutzen? Dann verbinde Deinen Rechner mit dem Router und öffne einen Internet-Browser. Sobald Dein Router betriebsbereit ist, erscheint eine Startseite. Da kannst Du Deinen Anschluss mit einem Klick sofort aktivieren."
+  },
+  "GC04":
+  {
+    "urn" : "223355433",
+    "header" : "Mehr Infos zu Deinem Kabel-Anschluss",
+    "SubHeader" : "Hier findest Du Antworten, die Dir beim Einrichten Deines Kabel-Anschlusses helfen.",
+    "acc1"  : "Wer installiert meinen Router?",
+    "acc1Description": "Das macht unser Installationsservice installiert. Alle weiteren Einstellungen, wie z.B. das Ändern Deines WLAN-Passworts, kannst Du danach selbst erledigen.",
+    "acc2": "Wann beginnt mein Vertrag?",
+    "acc2Description": "Dein Vertrag beginnt, sobald Du den Router installiert hast und der Anschluss funktioniert. Falls Du den Router nicht anschließt, wird der Vertrag spätestens nach 14 Tagen aktiviert.",
+    "acc3": "Was ist der Anbieterwechsel?",
+    "acc3Description": "Du hast noch einen alten DSL-Vertrag und lässt uns für Dich kündigen? Das ist ein Anbieterwechsel. Wenn Du willst, kannst Du Deine Festnetz-Rufnummer zu uns mitnehmen.",
+    "acc4": "Ab wann kann ich das Internet nutzen?",
+    "acc4Description": "In der Regel ist Dein Anschluss schon 30 bis 60 Minuten nach der Router-Installation voll funktionsfähig. Hast Du nach über 60 Minuten noch keine Internet- oder Telefon-Verbindung, ruf uns bitte an:",
+    "acc5": "Wie kann ich bei Anbieterwechsel meinen Anschluss sofort aktivieren?",
+    "acc5Description": "Du willst Deinen neuen Kabel-Internet- und Telefon-Anschluss sofort nutzen? Dann verbinde Deinen Rechner mit dem Router und öffne einen Internet-Browser. Sobald Dein Router betriebsbereit ist, erscheint eine Startseite. Da kannst Du Deinen Anschluss mit einem Klick sofort aktivieren.",
+    "acc6": "Was ist der Wechselservice?",
+    "acc6Description": "Du hast noch einen DSL-Vertrag? Kein Problem! Mit unserem Wechselservice kannst Du Deinen neuen Kabel-Internet- und Telefon-Anschluss sofort nutzen. Solange Dein alter Vertrag noch läuft, berechnen wir Dir keinen Basispreis, bis zu 12 Monate lang.",
+    "acc7": "Wie nutze ich den Wechselservice?",
+    "acc7Description": "Füll einfach das Anbieterwechsel-Formular aus. Das hast Du per Post von uns bekommen. Oder wir haben Dir eine E-Mail mit einem Link zum Anbieterwechsel-Formular online geschickt."
+  }
+
+}

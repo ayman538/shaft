@@ -1,0 +1,32 @@
+{
+  "GC01":
+  {
+    "name"  : "Automated-wfbt_8154_1",
+    "password": "Automated-wfbt_8154_1"
+  },
+  "GC02":
+  {
+    "name": "Automated-wfbt_8154_1",
+    "password": "Automated-wfbt_8154_1"
+  },
+  "GC03":
+  {
+    "name": "DslUserToCancelSecureNetPlus",
+    "password": "DslUserToCancelSecureNetPlus"
+  },
+  "GC04":
+  {
+    "name": "Automated-wfbt_8154_2",
+    "password": "Automated-wfbt_8154_2"
+  },
+  "GC05":
+  {
+    "name": "Automated-wfbt_8660_01",
+    "password": "Automated-wfbt_8660_01"
+  },
+  "GC06":
+  {
+    "name": "Automated-wfbt_8154_1",
+    "password": "Automated-wfbt_8154_1"
+  }
+}

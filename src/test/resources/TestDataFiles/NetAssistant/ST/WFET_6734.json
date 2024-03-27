@@ -1,0 +1,156 @@
+{
+  "GC01":
+  {
+    "userName"  : "WFET-6734 - Cable - Inprogress ticket",
+    "password": "WFET-6734 - Cable - Inprogress ticket",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+  "GC02":
+  {
+    "userName"  : "WFET-6734 - UM - Inprogress ticket",
+    "password": "WFET-6734 - UM - Inprogress ticket",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um"
+  },
+  "GC03":
+  {
+    "userName"  : "WFET-6734 - DSL - Inprogress ticket",
+    "password": "WFET-6734 - DSL - Inprogress ticket",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl"
+  },
+  "GC04":
+  {
+    "userName"  : "WFET-6734 - Cable - New ticket",
+    "password": "WFET-6734 - Cable - New ticket"
+  },
+  "GC05":
+  {
+    "userName"  : "WFET-6734 - UM - new ticket",
+    "password": "WFET-6734 - UM - new ticket"
+  },
+  "GC06":
+  {
+    "userName"  : "WFET-6734 - DSL - New ticket",
+    "password": "WFET-6734 - DSL - New ticket",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl"
+  },
+  "GC10":
+  {
+    "userName"  : "WFET-6734 - Cable - No ticket",
+    "password": "WFET-6734 - Cable - No ticket",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+  "GC11":
+  {
+    "userName"  : "WFET-6734 - UM - No ticket",
+    "password": "WFET-6734 - UM - No ticket",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um"
+  },
+  "GC12":
+  {
+    "userName"  : "WFET-6734 - DSL - No ticket",
+    "password": "WFET-6734 - DSL - No ticket",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl"
+  },
+  "GC13":
+  {
+    "userName"  : "WFET-6734 - Cable - Resolved ticket",
+    "password": "WFET-6734 - Cable - Resolved ticket"
+  },
+  "GC14":
+  {
+    "userName"  : "WFET-6734 - UM - resolved ticket",
+    "password": "WFET-6734 - UM - resolved ticket"
+  },
+  "GC15":
+  {
+    "userName"  : "WFET-6734 - DSL - Resolved ticket",
+    "password": "WFET-6734 - DSL - Resolved ticket",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl"
+  },
+  "GC16":
+  {
+    "userName"  : "WFET-6734 - Cable - Inprogress ticket",
+    "password": "WFET-6734 - Cable - Inprogress ticket",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+  "GC17":
+  {
+    "userName"  : "WFET-6734 - UM - new ticket",
+    "password": "WFET-6734 - UM - new ticket",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um"
+  },
+  "GC18":
+  {
+    "userName"  : "WFET-6734 - DSL - No ticket",
+    "password": "WFET-6734 - DSL - No ticket",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl"
+  },
+  "GC19":
+  {
+    "userName"  : "WFET-6734 - Cable - Resolved ticket",
+    "password": "WFET-6734 - Cable - Resolved ticket"
+  },
+  "GC20":
+  {
+    "userName"  : "WFET-6734 - UM - Inprogress ticket",
+    "password": "WFET-6734 - UM - Inprogress ticket"
+  },
+  "GC21":
+  {
+    "userName"  : "WFET-6734 - DSL - Resolved ticket",
+    "password": "WFET-6734 - DSL - Resolved ticket",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl"
+  },
+  "GC25":
+  {
+    "userName"  : "WFET-6734 - Cable - Resolved ticket",
+    "password": "WFET-6734 - Cable - Resolved ticket",
+    "tokenLink" : "netz-assistent/tb?sys=4&token=6734"
+  },
+  "GC26":
+  {
+    "userName"  : "WFET-6734 - UM - Inprogress ticket",
+    "password": "WFET-6734 - UM - Inprogress ticket",
+    "tokenLink" : "netz-assistent/tb?sys=4&token=6739"
+  },
+  "GC27":
+  {
+    "userName"  : "WFET-6734 - DSL - Resolved ticket",
+    "password": "WFET-6734 - DSL - Resolved ticket",
+    "tokenLink" : "netz-assistent/tb?sys=1%26ta%3DTA2830928388%26token%3DTCL83nwKoFEcrdjTQS3zwThoSM7%2BTMYO6UZWvpBh0U8%3D"
+  },
+  "GC28":
+  {
+    "userName"  : "WFET-6734 - Cable - Inprogress ticket",
+    "password": "WFET-6734 - Cable - Inprogress ticket",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+  "GC29":
+  {
+    "userName"  : "WFET-6734 - UM - Inprogress ticket",
+    "password": "WFET-6734 - UM - Inprogress ticket",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um"
+  },
+  "GC30":
+  {
+    "userName"  : "WFET-6734 - DSL - Inprogress ticket",
+    "password": "WFET-6734 - DSL - Inprogress ticket",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl"
+  },
+  "GC31":
+  {
+    "userName"  : "WFET-6734 - Cable - Inprogress ticket",
+    "password": "WFET-6734 - Cable - Inprogress ticket"
+  },
+  "GC32":
+  {
+    "userName"  : "WFET-6734 - UM - Inprogress ticket",
+    "password": "WFET-6734 - UM - Inprogress ticket"
+  },
+  "GC33":
+  {
+    "userName"  : "WFET-6734 - DSL - Inprogress ticket",
+    "password": "WFET-6734 - DSL - Inprogress ticket",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "gc01": {
+    "name": "MartinRouterVisiblity1",
+    "password": "MartinRouterVisiblity1"
+  },
+  "gc02": {
+    "name": "SOHORouterVisiblity",
+    "password": "SOHORouterVisiblity"
+  },
+  "gc03": {
+    "name": "MartinNonRouterVisiblity",
+    "password": "MartinNonRouterVisiblity"
+  },
+  "gc04": {
+    "name": "MartinNonRouterVisiblity",
+    "password": "MartinNonRouterVisiblity"
+  },
+  "gc05": {
+    "name": "MartinRouterSF",
+    "password": "MartinRouterSF"
+  },
+  "gc06": {
+    "name": "SOHONonRouterSF",
+    "password": "SOHONonRouterSF"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "uteUserChangeTheItemizedBillOptionForPhoneNumberFromNoItemizedBillCategoryToCompleteItemizedBillCategory": {
+    "name": "Ute.first.category",
+    "password": "Ute.first.category",
+    "cardOrder": "3",
+    "newBillingType": "Vollständig",
+    "itemizedBillChangedSuccesssfullyMessage" : "Deine Änderung haben wir gespeichert",
+    "dimmedCard" : "Keine Einzelverbindungen"
+  },
+  "uteUserSucceedsToChangeTheItemizedBillOptionForPhoneNumberFromCompleteItemizedBillCategoryToLimitedItemizedBillCategory": {
+    "name": "Ute.second.category",
+    "password": "Ute.second.category",
+    "cardOrder": "2",
+    "newBillingType": "Um die letzten 3 Ziffern gekürzt",
+    "itemizedBillChangedSuccesssfullyMessage" : "Deine Änderung haben wir gespeichert",
+    "dimmedCard" : "Vollständig"
+  },
+  "uteUserSucceedsToChangeTheItemizedBillOptionForPhoneNumberFromLimitedItemizedBillCategoryToNoItemizedBillCategory": {
+    "name": "Ute.third.category",
+    "password": "Ute.third.category",
+    "cardOrder": "1",
+    "newBillingType": "Keine Einzelverbindungen",
+    "itemizedBillChangedSuccesssfullyMessage" : "Deine Änderung haben wir gespeichert",
+    "dimmedCard" : "Um die letzten 3 Ziffern gekürzt"
+  },
+  "uteUserFailsToChangeTheItemizedBillOptionForPhoneNumber": {
+    "name": "Ute.first.category.failure",
+    "password": "Ute.first.category.failure",
+    "cardOrder": "1",
+    "newBillingType": ""
+  },
+  "uteUserSuccessesToChangeTheItemizedBillOptionForPhoneNumberFromNoItemizedBillCategoryToCompleteItemizedBillCategory_6465": {
+    "name": "ute.1.noitemized.success1",
+    "password": "ute.1.noitemized.success1",
+    "cardOrder": "3",
+    "newBillingType": "Vollständig",
+    "radioBtnOrder" : "1",
+    "itemizedBillChangedSuccesssfullyMessage" : "Deine Änderungen haben wir gespeichert",
+    "dimmedCard" : "Keine Einzelverbindungen"
+  },
+  "uteUserSuccessesToChangeTheItemizedBillOptionForPhoneNumberFromCompleteItemizedBillCategoryToLimitedItemizedBillCategory_6465": {
+    "name": "ute.1.limiteditemized.success2",
+    "password": "ute.1.limiteditemized.success2",
+    "cardOrder": "2",
+    "newBillingType": "",
+    "radioBtnOrder" : "6",
+    "itemizedBillChangedSuccesssfullyMessage" : "",
+    "dimmedCard" : "Vollständig"
+  },
+  "uteUserSuccessesToChangeTheItemizedBillOptionForPhoneNumberFromLimitedItemizedBillCategoryToNoItemizedBillCategory_6465": {
+    "name": "ute.1.completeitemized.success3",
+    "password": "ute.1.completeitemized.success3",
+    "cardOrder": "1",
+    "newBillingType": "",
+    "radioBtnOrder" : "3",
+    "itemizedBillChangedSuccesssfullyMessage" : "",
+    "dimmedCard" : "Um die letzten 3 Ziffern gekürzt"
+  },
+
+  "uteUserFailsToChangeTheItemizedBillOptionForPhoneNumber_MultipleCase_6465": {
+    "name": "Ute.first.category.failure",
+    "password": "Ute.first.category.failure",
+    "cardOrder": "1",
+    "newBillingType": ""
+  },
+  "uteUserChecksItemizedBillAccordionWhenHavingMultipleNumbersInLimitedItemizedBillCategoryToNoItemizedBillCategory_5471": {
+    "name": "ute.2.limiteditemized",
+    "password": "ute.2.limiteditemized",
+    "cardOrder": "1",
+    "newBillingType": "Keine Einzelverbindungen",
+    "radioBtnOrder" : "2",
+    "itemizedBillChangedSuccesssfullyMessage" : "Deine Änderungen haben wir gespeichert",
+    "dimmedCard" : "Um die letzten 3 Ziffern gekürzt"
+  },
+
+  "uteUserChecksItemizedBillAccordionWhenHavingMultipleNumbersInCompleteItemizedBillCategoryToLimitedItemizedBillCategory_5471": {
+    "name": "ute.2.completeitemized",
+    "password": "ute.2.completeitemized",
+    "cardOrder": "2",
+    "newBillingType": "Um die letzten 3 Ziffern gekürzt",
+    "radioBtnOrder" : "1",
+    "itemizedBillChangedSuccesssfullyMessage" : "Deine Änderungen haben wir gespeichert",
+    "dimmedCard" : "Vollständig",
+    "firstBillOption": "1",
+    "secondBillOption" : "2",
+    "firstBillOptionMessage" : "Du hast aktuell keine Rufnummern ohne Einzelverbindungsnachweise.",
+    "secondBillOptionMessage" : "Du hast aktuell keine Rufnummern mit gekürzten Einzelverbindungsnachweisen."
+
+  },
+  "uteUserChecksItemizedBillAccordionWhenHaveNoNumbersInItemizedBillCategory_5471": {
+    "name": "Ute.empty.check",
+    "password": "Ute.empty.check",
+    "cardOrder": "",
+    "newBillingType": ""
+  },
+  "UteUserChecksItemizedBillAccordionWhenHavingOneNumberInNoItemizedBillCategory_5471": {
+    "name": "ute.1.noitemized",
+    "password": "ute.1.noitemized",
+    "currentBillingType": "Kein Einzelverbindungsnachweis"
+  },
+
+  "UteUserChecksItemizedBillAccordionWhenHavingOneNumberInCompleteItemizedBillCategory_5471": {
+    "name": "Ute.second.category",
+    "password": "Ute.second.category",
+    "currentBillingType": "Vollständiger Einzelverbindungsnachweis"
+  },
+  "UteUserChecksItemizedBillAccordionWhenHavingOneNumberInLimitedItemizedBillCategory_5471": {
+    "name": "Ute.third.category",
+    "password": "Ute.third.category",
+    "currentBillingType": "Um die letzten 3 Stellen gekürzt"
+  }
+
+}

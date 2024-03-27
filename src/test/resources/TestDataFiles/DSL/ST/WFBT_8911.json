@@ -1,0 +1,12 @@
+{
+  "GC01":
+  {
+    "name"  : "Automated-wfbt_8911_01",
+    "password": "Automated-wfbt_8911_01"
+  },
+  "GC02":
+  {
+    "name": "Automated-wfbt_8911_02",
+    "password": "Automated-wfbt_8911_02"
+  }
+}

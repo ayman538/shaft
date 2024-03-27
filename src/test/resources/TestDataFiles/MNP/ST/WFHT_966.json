@@ -1,0 +1,127 @@
+{
+  "GC01":
+  {
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument"
+  },
+  "GC02":
+  {
+      "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+      "wrongPhoneNumber"  : "Esraa",
+      "phoneNumber"  : "01622507481"
+  },
+  "GC03":
+  {
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481"
+  },
+  "GC04":
+  {
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481"
+  },
+  "GC05":
+  {
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "vorname" : "RORO"
+  },
+  "GC06":
+  {
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "vorname" : "RORO",
+    "nachname" : "Youssef"
+  },
+  "GC07":
+{
+  "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+  "phoneNumber"  : "01622507481",
+  "vorname" : "RORO",
+  "nachname" : "Youssef",
+  "geburtsdatum" :"21.10.1996",
+  "wrongFormatGeburtsdatum" :"21-10-1996"
+
+},
+  "GC08":
+  {
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "vorname" : "RORO",
+    "nachname" : "Youssef",
+    "geburtsdatum" :"21.10.1996",
+    "firmenname" : "VOIS"
+  },
+  "GC09":
+  {
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "vorname" : "RORO",
+    "nachname" : "Youssef",
+    "geburtsdatum" :"21.10.1996",
+    "firmenname" : "VOIS",
+    "wrongPhoneNumber"  : "Esraa"
+  },
+
+  "GC10":
+{
+  "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+  "phoneNumber"  : "01622507481"
+},
+  "GC11":
+  {
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "vorname" : "RORO",
+    "nachname" : "Youssef",
+    "geburtsdatum" :"21.10.1996"
+
+  },
+  "GC12":
+  {
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "vorname" : "RORO",
+    "nachname" : "Youssef",
+    "geburtsdatum" :"21.10.1996"
+
+  },
+  "GC13":
+  {
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481"
+  },
+
+  "GC14":
+  {
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "geburtsdatum" :"21.10.1996",
+    "firmenname" : "VOIS"
+  },
+
+  "GC15":
+  {
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "geburtsdatum" :"21.10.1996",
+    "firmenname" : "VOIS"
+  },
+  "GC16":
+  {
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "vorname" : "RORO",
+    "nachname" : "Youssef",
+    "geburtsdatum" :"21.10.1996"
+
+  },
+  "GC17":
+  {
+    "deeplink": "hilfe/rufnummernmitnahme/portierungsdatendokument",
+    "phoneNumber"  : "01622507481",
+    "vorname" : "RORO",
+    "nachname" : "Youssef",
+    "geburtsdatum" :"21.10.1996"
+
+  }
+}

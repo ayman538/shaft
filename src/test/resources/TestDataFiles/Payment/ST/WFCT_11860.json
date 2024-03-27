@@ -1,0 +1,53 @@
+{
+  "ST_GC01_User_Without_AutoTopUpToChecksTheAccordionAndSOAndCreates_AutoTopUp":
+  {
+    "name"  : "paul.noAutotopup",
+    "password": "paul.noAutotopup",
+    "burgerMenuOrder": "1",
+    "quickCheckListOrder": "1",
+    "tileOrder": "2",
+    "CreditCardNum" : "3700 0000 0100 018",
+    "CreditCardMonth" : "03",
+    "CreditCardYear" : "2030",
+    "CreditCardCvc" : "7373",
+    "CreditCardHolder" : "Max"
+  },
+  "ST_GC02_UserChecksSO_InDashbaord_And_InQuickCheckPage_Check_Active_Check_DeleteFlow":
+  {
+    "name"  : "paul.autoTopUp",
+    "password": "paul.autoTopUp",
+    "tileOrder": "1",
+    "tileActiveStatus": "Aktiv",
+    "SOActiveStatus": "aktiv",
+    "burgerMenuOrder": "1",
+    "quickCheckListOrder": "1"
+  },
+  "ST_GC03_UserChecksSO_InDashbaord_And_InQuickCheckPage_Check_IP_Check_DeleteFlow":
+  {
+    "name"  : "paul.inprogress.11860.auto.topup",
+    "password": "paul.inprogress.11860.auto.topup",
+    "tileOrder": "2",
+    "burgerMenuOrder": "1",
+    "quickCheckListOrder": "1"
+  },
+  "ST_GC04_UserChecksSO_InDashbaord_And_InQuickCheckPage_Check_Blocked_Check_DeleteFlow":
+  {
+    "name"  : "paul.blocked.11860.auto.topup",
+    "password": "paul.blocked.11860.auto.topup",
+    "tileOrder": "2",
+    "tileBlockStatus": "Gesperrt",
+    "SOBlockStatus": "blockiert",
+    "burgerMenuOrder": "1",
+    "quickCheckListOrder": "1"
+  },
+  "ST_GC05_UserChecksSO_InDashbaord_And_InQuickCheckPage_Check_Paused_Check_DeleteFlow":
+  {
+    "name"  : "paul.paused.11860.auto.topup",
+    "password": "paul.paused.11860.auto.topup",
+    "tileOrder": "2",
+    "tilePauseStatus": "Pausiert",
+    "SOPauseStatus": "pausiert",
+    "burgerMenuOrder": "1",
+    "quickCheckListOrder": "1"
+  }
+}

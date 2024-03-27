@@ -1,0 +1,46 @@
+{
+  "GC01":
+  {
+    "name"  : "test2faaa",
+    "password": "test2faaa",
+    "code": "3223322332123456"
+  },
+  "GC02":
+  {
+    "name": "test2faaa",
+    "password": "test2faaa",
+    "code": "3223322332123456",
+    "url": "meinvodafone/account/login?targetURL=%2Fmeinvodafone%2Faccount%2Fverwaltung%2Fueberblick%3Faccordion%3DmanageAccountData"
+  },
+  "GC03":
+  {
+    "name": "test2faaa",
+    "password": "test2faaa",
+    "code": "3223322332"
+  },
+  "BC04":
+  {
+    "name": "test2faaa",
+    "password": "test2faaa",
+    "code":" "
+  },
+
+  "BC05":
+  {
+    "name": "test2faaa",
+    "password": "test2faaa",
+    "code":"01234567890"
+  },
+  "BC06":
+  {
+    "name": "test2faaa",
+    "password": "test2faaa",
+    "code":"7237755756123456"
+  },
+  "BC07":
+  {
+    "name": "test2faaa",
+    "password": "test2faaa",
+    "code":"6226622662123456"
+  }
+}

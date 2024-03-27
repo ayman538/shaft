@@ -1,0 +1,55 @@
+{
+  "GC02": {
+    "urlIdent": "1234",
+    "Header" : "Deine Sendungsverfolgung",
+    "widgetButton" : "Zur Sendungsverfolgung",
+    "widgetHeader"  : "Deine Sendungsverfolgung",
+    "widgetFooter"  : "GLS Germany"
+  },
+  "GC03": {
+    "urlIdent": "5678",
+    "SectionMsg" : "Du hast einen Router bestellt? Dann kannst Du Deine Sendung bald hier verfolgen."
+  },
+  "GC05": {
+    "urlIdent": "9536"
+  },
+  "GC06": {
+    "urlIdent": "9395",
+    "widgetButton" : "Zur Sendungsverfolgung",
+    "widgetHeader"  : "Deine Sendungsverfolgung",
+    "widgetFooter"  : "GLS Germany"
+  },
+  "GC07": {
+    "urlIdent": "9195",
+    "Header" : "Deine Sendungsverfolgung",
+    "widgetButton" : "Zur Sendungsverfolgung",
+    "widgetHeader"  : "Deine Sendungsverfolgung",
+    "widgetFooter"  : "GLS Germany"
+  },
+  "GC08": {
+    "urlIdent": "2468"
+  },
+  "GC04": {
+    "urlIdent": "3675",
+    "Header" : "Deine Sendungsverfolgung",
+    "widgetButton" : "Zur Sendungsverfolgung",
+    "widgetHeader"  : "Deine Sendungsverfolgung",
+    "widgetFooter"  : "GLS Germany"
+  },
+  "GC10": {
+    "urlIdent": "1357",
+    "Header" : "Deine Sendungsverfolgung",
+    "SectionMsg" : "Du hast einen Router bestellt? Dann kannst Du Deine Sendung bald hier verfolgen."
+  },
+  "GC11": {
+    "urlIdent": "9090",
+    "Header" : "Deine Sendungsverfolgung",
+    "SectionMsg" : "Du hast einen Router bestellt? Dann kannst Du Deine Sendung bald hier verfolgen."
+  },
+  "GC12": {
+    "urlIdent": "7788",
+    "Header" : "Deine Sendungsverfolgung",
+    "SectionMsg" : "Du hast einen Router bestellt? Dann kannst Du Deine Sendung bald hier verfolgen."
+  }
+}
+

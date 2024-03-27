@@ -1,0 +1,58 @@
+{
+  "GC01_UteUserWithZeroAmountBillsChecksTheBillChart": {
+    "name": "ute.thirdpartybills.single2",
+    "password": "ute.thirdpartybills.single2"
+   },
+  "GC02_UteUserWithNoBillsRetrievedInSomeMonthsChecksTheBillchart": {
+    "name": "ute.latestNot",
+    "password": "ute.latestNot",
+    "selectedBarOrder":"9"
+  },
+  "GC01_UteUserHasExternalAndInternalBillsForTheLast12MonthsChecksMeineRechnungenPage": {
+    "name": "ute.latestNot",
+    "password": "ute.latestNot",
+    "selectedBarOrder":"12",
+    "notSelectedBarOrder":"11",
+    "dateValue":"20.05.2023",
+    "amountValue":"5,00 €"
+  },
+  "GC03_UteUserHasBillsForTheLast13MonthsChecksMeineRechnungenPage": {
+    "name": "ute.online.noemail",
+    "password": "ute.online.noemail"
+
+  },
+  "GC05_SuspendedUteUserHasBillsChecksMeineRechnungenPage": {
+    "name": "ute.itemized.suspended",
+    "password": "ute.itemized.suspended"
+  },
+  "GC06_CancelledUteUserHasBillsChecksMeineRechnungenPage": {
+    "name": "ute.itemized.deactivated",
+    "password": "ute.itemized.deactivated"
+  },
+  "GC07_UteUserChecksTheBarHeight": {
+    "name": "ute.itemized.deactivated",
+    "password": "ute.itemized.deactivated",
+    "firstBarOrder": "12",
+    "firstBarHeight": "90px",
+    "secondBarOrder": "3",
+    "secondBarHeight": "54.5106px"
+  },
+  "GC08_UteUserCheckTheBillChartInCaseNoAmountIsReturnedInTheBE": {
+    "name": "ute.itemized.deactivated",
+    "password": "ute.itemized.deactivated",
+    "firstBarOrder": "10",
+    "firstBarHeight": "0px"
+  },
+  "GC04_UteUserWithZeroAmount": {
+    "name": "ute.thirdpartybills.single2",
+    "password": "ute.thirdpartybills.single2",
+    "firstBarOrder": "12",
+    "firstBarHeight": "2px"
+  },
+  "GC02_UteUserHasOneBillChecksMeineRechnungenPage": {
+    "name": "ute.one.bill",
+    "password": "ute.one.bill",
+    "firstBarOrder": "12",
+    "firstBarHeight": "90px"
+  }
+}

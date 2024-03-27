@@ -1,0 +1,18 @@
+{
+  "GC01_CheckCancellationNotificationCardHotlineInBookedOptionsKIPPage":
+  {
+    "name"  : "Automated-wfbt_10678_I",
+    "password": "Automated-wfbt_10678_I",
+    "PageHeaderCL": "Internet & Festnetz – Tarif",
+    "CancellationNotificationBodyCL": "Du kannst diese Option leider nicht online kündigen. Wende Dich bitte an die Kundenbetreuung."
+  },
+  "GC02_CheckCancellationNotificationCardHotlineInBookedOptionsTVPage":
+  {
+    "name": "Automated-wfbt_12295_1",
+    "password": "Automated-wfbt_12295_1",
+    "bookedOptionNegativePriceTVCL": "14,99",
+    "bookedOptionCurrencyCL": "€",
+    "bookedOptionNegativePriceTextTVCL": "geschenkt",
+    "bookedOptionNegativePriceNotificationTVCL": "Du kannst diese Option leider nicht online kündigen. Wende Dich bitte an die Kundenbetreuung."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "GC01":
+  {
+    "urn":"223355433",
+    "header": "Richte Dein WLAN ein",
+    "deviceInfo": "Du hast die Eigener Router von uns bekommen. Verbinde Deinen Router jetzt mit dem WLAN. Für den Fall, dass Du Fragen hast, lass Dir hier helfen:",
+    "devicehelpbtn":"Hilfe zur Eigener Router",
+    "videohelpbtn": "Zu den Hilfe-Videos"
+  },
+
+  "GC02": {
+    "urn":"223353332",
+    "header": "Richte Dein WLAN ein",
+    "deviceInfo": "Du hast die HomeBox FRITZ!Box 6591 von uns bekommen. Verbinde Deinen Router jetzt mit dem WLAN. Für den Fall, dass Du Fragen hast, lass Dir hier helfen:",
+    "devicehelpbtn":"Hilfe zur HomeBox FRITZ!Box 6591",
+    "videohelpbtn": "Zu den Hilfe-Videos"
+  }
+
+}

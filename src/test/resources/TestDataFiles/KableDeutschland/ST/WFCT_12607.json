@@ -1,0 +1,28 @@
+{
+  "gc01_userHas_ValidatedEmailAddressAndSwitchedOnNotification_ThenDeactivatesOnlineBillNotification":
+  {
+    "name"  : "martin.activated.notification",
+    "password": "martin.activated.notification",
+    "contractOrder" : "1",
+    "CTA_Text" : "Benachrichtigung deaktivieren",
+    "ConfirmCTA_CL" : "Bestätigen"
+  },
+
+  "gc02_userHas_ValidatedEmailAddressAndSwitchedOffNotification_ThenActivatesOnlineBillNotification":
+  {
+    "name"  : "martin.deactivated.notification",
+    "password": "martin.deactivated.notification",
+    "contractOrder" : "1",
+    "CTA_Text" : "Benachrichtigung aktivieren",
+    "ConfirmCTA_CL" : "Bestätigen"
+  },
+
+  "gc03_userHas_ValidatedEmailAddressAndSwitchedOffNotification_ThenFailedToActivateOnlineBillNotification":
+  {
+    "name"  : "martin.notification.failure",
+    "password": "martin.notification.failure",
+    "contractOrder" : "1",
+    "CTA_Text" : "Benachrichtigung aktivieren",
+    "ConfirmCTA_CL" : "Bestätigen"
+  }
+}

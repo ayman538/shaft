@@ -1,0 +1,48 @@
+{
+  "GC01":
+  {
+    "userName" : "WFET-2397 | ChatbotAutomation | no mass outage",
+    "password" : "WFET-2397 | ChatbotAutomation | no mass outage",
+    "link"  : "netz-assistent/chatbot?i=56685666bd6348de0fe66c9e5fbc2ea93f7cafe4f9c49b1defa651c53f07eb1ef2aa5eb70e76f3d68354ebe6&c=DSL&a=035&p=e20d9275482760bdfc93b7b42d0a1079a3acbad4ab06ca7cabb7d56cbe52c1d32818fce3ab&s=&c_id=hilfe_netzass_dsl",
+    "phoneNumber" : "012312313133",
+    "Steps"  : ["Verkabelung-WLAN","mit Emulator","Nein, weiter mit der bisherigen Kundennummer","Kein Internet","EasyBox 804","WLAN","Leuchtet grün","Leuchtet rot","Die Steckdose funktioniert","Rückruf anfordern","Sofort angerufen werden"]
+  },
+  "GC02":
+  {
+    "userName" : "WFET-5794 | CallBackPreFill | Cable",
+    "password" : "WFET-5794 | CallBackPreFill | Cable",
+    "link"  : "netz-assistent/chatbot?i=6ce68a27b592d1dae3ed0fa8b859d5bc1fc8e3206cf0d8c50456bf7e61dc1c47a152a68d729a3a0d&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip",
+    "phoneNumber" : "015170107393",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet","Compal CH7466CE","LAN-Kabel","Aus","Schalter war aus","Timer überspringen","Problem besteht weiterhin","Kabel ist defekt","Rückruf anfordern"]
+  },
+  "GC03":
+  {
+    "userName" : "WFET-2397 | ChatbotAutomation | no mass outage",
+    "password" : "WFET-2397 | ChatbotAutomation | no mass outage",
+    "link"  : "netz-assistent/chatbot?i=56685666bd6348de0fe66c9e5fbc2ea93f7cafe4f9c49b1defa651c53f07eb1ef2aa5eb70e76f3d68354ebe6&c=DSL&a=035&p=e20d9275482760bdfc93b7b42d0a1079a3acbad4ab06ca7cabb7d56cbe52c1d32818fce3ab&s=&c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Verkabelung-WLAN","mit Emulator","Nein, weiter mit der bisherigen Kundennummer","Kein Internet","EasyBox 804","WLAN","Leuchtet grün","Leuchtet rot","Die Steckdose funktioniert","Rückruf anfordern","Sofort angerufen werden"]
+  },
+  "GC04":
+  {
+    "userName" : "WFET-5794 | CallBackPreFill | Cable",
+    "password" : "WFET-5794 | CallBackPreFill | Cable",
+    "link"  : "netz-assistent/chatbot?i=6ce68a27b592d1dae3ed0fa8b859d5bc1fc8e3206cf0d8c50456bf7e61dc1c47a152a68d729a3a0d&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet","Compal CH7466CE","LAN-Kabel","Aus","Schalter war aus","Timer überspringen","Problem besteht weiterhin","Kabel ist defekt","Rückruf anfordern"]
+  },
+  "GC05":
+  {
+    "userName" : "WFET-2397 | ChatbotAutomation | no mass outage",
+    "password" : "WFET-2397 | ChatbotAutomation | no mass outage",
+    "phoneNumber" : "015170107393",
+    "link"  : "netz-assistent/chatbot?i=56685666bd6348de0fe66c9e5fbc2ea93f7cafe4f9c49b1defa651c53f07eb1ef2aa5eb70e76f3d68354ebe6&c=DSL&a=035&p=e20d9275482760bdfc93b7b42d0a1079a3acbad4ab06ca7cabb7d56cbe52c1d32818fce3ab&s=&c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Verkabelung-WLAN","mit Emulator","Nein, weiter mit der bisherigen Kundennummer","Kein Internet","EasyBox 804","WLAN","Leuchtet grün","Leuchtet rot","Die Steckdose funktioniert","Rückruf anfordern","Sofort angerufen werden"]
+  },
+  "GC06":
+  {
+    "userName" : "WFET-2397 | No MassOutage | Cable",
+    "password" : "WFET-2397 | No MassOutage | Cable",
+    "link"  : "netz-assistent/chatbot?i=6ce68a27b592d1dae3ed0fa8b859d5bc1fc8e3206cf0d8c50456bf7e61dc1c47a152a68d729a3a0d&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip",
+    "phoneNumber" : "015170107393",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet","Compal CH7466CE","LAN-Kabel","Aus","Schalter war aus","Timer überspringen","Problem besteht weiterhin","Kabel ist defekt","Rückruf anfordern"]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "SIT_GC01_UserWithActiveAutoTopUpChangesTheSelectionOfTheNumberWithNoAutoTopUp": {
+    "name": "arno-test2",
+    "password": "Vodafone2019!",
+    "contractNumber": "3",
+    "tileOrder": "3",
+    "numberIndex": "4"
+  }
+}

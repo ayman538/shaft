@@ -1,0 +1,80 @@
+{
+  "SIT_GC01_UserCompletesSuccessfulDunningFlowUsingPaypal":
+  {
+    "name"  : "arno-testcard",
+    "password": "Vodafone2019",
+    "ContractNumber": 1,
+    "PaymentMethod": "PayPal"
+  },
+  "SIT_GC02_UserCompletesSuccessfulDunningFlowUsingAmazonPay":
+  {
+    "name"  : "arno-testcard",
+    "password": "Vodafone2019",
+    "ContractNumber": 2,
+    "PaymentMethod": "Amazon Pay"
+  },
+  "SIT_GC03_UserCompletesSuccessfulDunningFlowUsingSofort":
+  {
+    "name"  : "arno-testcard",
+    "password": "Vodafone2019",
+    "ContractNumber": 1,
+    "PaymentMethod": "Sofort"
+
+  },
+  "SIT_GC04_UserCompletesSuccessfulDunningFlowUsingCreditCardWithout3D": {
+    "name"  : "arno-testcard",
+    "password": "Vodafone2019",
+    "ContractNumber": 2,
+    "PaymentMethod": "Kreditkarte"
+  },
+  "SIT_GC05_UserCompletesSuccessfulDunningFlowUsingCreditCardWith3D": {
+    "name"  : "arno-testcard",
+    "password": "Vodafone2019",
+    "ContractNumber": 1,
+    "PaymentMethod": "Kreditkarte"
+  },
+  "SIT_BC01_UserCompletesFailedDunningFlowUsingSofort": {
+    "name"  : "arno-testcard",
+    "password": "Vodafone2019",
+    "ContractNumber": 2,
+    "PaymentMethod": "Sofort"
+  },
+  "SIT_BC02_UserCompletesFailedDunningFlowUsingCreditCard": {
+    "name"  : "arno-testcard",
+    "password": "Vodafone2019",
+    "ContractNumber": 1,
+    "PaymentMethod": "Kreditkarte"
+  },
+  "SIT_BC03_UserCompletesFailedDunningFlowUsingCreditCardWith3D": {
+    "name"  : "arno-testcard",
+    "password": "Vodafone2019",
+    "ContractNumber": 2,
+    "PaymentMethod": "Kreditkarte"
+  },
+  "PayPalEmail" : "aya.megala@vodafone.com" ,
+  "PayPalPassword" : "123456789*" ,
+  "AmazonPayEmail" : "marcus.labohm@vodafone.com" ,
+  "AmazonPayPassword" : "VodafoneTestBuyer" ,
+  "GooglePayEmail" : "charliewebfactorytesting@gmail.com" ,
+  "GooglePayPassword" : "Vodafone@123",
+  "SofortAccountNum" : "88888888",
+  "SofortPin" : "12345",
+  "SofortTan" : "12345",
+  "CreditCardNum" : "3700 0000 0100 018",
+  "CreditCardMonth" : "03",
+  "CreditCardYear" : "2030",
+  "CreditCardCvc" : "7373",
+  "CreditCardHolder" : "Max",
+  "3D_CreditCardNum" : "3714 4963 5398 431",
+  "3D_CreditCardMonth" : "03",
+  "3D_CreditCardYear" : "2030",
+  "3D_CreditCardCvc" : "7373",
+  "3D_CreditCardHolder" : "Max",
+  "3D_CreditCardPassword" : "password",
+  "ExternalNumber" : "4915222152112",
+  "FailedCreditCardNum" : "4111 1111 1111 1111",
+  "FailedCreditCardMonth" : "12",
+  "FailedCreditCardYear" : "2025",
+  "FailedCreditCardCvc" : "737",
+  "FailedCreditCardHolder" : "Max"
+}

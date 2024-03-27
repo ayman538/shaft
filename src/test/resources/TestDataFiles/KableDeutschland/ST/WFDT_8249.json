@@ -1,0 +1,52 @@
+{
+  "gc01": {
+    "name": "martin_ChangeHomespot01",
+    "password": "martin_ChangeHomespot01"
+  },
+
+  "gc02": {
+    "name": "martin_ChangeHomespot02",
+    "password": "martin_ChangeHomespot02"
+  },
+
+  "gc03": {
+    "name": "martinViewHomespot_03",
+    "password": "martinViewHomespot_03"
+  },
+
+  "gc04": {
+    "name": "martinViewHomespot_04",
+    "password": "martinViewHomespot_04"
+  },
+
+  "gc05": {
+    "name": "martinViewHomespot_05",
+    "password": "martinViewHomespot_05"
+  },
+
+  "gc06": {
+    "name": "martinViewHomespot_06",
+    "password": "martinViewHomespot_06"
+  },
+
+  "gc07": {
+    "name": "MartinBMNoKIP",
+    "password": "MartinBMNoKIP"
+  },
+
+  "gc08": {
+    "name": "martinViewHomespot_09",
+    "password": "martinViewHomespot_09"
+  },
+
+  "bc01": {
+    "name": "martinViewHomespot_07",
+    "password": "martinViewHomespot_07"
+  },
+
+  "bc02": {
+    "name": "martinViewHomespot_07",
+    "password": "martinViewHomespot_07"
+  }
+
+}

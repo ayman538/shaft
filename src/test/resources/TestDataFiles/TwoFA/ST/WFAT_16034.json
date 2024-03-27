@@ -1,0 +1,27 @@
+{
+  "GC01":
+  {
+    "name": "Leg2FANotAct",
+    "password": "Leg2FANotAct"
+  },
+  "GC02":
+  {
+    "name": "Leg2FANoBU",
+    "password": "Leg2FANoBU"
+  },
+  "GC03":
+  {
+    "name": "Sol2FA10BU",
+    "password": "Sol2FA10BU"
+  },
+  "GC04":
+  {
+    "name"  : "Sol2FA2BU",
+    "password": "Sol2FA2BU"
+  },
+  "GC05":
+  {
+    "name": "Sol2FA0BU",
+    "password": "Sol2FA0BU"
+  }
+}

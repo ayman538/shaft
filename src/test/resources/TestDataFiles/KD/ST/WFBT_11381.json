@@ -1,0 +1,12 @@
+{
+  "GC01_CheckNegativePriceInKIP":
+  {
+    "name"  : "Automated-wfbt_12295_1",
+    "password": "Automated-wfbt_12295_1"
+  },
+  "GC02_CheckNegativePriceInTV":
+  {
+    "name"  : "Automated-wfbt_12295_1",
+    "password": "Automated-wfbt_12295_1"
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "WFET_2557":
+  {
+    "net-assistant-draft": "feature-set-wfet-3016-migrate-to-httpclient",
+    "simplicity-draft":"develop"
+  },
+  "WFET_2701":
+  {
+    "net-assistant-draft": "feature-set-wfet-2701-cable-ticket-details-cr",
+    "simplicity-draft":"develop"
+  },
+  "WFET_1984":
+  {
+    "net-assistant-draft": "feature-wfet-4645-appointments-dsl",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p"
+  },
+  "WFET_3067":
+  {
+    "ecare-draft": "feature-set-um-tracking-update",
+    "simplicity-draft":"develop"
+  },
+  "WFET_3016":
+  {
+    "net-assistant-draft": "develop",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p",
+    "nodeAppEnvironment": "SIT"
+  },
+  "WFET_3266":
+  {
+    "net-assistant-draft": "feature-set-um-tickets-handling",
+    "simplicity-draft":"feature-set-um-tickets-handling"
+  },
+  "WFET_3269":
+  {
+    "net-assistant-draft": "feature-set-um-tickets-handling",
+    "simplicity-draft":"feature-set-um-tickets-handling",
+    "netzEnvironment": "non-prd-p"
+  },
+  "WFET_3066":
+  {
+    "net-assistant-draft": "feature-set-cable-technician-appointment",
+    "simplicity-draft":"develop",
+    "netzEnvironment": "non-prd-p"
+  },
+  "WFET_3316":
+  {
+    "net-assistant-draft": "feature-set-um-technician-appointment-handling",
+    "simplicity-draft":"develop",
+    "netzEnvironment": "non-prd-p"
+  },
+  "WFET_3453":
+  {
+    "net-assistant-draft": "feature-set-um-technician-appointment-handling",
+    "simplicity-draft":"develop",
+    "netzEnvironment": "non-prd-p"
+  },
+  "WFET_3452":
+  {
+    "net-assistant-draft": "feature-set-um-technician-appointment-handling",
+    "simplicity-draft":"develop",
+    "netzEnvironment": "non-prd-p"
+  },
+  "WFET_3143":
+  {
+    "net-assistant-draft": "feature-set-cable-token-deeplink",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p"
+  },
+  "WFET_3807":
+  {
+    "net-assistant-draft": "feature-wfet-4645-appointments-dsl",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p"
+  },
+  "WFET_3862":
+  {
+    "netzEnvironment": "non-prd-p"
+  },
+  "WFET_3345":
+  {
+    "net-assistant-draft": "feature-wfet-4645-appointments-dsl",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p"
+  },
+  "WFET_3454":
+  {
+    "net-assistant-draft":"feature-set-unity-media-token-deeplink",
+    "simplicity-draft":"develop",
+    "netzEnvironment": "direct-non-prd-p"
+  },
+  "WFET_4087":
+  {
+    "net-assistant-draft":"develop",
+    "simplicity-draft":"develop",
+    "netzEnvironment": "non-prd-p"
+  },
+  "WFET_4194":
+  {
+    "net-assistant-draft":"feature-set-dsl-ticket-management-usecase",
+    "simplicity-draft":"feature-wfet-4194-dsl-ticket-management-usecase",
+    "netzEnvironment": "non-prd-p"
+  },
+  "WFET_3925":
+  {
+    "net-assistant-draft":"feature-set-invalid-dsl-token-failure",
+    "simplicity-draft":"develop",
+    "netzEnvironment": "direct-non-prd-p"
+  },
+  "WFET_2841": {
+    "net-assistant-draft": "feature-wfet-4645-appointments-dsl",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p"
+  },
+  "WFET_2919":
+  {
+    "net-assistant-draft": "feature-wfet-4645-appointments-dsl",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "direct-non-prd-p"
+  },
+  "WFET_2929":
+  {
+    "net-assistant-draft": "feature-wfet-4645-appointments-dsl",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p"
+
+  },
+  "WFET_3298":
+  {
+    "net-assistant-draft": "feature-wfet-4645-appointments-dsl",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p"
+  },
+  "WFET_4087":
+  {
+    "net-assistant-draft": "feature-wfet-4645-appointments-dsl",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p"
+  },
+  "WFET_4446": {
+    "net-assistant-draft":"feature-set-dsl-expired-deeplink",
+    "netzEnvironment": "non-prd-p"
+  },
+  "WFET_4649": {
+    "net-assistant-draft":"develop",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p"
+  },
+  "WFET_5508": {
+    "net-assistant-draft": "feature-set-chatbot-mint-authentication",
+    "simplicity-draft": "feature-set-chatbot-mint-authentication",
+    "ecare-draft": "feature-set-chatbot-mint-authentication",
+    "netzEnvironment": "direct-non-prd-p",
+    "nodeAppEnvironment":"SIT"
+  },
+  "WFET_5511": {
+    "net-assistant-draft": "feature-set-chatbot-mint-authentication",
+    "simplicity-draft": "feature-set-chatbot-mint-authentication",
+    "ecare-draft": "feature-set-chatbot-mint-authentication",
+    "netzEnvironment": "direct-non-prd-p",
+    "nodeAppEnvironment":"SIT"
+  },
+  "WFET_5741": {
+    "net-assistant-draft": "feature-set-wfet-5741-remove-banner",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p",
+    "nodeAppEnvironment":"SIT"
+  },
+  "WFET_5081": {
+    "net-assistant-draft": "feature-set-wfet-5081-tickets-new-access-point",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p",
+    "nodeAppEnvironment":"SIT"
+  },
+  "WFET_4548": {
+    "net-assistant-draft": "feature-wfet-4548-dsl-technichian-appointment",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "direct-non-prd-p",
+    "nodeAppEnvironment":"SIT"
+  },
+  "WFET_5909": {
+    "net-assistant-draft": "feature-set-wfet-5909-register-for-mein-vodafone",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p",
+    "nodeAppEnvironment":"SIT"
+  },
+  "WFET_6170": {
+    "net-assistant-draft": "develop",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p",
+    "nodeAppEnvironment": "SIT"
+  },
+  "WFET_2397": {
+    "net-assistant-draft": "develop",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p",
+    "nodeAppEnvironment": "SIT"
+  },
+  "WFET_3926": {
+    "net-assistant-draft": "develop",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p",
+    "nodeAppEnvironment": "SIT"
+  },
+  "WFET_4181": {
+    "net-assistant-draft": "develop",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p",
+    "nodeAppEnvironment": "SIT"
+  },
+  "WFET_5034": {
+    "net-assistant-draft": "develop",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p",
+    "nodeAppEnvironment": "SIT"
+  },
+  "WFET_5385": {
+    "net-assistant-draft": "develop",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p",
+    "nodeAppEnvironment": "SIT"
+  },
+  "WFET_6439": {
+    "net-assistant-draft": "feature-set-callback-for-um",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p",
+    "nodeAppEnvironment":"SIT"
+  },
+  "WFET_3345": {
+    "net-assistant-draft": "feature-wfi-666-st-updated-develop",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p",
+    "nodeAppEnvironment":"SIT"
+  },
+  "WFET_5246": {
+    "net-assistant-draft": "feature-wfi-666-st-updated-develop",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p",
+    "nodeAppEnvironment":"SIT"
+  },
+  "WFET_5194": {
+    "net-assistant-draft": "feature-wfi-666-st-updated-develop",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p",
+    "nodeAppEnvironment":"SIT"
+  },
+  "WFET_5991": {
+    "net-assistant-draft": "feature-wfi-666-st-updated-develop",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p",
+    "nodeAppEnvironment": "SIT"
+  },
+  "WFET_5794": {
+    "net-assistant-draft": "feature-wfi-666-st-updated-develop",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p",
+    "nodeAppEnvironment":"SIT"
+  },
+  "WFET_5522": {
+    "net-assistant-draft": "feature-wfi-666-st-updated-develop",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p",
+    "nodeAppEnvironment":"SIT"
+  },
+  "WFET_6449": {
+    "net-assistant-draft": "feature-wfet-6449-time-date-picker",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p",
+    "nodeAppEnvironment":"SIT"
+  },
+  "WFET_6766": {
+    "net-assistant-draft": "feature-set-wfet-6766-change-mandatory-fields",
+    "simplicity-draft": "develop",
+    "netzEnvironment": "non-prd-p",
+    "nodeAppEnvironment": "SIT"
+  },
+  "WFET_6906": {
+    "net-assistant-draft": "feature-set-wfet-6906-info-button-input-fields",
+    "simplicity-draft": "feature-set-wfet-6906-info-button-input-fields",
+    "netzEnvironment": "non-prd-p",
+    "nodeAppEnvironment":"SIT"
+  }
+}

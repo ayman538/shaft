@@ -1,0 +1,17 @@
+{
+  "gc01":
+  {
+    "name"  : "Martin-GenerateSIP-PW",
+    "password": "Martin-GenerateSIP-PW"
+  },
+  "gc02":
+  {
+    "name"  : "Martin-GenerateSIP-PW",
+    "password": "Martin-GenerateSIP-PW"
+  },
+  "bc01":
+  {
+    "name"  : "Martin-FailGenerateSIP-PW",
+    "password": "Martin-FailGenerateSIP-PW"
+  }
+}

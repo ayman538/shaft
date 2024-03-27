@@ -1,0 +1,8 @@
+{
+  "GC02_MarieWithMoreThan12BillsCheckRechnungTableInMeineRechnungen":
+  {
+    "name"  : "multi_contracts",
+    "password": "TEST@1234",
+    "contractOrder": "2"
+  }
+}

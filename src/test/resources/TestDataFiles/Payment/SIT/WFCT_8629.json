@@ -1,0 +1,19 @@
+{
+  "GC01_PaulUserCompletesSuccessfulTopUpUsingIban":
+  {
+    "name"  : "arno-test2",
+    "password": "Vodafone2019!",
+    "contractOrder": "3",
+    "saved_payment_method_number": "1",
+    "rufnummerValue": "015222488160",
+    "amountValue": "5,00 €",
+    "paymentMethodValue": "SEPA-Lastschrift: (**** **** ****"
+  },
+  "GC02_PaulUserChecksTopUpWithIbanForAnotherNumber":
+  {
+    "name"  : "arno-test2",
+    "password": "Vodafone2019!",
+    "contractOrder": "3",
+    "saved_payment_method_number": "2"
+  }
+}

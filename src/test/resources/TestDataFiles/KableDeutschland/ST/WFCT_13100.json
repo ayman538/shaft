@@ -1,0 +1,24 @@
+{
+  "GC05_MartinUserSohoChangesItemizedBillSettingFromNoIndividualConnectionsToCompleteSuccessfully": {
+    "name": "martin.soho.change.complete",
+    "password": "martin.soho.change.complete",
+    "selectedOption": "Kein Einzelverbindungsnachweis",
+    "newOption": "Vollständiger Einzelverbindungsnachweis",
+    "optionOrder": "1"
+  },
+  "GC06_MartinUserSohoChangesItemizedBillSettingFromNoIndividualConnectionsToShortenedSuccessfully": {
+    "name": "martin.soho.change.digits",
+    "password": "martin.soho.change.digits",
+    "selectedOption": "Kein Einzelverbindungsnachweis",
+    "newOption": "Um die letzten 3 Stellen gekürzt",
+    "optionOrder": "1"
+
+  },
+  "GC07_MartinUserSohoChangesItemizedBillSettingFromCompleteToNoIndividualConnectionsSuccessfully": {
+    "name": "martin.soho.change.NoIndividual",
+    "password": "martin.soho.change.NoIndividual",
+    "selectedOption": "Vollständiger Einzelverbindungsnachweis",
+    "newOption": "Kein Einzelverbindungsnachweis",
+    "optionOrder": "3"
+  }
+}

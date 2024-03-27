@@ -1,0 +1,26 @@
+{
+  "gc01":{
+    "name": "martin_changingCD_01",
+    "password": "martin_changingCD_01",
+  },
+  "gc02":{
+    "name": "martin_changingCD_02",
+    "password": "martin_changingCD_02"
+  },
+  "gc03":{
+    "name": "martin_changingCD_03",
+    "password": "martin_changingCD_03"
+  },
+  "gc04":{
+    "name": "martin_changingCD_04",
+    "password": "martin_changingCD_04"
+  },
+  "bc01":{
+    "name": "martin_changingCD_05",
+    "password": "martin_changingCD_05"
+  },
+  "bc02":{
+    "name": "martin_changingCD_06",
+    "password": "martin_changingCD_06"
+  }
+}

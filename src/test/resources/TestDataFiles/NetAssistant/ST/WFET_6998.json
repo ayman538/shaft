@@ -1,0 +1,62 @@
+{
+  "GC13": {
+    "name": "WFET-6998-Hadeer-Cable3",
+    "password": "WFET-6998-Hadeer-Cable3",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+  "GC14": {
+    "name": "WFET-6998-Hadeer-Cable3",
+    "password": "WFET-6998-Hadeer-Cable3",
+    "link": "netz-assistent/?icmp=mvw_db_netzass_kip"
+  },
+  "GC15": {
+    "name": "WFET-6889-Hadeer-UM",
+    "password": "WFET-6889-Hadeer-UM",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+  "GC16": {
+    "name": "WFET-6889-Hadeer-UM",
+    "password": "WFET-6889-Hadeer-UM",
+    "link": "netz-assistent/?icmp=mvw_db_netzass_kip"
+  },
+  "GC09": {
+    "name": "WFET-5993-Hadeer-Cable2-nomass",
+    "password": "WFET-5993-Hadeer-Cable2-nomass",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+  "GC10": {
+    "name": "WFET-5993-Hadeer-Cable2-nomass",
+    "password": "WFET-5993-Hadeer-Cable2-nomass",
+    "link": "netz-assistent/?icmp=mvw_db_netzass_kip"
+  },
+  "GC11": {
+    "name": "WFET-5993-Hadeer-UM2-nomass",
+    "password": "WFET-5993-Hadeer-UM2-nomass",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+  "GC12": {
+    "name": "WFET-5993-Hadeer-UM2-nomass",
+    "password": "WFET-5993-Hadeer-UM2-nomass",
+    "link": "netz-assistent/?icmp=mvw_db_netzass_kip"
+  },
+  "GC01": {
+    "name": "WFET-5993-Hadeer-Cable1-mass",
+    "password": "WFET-5993-Hadeer-Cable1-mass",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+  "GC02": {
+    "name": "WFET-5993-Hadeer-Cable1-mass",
+    "password": "WFET-5993-Hadeer-Cable1-mass",
+    "link": "netz-assistent/?icmp=mvw_db_netzass_kip"
+  },
+  "GC03": {
+    "name": "WFET-5993-Hadeer-UM1-mass",
+    "password": "WFET-5993-Hadeer-UM1-mass",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+  "GC04": {
+    "name": "WFET-5993-Hadeer-UM1-mass",
+    "password": "WFET-5993-Hadeer-UM1-mass",
+    "link": "netz-assistent/?icmp=mvw_db_netzass_kip"
+  }
+}

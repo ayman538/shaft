@@ -1,0 +1,21 @@
+{
+  "GC02_paulTNUserWithThreeOffersSameTypeCheckPointsOffersInTheDashboard":
+  {
+    "name"  : "prodtest03",
+    "password": "GerKonPu1999",
+    "offersCount": "3",
+    "offer1text": "Mehr Daten. Gleicher Preis. Für Alle.",
+    "offer2text": "25 % mehr Daten für Dich — zum gleichen Preis!",
+    "offer3text": "Mehr Daten. Gleicher Preis. Für Alle.",
+    "contractOrder": "2"
+  },
+  "GC05_paulUserWithInformativeOfferCheckPointsOffersInTheDashboard":
+  {
+    "name"  : "multi_contracts",
+    "password": "TEST@1234",
+    "informativeOfferOverlayDescription": "Ab dem 17. Oktober 2023 bekommen unsere CallYa-Tarife mehr Datenvolumen. Die Änderungen betreffen die CallYa-Tarife Allnet Flat S, M und L.",
+    "informativeOfferOverlayTitle" : "Mehr Daten zum gleichen Preis in unseren CallYa-Tarifen!",
+    "offer1text": "Mehr Daten zum gleichen Preis in unseren CallYa-Tarifen!",
+    "contractOrder": "22"
+  }
+}

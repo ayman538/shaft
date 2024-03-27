@@ -1,0 +1,22 @@
+{
+  "GC01_UteUserWithoutAnyBankDetailsSuccessfullyAddsHisBankDetails": {
+    "name": "UnityRechnung",
+    "password": "Unity2021!",
+    "contractOrder": "4",
+    "validIban": "DE86300700100002508000"
+  },
+  "GC03_UteUserTriesToAddHisBankDetailsWithAForeignIban": {
+    "name": "UnityRechnung",
+    "password": "Unity2021!",
+    "contractOrder": "4",
+    "foreignIban": "GB29NWBK60161331926819"
+
+  },
+  "GC01_ValidateThatDunningUserIsNotEligibleToAddHisBankDetails": {
+    "name": "hussein.hakim@vodafone.com",
+    "password": "TEST@1234",
+    "contractOrder": "1"
+
+
+  }
+}

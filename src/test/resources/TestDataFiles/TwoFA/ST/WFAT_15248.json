@@ -1,0 +1,39 @@
+{
+  "GC01":
+  {
+    "name"  : "test2faaa",
+    "password": "test2faaa",
+    "code": "123345"
+  },
+  "GC02":
+  {
+    "name": "test2faaa",
+    "password": "test2faaa"
+
+  },
+  "GC03":
+  {
+    "name": "test2faaa",
+    "password": "test2faaa",
+    "code": ""
+  },
+  "GC04":
+  {
+    "name": "test2faaa",
+    "password": "test2faaa",
+    "code":"1234567"
+  },
+
+  "GC05":
+  {
+    "name": "test2faaa",
+    "password": "test2faaa",
+    "code":"272727"
+  },
+  "GC06":
+  {
+    "name": "test2faaa",
+    "password": "test2faaa",
+    "code":"626262"
+  }
+}

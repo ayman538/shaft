@@ -1,0 +1,32 @@
+{
+  "GC01":
+  {
+    "name"  : "SophiePrivacyManagement01",
+    "password": "SophiePrivacyManagement01"
+  },
+  "GC02":
+  {
+    "name"  : "SophiePrivacyManagement01",
+    "password": "SophiePrivacyManagement01"
+  },
+  "GC03":
+  {
+    "name"  : "SophiePrivacyManagement01",
+    "password": "SophiePrivacyManagement01"
+  },
+  "GC04":
+  {
+    "name"  : "SophiePrivacyManagement01",
+    "password": "SophiePrivacyManagement01"
+  },
+  "BC01":
+  {
+    "name"  : "SophiePrivacyManagement02",
+    "password": "SophiePrivacyManagement02"
+  },
+  "BC02":
+  {
+    "name"  : "SophiePrivacyManagement03",
+    "password": "SophiePrivacyManagement03"
+  }
+}

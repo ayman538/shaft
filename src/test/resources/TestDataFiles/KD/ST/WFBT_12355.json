@@ -1,0 +1,24 @@
+{
+  "GC01": {
+    "name": "WFBT12355gc1",
+    "password": "WFBT12355gc1"
+  },
+  "GC02": {
+    "name": "WFBT12355gc2",
+    "password": "WFBT12355gc2",
+    "meinTarifKudnumber": "972510528"
+  },
+  "GC03": {
+    "name": "WFBT12355gc3",
+    "password": "WFBT12355gc3",
+    "clsTarifKudnumber": "972510527"
+  },
+  "GC04": {
+    "name": "WFBT12355gc4",
+    "password": "WFBT12355gc4"
+  },
+  "GC05": {
+    "name": "WFBT12355gc5",
+    "password": "WFBT12355gc5"
+  }
+}

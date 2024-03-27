@@ -1,0 +1,10 @@
+{
+  "GC02_MarieDunningCheckAmountRepresentationInDashboardBillTableAndGraph":
+  {
+    "name"  : "arno-testcard",
+    "password": "Vodafone2019",
+    "amount": "149,59 €",
+    "secondMonthOrder": 4,
+    "contractOrder": "1"
+  }
+}

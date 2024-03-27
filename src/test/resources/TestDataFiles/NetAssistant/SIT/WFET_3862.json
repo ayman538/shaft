@@ -1,0 +1,25 @@
+{
+  "GC01_Cable_user":
+  {
+    "link": "https://www.vodafone.de/netz-assistent/chatbot?i=0b293c33112137122285920270b0ed4eb028d19a2741e9f22a3efa3dca5550613dec72c32d3923efc8&c=&a=&p=&s=&c_id=hilfe_netzass_kip"
+  },
+  "GC02_Cable_user":
+  {
+    "link"  : "https://www.vodafone.de/netz-assistent/chatbot?i=&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip"
+  },
+  "GC03_Cable_user":
+  {
+    "link": "https://www.vodafone.de/netz-assistent/chatbot?i=&c=&a=&p=&s=&c_id=hilfe_netzass_kip"
+  },
+  "GC01_UM_user":
+  {
+  "link":"https://www.vodafone.de/netz-assistent/chatbot?i=8d105d40922517b49d53cf5f8e847b91c2e0e5bf0c244873d2e3a350407549c05cd384cba607a4e244&c=UM&a=&p=&s=NRW&c_id=hilfe_netzass_um"
+  },
+  "GC495_Cable_user":
+  {
+    "link":"https://www.vodafone.de/netz-assistent/chatbot?i=4baccb6eb9df3216a2ed8a82786d294a5acd46ccc12c9e8f1a332714651f35d3ceb7985f80eed23&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip"
+  },
+  "SIT_GC2741": {
+    "link": "https://www.vodafone.de/meinvodafone/public/netzassistent/review?product=cable"
+  }
+}

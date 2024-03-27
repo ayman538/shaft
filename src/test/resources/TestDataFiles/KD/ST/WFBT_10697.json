@@ -1,0 +1,52 @@
+{
+  "assertOnMeinTariffAccordion":
+  {
+    "name"  : "Automated-wfbt_10697_1",
+    "password": "Automated-wfbt_10697_1"
+  },
+  "validateTariffView":
+  {
+    "name"  : "Automated-wfbt_10697_2",
+    "password": "Automated-wfbt_10697_2"
+  },
+  "validateThatNotificationAppearsOnce":
+  {
+    "name"  : "Automated-wfbt_10697_2",
+    "password": "Automated-wfbt_10697_2"
+  },
+  "checkThatEachTariffLinkedToASmartCard":
+  {
+    "name"  : "Automated-wfbt_10697_2",
+    "password": "Automated-wfbt_10697_2"
+  },
+  "assertOnOneTariffAppearance":
+  {
+    "name"  : "Automated-wfbt_10697_3",
+    "password": "Automated-wfbt_10697_3"
+  },
+  "checkOnTarifeOhneSmartCard":
+  {
+    "name"  : "Automated-wfbt_10697_4",
+    "password": "Automated-wfbt_10697_4"
+  },
+  "checkStaticNotification":
+  {
+    "name"  : "Automated-wfbt_10697_5",
+    "password": "Automated-wfbt_10697_5"
+  },
+  "assertOnBookedOptionsStaticCard":
+  {
+    "name"  : "Automated-wfbt_10697_6",
+    "password": "Automated-wfbt_10697_6"
+  },
+  "validateOnAllProducts":
+  {
+    "name": "Automated-wfbt_10697_7",
+    "password":"Automated-wfbt_10697_7"
+  },
+  "assertOnNotificationBEError":
+  {
+    "name": "Automated-wfbt_10697_8",
+    "password":"Automated-wfbt_10697_8"
+  }
+}

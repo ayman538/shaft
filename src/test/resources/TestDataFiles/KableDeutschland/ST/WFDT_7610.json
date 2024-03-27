@@ -1,0 +1,26 @@
+{
+  "gc01": {
+    "name": "martinPhoneLine_01",
+    "password": "martinPhoneLine_01"
+  },
+  "gc02": {
+    "name": "martinPhoneLine_02",
+    "password": "martinPhoneLine_02"
+  },
+  "gc03": {
+    "name": "martinPhoneLine_03",
+    "password": "martinPhoneLine_03"
+  },
+  "gc04": {
+    "name": "martinPhoneLine_01",
+    "password": "martinPhoneLine_01"
+  },
+  "gc05": {
+    "name": "martinPhoneLine_05",
+    "password": "martinPhoneLine_05"
+  },
+  "bc01": {
+    "name": "martinPhoneLine_04",
+    "password": "martinPhoneLine_04"
+  }
+}

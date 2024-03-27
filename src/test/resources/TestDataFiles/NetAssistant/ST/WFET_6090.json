@@ -1,0 +1,115 @@
+{
+  "GC01":
+  {
+    "userName"  : "WFET-6090 -Cable -Neu Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "password": "WFET-6090 -Cable -Neu Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "ContactNumber" : "012312313133"
+  },
+  "GC02":
+  {
+    "userName"  : "WFET-6090 -Cable - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "password": "WFET-6090 -Cable - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "ContactNumber" : "012312313133"
+  },
+  "GC03":
+  {
+    "userName"  : "WFET-6090 -UM-Neu Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "password" : "WFET-6090 -UM-Neu Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+  "GC04":
+  {
+    "userName"  : "WFET-6090 -UM-In Progress Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "password": "WFET-6090 -UM-In Progress Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+  "GC05":
+  {
+    "userName"  : "WFET-6090 -DSL-Neu Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "password": "WFET-6090 -DSL-Neu Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "ContactNumber" : "012312313133"
+  },
+  "GC06":
+  {
+  "userName"  : "WFET-6090 -DSL -In Progress Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+  "password": "WFET-6090 -DSL -In Progress Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl"
+  },
+  "GC07":
+  {
+    "userName"  : "WFET-6090 -Cable -Neu Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "password": "WFET-6090 -Cable -Neu Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "ContactNumber" : "60906091"
+  },
+  "GC08":
+  {
+    "userName"  : "WFET-6090 -Cable -Neu Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "password": "WFET-6090 -Cable -Neu Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "ContactNumber" : "60906090"
+  },
+  "GC09":
+  {
+    "userName"  : "WFET-6090 -UM-Neu Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "password" : "WFET-6090 -UM-Neu Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+  "GC10":
+  {
+    "userName"  : "WFET-6090 -UM-In Progress Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "password": "WFET-6090 -UM-In Progress Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "deeplink" : "netz-assistent/chatbot?c_id=hilfe_netzass_kip"
+  },
+  "GC17":
+  {
+    "userName"  : "WFET-6090 -DSL-No Tickets - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "password": "WFET-6090 -DSL-No Tickets - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl"
+  },
+  "GC18":
+  {
+    "userName"  : "WFET-6090 -DSL-Closed Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "password": "WFET-6090 -DSL-Closed Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl"
+  },
+  "GC19":
+  {
+    "userName"  : "WFET-6090 -Cable-No Tickets - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "password": "WFET-6090 -Cable-No Tickets - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "deeplink" : "netz-assistent/chatbot?c_id=hilfe_netzass_kip"
+  },
+  "GC20":
+  {
+    "userName"  : "WFET-6090 -Cable-Closed Tickets - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "password": "WFET-6090 -Cable-Closed Tickets - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "deeplink" : "netz-assistent/chatbot?c_id=hilfe_netzass_kip"
+  },
+  "GC21":
+  {
+    "userName"  : "WFET-6090 -Cable-resolved Tickets - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "password": "WFET-6090 -Cable-resolved Tickets - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "deeplink" : "netz-assistent/chatbot?c_id=hilfe_netzass_kip"
+  },
+  "GC22":
+  {
+    "userName"  : "WFET-6090 -UM-No Tickets - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "password": "WFET-6090 -UM-No Tickets - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "deeplink" : "netz-assistent/chatbot?c_id=hilfe_netzass_kip"
+  },
+  "GC23":
+  {
+    "userName"  : "WFET-6090 -UM-Resolved Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "password": "WFET-6090 -UM-Resolved Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "deeplink" : "netz-assistent/chatbot?c_id=hilfe_netzass_kip"
+  },
+  "GC24":
+  {
+    "userName"  : "WFET-6090 -UM-Closed Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "password": "WFET-6090 -UM-Closed Ticket - NA - Ticket Management | Redirection to ticket overview for logged-in customers",
+    "deeplink" : "netz-assistent/chatbot?c_id=hilfe_netzass_kip"
+  }
+}

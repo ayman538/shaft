@@ -1,0 +1,21 @@
+{
+
+  "ST_GC02": {
+    "name": "WFET-3926 | ChatbotAutomation | DSL",
+    "password": "WFET-3926 | ChatbotAutomation | DSL",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_FormularOneColumn"]
+  },
+  "ST_GC04": {
+    "name": "WFET-3926 | Cable",
+    "password": "WFET-3926 | Cable",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "ST_GC06": {
+    "name": "WFET-3926 | UM",
+    "password": "WFET-3926 | UM",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  }
+}

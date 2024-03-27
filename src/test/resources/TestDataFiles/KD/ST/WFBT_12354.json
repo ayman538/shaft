@@ -1,0 +1,27 @@
+{
+  "GC01": {
+    "name": "TVUserMainandCLST12354",
+    "password": "TVUserMainandCLST12354",
+    "BookedOptionsHeaderCL": "Deine gebuchten Optionen für:",
+    "BookedOptionsSubLineCL": "Diese Optionen ergänzen Deinen Tarif im Moment. Du willst etwas ändern? Hier siehst Du, wann Du eine Option kündigen kannst:"
+  },
+  "GC02": {
+    "name": "TVUserMainandCLST12354",
+    "password": "TVUserMainandCLST12354",
+    "HeaderOfFirstBookedOptionFSCL": "GigaTV Multiroom 2 Apple TV - Erweiterung zu GigaTV Cable",
+    "HeaderOfFirstBookedOptionSSCL": "Vodafone Cable (1.-2. Monat 0 €)",
+    "HeaderOfFirstBookedOptionFCCL": "Premium Extra"
+  },
+  "GC03": {
+    "name": "TVUserCLSOnly12354",
+    "password": "TVUserCLSOnly12354",
+    "CLSBookedOptionsHeaderCL": "Optionen auf Deiner Kundennummer 976378734",
+    "CLSBookedOptionsSubLineCL": "Diese Optionen ergänzen Deinen Tarif im Moment. Du willst etwas ändern? Hier siehst Du, wann Du eine Option kündigen kannst:"
+  },
+  "GC04": {
+    "name": "TVUserMainTOnly12354",
+    "password": "TVUserMainTOnly12354",
+    "CLSBookedOptionsHeaderCL": "Optionen auf Deiner Smart card 071026194860",
+    "CLSBookedOptionsSubLineCL": "Diese Optionen ergänzen Deinen Tarif im Moment. Du willst etwas ändern? Hier siehst Du, wann Du eine Option kündigen kannst:"
+  }
+}

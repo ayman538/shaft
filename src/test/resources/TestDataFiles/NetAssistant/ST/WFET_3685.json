@@ -1,0 +1,20 @@
+{
+  "GC01":
+  {
+    "userName" : "WFET-3685 | Cable | TrachMyTechie",
+    "userpassword" : "WFET-3685 | Cable | TrachMyTechie",
+    "link" : "netz-assistent/tb?sys=4&token=9595"
+  },
+  "GC02":
+  {
+    "userName" : "Ismail-US3754",
+    "userpassword" : "Ismail-US3754",
+    "link" : "netz-assistent/tb?sys=4&token=9393"  },
+
+  "GC06":
+  {
+    "userName" : "Ismail-US3754",
+    "userpassword" : "Ismail-US3754",
+    "link" : "netz-assistent/tb?sys=4&token=9595"
+  }
+}

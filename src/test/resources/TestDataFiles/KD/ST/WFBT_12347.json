@@ -1,0 +1,29 @@
+{
+  "gc01":
+  {
+    "name"  : "KIPUserCLSandMain",
+    "password": "KIPUserCLSandMain",
+    "firstTariff_MeinTariff" : "Red Internet & Phone 200 Cable FOC",
+    "secondTariff_CLSTariff" : "Vodafone Basic TV Cable",
+    "clsTariffID": " Tarife Deiner Kundennummer 972510527 "
+  },
+  "gc02":
+  {
+    "name"  : "KIPUserCLSOnly",
+    "password": "KIPUserCLSOnly",
+    "clsTariffOnly_NameCL" : "clsTariffOnly_NameCL"
+  },
+  "gc03":
+  {
+    "name"  : "KIPUserMainTariffOnly",
+    "password": "KIPUserMainTariffOnly",
+    "meinTariffOnly_NameCL" : "Paket Comfort 1.-3. Monat 9,90 €"
+
+  },
+  "gc04":
+  {
+    "name"  : "KIPUserMainTariffNoPrice",
+    "password": "KIPUserMainTariffNoPrice",
+    "startDate": "Vertragsnummer"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "GC01": {
+    "name": "martin6001",
+    "password": "martin6001",
+    "tabHeader": "Meine Verbrauchskosten",
+    "tabSubHeader": "Seit der vorigen Rechnung angefallene Kosten, die noch nicht in Rechnung gestellt wurden.",
+    "tailHeader": "Aktuelle Kosten für Telefon",
+    "tailSubHeader": "Hier kannst Du die Details zu Deinen Telefongesprächen anschauen. Die Zahl auf der rechten Seite zeigt die Anzahl der Gespräche an.",
+    "numberHeader": "Meine Verbrauchskosten",
+    "numberSubHeader": "Die Preise für Telefongespräche sind Netto-Beträge."
+
+  },
+  "GC02": {
+    "name": "martin6002",
+    "password": "martin6002",
+    "tabHeader": "Meine Verbrauchskosten",
+    "tabSubHeader": "Seit der vorigen Rechnung angefallene Kosten, die noch nicht in Rechnung gestellt wurden.",
+    "tailHeader": "Aktuelle Kosten für Telefon",
+    "tailSubHeader": "Hier kannst Du die Details zu Deinen Telefongesprächen anschauen. Die Zahl auf der rechten Seite zeigt die Anzahl der Gespräche an.",
+    "numberHeader": "Meine Verbrauchskosten",
+    "numberSubHeader": "Die Preise für Telefongespräche sind Netto-Beträge."
+
+  },
+  "GC03": {
+    "name": "martin6003",
+    "password": "martin6003",
+    "tabHeader": "Meine Verbrauchskosten",
+    "tabSubHeader": "Seit der vorigen Rechnung angefallene Kosten, die noch nicht in Rechnung gestellt wurden.",
+    "tailHeader": "Aktuelle Kosten für Telefon",
+    "tailSubHeader": "Hier kannst Du die Details zu Deinen Telefongesprächen anschauen. Die Zahl auf der rechten Seite zeigt die Anzahl der Gespräche an.",
+    "numberHeader": "Meine Verbrauchskosten",
+    "numberSubHeader": "Die Preise für Telefongespräche sind Netto-Beträge."
+
+  },
+  "GC04": {
+    "name": "martin6004",
+    "password": "martin6004",
+    "tabHeader": "Meine Verbrauchskosten",
+    "tabSubHeader": "Seit der vorigen Rechnung angefallene Kosten, die noch nicht in Rechnung gestellt wurden.",
+    "tailHeader": "Aktuelle Kosten für Telefon",
+    "tailSubHeader": "Hier kannst Du die Details zu Deinen Telefongesprächen anschauen. Die Zahl auf der rechten Seite zeigt die Anzahl der Gespräche an.",
+    "numberHeader": "Meine Verbrauchskosten",
+    "numberSubHeader": "Die Preise für Telefongespräche sind Netto-Beträge."
+
+  },
+  "GC05": {
+    "name": "martin6005",
+    "password": "martin6005",
+    "tabHeader": "Meine Verbrauchskosten",
+    "tabSubHeader": "Seit der vorigen Rechnung angefallene Kosten, die noch nicht in Rechnung gestellt wurden.",
+    "tailHeader": "Aktuelle Kosten für Telefon",
+    "tailSubHeader": "Hier kannst Du die Details zu Deinen Telefongesprächen anschauen. Die Zahl auf der rechten Seite zeigt die Anzahl der Gespräche an.",
+    "noCallsHeader": "Wichtig für Dich",
+    "noCallsSubHeader": "Du hast im Moment keine Kosten für Telefongespräche."
+
+  },
+  "GC06": {
+    "name": "martin6006",
+    "password": "martin6006",
+    "tabHeader": "Meine Verbrauchskosten",
+    "tabSubHeader": "Seit der vorigen Rechnung angefallene Kosten, die noch nicht in Rechnung gestellt wurden.",
+    "tailHeader": "Aktuelle Kosten für Telefon",
+    "tailSubHeader": "Hier kannst Du die Details zu Deinen Telefongesprächen anschauen. Die Zahl auf der rechten Seite zeigt die Anzahl der Gespräche an.",
+    "noCallsHeader": "Wichtig für Dich",
+    "noCallsSubHeader": "Du hast im Moment keine Kosten für Telefongespräche."
+
+  },
+  "GC07": {
+    "name": "martin6007",
+    "password": "martin6007",
+    "tabHeader": "Meine Verbrauchskosten",
+    "tabSubHeader": "Seit der vorigen Rechnung angefallene Kosten, die noch nicht in Rechnung gestellt wurden.",
+    "tailHeader": "Aktuelle Kosten für Telefon",
+    "tailSubHeader": "Hier kannst Du die Details zu Deinen Telefongesprächen anschauen. Die Zahl auf der rechten Seite zeigt die Anzahl der Gespräche an.",
+    "notBookedHeader": "Wichtig für Dich",
+    "notBookedSubHeader": "Du siehst hier keine Einträge, weil Du für den Bereich Telefon keinen Einzelverbindungsnachweis gebucht hast."
+
+  },
+  "GC08": {
+    "name": "martin6008",
+    "password": "martin6008",
+    "tabHeader": "Meine Verbrauchskosten",
+    "tabSubHeader": "Seit der vorigen Rechnung angefallene Kosten, die noch nicht in Rechnung gestellt wurden.",
+    "tailHeader": "Aktuelle Kosten für Telefon",
+    "tailSubHeader": "Hier kannst Du die Details zu Deinen Telefongesprächen anschauen. Die Zahl auf der rechten Seite zeigt die Anzahl der Gespräche an.",
+    "notActiveHeader": "Wichtig für Dich",
+    "notActiveSubHeader": "Du hast im Moment keinen Einzelverbindungsnachweis gebucht. Du willst das ändern? Dann klick einfach unten auf den Button und richte alles ein.",
+    "activationButton": "Einzelverbindungsnachweis aktivieren"
+  }
+}

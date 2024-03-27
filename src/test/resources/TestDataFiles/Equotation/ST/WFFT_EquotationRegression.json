@@ -1,0 +1,83 @@
+{
+  "GC01": {
+    "guidNum": "4329",
+    "headerText": "Reparatur-Auftrag bestätigen",
+    "PostalCode": "99981",
+    "DashboardHeader": "Ihr Reparaturauftrag",
+    "OrderDetailsSectionHeader": "Auftragsdetails",
+    "DeviceDetailsSectionHeader": "Ihr Gerät",
+    "DeviceNameCL": "Art. Bezeichnung:",
+    "ArticleNumberCL": "Artikel Nr.:",
+    "SerialNumberCL": "Serialnummer:",
+    "FirstOptionCL": "Ich möchte, dass Vodafone das Gerät repariert. Den genannten Reperaturauftrag zahle ich per Rechnung. ",
+    "SecondOptionCL": "Ich möchte das Gerät unrepariert zurück. Dafür berechnet Vodafone 3,87 Euro als Prüfpauschale. Ich zahle die Prüfpauschale per Rechnung. ",
+    "ThirdOptionCL": "Ich möchte, dass Vodafone das Gerät kostenlos entsorgt.",
+    "AcceptTermsCL": "Hiermit akzeptiere ich die ",
+    "ConfirmationHeader": "Ihr Reparaturauftrag",
+    "ConfirmationHeadline": "Auftragsdetails",
+    "ConfirmationMessageTitle": "Geschafft!",
+    "ConfirmationMessageText": "Wir haben Ihre Antwort erhalten und bearbeiten Ihren Auftrag wie gewünscht.",
+    "CustSectionHeader": "Ihr Gerät"
+  },
+  "GC02": {
+    "guidNum": "4328",
+    "headerText": "Reparatur-Auftrag bestätigen",
+    "PostalCode": "99982",
+    "DashboardHeader": "Ihr Reparaturauftrag",
+    "OrderDetailsSectionHeader": "Auftragsdetails",
+    "DeviceDetailsSectionHeader": "Ihr Gerät",
+    "DeviceNameCL": "Art. Bezeichnung:",
+    "ArticleNumberCL": "Artikel Nr.:",
+    "SerialNumberCL": "Serialnummer:",
+    "NotRepairableFirstOptionCL": "Ich möchte das Gerät unrepariert zurück. Dafür berechnet Vodafone 3,87 Euro als Prüfpauschale. Ich zahle die Prüfpauschale per Rechnung. ",
+    "NotRepairableSecondOptionCL": "Ich möchte, dass Vodafone das Gerät kostenlos entsorgt.",
+    "AcceptTermsCL": "Hiermit akzeptiere ich die ",
+    "ConfirmationHeader": "Ihr Reparaturauftrag",
+    "ConfirmationHeadline": "Auftragsdetails",
+    "ConfirmationMessageTitle": "Geschafft!",
+    "ConfirmationMessageText": "Wir haben Ihre Antwort erhalten und bearbeiten Ihren Auftrag wie gewünscht.",
+    "CustSectionHeader": "Ihr Gerät"
+  },
+  "GC03":
+  {
+    "guidNum": "100",
+    "LettersAndNumbersPostalCode": "123ab" ,
+    "LettersAndSpecialCharactersPostalCode" : "abc@#",
+    "NumbersAndSpecialCharactersPostalCode" : "123&%",
+    "WrongPostalCode": "123",
+    "lettersPostalCode": "abcde" ,
+    "IncorrectPostalCode": "31190",
+    "InvalidFormatErrorMsg": "Vertippt? Die Postleitzahl war leider falsch. Bitte versuchen Sie es nochmal.",
+    "ErrorMsg": "Bitte geben Sie nur Zahlen und maximal 5 Ziffern ein."
+  },
+  "GC05":
+  {
+    "guidNum": "4325",
+    "headerText": "Reparatur-Auftrag bestätigen",
+    "titleText" : "Mit Ihrer Postleitzahl bestätigen",
+    "contentText" : "Geben Sie Ihre Postleitzahl ein, um Ihren Reparatur-Auftrag zu bestätigen und anzusehen.",
+    "postalcodeText" : "Postleitzahl ",
+    "RequiredText": "Pflichtfeld",
+    "submitButton" : "Bestätigen"
+
+
+  },
+  "GC07":
+  {
+    "guidNum": "9875",
+    "blockepostalcode" : "12345",
+    "submitButton" : "Bestätigen",
+    "AllTriesheaderText": "Reparatur-Auftrag bestätigen",
+    "AllTriestitleText" : "Sie haben die maximale Anzahl an Versuchen eingegeben.",
+    "AllTriescontentText" : "Bitte rufen Sie uns unter der 0800 172 1212 an, kostenlos aus allen deutschen Netzen."
+  },
+  "GC08":
+  {
+    "guidNum": "123",
+    "Expiredpostalcode" : "22222",
+    "submitButton" : "Bestätigen",
+    "ExpiredheaderText": "Reparatur-Auftrag bestätigen",
+    "ExpiredtitleText" : "Huch!",
+    "ExpiredcontentText" : "Entweder haben Sie die 14-tägige Frist verpasst und wir senden Ihnen das Gerät zurück oder wir haben bereits Ihre Antwort erhalten und bearbeiten Ihren Auftrag."
+  }
+}

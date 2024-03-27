@@ -1,0 +1,26 @@
+{
+  "gc01":
+  {
+    "name"  : "Martin-SuccMultiSmrtCard",
+    "password": "Martin-SuccMultiSmrtCard"
+
+  },
+  "gc02":
+  {
+    "name"  : "Martin-WaitMultiSmrtCard",
+    "password": "Martin-WaitMultiSmrtCard"
+
+  },
+  "gc03":
+  {
+    "name"  : "Martin-FailMultiSmrtCard",
+    "password": "Martin-FailMultiSmrtCard"
+
+  },
+  "gc04":
+  {
+    "name"  : "Martin-FailPartMultiSmrtCard",
+    "password": "Martin-FailPartMultiSmrtCard"
+
+  }
+}

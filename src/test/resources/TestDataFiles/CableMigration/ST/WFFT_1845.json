@@ -1,0 +1,61 @@
+{
+  "GC01": {
+    "name": "martin.Onlynormal.single11",
+    "password": "martin.Onlynormal.single11",
+    "headerText": "Meine Rechnungen",
+    "tableHeadline": "Rechnungsarchiv",
+    "tableSubHeadline": "Hier findest Du alle Deine Rechnungen als PDF-Dokumente. Und die Verbindungsübersichten der letzten 6 Monate, falls Du sie gebucht hast. Du kannst Dir alle Details anschauen und die Dokumente herunterladen.",
+    "tableFirstColumnName": "Datum",
+    "tableSecondColumnName": "Betrag",
+    "tableThirdColumnName": "Produktart",
+    "tableFourthColumnName": "Rechnung",
+    "tableFifthColumnName": "Verbindungs\u00ADübersicht"
+  },
+  "GC02": {
+    "name": "martin.Onlynormal.single81",
+    "password": "martin.Onlynormal.single81",
+    "headerText": "Meine Rechnungen",
+    "tableHeadline": "Rechnungsarchiv",
+    "tableSubHeadline": "Hier findest Du alle Deine Rechnungen als PDF-Dokumente. Und die Verbindungsübersichten der letzten 6 Monate, falls Du sie gebucht hast. Du kannst Dir alle Details anschauen und die Dokumente herunterladen.",
+    "tableFirstColumnName": "Datum",
+    "tableSecondColumnName": "Betrag",
+    "tableThirdColumnName": "Produktart",
+    "tableFourthColumnName": "Rechnung",
+    "tableFifthColumnName": "Verbindungs\u00ADübersicht"
+  },
+  "GC03": {
+    "name": "martin.Onlynormal.single21",
+    "password": "martin.Onlynormal.single21",
+    "headerText": "Meine Rechnungen",
+    "tableHeadline": "Rechnungsarchiv",
+    "tableSubHeadline": "Hier findest Du alle Deine Rechnungen als PDF-Dokumente. Und die Verbindungsübersichten der letzten 6 Monate, falls Du sie gebucht hast. Du kannst Dir alle Details anschauen und die Dokumente herunterladen.",
+    "tableFirstColumnName": "Datum",
+    "tableSecondColumnName": "Betrag",
+    "tableThirdColumnName": "Produktart",
+    "tableFourthColumnName": "Rechnung",
+    "tableFifthColumnName": "Verbindungs\u00ADübersicht",
+    "tableFirstAmount": "0,00 €"
+  },
+  "GC16": {
+    "name": "martin.Onlynormal.single11",
+    "password": "martin.Onlynormal.single11",
+    "headerText": "Meine Rechnungen",
+    "tableHeadline": "Rechnungsarchiv",
+    "tableSubHeadline": "Hier findest Du alle Deine Rechnungen als PDF-Dokumente. Und die Verbindungsübersichten der letzten 6 Monate, falls Du sie gebucht hast. Du kannst Dir alle Details anschauen und die Dokumente herunterladen.",
+    "tableFirstProductName": "Kabelanschluss",
+    "tableSecondProductName": "Internet & Telefon",
+    "tableThirdProductName": "Kabel Digital",
+    "tableFourProductName": "Hotspot",
+    "tableFiveProductName": "Sammelrechnung",
+    "tableSixProductName": "Rechnung Sonderdienste",
+    "tableSevenProductName": "Produktart nicht gefunden"
+  },
+  "GC10": {
+    "name": "martin.Onlynormal.single51",
+    "password": "martin.Onlynormal.single51",
+    "headerText": "Meine Rechnungen",
+    "tableHeadline": "Rechnungsarchiv",
+    "tableSubHeadline": "Hier findest Du alle Deine Rechnungen als PDF-Dokumente. Und die Verbindungsübersichten der letzten 6 Monate, falls Du sie gebucht hast. Du kannst Dir alle Details anschauen und die Dokumente herunterladen.",
+    "pdfNotReturnedErrorMsg": "PDF-Dokument kann gerade nicht geladen werden"
+  }
+}

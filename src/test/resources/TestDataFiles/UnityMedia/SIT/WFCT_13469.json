@@ -1,0 +1,8 @@
+{
+  "GC01_SuspendedUteUserChecksBillSettingsAccordion": {
+    "name": "hussein.hakim@vodafone.com",
+    "password": "TEST@1234",
+    "suspendedNotificationHeadLine": "Zahlungsrückstand",
+    "suspendedNotificationBody": "Dein Konto ist gesperrt. Zurzeit kannst Du es nur eingeschränkt nutzen und nichts ändern."
+  }
+}

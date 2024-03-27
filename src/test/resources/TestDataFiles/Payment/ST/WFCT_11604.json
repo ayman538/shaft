@@ -1,0 +1,33 @@
+{
+  "paulUserHasNoAutoTopUpClicksOnAutomatischeAufladung": {
+    "name": "paul.noAutoTopUp.thenActivate",
+    "password": "paul.noAutoTopUp.thenActivate",
+    "contractOrder": "1"
+  },
+  "paulUserHasNoAutoTopUpClicksOnEinmaligeDirektaufladung": {
+    "name": "paul.noAutoTopUp.thenActivate",
+    "password": "paul.noAutoTopUp.thenActivate",
+    "contractOrder" : "1"
+  },
+  "paulUserHasAutoTopUpChecksTopUpPage": {
+    "name": "paul.autoTopUp",
+    "password": "paul.autoTopUp",
+    "contractOrder" : "1"
+  },
+  "paulUserHasLegacyTopUpChecksPaymentLegacyPagesExistance": {
+    "name": "paul.legacyAutoTopUp",
+    "password": "paul.legacyAutoTopUp",
+    "contractOrder" : "1",
+    "burgerMenuOrder" : "1",
+    "quickCkeckListOrder" : "1"
+  },
+  "paulUserChecksPaymentLegacyPagesExistanceWithDeepLinks": {
+    "name": "paul.legacyAutoTopUp",
+    "password": "paul.legacyAutoTopUp",
+    "link1": "meinvodafone/services/autodebit/options",
+    "link2": "meinvodafone/services/autodebit/activate",
+    "link3": "meinvodafone/services/autodebit/rechargeAmount",
+    "link4": "meinvodafone/services/aufladen/direkt-aufladung",
+    "linkAfterRedirection" : "meinvodafone/services/"
+  }
+}

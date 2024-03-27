@@ -1,0 +1,17 @@
+{
+  "GC01_PeterUserChecksTheInvoiceSummaryPage":
+  {
+    "name"  : "user1735873211 ",
+    "password": "TEST@1234",
+    "invoiceMonth": "April",
+    "invoiceAmount": "0,00 €",
+    "accountNumber"  : "114864893",
+    "billPeriod": "27.03.2023 - 26.04.2023",
+    "billDate": "26.04.2023",
+    "invoiceDetails1_Name": "Basispreis / Paketpreis (monatlich)",
+    "invoiceDetails2_Name": "Zu Ihren Gunsten",
+    "invoiceDetails1_Value": "64,99 €",
+    "invoiceDetails2_Value": "-64,99 €",
+    "i": 2
+  }
+}

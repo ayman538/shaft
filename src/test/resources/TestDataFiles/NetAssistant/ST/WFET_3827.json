@@ -1,0 +1,35 @@
+{
+  "GC04":
+  {
+    "userName" : "Ismail_US4649_Cable_TechnicianAppointment",
+    "password" : "Ismail_US4649_Cable_TechnicianAppointment",
+    "Link" : "netz-assistent/tickets/review?i=f9e83978032434a7fcb2dd324349eb1cb1eeabb354c4429ab24f3c58896d18b6f6deb84e0f107c9f&c=cable&a=&p=&c_id=hilfe_netzass_kip"
+  },
+  "GC01":
+  {
+    "userName" : "Ismail_US4649_UM_TechnicianAppointment",
+    "password" : "Ismail_US4649_UM_TechnicianAppointment",
+    "Link" : "netz-assistent/tickets/review?i=c25a9f5111b0bf8f8c8240e7210901fe481eff35082500760fba006bd5f58cdef6edbff84c0690d7&c=um&s=NRW&icmp=mvw_db_netzass_um"
+  },
+  "GC03":
+  {
+    "Link" : "netz-assistent/tb?sys=4&token=4648"
+  },
+  "GC06":
+  {
+    "Link": "netz-assistent/tb?sys=4&token=4649"
+  },
+  "GC05":
+  {
+    "userName" : "WFET-3827 | Cable | TechAppointment",
+    "password" : "WFET-3827 | Cable | TechAppointment",
+    "Link" : "netz-assistent/tickets/review?i=fa762e27a4e0a570cbe9bb7513a446a48cfca92bb149f552b4f515d4a153fa78337cb73c1af0bb12&c=cable&icmp=mvw_db_netzass_kip"
+    },
+
+  "GC02":
+  {
+    "userName" : "WFET-3452 | UM | Set technician appointments",
+    "password" : "WFET-3452 | UM | Set technician appointments",
+    "Link" : "netz-assistent/tickets/review?i=d4940b24355728886a4a8f3406364dbbfdc8ffc94b33f9e729055bc3915735f014d7df9dc5afe1bc&c=um&s=NRW&icmp=mvw_db_netzass_um"
+  }
+}

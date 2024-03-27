@@ -1,0 +1,49 @@
+{
+  "gc01": {
+    "name": "TVUserCancelledCLSTOnly",
+    "password": "TVUserCancelledCLSTOnly",
+    "TVUserCancelledCLSTOnly_Title": "Tarif gekündigt",
+    "TVUserCancelledCLSTOnly_Body": "Bis wann Du Deinen Tarif noch nutzen kannst, findest Du in Deiner Kündigungsbestätigung."
+  },
+
+  "gc02": {
+    "name": "TVUserCancelledMainTOnly",
+    "password": "TVUserCancelledMainTOnly",
+    "TVUserCancelledMainTOnly_Title": "Tarif gekündigt",
+    "TVUserCancelledMainTOnly_Body": "Bis wann Du Deinen Tarif noch nutzen kannst, findest Du in Deiner Kündigungsbestätigung."
+  },
+
+  "gc03": {
+    "name": "TVUserAactiveMainTandCancelledCLST",
+    "password": "TVUserAactiveMainTandCancelledCLST",
+    "TVUserAactiveMainTandCancelledCLST_Title": "Tarif gekündigt",
+    "TVUserAactiveMainTandCancelledCLST_Body": "Bis wann Du Deinen Tarif noch nutzen kannst, findest Du in Deiner Kündigungsbestätigung."
+  },
+
+  "gc04": {
+    "name": "TVUserAactiveMainTandCancelledCLST",
+    "password": "TVUserAactiveMainTandCancelledCLST",
+    "TVUserAactiveMainTandCancelledCLST_Body": "Laufzeit bis 12.05.2024"
+  },
+
+  "gc05": {
+    "name": "TVUserCancelledMainTandActiveCLST",
+    "password": "TVUserCancelledMainTandActiveCLST",
+    "TVUserCancelledMainTandActiveCLST_Title": "Tarif gekündigt",
+    "TVUserCancelledMainTandActiveCLST_Body": "Einer Deiner Tarife ist gekündigt. Das Vertragsende siehst Du in den Details unten und in Deiner Kündigungsbestätigung."
+  },
+
+  "gc06": {
+    "name": " TVUserMultipleMainTandOneMainTCancelled",
+    "password": " TVUserMultipleMainTandOneMainTCancelled",
+    "TVUserMultipleMainTandOneMainTCancelled_Title": "Tarif gekündigt",
+    "TVUserMultipleMainTandOneMainTCancelled_Body": "Einer Deiner Tarife ist gekündigt. Das Vertragsende siehst Du in den Details unten und in Deiner Kündigungsbestätigung."
+  },
+
+  "gc07": {
+    "name": "TVUserMultipleMainTandTwoMainTCancelled",
+    "password": "TVUserMultipleMainTandTwoMainTCancelled",
+    "TVUserMultipleMainTandTwoMainTCancelled_Title": "Tarif gekündigt",
+    "TVUserMultipleMainTandTwoMainTCancelled_Body": "Bis wann Du Deinen Tarif noch nutzen kannst, findest Du in Deiner Kündigungsbestätigung."
+  }
+}

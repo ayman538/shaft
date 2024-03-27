@@ -1,0 +1,56 @@
+{
+  "GC01_PeterUserHasNoItemizedBillBookedCheckKostenubersichtTab": {
+    "name": "peter.not.booked",
+    "password": "peter.not.booked",
+    "itemizedBillWarningIconRowNum": "",
+    "itemizedBillBlockingIconRowNum": ""
+  },
+  "GC02_PeterUserHasItemizedBillBookedButNoUsageCheckKostenubersichtTab": {
+    "name": "peter.booked.noRetrieved",
+    "password": "peter.booked.noRetrieved",
+    "itemizedBillWarningIconRowNum": "1",
+    "itemizedBillBlockingIconRowNum": ""
+  },
+  "GC03_PeterUserHasItemizedBillPartiallyBookedCheckKostenubersichtTab": {
+    "name": "peter.partially.booked",
+    "password": "peter.partially.booked",
+    "itemizedBillWarningIconRowNum": "",
+    "itemizedBillBlockingIconRowNum": "1"
+  },
+  "GC04_PeterUserHasItemizedBillPartiallyBookedWithPdfNotRetrievedCheckKostenubersichtTab": {
+    "name": "peter.partially.booked.notRetrieved",
+    "password": "peter.partially.booked.notRetrieved",
+    "itemizedBillWarningIconRowNum": "1",
+    "itemizedBillBlockingIconRowNum": "2"
+  },
+  "GC05_BartUserHasNoItemizedBillBookedCheckKostenubersichtTab": {
+    "name": "bart.Kost.notBooked",
+    "password": "bart.Kost.notBooked",
+    "itemizedBillWarningIconRowNum": "",
+    "itemizedBillBlockingIconRowNum": ""
+  },
+  "GC06_KayUserHasItemizedBillBookedButNoUsageCheckKostenubersichtTab": {
+    "name": "kay.Kost.notRetrieved",
+    "password": "kay.Kost.notRetrieved",
+    "itemizedBillWarningIconRowNum": "1",
+    "itemizedBillBlockingIconRowNum": ""
+  },
+  "GC07_KayUserHasItemizedBillPartiallyBookedCheckKostenubersichtTab": {
+    "name": "kay.Kost.partiallyBooked",
+    "password": "kay.Kost.partiallyBooked",
+    "itemizedBillWarningIconRowNum": "",
+    "itemizedBillBlockingIconRowNum": "2"
+  },
+  "GC08_BartUserHasItemizedBillPartiallyBookedWithPdfNotRetrievedCheckKostenubersichtTab": {
+    "name": "bart.Kost.partiallyBookedNotRetrieved",
+    "password": "bart.Kost.partiallyBookedNotRetrieved",
+    "itemizedBillWarningIconRowNum": "1",
+    "itemizedBillBlockingIconRowNum": "3"
+  },
+  "GC11_marieHasItemizedBillPartiallyBookedWithPdfNotRetrievedCheckRechnungenTab": {
+    "name": "marie.partially.booked.notRetrieved",
+    "password": "marie.partially.booked.notRetrieved",
+    "itemizedBillWarningIconRowNum": "1",
+    "itemizedBillBlockingIconRowNum": "6"
+  }
+}

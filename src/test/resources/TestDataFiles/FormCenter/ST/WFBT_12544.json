@@ -1,0 +1,26 @@
+{
+  "GC01_CheckBackAndNextButtonInTheLastPage":
+  {
+    "name"  : "dummyUN",
+    "password": "dummyPW"
+  },
+  "GC02_CheckNextAndBackButtonInTheFirstPage":
+  {
+    "name"  : "dummyUN",
+    "password": "dummyPW"
+  },
+  "GC03_CheckNextAndBackButtonInTheMiddlePage":
+  {
+    "name"  : "dummyUN",
+    "password": "dummyPW"
+  },
+  "GC04_CheckTheUIForPaginationComponent":
+  {
+    "name"  : "dummyUN",
+    "password": "dummyPW",
+    "NextButtonCL": "Weiter",
+    "PageNumberFormCL": "Seite 2 von 3",
+    "PageNumberCL": "2",
+    "BackButtonCL": "Zurück"
+  }
+}

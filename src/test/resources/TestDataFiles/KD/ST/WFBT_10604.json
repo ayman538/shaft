@@ -1,0 +1,34 @@
+{
+  "validateDashboardPageForKableDeutschland":
+  {
+    "name"  : "Automated-wfbt_10604_1",
+    "password": "Automated-wfbt_10604_1"
+  },
+  "validateTariffAccordionCollapsed":
+  {
+    "name"  : "Automated-wfbt_10604_1",
+    "password": "Automated-wfbt_10604_1",
+    "PageHeaderCL": "Internet & Festnetz – Tarif"
+  },
+  "checkSmartObjectsSequence":
+  {
+    "name"  : "Automated-wfbt_10604_1",
+    "password": "Automated-wfbt_10604_1",
+    "PageHeaderCL": "Internet & Festnetz – Tarif"
+  },
+  "checkStaticBookedOptionMsg":
+  {
+    "name"  : "Automated-wfbt_10604_2",
+    "password": "Automated-wfbt_10604_2"
+  },
+  "checkStaticBookableInternetOptionMsg":
+  {
+    "name"  : "Automated-wfbt_10604_1",
+    "password": "Automated-wfbt_10604_1"
+  },
+  "checkStaticBookablePhoneOptionMsg":
+  {
+    "name"  : "Automated-wfbt_10604_1",
+    "password": "Automated-wfbt_10604_1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "GC01_UteUserDownloadsRechnungPdfFromTheInvoiceSummaryPage":
+  {
+    "name"  : "ute.with.invoice.pdf",
+    "password": "ute.with.invoice.pdf"
+  },
+  "GC02_UteUserDownloadsItemizedPdfFromTheInvoiceSummaryPage":
+  {
+    "name": "ute.with.itemized.pdf",
+    "password": "ute.with.itemized.pdf"
+  },
+  "GC03_UteUserDownloadsInvoiceAndItemizedPdfFromTheInvoiceSummaryPage":
+  {
+    "name": "ute.with.all.pdf",
+    "password": "ute.with.all.pdf"
+
+  },
+  "GC04_UteUserDownloadsInvoiceAndItemizedPdfFromTheInvoiceSummaryPageWithErrorBE":
+  {
+    "name": "ute.with.error.pdf",
+    "password": "ute.with.error.pdf"
+
+  }
+}

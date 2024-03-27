@@ -1,0 +1,124 @@
+{
+  "GC01":
+  {
+    "userName"  : "WFET-6653 |DSL| Overlay | notReturned",
+    "password": "WFET-6653 |DSL| Overlay | notReturned",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Overlay"]
+  },
+  "GC02":
+  {
+    "userName"  : "WFET-6653 |DSL| Overlay | notReturned",
+    "password": "WFET-6653 |DSL| Overlay | notReturned",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Overlay"]
+  },
+  "GC03":
+  {
+    "userName"  : "WFET-6513 | UM | Overlay | notReturned",
+    "password": "WFET-6513 | UM | Overlay | notReturned",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC04":
+  {
+    "userName"  : "WFET-6513 | UM | Overlay | notReturned",
+    "password": "WFET-6513 | UM | Overlay | notReturned",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC05":
+  {
+    "userName"  : "WFET-6653 | Cable | Overlay | notReturned",
+    "password": "WFET-6653 | Cable | Overlay | notReturned",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC06":
+  {
+    "userName"  : "WFET-6653 | Cable | Overlay | notReturned",
+    "password": "WFET-6653 | Cable | Overlay | notReturned",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC07":
+  {
+    "userName"  : "WFET-6653 |DSL| Overlay | allReturned",
+    "password": "WFET-6653 |DSL| Overlay | allReturned",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Overlay"]
+  },
+  "GC08":
+  {
+    "userName"  : "WFET-6653 |DSL| Overlay | allReturned",
+    "password": "WFET-6653 |DSL| Overlay | allReturned",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Overlay"]
+  },
+  "GC09":
+  {
+    "userName"  : "WFET-6513 | UM | Overlay | returned",
+    "password": "WFET-6513 | UM | Overlay | returned",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC10":
+  {
+    "userName"  : "WFET-6513 | UM | Overlay | returned",
+    "password": "WFET-6513 | UM | Overlay | returned",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC11":
+  {
+    "userName"  : "WFET-6653 | Cable | Overlay",
+    "password": "WFET-6653 | Cable | Overlay",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC12":
+  {
+    "userName"  : "WFET-6653 | Cable | Overlay",
+    "password": "WFET-6653 | Cable | Overlay",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC13":
+  {
+    "userName"  : "WFET-6653 |DSL| Overlay | allReturned",
+    "password": "WFET-6653 |DSL| Overlay | allReturned",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Overlay"]
+  },
+  "GC14":
+  {
+    "userName"  : "WFET-6653 |DSL| Overlay | allReturned",
+    "password": "WFET-6653 |DSL| Overlay | allReturned",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Overlay"]
+  },
+  "GC15":
+  {
+    "userName"  : "WFET-6513 | UM | Overlay | returned",
+    "password": "WFET-6513 | UM | Overlay | returned",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC16":
+  {
+    "userName"  : "WFET-6513 | UM | Overlay | returned",
+    "password": "WFET-6513 | UM | Overlay | returned",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC17":
+  {
+    "userName"  : "WFET-6653 | Cable | Overlay",
+    "password": "WFET-6653 | Cable | Overlay",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC18":
+  {
+    "userName"  : "WFET-6653 | Cable | Overlay",
+    "password": "WFET-6653 | Cable | Overlay",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  }
+}

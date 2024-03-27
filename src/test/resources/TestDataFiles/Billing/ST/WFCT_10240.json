@@ -1,0 +1,17 @@
+{
+  "GC01_KayUserFiltersKostenübersichtTabDataByMonth":
+  {
+    "name"  : "kay.cost.dropdown",
+    "password": "kay.cost.dropdown",
+    "month": "Februar 2022"
+  },
+  "GC02_BartUserFiltersKostenübersichtTabDataByMonthAndPhoneNumber":
+  {
+    "name": "bart.cost.dropdown",
+    "password": "bart.cost.dropdown",
+    "month": "Dezember 2021",
+    "mobileNum": "491627209145"
+  }
+
+
+}

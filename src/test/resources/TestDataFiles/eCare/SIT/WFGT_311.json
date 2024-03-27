@@ -1,0 +1,8 @@
+{
+  "GC01": {
+    "name": "paul_testing",
+    "password": "Test@1234",
+    "expectedHyperlinkText": "Hier findest Du Deine Vertragszusammenfassung. So kannst Du nochmal alles in Ruhe prüfen, bevor Du Deine Buchung abschickst.",
+    "expectedlegalText": "Es gelten die Allgemeinen Geschäftsbedingungen für Vodafone-Dienstleistungen und - bei Verträgen über Kabel- u./o. TV-Produkte - die Ergänzenden Geschäftsbedingungen für Vodafone Kabel-Dienstleistungen (Internet und Telefon) sowie Vodafone TV-Dienstleistungen und die Preisliste/Leistungsbeschreibung für das jeweils beauftragte Produkt. Für die Nutzung von TV-Inhalten über Smartphone oder TV-Hardware-Applikationen (sog. Entertainment-Apps) gelten zusätzlich die Besonderen Geschäftsbedingungen Vodafone Entertainment-Apps und Vodafone App-Plattform."
+  }
+}

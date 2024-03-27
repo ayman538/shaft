@@ -1,0 +1,22 @@
+{
+  "gc01":
+  {
+    "name"  : "martin_editContactData_SOHO",
+    "password": "martin_editContactData_SOHO"
+  },
+  "gc02":
+  {
+    "name"  : "martin_changePhone_SOHO",
+    "password": "martin_changePhone_SOHO"
+  },
+  "gc03":
+  {
+    "name"  : "martin_changeNotValidatedemail_SOHO",
+    "password": "martin_changeNotValidatedemail_SOHO"
+  },
+  "gc04":
+  {
+    "name"  : "martin_changeValidatedemail_SOHO",
+    "password": "martin_changeValidatedemail_SOHO"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "GC01":
+  {
+    "name"  : "LegacyUSER",
+    "password": "LegacyUSER"
+  },
+  "GC02":
+  {
+    "name": "MBO212256",
+    "password": "MBO212256"
+  },
+
+  "GC03":
+  {
+    "name": "MBO212256",
+    "password": "MBO212256"
+  }
+}

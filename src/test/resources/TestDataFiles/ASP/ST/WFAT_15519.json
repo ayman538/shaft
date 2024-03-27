@@ -1,0 +1,62 @@
+{
+  "GC01": {
+    "firstNameNumbers": "12345",
+    "firstNameMixed": "abc123",
+    "firstNameNonLatin": "حروف عربية",
+    "firstNameMixedNonLatin": "Latinحروف",
+    "firstNameMax": "Firstnamethatismorethantwentyfivecharacters",
+    "firstName": "NormalFirstName"
+  },
+  "GC02": {
+    "lastNameNumbers": "12345",
+    "lastNameMixed": "abc123",
+    "lastNameNonLatin": "حروف عربية",
+    "lastNameMixedNonLatin": "Latinحروف",
+    "lastNameMax": "Lastnamethatismorethantwentyfivecharacters",
+    "lastName": "NormalLastName"
+  },
+  "GC03": {
+    "streetNameNumbers": "12345",
+    "streetNameMixed": "abc123",
+    "streetNameNonLatin": "حروف عربية",
+    "streetNameMixedNonLatin": "Latinحروف",
+    "streetNameMax": "StreetNamethatismorethantwentyfivecharacters",
+    "streetName": "NormalStreetName"
+  },
+  "GC04": {
+    "houseNumberNumbers": "1234",
+    "houseNumberMixed": "ab12",
+    "houseNumberNonLatin": "حروف",
+    "houseNumberMixedNonLatin": "Laحر",
+    "houseNumberMax": "MaxHouseNumber1234",
+    "houseNumberMixedNonLatinNumbers": "12حر"
+  },
+  "GC05": {
+    "cityNameNumbers": "12345",
+    "cityNameMixed": "abc123",
+    "cityNameNonLatin": "حروف عربية",
+    "cityNameMixedNonLatin": "Latinحروف",
+    "cityNameMax": "CityNamethatismorethantwentyfivecharacters",
+    "cityName": "NormalCityName"
+  },
+  "GC06": {
+    "phoneNumber": "12345678",
+    "phoneNumberMixed": "1234abcd",
+    "phoneNumberNonLatin": "حروف عربية",
+    "phoneNumberMin": "123",
+    "phoneNumberMax": "123456789123456"
+  },
+  "GC07": {
+    "customerNumber": "1234567891",
+    "customerNumberMixed": "12345abcd",
+    "customerNumberNonLatin": "حروف عربية",
+    "customerNumberMin": "12345",
+    "customerNumberMax": "123456789123456"
+  },
+  "GC08": {
+    "productNumber": "12345678",
+    "productNumberMixed": "1234abcd",
+    "productNumberNonLatin": "حروف عربية",
+    "productNumberMax": "123456789123456"
+  }
+}

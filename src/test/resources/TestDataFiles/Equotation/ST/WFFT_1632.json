@@ -1,0 +1,22 @@
+{
+  "GC01": {
+    "guidNum": "100",
+    "headerText": "Reparatur-Auftrag bestätigen",
+    "PostalCode": "31190",
+    "InvalidFormatErrorMsg": "Vertippt? Die Postleitzahl war leider falsch. Bitte versuchen Sie es nochmal."
+  },
+  "GC02": {
+    "guidNum": "100",
+    "headerText": "Reparatur-Auftrag bestätigen",
+    "PostalCode": "31190",
+    "InvalidFormatErrorMsg": "Vertippt? Die Postleitzahl war leider falsch. Bitte versuchen Sie es nochmal."
+  },
+  "GC04": {
+    "guidNum": "101",
+    "headerText": "Reparatur-Auftrag bestätigen",
+    "PostalCode": "31191",
+    "AllTriesUpErrorMsg": "Sie haben die maximale Anzahl an Versuchen eingegeben.",
+    "AllTriesUpErrorMsgContent": "Bitte rufen Sie uns unter der 0800 172 1212 an, kostenlos aus allen deutschen Netzen."
+
+  }
+}

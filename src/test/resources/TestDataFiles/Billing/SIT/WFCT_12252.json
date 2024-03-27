@@ -1,0 +1,16 @@
+{
+  "GC02_PeterUserHasItemizedBillBookedButNoUsageCheckKostenubersichtTab": {
+    "name": "MULLTI_NBAs",
+    "password": "TEST@1234",
+    "itemizedBillWarningIconRowNum": "1",
+    "itemizedBillBlockingIconRowNum": "",
+    "contract_number": "3"
+  },
+  "GC06_KayUserHasItemizedBillBookedButNoUsageCheckKostenubersichtTab": {
+    "name": "Multi_Delta",
+    "password": "TEST@1234",
+    "itemizedBillWarningIconRowNum": "1",
+    "itemizedBillBlockingIconRowNum": "",
+    "contract_number": "2"
+  }
+}

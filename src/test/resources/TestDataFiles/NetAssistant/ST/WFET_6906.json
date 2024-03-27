@@ -1,0 +1,93 @@
+{
+  "GC05":
+  {
+    "userName" : "automationTESTt-UM15",
+    "password" : "automationTESTt-UM15",
+    "deeplink": "netz-assistent/chatbot/review?icmp=mvw_db_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC06":
+  {
+    "userName" : "automationTESTt-Cable18",
+    "password" : "automationTESTt-Cable18",
+    "deeplink": "netz-assistent/chatbot/review?icmp=mvw_db_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC11":
+  {
+    "userName" : "automationTESTt-UM15",
+    "password" : "automationTESTt-UM15",
+    "deeplink": "netz-assistent/chatbot/review?icmp=mvw_db_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC12":
+  {
+    "userName"  : "automationTESTt-Cable18",
+    "password": "automationTESTt-Cable18",
+    "deeplink": "netz-assistent/chatbot/review?icmp=mvw_db_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC17":
+  {
+    "userName" : "automationTESTt-UM15",
+    "password" : "automationTESTt-UM15",
+    "deeplink": "netz-assistent/chatbot/review?icmp=mvw_db_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC18":
+  {
+    "userName"  : "automationTESTt-Cable18",
+    "password": "automationTESTt-Cable18",
+    "deeplink": "netz-assistent/chatbot/review?icmp=mvw_db_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC23":
+  {
+    "userName"  : "automationTESTt-UM15",
+    "password": "automationTESTt-UM15",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC24":
+  {
+    "userName"  : "automationTESTt-Cable18",
+    "password": "automationTESTt-Cable18",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC29":
+  {
+    "userName"  : "automationTESTt-UM15",
+    "password": "automationTESTt-UM15",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC30":
+  {
+    "userName"  : "automationTESTt-Cable18",
+    "password": "automationTESTt-Cable18",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC35":
+  {
+    "userName"  : "automationTESTt-UM15",
+    "password": "automationTESTt-UM15",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC36":
+  {
+    "userName"  : "automationTESTt-Cable18",
+    "password": "automationTESTt-Cable18",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC38":
+  {
+    "userName"  : "automationTESTt-Cable20",
+    "password": "automationTESTt-Cable20",
+    "deeplink": "netz-assistent/chatbot/review?icmp=mvw_db_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_FormularOneColumn"]
+  }
+}

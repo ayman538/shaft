@@ -1,0 +1,181 @@
+{
+  "GC01":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC02":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC03":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC04":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "firmenname" : "Google",
+    "kundennummer" : "01622507481",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC05":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC06":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC07":
+  {
+    "contactNumber": "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber": "01622507481",
+    "provider" : "",
+    "vorname": "ahmed",
+    "nachname": "mahmoud",
+    "geburtsdatum": "22.12.2022",
+    "email": "mostafa@gmail.com",
+    "repeatEmail": "mostafa@gmail.com"
+  },
+  "GC08":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC09":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC10":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC12":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC13":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC14":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "BC01":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "BC02":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  }
+}

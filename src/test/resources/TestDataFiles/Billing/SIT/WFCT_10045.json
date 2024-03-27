@@ -1,0 +1,9 @@
+{
+  "GC01_userCheckDynamicValueForRecharge":
+  {
+    "name"  : "arno-testcard",
+    "password": "Vodafone2019",
+    "contractOrder": "9",
+    "mappedValue": "alle 1 Tage"
+  }
+}

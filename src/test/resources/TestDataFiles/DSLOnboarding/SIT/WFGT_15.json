@@ -1,0 +1,15 @@
+
+{
+  "GC02": {
+    "urlIdent": "d804a968d9e4cfeb2592b19278acecc2b95257db8d3f1994607b9912384ff65c",
+    "widgetButton" : "Zur Sendungsverfolgung",
+    "widgetHeader"  : "Deine Sendungsverfolgung",
+    "widgetFooter"  : "GLS Germany"
+  },
+  "GC06": {
+    "urlIdent": "9395",
+    "widgetButton" : "Zur Sendungsverfolgung",
+    "widgetHeader"  : "Deine Sendungsverfolgung",
+    "widgetFooter"  : "GLS Germany"
+  }
+}

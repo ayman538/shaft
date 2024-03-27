@@ -1,0 +1,109 @@
+{
+  "checkUserCanCancelOptionSuccessfully":
+  {
+    "name"  : "Automated-wfbt_11628_1",
+    "password": "Automated-wfbt_11628_1",
+    "ConfirmationNotificationCL": "Wir haben die Option für Dich gekündigt."
+  },
+
+  "validateConfirmationPageDetails":
+  {
+    "name": "Automated-wfbt_11628_1",
+    "password": "Automated-wfbt_11628_1",
+    "ConfirmationPageHeaderCL": "Option stornieren",
+    "ContractNumberCL": "Automated Martin (Kundennummer: 1111)",
+    "ConfirmationNotificationCL": "Wir haben die Option für Dich gekündigt.",
+    "OverviewDropDownCL": "Übersicht",
+    "OptionNameCL": "Sicherheitspaket",
+    "OptionsDescriptionCL": "In den ersten 2 Monaten kostenlos. Schützt Deine Geräte vor Spam und Spyware und entfernt Viren. Die Basisversion gilt für bis zu 2 Geräte.",
+    "OptionPriceCL": "3,99 €",
+    "CancellationHeaderCL": "Deine Option endet am:",
+    "ConfirmationPageURL": "https://simplicity.wf-de.vodafone.com/meinvodafone/services/meine-produkte/kabel-buchung-stornieren"
+  },
+
+  "validateOpenWorkNotificationInConfirmationPage":
+  {
+    "name": "Automated-wfbt_11628_1",
+    "password": "Automated-wfbt_11628_1",
+    "OpenWorkNotificationHeaderCL": "Wir bearbeiten jetzt Deine Kündigung",
+    "OpenWorkNotificationTextCL1": "Die Aktivierung ist voraussichtlich am: dd.mm.yyyy",
+    "OpenWorkNotificationTextCL2": "Während wir Deinen Auftrag bearbeiten, kannst Du keine weiteren Optionen hier buchen.",
+    "OpenWorkNotificationTextCL3": "Tipp: Die Übersicht Deiner Aufträge findest Du in den Mitteilungen",
+    "OpenWorkNotificationButtonCL": "Meine Aufträge anzeigen",
+    "OpenWorkNotificationButtonURL": "https://simplicity.wf-de.vodafone.com/meinvodafone/services/notifizierung/auftraege"
+  },
+
+  "validateTransactionPageDetails":
+  {
+    "name": "Automated-wfbt_11628_1",
+    "password": "Automated-wfbt_11628_1",
+    "CancellationTransactionPageHeaderCL": "Option stornieren",
+    "ContractNumberCL": "Automated Martin (Kundennummer: 1111)",
+    "TextHeaderCL": "Willst Du [option name] kündigen?",
+    "OptionNameCL": "Sicherheitspaket",
+    "OptionsDescriptionCL": "In den ersten 2 Monaten kostenlos. Schützt Deine Geräte vor Spam und Spyware und entfernt Viren. Die Basisversion gilt für bis zu 2 Geräte.",
+    "OptionPriceCL": "3,99 €",
+    "CancellationHeaderCL": "Deine Option endet am:",
+    "ContractSummaryPreTextCL": "Hier findest Du Deine",
+    "ContractSummaryTextCL": "Vertragszusammenfassung",
+    "ContractSummaryPostTextCL": ". So kannst Du nochmal alles in Ruhe prüfen, bevor Du Deine Buchung abschickst.",
+    "ProceedCTACL": "Diese Option kündigen",
+    "TransactionPageURL": "https://simplicity.wf-de.vodafone.com/meinvodafone/services/meine-produkte/kabel-buchung-stornieren"
+  },
+
+  "checkThatContractSummaryPDFIsDownloaded":
+  {
+    "name": "Automated-wfbt_11628_1",
+    "password": "Automated-wfbt_11628_1"
+  },
+
+  "checkRedirectionToErrorPageWhenCancellationFailed":
+  {
+    "name": "Automated-wfbt_11628_2",
+    "password": "Automated-wfbt_11628_2",
+    "GeneralErrorNotificationMessageHeaderCL": "Das hat leider nicht geklappt",
+    "GeneralErrorNotificationMessageTextCL": "Entschuldige bitte, unser Fehler. Versuch es bitte später nochmal."
+  },
+
+  "checkRedirectionToErrorPageDuringTransaction":
+  {
+    "name": "Automated-wfbt_11628_3",
+    "password": "Automated-wfbt_11628_3",
+    "GeneralErrorNotificationMessageHeaderCL": "Das hat leider nicht geklappt",
+    "GeneralErrorNotificationMessageTextCL": "Entschuldige bitte, unser Fehler. Versuch es bitte später nochmal."
+  },
+
+  "checkRedirectionToErrorPageWhenOrderReturns422Available":
+  {
+    "name": "Automated-wfbt_11628_4",
+    "password": "Automated-wfbt_11628_4",
+    "AvailableErrorNotificationMessageHeaderCL": "Das hat leider nicht geklappt",
+    "AvailableErrorNotificationMessageTextCL": "Entschuldige bitte, unser Fehler. Versuch es bitte später nochmal oder kündige direkt über die Hotline: 0800 172 1212."
+  },
+
+  "checkTryAgainNotificationWhenOrderReturns422Unavailable":
+  {
+    "name": "Automated-wfbt_11628_5",
+    "password": "Automated-wfbt_11628_5",
+    "TryAgainNotificationMessageHeaderCL": "Das hat leider nicht geklappt",
+    "TryAgainNotificationMessageTextCL": "Entschuldige bitte, unser Fehler. Die Vertragszusammmenfassung konnte nicht geladen werden.",
+    "TryAgainNotificationMessageButtonCL": "Nochmal versuchen"
+  },
+
+  "checkRedirectionToErrorPageWhenDownloadPDFServiceReturns422Available":
+  {
+    "name": "Automated-wfbt_11628_8",
+    "password": "Automated-wfbt_11628_8",
+    "AvailableErrorNotificationMessageHeaderCL": "Das hat leider nicht geklappt",
+    "AvailableErrorNotificationMessageTextCL": "Entschuldige bitte, unser Fehler. Versuch es bitte später nochmal oder kündige direkt über die Hotline: 0800 172 1212."
+  },
+
+  "checkTryAgainNotificationWhenDownloadPDFServiceReturns422Unavailable":
+  {
+    "name": "Automated-wfbt_11628_9",
+    "password": "Automated-wfbt_11628_9",
+    "TryAgainNotificationMessageHeaderCL": "Das hat leider nicht geklappt",
+    "TryAgainNotificationMessageTextCL": "Entschuldige bitte, unser Fehler. Die Vertragszusammmenfassung konnte nicht geladen werden.",
+    "TryAgainNotificationMessageButtonCL": "Nochmal versuchen"
+  }
+}

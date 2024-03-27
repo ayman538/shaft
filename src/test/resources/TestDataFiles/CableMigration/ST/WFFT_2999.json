@@ -1,0 +1,27 @@
+{
+  "GC01": {
+    "name": "martin5001",
+    "password": "martin5001",
+    "headerTxt": "Aktuelle Informationen zum Referenzkonto 0001",
+    "subHeaderTxt": "Du hast eine offene Zahlung bei uns. Wir buchen den offenen Betrag",
+    "cardHeaderTxt": "Offener Betrag",
+    "yellowIconTxt": "Offen",
+    "invoiceCLTxt": "Buchungsposten",
+    "amountCLTxt": "Betrag"
+  },
+  "GC02": {
+    "name": "martin.310019",
+    "password": "martin.310019",
+    "headerTxt": "Aktuelle Informationen zum Referenzkonto Rechnung5",
+    "subHeaderTxt": "Du hast im Moment ein Guthaben auf Deinem Konto.",
+    "cardHeaderTxt": "Guthaben",
+    "greenIconTxt": "Guthaben",
+    "invoiceCLTxt": "Buchungsposten",
+    "amountCLTxt": "Betrag"
+  },
+  "GC03": {
+    "name": "martin.318019",
+    "password": "martin.318019",
+    "noBalanceMessageTxt": "Alles okay! Du hast im Moment keine offenen Zahlungen."
+  }
+}

@@ -1,0 +1,43 @@
+{
+
+  "GC09_KayWithNoUsageAtCertainBillCycleChecksConnectionOverviewTab": {
+    "name": "multi_delta",
+    "password": "TEST@1234",
+    "notificationTitle": "Keine Daten gefunden",
+    "notificationBody": "Du hattest im ausgewählten Monat keine kostenpflichtigen Verbindungen. Daher siehst Du keine Daten. Wähl bitte einen anderen Monat.",
+    "totalAmount": "0,0000 €",
+    "notificationColor": "240, 247, 249",
+    "contractOrder" : "1",
+    "number" : "01622136552",
+    "billCycle" : "19.08.2023 bis 18.09.2023"
+  },
+
+  "GC11_PeterUserBookedItemizedBillChecksConnectionOverviewTab": {
+    "name": "PETERs_BUSINESS",
+    "password": "TEST@1234",
+    "notificationTitle": "Es gibt noch keine Rechnung",
+    "notificationBody": "Deine erste Rechnung kommt bald. Daher siehst Du keine Daten. Du findest alle wichtigen Infos unter Rechnungen.",
+    "notificationColor": "240, 247, 249",
+    "contractOrder" : "1"
+  },
+
+  "Tag06_KayWithNoUsageChecksConnectionOverviewNotificationTracking": {
+    "name": "multi_delta",
+    "password": "TEST@1234",
+    "action": "displayed",
+    "type": "notification",
+    "message": "no data available",
+    "area": "connection overview",
+    "contractOrder" : "1"
+  },
+
+  "Tag05_BrandNewKayCustomerChecksConnectionOverviewNotificationTracking": {
+    "name": "PETERs_BUSINESS",
+    "password": "TEST@1234",
+    "action": "displayed",
+    "type": "notification",
+    "message": "brand new customer, no bill available yet",
+    "area": "connection overview",
+    "contractOrder" : "1"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "GC01":
+  {
+    "name"  : "Legacy2FANotActS1",
+    "password": "Legacy2FANotActS1",
+    "password2FA": "Legacy2FANotActS1"
+  },
+  "GC02":
+  {
+    "name": "Solstice2FANotActS1",
+    "password": "Solstice2FANotActS1",
+    "password2FA": "Solstice2FANotActS1"
+  },
+  "GC03":
+  {
+    "name": "Legacy2FANotActS1",
+    "password": "Legacy2FANotActS1",
+    "password2FA":""
+  },
+  "GC04":
+  {
+    "name": "Legacy2FANotActS1",
+    "password": "Legacy2FANotActS1",
+    "password2FA":"000000"
+  },
+  "GC05":
+  {
+    "name": "Legacy2FANotActS1",
+    "password": "Legacy2FANotActS1",
+    "password2FA":"978745"
+  },
+  "GC07":
+  {
+    "name": "omara",
+    "password": "omara"
+  }
+}

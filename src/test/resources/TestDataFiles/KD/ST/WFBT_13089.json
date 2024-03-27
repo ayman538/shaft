@@ -1,0 +1,63 @@
+{
+  "GC01": {
+    "name": "KIPUserCancelledMainTandCLST",
+    "password": "KIPUserCancelledMainTandCLST",
+    "cancellationMessageMainTariffSO":"Einer Deiner Tarife ist gekündigt. Das Vertragsende siehst Du in den Details unten und in Deiner Kündigungsbestätigung.",
+    "CancellationMSGMainTarifAccordionHeaderCL": "Du möchtest bleiben?",
+    "CancellationMSGMainTarifAccordionBodyCL": "Wir machen Dir gerne ein persönliches Angebot.",
+    "CancelContractHintCL": "Du hast Deinen Vertrag gekündigt. Alle Details dazu findest Du in Deiner Kündigungsbestätigung.",
+    "ActiveTariffHeaderCL": "Tarife Deiner Kundennummer 972634128"
+    },
+  "GC02": {
+    "name": "KIPUserCancelledCLSTOnly",
+    "password": "KIPUserCancelledCLSTOnly",
+    "cancellationMessageMainTariffSO":"Bis wann Du Deinen Tarif noch nutzen kannst, findest Du in Deiner Kündigungsbestätigung.",
+    "CancellationMSGMainTarifAccordionHeaderCL": "Du möchtest bleiben?",
+    "CancellationMSGMainTarifAccordionBodyCL": "Wir machen Dir gerne ein persönliches Angebot.",
+    "CancelContractHintCL": "Du hast Deinen Vertrag gekündigt. Alle Details dazu findest Du in Deiner Kündigungsbestätigung."
+    },
+  "GC03": {
+    "name": "KIPUserCancelledMainTOnly",
+    "password": "KIPUserCancelledMainTOnly",
+    "cancellationMessageMainTariffSO":"Bis wann Du Deinen Tarif noch nutzen kannst, findest Du in Deiner Kündigungsbestätigung.",
+    "CancellationMSGMainTarifAccordionHeaderCL": "Du möchtest bleiben?",
+    "CancellationMSGMainTarifAccordionBodyCL": "Wir machen Dir gerne ein persönliches Angebot.",
+    "CancelContractHintCL": "Du hast Deinen Vertrag gekündigt. Alle Details dazu findest Du in Deiner Kündigungsbestätigung."
+  },
+  "GC04": {
+    "name": "KIPUserCancelledMainTandCancelledCLST",
+    "password": "KIPUserCancelledMainTandCancelledCLST",
+    "cancellationMessageMainTariffSO": "Bis wann Du Deinen Tarif noch nutzen kannst, findest Du in Deiner Kündigungsbestätigung.",
+    "CancellationMSGMainTarifAccordionHeaderCL": "Du möchtest bleiben?",
+    "CancellationMSGMainTarifAccordionBodyCL": "Wir machen Dir gerne ein persönliches Angebot.",
+    "CancelContractHintCL": "Du hast Deinen Vertrag gekündigt. Alle Details dazu findest Du in Deiner Kündigungsbestätigung.",
+    "CancellationMSGMainTarifAccordionHeaderSecCL": "Du möchtest bleiben?",
+    "CancellationMSGMainTarifAccordionBodySecCL": "Wir machen Dir gerne ein persönliches Angebot."
+  },
+  "GC05": {
+    "name": "KIPUserCancelledCLSTandMainT",
+    "password": "KIPUserCancelledCLSTandMainT",
+    "MainTariffNameCL": "Red Internet & Phone 200 Cable FOC",
+    "MainTariffDateCL": "Laufzeit bis 25.10.2023",
+    "CancellationMSGMainTarifAccordionHeaderCL": "Du möchtest bleiben?",
+    "CancellationMSGMainTarifAccordionBodyCL": "Wir machen Dir gerne ein persönliches Angebot.",
+    "CancelContractHintCL": "Du hast Deinen Vertrag gekündigt. Alle Details dazu findest Du in Deiner Kündigungsbestätigung."
+  },
+  "GC06": {
+    "name": "KIPUserCancelledMainTandCLST",
+    "password": "KIPUserCancelledMainTandCLST",
+    "ContractEndDateContractDetailsCL": "Vertragsende frühestens am",
+    "CancelContractHintCL": "Du hast Deinen Vertrag gekündigt. Alle Details dazu findest Du in Deiner Kündigungsbestätigung.",
+    "CancelContractHintSecCL": "Du findest die aktuellen Preise auf Deiner Rechnung.",
+    "BillSectionCurrentPriceCL": "Deiner Rechnung.",
+    "GoToBookedOptionsAccordionCTACL": "Deine gebuchten Optionen",
+    "bookedOptionsHeadlineCL": "Deine gebuchten Optionen"
+  },
+  "GC07": {
+    "name": "KIPUserMulipleCLSTOneCLSCancelled",
+    "password": "KIPUserMulipleCLSTOneCLSCancelled",
+    "cancellationMessageMainTariffSO": "Einer Deiner Tarife ist gekündigt. Das Vertragsende siehst Du in den Details unten und in Deiner Kündigungsbestätigung.",
+    "CancellationMSGMainTarifAccordionHeaderCL": "Du möchtest bleiben?",
+    "CancellationMSGMainTarifAccordionBodyCL": "Wir machen Dir gerne ein persönliches Angebot."
+  }
+}

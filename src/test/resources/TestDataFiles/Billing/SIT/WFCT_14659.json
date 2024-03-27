@@ -1,0 +1,10 @@
+{
+  "GC02_KaySohoUserWithActiveEmailNotificationEnablesPdfNotification": {
+    "name": "multi_delta",
+    "password": "TEST@1234",
+    "contractOrder" : "1",
+    "inactivePdfCl" : "Unverschlüsselter Rechnungsversand ist nicht aktiviert",
+    "greenEmailColor" : "0, 153, 0",
+    "activePdfStatus" : "aktiv"
+  }
+}

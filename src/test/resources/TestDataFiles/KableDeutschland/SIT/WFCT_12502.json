@@ -1,0 +1,12 @@
+{
+  "GC01_MartinWith_OnlineBill_ValidatedEmail_SwitchedOnNotificationChecksEinstellungenTab": {
+    "name": "KD333086528",
+    "password": "TEST@1234",
+    "email":"nitin.takale@vodafone.com"
+  },
+  "GC02_MartinWith_PaperBill_ValidatedEmail_SwitchedOffNotificationChecksEinstellungenTab": {
+    "name": "KD934300996",
+    "password": "TEST@1234",
+    "email":"oliver.euler@vodafone.com"
+  }
+}

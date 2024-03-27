@@ -1,0 +1,77 @@
+{
+  "BC01_MarieUserWithServiceErrorChecksTheInvoiceSummaryPage": {
+    "name"  : "marie.failed.bill_get",
+    "password": "marie.failed.bill_get",
+    "i": 7
+  },
+  "BC02_PeterUserWithServiceErrorChecksTheInvoiceSummaryPage": {
+    "name"  : "peter.invoice.failure",
+    "password": "peter.invoice.failure",
+    "i": 7
+  },
+  "BC03_UteUserWithServiceErrorChecksTheInvoiceSummaryPage": {
+    "name"  : "ute.error.service",
+    "password": "ute.error.service",
+    "i": 7
+  },
+  "GC01_KayChecksInvoiceSummaryPageWhileSomeOfTheCardValuesDescriptionsNotReturned": {
+    "name"  : "kay.some.not.returned",
+    "password": "kay.some.not.returned",
+    "invoiceDetails1_Name": "Anschlusspreis",
+    "invoiceDetails2_Name": "Siehe Rechnung",
+    "invoiceDetails3_Name": "Siehe Rechnung",
+    "invoiceDetails4_Name": "Sonstigess",
+    "invoiceDetails5_Name": "Zu Ihren Gunsten 1",
+    "invoiceDetails6_Name": "Kontobezogene Postennn",
+    "invoiceDetails7_Name": "Mobiles Bezahlen",
+    "invoiceDetails8_Name": "Transfer von Guthaben",
+    "invoiceDetails9_Name": "Guthaben aus dem Vormonat",
+    "invoiceDetails10_Name": "Zu zahlender Betrag",
+    "subscriberOrder": "1",
+    "i": 10
+  },
+  "GC02_PeterChecksInvoiceSummaryPageWhileSomeOfTheCardValuesDescriptionsNotReturned": {
+    "name"  : "peter.some.not.returned",
+    "password": "peter.some.not.returned",
+    "invoiceDetails1_Name": "Anschlusspreis",
+    "invoiceDetails2_Name": "Siehe Rechnung",
+    "invoiceDetails3_Name": "Verbindungspreise und Services",
+    "invoiceDetails4_Name": "Sonstiges",
+    "invoiceDetails5_Name": "Zu Ihren Gunsten",
+    "invoiceDetails6_Name": "Mobiles Bezahlen",
+    "invoiceDetails7_Name": "Transfer von Guthaben",
+    "invoiceDetails8_Name": "Summe",
+
+    "i": 8
+  },
+
+
+  "GC03_MarieChecksInvoiceSummaryPageWhileAllOfTheCardValuesDescriptionsNotReturned": {
+    "name"  : "maire.all.not.returned",
+    "password": "maire.all.not.returned",
+    "invoiceDetails1_Name": "Siehe Rechnung",
+    "invoiceDetails2_Name": "Siehe Rechnung",
+    "invoiceDetails3_Name": "Siehe Rechnung",
+    "invoiceDetails4_Name": "Siehe Rechnung",
+    "invoiceDetails5_Name": "Siehe Rechnung",
+    "invoiceDetails6_Name": "Siehe Rechnung",
+    "invoiceDetails7_Name": "Siehe Rechnung",
+    "invoiceDetails8_Name": "Siehe Rechnung",
+    "invoiceDetails9_Name": "Zu zahlender Betrag",
+    "i" : 9 },
+
+  "GC04_PeterChecksInvoiceSummaryPageWhileAllOfTheCardValuesDescriptionsNotReturned": {
+    "name"  : "peter.all.not.retured",
+    "password": "peter.all.not.retured",
+    "invoiceDetails1_Name": "Siehe Rechnung",
+    "invoiceDetails2_Name": "Siehe Rechnung",
+    "invoiceDetails3_Name": "Siehe Rechnung",
+    "invoiceDetails4_Name": "Siehe Rechnung",
+    "invoiceDetails5_Name": "Siehe Rechnung",
+    "invoiceDetails6_Name": "Siehe Rechnung",
+    "invoiceDetails7_Name": "Siehe Rechnung",
+    "invoiceDetails8_Name": "Summe",
+
+    "i": 8
+  }
+}

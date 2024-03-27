@@ -1,0 +1,49 @@
+{
+  "GC01":
+  {
+    "guidNum": "4325",
+    "headerText": "Reparatur-Auftrag bestätigen",
+    "titleText" : "Mit Ihrer Postleitzahl bestätigen",
+    "contentText" : "Geben Sie Ihre Postleitzahl ein, um Ihren Reparatur-Auftrag zu bestätigen und anzusehen.",
+    "postalcodeText" : "Postleitzahl ",
+    "RequiredText": "Pflichtfeld",
+    "submitButton" : "Bestätigen"
+
+
+  },
+
+  "GC05":
+  {
+    "guidNum": "4325",
+    "RepeatedPostalCode": "11111" ,
+    "NonRepeatedPostalCode": "12345" ,
+    "EquotationHeader": "Auftragsdetails"
+  },
+
+  "GC04":
+  {
+    "guidNum": "100",
+    "WrongPostalCode": "abcde" ,
+    "ErrorMsg": "Bitte geben Sie nur Zahlen und maximal 5 Ziffern ein."
+  },
+  "GC08":
+  {
+    "guidNum": "100",
+    "WrongPostalCode": "#@_*%" ,
+    "ErrorMsg": "Bitte geben Sie nur Zahlen und maximal 5 Ziffern ein."
+  },
+  "GC09":
+  {
+    "guidNum": "100",
+    "WrongPostalCode": "123" ,
+    "ErrorMsg": "Bitte geben Sie nur Zahlen und maximal 5 Ziffern ein."
+  },
+  "GC10":
+  {
+    "guidNum": "100",
+    "LettersAndNumbersPostalCode": "123ab" ,
+    "LettersAndSpecialCharactersPostalCode" : "abc@#",
+    "NumbersAndSpecialCharactersPostalCode" : "123&%",
+    "ErrorMsg": "Bitte geben Sie nur Zahlen und maximal 5 Ziffern ein."
+  }
+}

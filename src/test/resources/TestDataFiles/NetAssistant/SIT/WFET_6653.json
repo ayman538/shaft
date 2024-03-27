@@ -1,0 +1,124 @@
+{
+  "GC01":
+  {
+    "userName"  : "christian.netzassistent",
+    "password": "TEST@1234",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Overlay"]
+  },
+  "GC02":
+  {
+    "userName"  : "christian.netzassistent",
+    "password": "TEST@1234",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Overlay"]
+  },
+  "GC03":
+  {
+    "userName"  : "h133652203@umpost.de",
+    "password": "TestLab1",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC04":
+  {
+    "userName"  : "h133652203@umpost.de",
+    "password": "TestLab1",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC05":
+  {
+    "userName"  : "simone.netzassistent",
+    "password": "TEST@1234",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC06":
+  {
+    "userName"  : "simone.netzassistent",
+    "password": "TEST@1234",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC07":
+  {
+    "userName"  : "christian.netzassistent",
+    "password": "TEST@1234",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Overlay"]
+  },
+  "GC08":
+  {
+    "userName"  : "christian.netzassistent",
+    "password": "TEST@1234",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Overlay"]
+  },
+  "GC09":
+  {
+    "userName"  : "h133652203@umpost.de",
+    "password": "TestLab1",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC10":
+  {
+    "userName"  : "h133652203@umpost.de",
+    "password": "TestLab1",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC11":
+  {
+    "userName"  : "simone.netzassistent",
+    "password": "TEST@1234",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC12":
+  {
+    "userName"  : "simone.netzassistent",
+    "password": "TEST@1234",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC13":
+  {
+    "userName"  : "christian.netzassistent",
+    "password": "TEST@1234",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Overlay"]
+  },
+  "GC14":
+  {
+    "userName"  : "christian.netzassistent",
+    "password": "TEST@1234",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Overlay"]
+  },
+  "GC15":
+  {
+    "userName"  : "h133652203@umpost.de",
+    "password": "TestLab1",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC16":
+  {
+    "userName"  : "h133652203@umpost.de",
+    "password": "TestLab1",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC17":
+  {
+    "userName"  : "simone.netzassistent",
+    "password": "TEST@1234",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC18":
+  {
+    "userName"  : "simone.netzassistent",
+    "password": "TEST@1234",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Overlay"]
+  }
+}

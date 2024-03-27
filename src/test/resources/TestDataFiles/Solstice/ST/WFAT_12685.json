@@ -1,0 +1,12 @@
+{
+  "GC01":
+  {
+    "name"  : "Solstice.Change.1",
+    "password": "Solstice.Change.1"
+  },
+  "GC02":
+  {
+    "name": "Solstice.Change.2",
+    "password": "Solstice.Change.2"
+  }
+}

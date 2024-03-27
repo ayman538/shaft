@@ -1,0 +1,22 @@
+{
+  "gc01": {
+    "name": "Multi-CableDocInbox01",
+    "password": "Multi-CableDocInbox01"
+  },
+  "gc02": {
+    "name": "Single-CableDocInbox01",
+    "password": "Single-CableDocInbox01"
+  },
+  "gc03": {
+    "name": "MultiMartin-CableDocInbox02",
+    "password": "MultiMartin-CableDocInbox02"
+  },
+  "gc04": {
+    "name": "Single-CableDocInbox01",
+    "password": "Single-CableDocInbox01"
+  },
+  "gc05": {
+    "name": "Multi-CableDocInbox01",
+    "password": "Multi-CableDocInbox01"
+  }
+}

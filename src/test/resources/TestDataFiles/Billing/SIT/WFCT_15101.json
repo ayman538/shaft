@@ -1,0 +1,11 @@
+{
+  "GC01_UteChecksHisInvoiceDetailsFromTheBillsChart":
+  {
+    "name"  : "UnityRechnung",
+    "password": "Unity2021!",
+    "contractOrder" : "1",
+    "detailsPageOrder": "12",
+    "unPaidAmount": "Siehe PDF-Rechnung",
+    "amountToPay": "Siehe PDF-Rechnung"
+  }
+}

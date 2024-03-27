@@ -1,0 +1,29 @@
+{
+  "SIT01_CABLE_USER": {
+    "name": "multi_contracts",
+    "password": "TEST@1234"
+  },
+  "SIT01_DSL_USER": {
+    "name": "multi_contracts",
+    "password": "TEST@1234"
+  },
+  "SIT_GC01": {
+    "link": "https://www.vodafone.de/netz-assistent/chatbot?i=0d74f0f5d5c678d5bdc9d68712f54c2c230561f8bfc7fbdf3401766fa60a43a96a39dc6949ba6f799d&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip"
+  },
+  "SIT_GC02":
+  {
+    "link"  : "https://www.vodafone.de/netz-assistent/chatbot?i=acd9de93d3e62eb117bb52fed64128822b9f54e2060ef5fa79e98adfabd68b977b69f57d43a3fe16efcf9076&c=DSL&a=03838&p=4b029db02acadd76bd67375fdf02066cba4f2efffe6305cb4e7c54086a8317c63f4fac76da4b&s=&c_id=hilfe_netzass_dsl"
+  },
+  "SIT_GC03": {
+    "link": "https://www.vodafone.de/netz-assistent/chatbot?i=0d74f0f5d5c678d5bdc9d68712f54c2c230561f8bfc7fbdf3401766fa60a43a96a39dc6949ba6f799d&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip"
+  },
+  "SIT_GC02_UM_User": {
+    "link":"https://www.vodafone.de/netz-assistent/chatbot?i=8d105d40922517b49d53cf5f8e847b91c2e0e5bf0c244873d2e3a350407549c05cd384cba607a4e244&c=UM&a=&p=&s=NRW&c_id=hilfe_netzass_um"
+  },
+  "SIT_GC03_UM_User": {
+    "link":"https://www.vodafone.de/netz-assistent/chatbot?i=8d105d40922517b49d53cf5f8e847b91c2e0e5bf0c244873d2e3a350407549c05cd384cba607a4e244&c=UM&a=&p=&s=NRW&c_id=hilfe_netzass_um"
+  },
+  "SIT_GC04_DSL_User": {
+  "link":"https://www.vodafone.de/netz-assistent/tickets?i=d44e6751592919b748c49eb2cbf73b0aa0002cf984163b22e21daaf772554f74b36e7415674cc7d7bc33810a&c=DSL&a=00000&p=38e5cbdb6af19a7f99f637589fb98d074406f42b6df22b5e51a1683b2d2fe4e3810c5f9ce4b6bb83&s=&c_id=hilfe_netzass_dsl"
+  }
+}

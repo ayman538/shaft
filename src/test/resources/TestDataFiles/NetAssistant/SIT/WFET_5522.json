@@ -1,0 +1,37 @@
+{
+  "GC01":
+  {
+    "userName"  : "simone.netzassistent",
+    "password": "TEST@1234",
+    "contractNumber" : "332881148"
+  },
+  "GC02":
+  {
+    "userName"  : "n341449302@umpost.de",
+    "password": "TEST@1234",
+    "contractNumber" : "341449302"
+  },
+  "GC03":
+  {
+    "userName"  : "christian.netzassistent",
+    "password": "TEST@1234"
+  },
+  "GC04":
+  {
+    "userName"  : "simone.netzassistent",
+    "password": "TEST@1234",
+    "helpForm" : "meinvodafone/services/netzassistent/review?product=cable"
+  },
+  "GC05":
+  {
+    "userName"  : "n341449302@umpost.de",
+    "password": "TEST@1234",
+    "helpForm" : "meinvodafone/services/netzassistent/review?product=cable"
+  },
+  "GC06":
+  {
+    "userName"  : "christian.netzassistent",
+    "password": "TEST@1234",
+    "helpForm" : "meinvodafone/services/netzassistent/review?product=dsl"
+  }
+}

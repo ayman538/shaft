@@ -1,0 +1,14 @@
+{
+  "gc01":
+  {
+    "name"  : "Martin-MultiTV-SingleKIP_V2",
+    "password": "Martin-MultiTV-SingleKIP_V2"
+
+  },
+  "gc02":
+  {
+    "name"  : "Martin-MultiProducts_NoDetails_V2",
+    "password": "Martin-MultiProducts_NoDetails_V2"
+
+  }
+}

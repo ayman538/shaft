@@ -1,0 +1,21 @@
+{
+  "GC01_marieHasNoItemizedBillBookedCheckRechnungenTab":
+  {
+    "name"  : "Foxtrot_Team",
+    "password": "TEST@1234",
+    "itemizedBillWarningIconRowNum": "",
+    "itemizedBillBlockingIconRowNum": "",
+    "contract_number": "1"
+
+
+  },
+  "GC02_marieHasItemizedBillBookedButNoUsageCheckRechnungenTab":
+  {
+    "name": "account.dev",
+    "password": "Ninja1234567",
+    "itemizedBillWarningIconRowNum": "1",
+    "itemizedBillBlockingIconRowNum": "",
+    "contract_number": "9"
+
+  }
+}

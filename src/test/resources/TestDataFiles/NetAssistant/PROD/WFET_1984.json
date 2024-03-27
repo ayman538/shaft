@@ -1,0 +1,20 @@
+{
+  "SIT_GC01":
+  {
+    "name"  : "multi_contracts",
+    "password": "TEST@1234"
+  }
+,
+  "SIT_GC02":
+  {
+    "name"  : "multi_contracts",
+    "password": "TEST@1234"
+  }
+,
+  "SIT_GC04":
+  {
+    "name"  : "multi_contracts",
+    "password": "TEST@1234"
+  }
+
+}

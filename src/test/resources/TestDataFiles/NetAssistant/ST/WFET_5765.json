@@ -1,0 +1,20 @@
+{
+  "GC01":
+  {
+    "userName": "automationTESTt-DSL8",
+    "password": "automationTESTt-DSL8",
+    "Link" : "netz-assistent/chatbot"
+  },
+  "GC02":
+  {
+    "userName": "automationTESTt-DSL9",
+    "password": "automationTESTt-DSL9",
+    "Link" : "netz-assistent/chatbot"
+  },
+  "GC03":
+  {
+    "userName": "automationTESTt-DSL9",
+    "password": "automationTESTt-DSL9",
+    "Link" : "netz-assistent/chatbot"
+  }
+}

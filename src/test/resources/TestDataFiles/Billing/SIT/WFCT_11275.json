@@ -1,0 +1,18 @@
+{
+  "GC01_KayUserCheckCostOverviewPageInCaseOfTariffChange": {
+    "name": "MVATest006",
+    "password": "vodafone15",
+    "contract_number": "1",
+    "firstPhoneNumber": "0162 137 56 24",
+    "secondPhoneNumber": "0162 137 41 59",
+    "msisdn": "491621375624",
+    "Month": "September 2022"
+  },
+  "GC02_BartUserCheckCostOverviewPageInCaseOfCreditAmount": {
+    "name": "mobile_user_test",
+    "password": "TEST@1234",
+    "contract_number": "3",
+    "Month": "Dezember 2020",
+    "amountRowNum": "1"
+  }
+}

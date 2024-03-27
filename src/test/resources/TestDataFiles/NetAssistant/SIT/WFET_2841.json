@@ -1,0 +1,14 @@
+{
+  "GC04":
+  {
+    "Link" : "https://vodafone.de/netz-assistent/tickets?i=f471f96dc90796fca22309c2c3b4442bea0a119a0aeebba8c94873d197b6364cdd44b6023a865e5aee&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip",
+    "name"  : "csc332881421",
+    "password": "testTEST-1"
+  },
+  "GC05":
+  {
+    "Link" : "https://vodafone.de/netz-assistent/tickets?i=f471f96dc90796fca22309c2c3b4442bea0a119a0aeebba8c94873d197b6364cdd44b6023a865e5aee&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip",
+    "name"  : "csc332881421",
+    "password": "testTEST-1"
+  }
+}

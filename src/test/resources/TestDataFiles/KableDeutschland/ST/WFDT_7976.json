@@ -1,0 +1,12 @@
+{
+  "gc01":
+  {
+    "name"  : "martinPhoneLine_01",
+    "password": "martinPhoneLine_01"
+  },
+  "gc02":
+  {
+    "name"  : "martinPhoneLine_02",
+    "password": "martinPhoneLine_02"
+  }
+}

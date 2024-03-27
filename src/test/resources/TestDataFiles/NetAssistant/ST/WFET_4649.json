@@ -1,0 +1,79 @@
+{
+  "ST_GC01":
+  {
+    "userName" : "Ismail_US4649_Cable_TechnicianAppointment",
+    "password" : "Ismail_US4649_Cable_TechnicianAppointment",
+    "Link" : "netz-assistent/tb?sys=4&token=4649"
+  },
+  "ST_GC02":
+  {
+    "userName" : "Ismail_US4649_Cable_TechnicianAppointment",
+    "password" : "Ismail_US4649_Cable_TechnicianAppointment",
+    "Link" : "netz-assistent/tickets/review?i=f9e83978032434a7fcb2dd324349eb1cb1eeabb354c4429ab24f3c58896d18b6f6deb84e0f107c9f&c=cable&a=&p=&c_id=hilfe_netzass_kip"
+  },
+  "ST_GC03":
+  {
+    "userName" : "Ismail_US4649_Cable_TechnicianAppointment",
+    "password" : "Ismail_US4649_Cable_TechnicianAppointment",
+    "Link" : "netz-assistent/tb?sys=4&token=4649"
+  },
+  "ST_GC04":
+  {
+    "userName" : "Ismail_US4649_Cable_TechnicianAppointment",
+    "password" : "Ismail_US4649_Cable_TechnicianAppointment",
+    "Link" : "netz-assistent/tickets/review?i=f9e83978032434a7fcb2dd324349eb1cb1eeabb354c4429ab24f3c58896d18b6f6deb84e0f107c9f&c=cable&a=&p=&c_id=hilfe_netzass_kip"
+  },
+  "ST_GC05":
+  {
+    "userName" : "Ismail_US4649_Cable_TechnicianAppointment",
+    "password" : "Ismail_US4649_Cable_TechnicianAppointment",
+    "Link" : "netz-assistent/tb?sys=4&token=4650"
+  },
+  "ST_GC06":
+  {
+    "userName" : "Ismail_US4649_Cable_TechnicianAppointment",
+    "password" : "Ismail_US4649_Cable_TechnicianAppointment",
+    "Link" : "netz-assistent/tickets/review?i=f9e83978032434a7fcb2dd324349eb1cb1eeabb354c4429ab24f3c58896d18b6f6deb84e0f107c9f&c=cable&a=&p=&c_id=hilfe_netzass_kip"
+  },
+
+
+  "ST_GC07":
+  {
+    "userName" : "Ismail_US4649_UM_TechnicianAppointment",
+    "password" : "Ismail_US4649_UM_TechnicianAppointment",
+    "Link" : "netz-assistent/tb?sys=4&token=4647"
+
+  },
+  "ST_GC08":
+  {
+    "userName" : "Ismail_US4649_UM_TechnicianAppointment",
+    "password" : "Ismail_US4649_UM_TechnicianAppointment",
+    "Link" : "netz-assistent/tickets/review?i=c25a9f5111b0bf8f8c8240e7210901fe481eff35082500760fba006bd5f58cdef6edbff84c0690d7&c=um&s=NRW&icmp=mvw_db_netzass_um"
+  },
+  "ST_GC09":
+  {
+    "userName" : "Ismail_US4649_UM_TechnicianAppointment",
+    "password" : "Ismail_US4649_UM_TechnicianAppointment",
+    "Link" : "netz-assistent/tb?sys=4&token=4647"
+
+  },
+  "ST_GC10":
+  {
+    "userName" : "Ismail_US4649_UM_TechnicianAppointment",
+    "password" : "Ismail_US4649_UM_TechnicianAppointment",
+    "Link" : "netz-assistent/tickets/review?i=c25a9f5111b0bf8f8c8240e7210901fe481eff35082500760fba006bd5f58cdef6edbff84c0690d7&c=um&s=NRW&icmp=mvw_db_netzass_um"
+  },
+  "ST_GC11":
+  {
+    "userName" : "Ismail_US4649_UM_TechnicianAppointment",
+    "password" : "Ismail_US4649_UM_TechnicianAppointment",
+    "Link" : "netz-assistent/tb?sys=4&token=4648"
+
+  },
+  "ST_GC12":
+  {
+    "userName" : "Ismail_US4649_UM_TechnicianAppointment",
+    "password" : "Ismail_US4649_UM_TechnicianAppointment",
+    "Link" : "netz-assistent/tickets/review?i=c25a9f5111b0bf8f8c8240e7210901fe481eff35082500760fba006bd5f58cdef6edbff84c0690d7&c=um&s=NRW&icmp=mvw_db_netzass_um"
+  }
+}

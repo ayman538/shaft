@@ -1,0 +1,60 @@
+{
+  "ST_GC01": {
+    "name": "WFET-5246 | DSL |jumpDisable",
+    "password": "WFET-5246 | DSL |jumpDisable",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Verkabelung-WLAN","mit Emulator"]
+  },
+  "ST_GC02": {
+    "name": "WFET-5246 | DSL |jumpDisable",
+    "password": "WFET-5246 | DSL |jumpDisable",
+    "link": "meinvodafone/services/netzassistent/review?product=dsl",
+    "Steps"  : ["Verkabelung-WLAN","mit Emulator"]
+  },
+  "ST_GC03": {
+    "name": "WFET-5246 | DSL |jumpDisable",
+    "password": "WFET-5246 | DSL |jumpDisable",
+    "link": "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Verkabelung-WLAN","mit Emulator"]
+  },
+
+  "ST_GC04": {
+    "name": "WFET-5246 | DSL |jumpEnable",
+    "password": "WFET-5246 | DSL |jumpEnable",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Verkabelung-WLAN","mit Emulator","Nein, weiter mit der bisherigen Kundennummer"]
+  },
+
+  "ST_GC05": {
+    "name": "WFET-5246 | DSL |jumpEnable",
+    "password": "WFET-5246 | DSL |jumpEnable",
+    "link": "meinvodafone/services/netzassistent/review?product=dsl",
+    "Steps"  : ["Verkabelung-WLAN","mit Emulator","Nein, weiter mit der bisherigen Kundennummer"]
+  },
+
+  "ST_GC06": {
+    "name": "WFET-5246 | DSL |jumpEnable",
+    "password": "WFET-5246 | DSL |jumpEnable",
+    "link": "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Verkabelung-WLAN","mit Emulator","Nein, weiter mit der bisherigen Kundennummer"]
+  },
+
+  "ST_GC07": {
+    "name": "WFET-5246 | DSL |jumpNotReturned",
+    "password": "WFET-5246 | DSL |jumpNotReturned",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Verkabelung-WLAN","mit Emulator","Nein, weiter mit der bisherigen Kundennummer"]
+  },
+  "ST_GC08": {
+    "name": "WFET-5246 | DSL |jumpNotReturned",
+    "password": "WFET-5246 | DSL |jumpNotReturned",
+    "link": "meinvodafone/services/netzassistent/review?product=dsl",
+    "Steps"  : ["Verkabelung-WLAN","mit Emulator","Nein, weiter mit der bisherigen Kundennummer"]
+  },
+  "ST_GC09": {
+    "name": "WFET-5246 | DSL |jumpNotReturned",
+    "password": "WFET-5246 | DSL |jumpNotReturned",
+    "link": "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Verkabelung-WLAN","mit Emulator","Nein, weiter mit der bisherigen Kundennummer"]
+  }
+}

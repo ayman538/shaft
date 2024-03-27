@@ -1,0 +1,17 @@
+{
+  "gc01":
+  {
+    "name"  : "MVATest042",
+    "password": "vodafone15"
+  },
+  "gc02":
+  {
+    "name"  : "MVATest042",
+    "password": "vodafone15"
+  },
+  "gc03":
+  {
+    "name"  : "MVATest040",
+    "password": "vodafone15"
+  }
+}

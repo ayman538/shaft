@@ -1,0 +1,132 @@
+{
+  "GC01":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022"
+  },
+  "GC02":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "firmenname" : "Google",
+    "nachname" : "mahmoud",
+    "kundennummer" : "01622507481"
+  },
+  "GC03":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022"
+  },
+  "GC04":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022"
+  },
+  "GC05":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022"
+  },
+  "GC06":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022"
+  },
+  "GC07":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  :"01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022"
+  },
+  "GC08":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022"
+  },
+  "GC09":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022"
+  },
+  "GC10":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022"
+  },
+  "GC11":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022"
+  },
+  "GC12":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022"
+  },
+  "BC01":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "phoneNumber"  : "01622507481",
+    "provider" : "",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022"
+  }
+}

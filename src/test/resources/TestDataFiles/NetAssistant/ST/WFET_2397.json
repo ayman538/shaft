@@ -1,0 +1,49 @@
+{
+
+"ST_GC01": {
+    "name": "WFET-2397 | MassOutage | Cable",
+    "password": "WFET-2397 | MassOutage | Cable",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip"
+  },
+  "ST_GC02": {
+    "name": "WFET-2397 | No MassOutage | Cable",
+    "password": "WFET-2397 | No MassOutage | Cable",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip"
+  },
+  "ST_GC03": {
+    "name": "WFET-2397 | No MassOutage | Cable",
+    "password": "WFET-2397 | No MassOutage | Cable",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+      "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet","Compal CH7466CE","LAN-Kabel","Aus","Schalter war aus","Timer überspringen","Problem besteht weiterhin","Kabel ist defekt","Rückruf anfordern"]
+  },
+  "ST_GC04": {
+    "name": "WFET-2397 | MassOutage | Cable",
+    "password": "WFET-2397 | MassOutage | Cable",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet","Compal CH7466CE","LAN-Kabel","Aus","Schalter war aus","Timer überspringen","Problem besteht weiterhin","Kabel ist defekt","Rückruf anfordern"]
+  },
+  "ST_GC05": {
+    "name": "WFET-2397 | ChatbotAutomation | no mass outage",
+    "password": "WFET-2397 | ChatbotAutomation | no mass outage",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Verkabelung-WLAN","mit Emulator","Nein, weiter mit der bisherigen Kundennummer","Kein Internet","EasyBox 804","WLAN","Leuchtet grün","Leuchtet rot","Stromkabel ist draußen","Timer überspringen","Stromkabel ist eingesteckt","Timer überspringen","Problem gelöst!"]
+  },
+  "ST_GC06": {
+    "name": "WFET-2397 | ChatbotAutomation",
+    "password": "WFET-2397 | ChatbotAutomation",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Verkabelung-WLAN","mit Emulator","Nein, weiter mit der bisherigen Kundennummer","Kein Internet","EasyBox 804","WLAN","Leuchtet grün","Leuchtet rot","Stromkabel ist draußen","Timer überspringen","Stromkabel ist eingesteckt","Timer überspringen","Problem gelöst!"]
+  },
+  "ST_GC07": {
+    "name": "WFET-2397 | ChatbotAutomation",
+    "password": "WFET-2397 | ChatbotAutomation",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Verkabelung-WLAN","mit Emulator","Nein, weiter mit der bisherigen Kundennummer","Kein Internet","EasyBox 804","WLAN","Leuchtet grün","Leuchtet rot","Die Steckdose funktioniert","Rückruf anfordern"]
+  },
+  "ST_GC08": {
+    "name": "WFET-2397 | ChatbotAutomation | no mass outage",
+    "password": "WFET-2397 | ChatbotAutomation | no mass outage",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Verkabelung-WLAN","mit Emulator","Nein, weiter mit der bisherigen Kundennummer","Kein Internet","EasyBox 804","WLAN","Leuchtet grün","Leuchtet rot","Die Steckdose funktioniert","Rückruf anfordern"]
+  }
+}

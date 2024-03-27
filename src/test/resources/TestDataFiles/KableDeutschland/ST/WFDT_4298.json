@@ -1,0 +1,17 @@
+{
+  "gc01":
+  {
+    "name"  : "martin_loginDataSection",
+    "password": "martin_loginDataSection"
+  },
+  "gc02":
+  {
+    "name"  : "martin_mailNotValidated",
+    "password": "martin_mailNotValidated"
+  },
+  "gc03":
+  {
+    "name"  : "martin_mailNotValidated",
+    "password": "martin_mailNotValidated"
+  }
+}

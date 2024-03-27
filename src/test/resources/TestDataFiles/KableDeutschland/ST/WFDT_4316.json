@@ -1,0 +1,28 @@
+{
+  "gc01":
+  {
+    "name"  : "martin_editContactData",
+    "password": "martin_editContactData"
+  },
+  "gc02":
+  {
+    "name"  : "martin_changeLandLine",
+    "password": "martin_changeLandLine"
+  },
+  "gc03":
+  {
+    "name"  : "martin_changeMobileNumber",
+    "password": "martin_changeMobileNumber"
+  },
+  "gc04":
+  {
+    "name"  : "martin_changeNotValidatedemail",
+    "password": "martin_changeNotValidatedemail"
+  },
+  "gc05":
+  {
+    "name"  : "martin_changeValidatedemail",
+    "password": "martin_changeValidatedemail"
+  }
+
+}

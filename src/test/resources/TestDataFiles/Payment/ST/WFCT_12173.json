@@ -1,0 +1,88 @@
+{
+  "GC01MarieUserEligibleForPAHasOnly1ValueIsDisplayedToIUserInDueAmountSectionChecksDunningAccordion": {
+    "name": "marie.PAeligible.1val",
+    "password": "marie.PAeligible.1val"
+  },
+  "GC02BartUserSubmitsPaymentArrangementTransactionSuccessfully": {
+    "name": "bart.PAeligible",
+    "password": "bart.PAeligible",
+    "paDateValue": "2024",
+    "paAmountValue": "200,00 €",
+    "paAdditionalAmountValue": "0,50 €"
+  },
+  "GC03BartUserNotEligibleForPAChecksTheDunningAccordion": {
+    "name": "bart.not.PAeligible",
+    "password": "bart.not.PAeligible"
+  },
+  "GC04MarieDunningUserHasCreditChecksTheAmountInTheDunningTileAndAccordion": {
+    "name": "marie.credit.scenario",
+    "password": "marie.credit.scenario"
+  },
+  "GC05KayUserDLAEqualsARBalanceBothLargerThanZeroAndHisNextDunningStatusIsHLChecksTheDunningTileAndTheAmountSectionInDunningAccordion": {
+    "name": "kay.equal.amounts.HL",
+    "password": "kay.equal.amounts.HL"
+  },
+  "GC06MarieUserHasDLANotEqualsToARBalanceBothLargerThanZeroAndHisNextDunningStatusIsTDChecksTheDunningTileAndTheAmountSectionInDunningAccordion": {
+    "name": "marie.different.amounts.TD",
+    "password": "marie.different.amounts.TD"
+  },
+  "GC07KayUserHasDlaEqualZeroAndArLargerThanZeroChecksTheDunningTileAndTheAmountSectionInDunningAccordion": {
+    "name": "kay.ar.only",
+    "password": "kay.ar.only",
+    "dlaAmount": "100,00 €"
+  },
+  "GC08MarieUserHasDlaAndArEqualZeroChecksTheDunningTileAndTheAmountSectionInDunningAccordion": {
+    "name": "marie.no.ar.no.dla",
+    "password": "marie.no.ar.no.dla"
+  },
+  "GC09MarieUserCheckDunningAccordionWhenEligibleToRenewDirectDebit": {
+    "name": "marie.eligible.RDD",
+    "password": "marie.eligible.RDD"
+  },
+  "GC10KayUserCheckDunningAccordionWhenNotEligibleToRenewDirectDebit": {
+    "name": "kay.notEligible.RDD",
+    "password": "kay.notEligible.RDD"
+  },
+  "GC11BartUserSubmitsRenewDirectDebit": {
+    "name": "bart.eligible.RDD",
+    "password": "bart.eligible.RDD"
+  },
+  "GC12KayUserHasMoreThan20PaymentTransactionCheckPaymentHistorySectionInDunningAccordion": {
+    "name": "kay.paymenthistory.more20",
+    "password": "kay.paymenthistory.more20"
+  },
+  "GC13BartUserHasNoPaymentTransactionCheckPaymentHistorySectionInDunningAccordion": {
+    "name": "bart.no.paymenthistory",
+    "password": "bart.no.paymenthistory"
+  },
+  "GC14BartUserChecksNotificationSectionInDunningAccordionWhenB02IsDisplayed": {
+    "name": "bart.B02.scenario",
+    "password": "bart.B02.scenario"
+  },
+  "GC15KayUserChecksNotificationSectionInDunningAccordionWhenB07IsDisplayed": {
+    "name": "kay.B07",
+    "password": "kay.B07"
+  },
+  "GC16BartUserChecksNotificationSectionInDunningAccordionWhenB14IsDisplayed": {
+    "name": "bart.B14",
+    "password": "bart.B14"
+  },
+  "GC17MarieUserChecksNotificationSectionInDunningAccordionWhenB15IsDisplayed": {
+    "name": "marie.B15",
+    "password": "marie.B15"
+  },
+  "GC18BartUserChecksNotificationSectionInDunningAccordionWhenB20IsDisplayed": {
+    "name": "bart.B20",
+    "password": "bart.B20"
+  },
+  "GC19MarieUserNotEligibleForPaymentInstallmentChecksDunningAccordion": {
+    "name": "marie.not.RAZAeligible",
+    "password": "marie.not.RAZAeligible"
+  },
+  "GC20BartUserSubmitsPaymentInstallmentTransactionSuccessfully": {
+    "name": "bart.RAZAeligible1",
+    "password": "bart.RAZAeligible1",
+    "instalmentValue": "1"
+  }
+}
+

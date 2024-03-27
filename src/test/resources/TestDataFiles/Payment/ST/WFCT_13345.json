@@ -1,0 +1,48 @@
+{
+  "GC01_PaulUserCompletesOneTimePaymentUsingSofortAndSaveIt":
+  {
+    "name"  : "paul.no.card.num",
+    "password": "paul.no.card.num",
+    "contractOrder": "1"
+  },
+  "GC02_PaulUserCompletesOneTimePaymentUsingIbanSavedPaymentMethod":
+  {
+    "name"  : "paul.sofort.saved",
+    "password": "paul.sofort.saved",
+    "contractOrder": "1"
+
+  },
+  "GC04_NonLoggedUserCompletesOneTimePaymentUsingSofort":
+  {
+    "name"  : "",
+    "password": "",
+    "contractOrder": "1",
+    "externalNumber": "0153628494858"
+
+  },
+  "GC05_PaulUserWithMoreThan1SavedPaymentMethodCompletesOneTimePaymentUsingSofort":
+  {
+    "name"  : "paul.paused.11860.auto.topup",
+    "password": "paul.paused.11860.auto.topup",
+    "contractOrder": "1"
+  },
+  "GC06_PaulUserCompetesOneTimePaymentUsingSofortWithoutSavingIt":
+  {
+    "name"  : "paul.no.card.num",
+    "password": "paul.no.card.num",
+    "contractOrder": "1"
+  },
+  "GC07_PaulUserWithSavedIbanCompletesOneTimePaymentUsingSofortAndChecksSaveCheckbox":
+  {
+    "name"  : "paul.sofort.saved",
+    "password": "paul.sofort.saved",
+    "contractOrder": "1"
+  },
+  "BC01_PaulUserFailsToSaveSofortAsSavedPaymentMethod":
+  {
+    "name"  : "PaymentCreationPostError",
+    "password": "PaymentCreationPostError",
+    "contractOrder": "1"
+  },
+  "paymentMethod": "Sofort"
+}

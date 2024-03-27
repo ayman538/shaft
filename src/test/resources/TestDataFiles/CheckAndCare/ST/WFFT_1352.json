@@ -1,0 +1,33 @@
+{
+  "GC01":
+  {
+    "urlIdent":"553322",
+    "Dashboardheader": "Teste Deine Router-Verbindung",
+    "APLInfoheader": "Der Hausverteiler war nicht zugänglich",
+    "APLInfoSubheader": "Der Telekom Technik-Service konnte Deinen Anschluss nicht einrichten. Er hatte keinen Zugang zu Deinem Hausverteiler.",
+    "FirstAccTitle":"Was ist der Hausverteiler?",
+    "FirstAccinfo": "Am Hausverteiler kommt das Kabel von der Straße ins Haus. Von dort wird das Signal auf die Wohnungen verteilt. Oben siehst Du ein paar Beispiele.",
+    "TerminAussuchenButtonTxt": "Neuen Termin aussuchen",
+    "Calendarheader": "Wann soll der Techniker kommen?",
+    "MorningCheckBoxText": "Vormittags 8-13 Uhr",
+    "EveningCheckBoxText": "Nachmittags 12-17 Uhr",
+    "ReviewDateheader": "Passt alles für Dich?",
+    "ReviewDateSubheader": "Check nochmal den Tag und die Uhrzeit. Dann schick ab.",
+    "ReviewDateDateCL": "Dein Termin:",
+    "TerminwahlbestätigenButtonTxt": "Terminwahl bestätigen",
+    "ConfirmedDateheader": "Vielen Dank für Deine Termin-Wahl"
+  },
+
+  "GC02": {
+    "urlIdent":"553322",
+    "Dashboardheader": "Teste Deine Router-Verbindung",
+    "APLInfoheader": "Der Hausverteiler war nicht zugänglich",
+    "SecondAccTitle":"Wo finde ich den Hausverteiler?",
+    "SecondAccinfo": "Er ist meistens im Keller oder Haustechnikraum, kann aber auch außen an der Hauswand sein.",
+    "Calendarheader": "Wann soll der Techniker kommen?",
+    "MorningCheckBoxText": "Vormittags 8-13 Uhr",
+    "ReviewDataheader": "Passt alles für Dich?",
+    "ConfirmedDateheader": "Vielen Dank für Deine Termin-Wahl"
+  }
+
+}

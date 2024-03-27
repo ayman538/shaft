@@ -1,0 +1,18 @@
+{
+  "GC01":
+  {
+    "DeliveryNumber"  : "3849366645",
+    "Zipcode": "12345"
+  },
+  "GC02":
+  {
+    "DeliveryNumber"  : "3339993099",
+    "Zipcode": "12345"
+  },
+  "GC03":
+  {
+    "DeliveryNumber"  : "1005476044",
+    "Zipcode": "12345"
+  }
+
+}

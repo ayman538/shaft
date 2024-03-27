@@ -1,0 +1,10 @@
+{
+  "GC01_KayUserWithMoreThan12NumbersChecksKostenübersichtTabInMeineRechnungenPage":
+  {
+    "name": "multi_contracts",
+    "password": "TEST@1234",
+    "contractOrder": "1",
+    "siteStructure_value": "mein vodafone,ihre-rechnungen,Kosten-Ubersicht-zu-ihrer-rufnummer",
+    "downloadName_value" : "subscriber bill"
+  }
+}

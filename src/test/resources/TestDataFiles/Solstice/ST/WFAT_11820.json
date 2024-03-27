@@ -1,0 +1,30 @@
+{
+  "GC01":
+  {
+    "token" : "1234",
+    "password"  : "Test@1234",
+    "confirmPassword": "Test@1234"
+  },
+
+  "GC02":
+  {
+    "token" : "1234",
+    "password"  : "test12",
+    "confirmPassword": "test12",
+    "password1"  : "test@@",
+    "confirmPassword1": "test@@",
+    "password2"  : "12345@@",
+    "confirmPassword2": "12345@@"
+  }
+,
+  "BC03": {
+    "token": "1237",
+    "password": "Salma@1234",
+    "confirmPassword": "Salma@1234"
+  },
+  "BC04": {
+    "token": "1238",
+    "password": "test@123456",
+    "confirmPassword": "test@123456"
+  }
+}

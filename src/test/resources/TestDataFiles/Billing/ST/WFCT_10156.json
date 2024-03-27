@@ -1,0 +1,20 @@
+{
+  "GC01_KayUserWithLessThan12NumbersChecksKostenübersichtTabInMeineRechnungenPage":
+  {
+    "name"  : "kay.cost.less.than.12",
+    "password": "kay.cost.less.than.12",
+    "siteStructure_value": "mein vodafone,ihre-rechnungen,Kosten-Ubersicht-zu-ihrer-rufnummer",
+    "downloadName_value" : "subscriber bill"
+  },
+  "GC02_BartUserWith12NumbersChecksKostenübersichtTabInMeineRechnungenPage":
+  {
+    "name": "bart.cost.12",
+    "password": "bart.cost.12"
+  },
+  "GC03_KayUserWithMoreThan12NumbersChecksKostenübersichtTabInMeineRechnungenPage":
+  {
+    "name": "kay.cost.more.than.12",
+    "password": "kay.cost.more.than.12"
+
+  }
+}

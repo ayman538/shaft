@@ -1,0 +1,71 @@
+{
+  "SIT_GC09": {
+    "link": "https://www.vodafone.de/netz-assistent/chatbot?i=f7b677657cd9e380be1f8890b8b5f08a67d9ba61a0726b39c0072ca8d551422fcbe5a42221a0f27b22c3a7d3&c=DSL&a=0383&p=682b926067c657b9664ba707722d84abdf88fdb90ce7e20a02294b2a0456d747084498847f5b2b&s=&c_id=hilfe_netzass_dsl"
+  },
+  "SIT_GC19": {
+    "link": "https://www.vodafone.de/netz-assistent/chatbot?i=b1a38ade1f0430e330f2bef0f5d8a45e670afd3a0339687632ee6ac6fb7289fd2226e1cd394d6339f5&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip"
+
+  },
+  "SIT_GC11":
+  {
+    "name": "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "mobileNumber" : "017131232123",
+    "Steps"  : ["Verkabelung-WLAN","mit Emulator","Nein, weiter mit der bisherigen Kundennummer","Kein Internet","EasyBox 805","LAN-Kabel","Aus","Aus","Die Steckdose funktioniert","Rückruf anfordern","Sofort angerufen werden"]
+  },
+  "SIT_GC18":
+  {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "mobileNumber" : "017131232123",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet","Compal CH6640E","WLAN","Aus","Schalter war aus","Timer überspringen","Problem besteht weiterhin","Kabel ist defekt","Rückruf anfordern"]
+  },
+
+  "SIT_GC20":
+  {
+    "link"  : "https://www.vodafone.de/netz-assistent/chatbot?i=41b037a4d8085f29a5a7f57bf31b10548d032cb652577edb1f124ffa20aa650bc9e11491588eff773a&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip"
+  },
+
+  "SIT_GC01": {
+    "link": "https://www.vodafone.de/netz-assistent/tickets?i=e6b51e1c1f2e4ec110b2a5653b92b8ddf198ab66bc30287e04e06eb5f91efdd6386617c7d006a41fc0e6a2ec&c=DSL&a=0393&p=8c27b380aa37895318f1d8a9231e90240e9fed058f24d4ca293041e17dff63cda45a71c3ca2c&s=&c_id=hilfe_netzass_dsl"
+  },
+
+  "SIT_GC02": {
+    "link": "https://www.vodafone.de/netz-assistent/tickets?i=de99cf8f4f98d059d5415f73178bf53084c83c9d2adb3dc313a8e7789ae20632fc18cf974416e31cbfb94e95&c=DSL&a=0383&p=2cd1e315e06aff5a4f50844f8e2bd0713b7ee100f053c6778d76ea0e111926ea45ee7b5853262c&s=&c_id=hilfe_netzass_dsl"
+  },
+  "SIT_GC04": {
+    "link": "https://www.vodafone.de/netz-assistent/tickets?i=e6b51e1c1f2e4ec110b2a5653b92b8ddf198ab66bc30287e04e06eb5f91efdd6386617c7d006a41fc0e6a2ec&c=DSL&a=0393&p=8c27b380aa37895318f1d8a9231e90240e9fed058f24d4ca293041e17dff63cda45a71c3ca2c&s=&c_id=hilfe_netzass_dsl"
+  },
+  "SIT_GC05": {
+    "link": "https://www.vodafone.de/netz-assistent/tickets?i=de99cf8f4f98d059d5415f73178bf53084c83c9d2adb3dc313a8e7789ae20632fc18cf974416e31cbfb94e95&c=DSL&a=0383&p=2cd1e315e06aff5a4f50844f8e2bd0713b7ee100f053c6778d76ea0e111926ea45ee7b5853262c&s=&c_id=hilfe_netzass_dsl"
+  },
+  "SIT_GC03": {
+    "link": "https://www.vodafone.de/netz-assistent/tickets?i=de99cf8f4f98d059d5415f73178bf53084c83c9d2adb3dc313a8e7789ae20632fc18cf974416e31cbfb94e95&c=DSL&a=0383&p=2cd1e315e06aff5a4f50844f8e2bd0713b7ee100f053c6778d76ea0e111926ea45ee7b5853262c&s=&c_id=hilfe_netzass_dsl"
+  },
+
+  "SIT_GC13": {
+    "link": "https://www.vodafone.de/netz-assistent/tickets?i=5b20177226cb9d4be4f89a13cabd2a380e2778fffa232e2ee634d91d81b5d1fd6a12264ce160a44151&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip"
+  },
+  "SIT_GC14": {
+    "link": "https://www.vodafone.de/netz-assistent/tickets?i=5b20177226cb9d4be4f89a13cabd2a380e2778fffa232e2ee634d91d81b5d1fd6a12264ce160a44151&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip"
+  },
+  "SIT_GC15":
+  {
+    "link"  : "https://www.vodafone.de/netz-assistent/tickets?i=c25ad47e68a04095efe68c02ef7b679c3efe5c6f253d28d565e05ae535f34855374c51c32e42ad29e1&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip"
+  },
+  "SIT_GC16":
+  {
+    "link"  : "https://www.vodafone.de/netz-assistent/tickets?i=c25ad47e68a04095efe68c02ef7b679c3efe5c6f253d28d565e05ae535f34855374c51c32e42ad29e1&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip"
+  },
+  "SIT_GC17":
+  {
+    "link"  : "https://www.vodafone.de/netz-assistent/tickets?i=c25ad47e68a04095efe68c02ef7b679c3efe5c6f253d28d565e05ae535f34855374c51c32e42ad29e1&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip"
+  },
+  "SIT_GC22":
+  {
+    "link"  : "https://www.vodafone.de/netz-assistent/tickets?i=c25ad47e68a04095efe68c02ef7b679c3efe5c6f253d28d565e05ae535f34855374c51c32e42ad29e1&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip"
+  }
+
+}

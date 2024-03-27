@@ -1,0 +1,39 @@
+{
+  "validateOnViewOfAvailableDevices":
+  {
+    "bob-device-overview-app-draft": "feature-wfht-455-Manufacturers-Device",
+    "mint-session-id": "Im1vcmVUaGFuIg=="
+  },
+  "validateOnWholeProductCard":
+  {
+    "bob-device-overview-app-draft": "feature-wfht-455-Manufacturers-Device",
+    "mint-session-id": "Im1vcmVUaGFuIg=="
+  },
+  "verifyThatLoadMoreButtonIsHidden":
+  {
+    "bob-device-overview-app-draft": "feature-wfht-455-Manufacturers-Device",
+    "mint-session-id": "Imxlc3NUaGFuIg=="
+  },
+  "validateOnNumberOfDisplayedDevices":
+  {
+    "bob-device-overview-app-draft": "feature-wfht-455-Manufacturers-Device",
+    "mint-session-id": "Imxlc3NUaGFuIg=="
+  },
+  "validateOnViewOfAvailableDevicesInCaseOfTariffFirstFlow":
+  {
+    "bob-device-overview-app-draft": "feature-wfht-455-Manufacturers-Device",
+    "mint-session-id": "Im1vcmVUaGFuIg=="
+  },
+
+  "validateOnErrorMessageInCaseOfAvailableDevicesFailedToload":
+  {
+    "bob-device-overview-app-draft": "feature-wfht-455-Manufacturers-Device",
+    "mint-session-id": "ImVycm9yIg=="
+  },
+
+  "validateOnErrorMessageInCaseOfZeroDevices":
+  {
+    "bob-device-overview-app-draft": "feature-wfht-455-Manufacturers-Device",
+    "mint-session-id": "Ilplcm9EZXZpY2VzIg=="
+  }
+}

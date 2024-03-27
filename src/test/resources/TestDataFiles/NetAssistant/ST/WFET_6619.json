@@ -1,0 +1,272 @@
+{
+  "GC01":
+  {
+    "userName"  : "WFET-6619 | CallBack | JumpBack=False",
+    "password": "WFET-6619 | CallBack | JumpBack=False",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_CallBack"]
+  },
+  "GC02":
+  {
+    "userName"  : "WFET-6619 | ImageSelector | JumpBack=False",
+    "password": "WFET-6619 | ImageSelector | JumpBack=False",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_QA_TwoColumn"]
+  },
+  "GC03":
+  {
+    "userName"  : "WFET-6619 | Timer | JumpBack=False",
+    "password": "WFET-6619 | Timer | JumpBack=False",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_Timer","Timer überspringen"]
+  },
+  "GC04":
+  {
+    "userName"  : "WFET-6619 | Mic | JumpBack=False",
+    "password": "WFET-6619 | Mic | JumpBack=False",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_FormularOneColumn"],
+    "familyName" : "test",
+    "postalCode" : "00000",
+    "customerId" : "123456789046"
+  },
+  "GC05":
+  {
+    "userName"  : "WFET-6619 | CallBack | JumpBack=False",
+    "password": "WFET-6619 | CallBack | JumpBack=False",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_CallBack"],
+    "mobileNumber" : "017141234567"
+  },
+  "GC06":
+  {
+    "userName"  : "WFET-6619 | Answer Nodetype=select | JumpBack=False",
+    "password": "WFET-6619 | Answer Nodetype=select | JumpBack=False",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC07":
+  {
+    "userName"  : "WFET-6619 | Answer Nodetype=info | JumpBack=False",
+    "password": "WFET-6619 | Answer Nodetype=info | JumpBack=False",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_FormularOneColumn"],
+    "mobileNumber" : "017141234567"
+  },
+  "GC08":
+  {
+    "userName"  : "WFET-6619 | Answer Nodetype=info &multiple| JumpBack=False",
+    "password": "WFET-6619 | Answer Nodetype=info &multiple| JumpBack=False",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_FormularOneColumn"],
+    "mobileNumber" : "017141234567"
+  },
+  "GC09":
+  {
+    "userName"  : "WFET-6619 | Answer Dropdown | JumpBack=False",
+    "password": "WFET-6619 | Answer Dropdown | JumpBack=False",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test_Formular_RadioCombo"]
+  },
+  "GC10":
+  {
+    "userName"  : "WFET-6619 | Answer optionPicker | JumpBack=False",
+    "password": "WFET-6619 | Answer optionPicker | JumpBack=False",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test_Formular_RadioCombo"]
+  },
+  "GC11":
+  {
+    "userName"  : "WFET-6619 | Form_Wait | JumpBack=False",
+    "password": "WFET-6619 | Form_Wait | JumpBack=False",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_Wait"]
+  },
+  "GC12":
+  {
+    "userName"  : "WFET-6619 | DatePicker | JumpBack=False",
+    "password": "WFET-6619 | DatePicker | JumpBack=False",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test datePicker"]
+  },
+  "GC13":
+  {
+    "userName"  : "WFET-6619 | CallBack | JumpBack=True",
+    "password": "WFET-6619 | CallBack | JumpBack=True",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_CallBack"]
+  },
+  "GC14":
+  {
+    "userName"  : "WFET-6619 | ImageSelector | JumpBack=True",
+    "password": "WFET-6619 | ImageSelector | JumpBack=True",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_QA_TwoColumn","Compal CH6640E"]
+  },
+  "GC15":
+  {
+    "userName"  : "WFET-6619 | Timer | JumpBack=True",
+    "password": "WFET-6619 | Timer | JumpBack=True",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_Timer","Timer überspringen"]
+  },
+  "GC16":
+  {
+    "userName"  : "WFET-6619 | Mic | JumpBack=True",
+    "password": "WFET-6619 | Mic | JumpBack=True",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_FormularOneColumn"],
+    "familyName" : "test",
+    "postalCode" : "00000",
+    "customerId" : "123456789046"
+  },
+  "GC17":
+  {
+    "userName"  : "WFET-6619 | CallBack | JumpBack=True",
+    "password": "WFET-6619 | CallBack | JumpBack=True",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_CallBack"],
+    "mobileNumber" : "017141234567"
+  },
+  "GC18":
+  {
+    "userName"  : "WFET-6619 | Answer Nodetype=select | JumpBack=True",
+    "password": "WFET-6619 | Answer Nodetype=select | JumpBack=True",
+    "deeplink" : "netz-assistent/?c_id=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC19":
+  {
+    "userName"  : "WFET-6619 | Answer Nodetype=info | JumpBack=True",
+    "password": "WFET-6619 | Answer Nodetype=info | JumpBack=True",
+    "deeplink" : "netz-assistent/?c_id=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_FormularOneColumn"],
+    "mobileNumber" : "017141234567"
+  },
+  "GC20":
+  {
+    "userName"  : "WFET-6619 | Answer Nodetype=info &multiple| JumpBack=True",
+    "password": "WFET-6619 | Answer Nodetype=info &multiple| JumpBack=True",
+    "deeplink" : "netz-assistent/?c_id=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_FormularOneColumn"],
+    "mobileNumber" : "017141234567"
+  },
+  "GC21":
+  {
+    "userName"  : "WFET-6619 | Answer Dropdown | JumpBack=True",
+    "password": "WFET-6619 | Answer Dropdown | JumpBack=True",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test_Formular_RadioCombo"]
+  },
+  "GC22":
+  {
+    "userName"  : "WFET-6619 | Answer optionPicker | JumpBack=True",
+    "password": "WFET-6619 | Answer optionPicker | JumpBack=True",
+    "deeplink" : "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test_Formular_RadioCombo"]
+  },
+  "GC23":
+  {
+    "userName"  : "WFET-6619 | FormWait| JumpBack=True",
+    "password": "WFET-6619 | FormWait| JumpBack=True",
+    "deeplink" : "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_Wait"]
+  },
+  "GC24":
+  {
+    "userName"  : "WFET-6619 | DatePicker | JumpBack=True",
+    "password": "WFET-6619 | DatePicker | JumpBack=True",
+    "deeplink" : "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test datePicker"]
+  },
+  "GC25":
+  {
+    "userName"  : "WFET-6619 | CallBack | JumpBack=notReturned",
+    "password": "WFET-6619 | CallBack | JumpBack=notReturned",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_CallBack"]
+  },
+  "GC26":
+  {
+    "userName"  : "WFET-6619 | ImageSelector | JumpBack=notReturned",
+    "password": "WFET-6619 | ImageSelector | JumpBack=notReturned",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_QA_TwoColumn","Compal CH6640E"]
+  },
+  "GC27":
+  {
+    "userName"  : "WFET-6619 | Timer | JumpBack=notReturned",
+    "password": "WFET-6619 | Timer | JumpBack=notReturned",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_Timer","Timer überspringen"]
+  },
+  "GC28":
+  {
+    "userName"  : "WFET-6619 | Mic | JumpBack=notReturned",
+    "password": "WFET-6619 | Mic | JumpBack=notReturned",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_FormularOneColumn"],
+    "familyName" : "test",
+    "postalCode" : "00000",
+    "customerId" : "123456789046"
+  },
+  "GC29":
+  {
+    "userName"  : "WFET-6619 | CallBack | JumpBack=notReturned",
+    "password": "WFET-6619 | CallBack | JumpBack=notReturned",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_CallBack"],
+    "mobileNumber" : "017141234567"
+  },
+  "GC30":
+  {
+    "userName"  : "WFET-6619 | Answer Nodetype=select | JumpBack=notReturned",
+    "password": "WFET-6619 | Answer Nodetype=select | JumpBack=notReturned",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC31":
+  {
+    "userName"  : "WFET-6619 | Answer Nodetype=info | JumpBack=notReturned",
+    "password": "WFET-6619 | Answer Nodetype=info | JumpBack=notReturned",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_FormularOneColumn"],
+    "mobileNumber" : "017141234567"
+  },
+  "GC32":
+  {
+    "userName"  : "WFET-6619 | Answer Nodetype=info &multiple| JumpBack=notReturned",
+    "password": "WFET-6619 | Answer Nodetype=info &multiple| JumpBack=notReturned",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_FormularOneColumn"],
+    "mobileNumber" : "017141234567"
+  },
+  "GC33":
+  {
+    "userName"  : "WFET-6619 | Answer Dropdown | JumpBack=notReturned",
+    "password": "WFET-6619 | Answer Dropdown | JumpBack=notReturned",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test_Formular_RadioCombo"]
+  },
+  "GC34":
+  {
+    "userName"  : "WFET-6619 | Answer optionPicker | JumpBack=notReturned",
+    "password": "WFET-6619 | Answer optionPicker | JumpBack=notReturned",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test_Formular_RadioCombo"]
+  },
+  "GC35":
+  {
+    "userName"  : "WFET-6619 | FormWait | JumpBack=notReturned",
+    "password": "WFET-6619 | FormWait | JumpBack=notReturned",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_Wait"]
+  },
+  "GC36":
+  {
+    "userName"  : "WFET-6619 | DatePicker | JumpBack=notReturned",
+    "password": "WFET-6619 | DatePicker | JumpBack=notReturned",
+    "deeplink" : "netz-assistent/?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test datePicker"]
+  }
+}

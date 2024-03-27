@@ -1,0 +1,35 @@
+{
+  "GC01_UserCheckBookedOptionAccordionWithOneSmartCardAndOneTarif":
+  {
+    "name"  : "Automated-wfbt_10814_1",
+    "password": "Automated-wfbt_10814_1",
+    "smartCardSerialNO" : "51214374650"
+  },
+  "GC02_UserCheckBookedOptionAccordionWithTwoSmartCard":
+  {
+    "name": "Automated-wfbt_10814_2",
+    "password": "Automated-wfbt_10814_2",
+    "smartCardSerialNO" : "71177010107"
+  },
+  "GC03_UserCheckBookedOptionAccordionWithTarifAndNoSmartCard":
+  {
+    "name"  : "Automated-wfbt_10814_3",
+    "password": "Automated-wfbt_10814_3"
+  },
+  "GC04_UserCheckBookedOptionAccordionWithMixedTarif":
+  {
+    "name"  : "Automated-wfbt_10814_4",
+    "password": "Automated-wfbt_10814_4",
+    "smartCardSerialNO" : "51214374650"
+  },
+  "GC06_UserCheckBookedOptionAccordionWithNoBookedOptions":
+  {
+    "name"  : "Automated-wfbt_10814_5",
+    "password": "Automated-wfbt_10814_5"
+  },
+  "BC01_UserCheckBookedOptionAccordionWhenItReturnGeneralError":
+  {
+    "name" : "Automated-wfbt_10814_6",
+    "password" : "Automated-wfbt_10814_6"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "GC01_KayUserWithOneSubscriberCheckTheViewOnInvoiceSummaryPage": {
+    "name": "kay.user.1.subscriber",
+    "password": "kay.user.1.subscriber",
+    "endDate": "Juli",
+    "subscriberCount": "1"
+  },
+  "GC02_BartUserWithOneSubscriberCheckTheViewOnInvoiceSummaryPage": {
+    "name": "bart.user.1.subscriber",
+    "password": "bart.user.1.subscriber",
+    "endDate": "Juli",
+    "subscriberCount": "1"
+  },
+  "GC04_MarieUserCheckTheDateMappingInInvoiceSummaryPage": {
+    "name": "marie.normal.flow",
+    "password": "marie.normal.flow",
+    "endDate": "Oktober"
+  },
+  "GC05_PeterUserCheckTheDateMappingInInvoiceSummaryPage": {
+    "name": "peter.with.invoices",
+    "password": "peter.with.invoices",
+    "endDate": "Februar"
+  }
+}
+

@@ -1,0 +1,78 @@
+{
+"GC01": {
+"name": "martin.normal.single",
+"password": "martin.normal.single",
+"headerText": "Meine Rechnungen",
+"thirdPartyHeadline": "Drittanbieter",
+"thirdPartySubHeadline": "Hier kannst Du Deine Drittanbieter-Rechnungen und Einzelverbindungsnachweise für die letzten 24 Monate herunterladen."
+},
+
+  "GC02": {
+    "name": "martin.mix.multiple",
+    "password": "martin.mix.multiple",
+    "headerText": "Meine Rechnungen",
+    "thirdPartyHeadline": "Drittanbieter",
+    "thirdPartySubHeadline": "Hier kannst Du Deine Drittanbieter-Rechnungen und Einzelverbindungsnachweise für die letzten 24 Monate herunterladen."
+  },
+  "GC04": {
+    "name": "martin.Normal.NotRetrived",
+    "password": "martin.Normal.NotRetrived",
+    "headerText": "Meine Rechnungen",
+    "thirdPartyHeadline": "Drittanbieter",
+    "thirdPartySubHeadline": "Hier kannst Du Deine Drittanbieter-Rechnungen und Einzelverbindungsnachweise für die letzten 24 Monate herunterladen.",
+    "errorheadline" : "Das hat leider nicht geklappt.",
+    "errorsubheadline" : "Entschuldige bitte, unser Fehler. Versuch es einfach später nochmal."
+  },
+  "GC05": {
+    "name": "martin.Itemized.NotRetrived",
+    "password": "martin.Itemized.NotRetrived",
+    "headerText": "Meine Rechnungen",
+    "thirdPartyHeadline": "Drittanbieter",
+    "thirdPartySubHeadline": "Hier kannst Du Deine Drittanbieter-Rechnungen und Einzelverbindungsnachweise für die letzten 24 Monate herunterladen.",
+    "errorheadline" : "Das hat leider nicht geklappt.",
+    "errorsubheadline" : "Entschuldige bitte, unser Fehler. Versuch es einfach später nochmal."
+  },
+  "GC06": {
+    "name": "martin.No.ThirdParty",
+    "password": "martin.No.ThirdParty",
+    "headerText": "Meine Rechnungen"
+  },
+
+  "GC10": {
+    "name": "Ute.normal.single",
+    "password": "Ute.normal.single",
+    "headerText": "Meine Rechnungen",
+    "thirdPartyHeadline": "Drittanbieter",
+    "thirdPartySubHeadline": "Hier kannst Du Deine Drittanbieter-Rechnungen und Einzelverbindungsnachweise für die letzten 24 Monate herunterladen."
+  },
+  "GC11": {
+    "name": "Ute.mix.multiple",
+    "password": "Ute.mix.multiple",
+    "headerText": "Meine Rechnungen",
+    "thirdPartyHeadline": "Drittanbieter",
+    "thirdPartySubHeadline": "Hier kannst Du Deine Drittanbieter-Rechnungen und Einzelverbindungsnachweise für die letzten 24 Monate herunterladen."
+  },
+  "GC13": {
+    "name": "Ute.Normal.NotRetrived",
+    "password": "Ute.Normal.NotRetrived",
+    "headerText": "Meine Rechnungen",
+    "thirdPartyHeadline": "Drittanbieter",
+    "thirdPartySubHeadline": "Hier kannst Du Deine Drittanbieter-Rechnungen und Einzelverbindungsnachweise für die letzten 24 Monate herunterladen.",
+    "errorheadline" : "Das hat leider nicht geklappt.",
+    "errorsubheadline" : "Entschuldige bitte, unser Fehler. Versuch es einfach später nochmal."
+  },
+  "GC14": {
+    "name": "Ute.Itemized.NotRetrived",
+    "password": "Ute.Itemized.NotRetrived",
+    "headerText": "Meine Rechnungen",
+    "thirdPartyHeadline": "Drittanbieter",
+    "thirdPartySubHeadline": "Hier kannst Du Deine Drittanbieter-Rechnungen und Einzelverbindungsnachweise für die letzten 24 Monate herunterladen.",
+    "errorheadline" : "Das hat leider nicht geklappt.",
+    "errorsubheadline" : "Entschuldige bitte, unser Fehler. Versuch es einfach später nochmal."
+  },
+  "GC15": {
+    "name": "Ute.No.ThirdParty",
+    "password": "Ute.No.ThirdParty",
+    "headerText": "Meine Rechnungen"
+  }
+}

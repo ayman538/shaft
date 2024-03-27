@@ -1,0 +1,38 @@
+{
+  "gc01": {
+    "name": "martin_EditBank02",
+    "password": "martin_EditBank02"
+  },
+  "gc02": {
+    "name": "martin_EditBank02",
+    "password": "martin_EditBank02"
+  },
+  "gc03": {
+    "name": "martin_EditBank03",
+    "password": "martin_EditBank03"
+  },
+  "gc04": {
+    "name": "martin_EditBank04",
+    "password": "martin_EditBank04"
+  },
+  "gc05": {
+    "name": "martin_EditBank05",
+    "password": "martin_EditBank05"
+  },
+  "gc06": {
+    "name": "martin_EditBank06",
+    "password": "martin_EditBank06"
+  },
+  "gc07": {
+    "name": "martin_EditBank07",
+    "password": "martin_EditBank07"
+  },
+  "gc08": {
+    "name": "martin_EditBank08",
+    "password": "martin_EditBank08"
+  },
+  "gc10": {
+    "name": "martin_EditBank09",
+    "password": "martin_EditBank09"
+  }
+}

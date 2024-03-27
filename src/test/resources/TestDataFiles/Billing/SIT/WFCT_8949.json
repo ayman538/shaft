@@ -1,0 +1,18 @@
+{
+  "GC01_MarieUserWithLessThan12InvoicesChecksCollectiveDownload":
+  {
+    "name"  : "multi_contracts",
+    "password": "TEST@1234",
+    "firstMonthOrder": 3,
+    "secondMonthOrder": 4,
+    "contractOrder": "1"
+  },
+  "GC02_KayUserWithMoreThan12InvoicesChecksCollectiveDownloadUsingSelectAll":
+  {
+    "name"  : "multi_contracts",
+    "password": "TEST@1234",
+    "firstMonthOrder": 3,
+    "secondMonthOrder": 4,
+    "contractOrder": "1"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "SIT_GC01": {
+    "link": "https://www.vodafone.de/netz-assistent/tickets/review?i=a246b6d70a595d9da7de95c378e6abd6244664653eeec54a2783d5d0f44869e6993fd4356673f4c84d&c=cable&icmp=mvw_db_netzass_kip",
+    "name": "KD934301035",
+    "password":"TEST@1234"
+  },
+
+  "SIT_GC02": {
+    "link": "https://www.vodafone.de/netz-assistent/tickets/review?i=a246b6d70a595d9da7de95c378e6abd6244664653eeec54a2783d5d0f44869e6993fd4356673f4c84d&c=cable&icmp=mvw_db_netzass_kip",
+    "name": "KD934301035",
+    "password":"TEST@1234"
+  },
+
+  "SIT_GC03": {
+    "link": "https://www.vodafone.de/netz-assistent/tickets/review?i=a246b6d70a595d9da7de95c378e6abd6244664653eeec54a2783d5d0f44869e6993fd4356673f4c84d&c=cable&icmp=mvw_db_netzass_kip",
+    "name": "KD934301035",
+    "password":"TEST@1234"
+  },
+
+  "SIT_GC04": {
+    "link": "https://www.vodafone.de/netz-assistent/tickets/review?i=a246b6d70a595d9da7de95c378e6abd6244664653eeec54a2783d5d0f44869e6993fd4356673f4c84d&c=cable&icmp=mvw_db_netzass_kip",
+    "name": "KD934301035",
+    "password":"TEST@1234"
+  },
+
+  "SIT_GC05": {
+    "link": "https://www.vodafone.de/netz-assistent/tickets/review?i=a246b6d70a595d9da7de95c378e6abd6244664653eeec54a2783d5d0f44869e6993fd4356673f4c84d&c=cable&icmp=mvw_db_netzass_kip",
+    "name": "KD934301035",
+    "password":"TEST@1234"
+  },
+
+  "SIT_GC06": {
+    "link": "https://www.vodafone.de/netz-assistent/tickets/review?i=a246b6d70a595d9da7de95c378e6abd6244664653eeec54a2783d5d0f44869e6993fd4356673f4c84d&c=cable&icmp=mvw_db_netzass_kip",
+    "name": "KD934301035",
+    "password":"TEST@1234"
+  }
+}

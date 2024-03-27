@@ -1,0 +1,29 @@
+{
+  "GC01_BartZeroAmountChecksAmountRepresentationInDashboardAndBillTableAndGraph":
+  {
+    "name"  : "BartZeroAmount",
+    "password": "BartZeroAmount",
+    "amount": "0,00 €"
+  },
+  "GC02_KayPositiveAmountChecksAmountRepresentationInDashboardAndBillTableAndGraph":
+  {
+    "name": "KayPositiveAmount",
+    "password": "KayPositiveAmount",
+    "amount": "250,00 €"
+
+  },
+  "GC03_BartNegativeAmountChecksAmountRepresentationInDashboardAndBillTableAndGraph":
+  {
+    "name": "BartNegativeAmount",
+    "password": "BartNegativeAmount",
+    "amount": "10,00 €"
+
+  },
+
+  "GC04_KayAmountNotRetrievedChecksAmountRepresentationInDashboardAndBillTableAndGraph":
+  {
+    "name": "KayAmountNotRetrieved",
+    "password": "KayAmountNotRetrieved"
+
+  }
+}

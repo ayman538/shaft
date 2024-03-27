@@ -1,0 +1,30 @@
+{
+  "gc01": {
+    "name": "martin_ViewBillingAddresses01",
+    "password": "martin_ViewBillingAddresses01"
+  },
+  "gc02": {
+    "name": "martin_ViewBillingAddresses02",
+    "password": "martin_ViewBillingAddresses02"
+  },
+  "gc03": {
+    "name": "martin_ViewBillingAddresses03",
+    "password": "martin_ViewBillingAddresses03"
+  },
+  "gc04": {
+    "name": "martin_ViewBillingAddresses04",
+    "password": "martin_ViewBillingAddresses04"
+  },
+  "gc05": {
+    "name": "martin_ViewBillingAddresses05",
+    "password": "martin_ViewBillingAddresses05"
+  },
+  "gc07": {
+    "name": "martin_ViewBillingAddresses06",
+    "password": "martin_ViewBillingAddresses06"
+  },
+  "bc01": {
+    "name": "BC_martin_ViewBillingAddresses",
+    "password": "BC_martin_ViewBillingAddresses"
+  }
+}

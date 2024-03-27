@@ -1,0 +1,28 @@
+{
+  "SIT_CreateAutoTopUp": {
+    "name": "arno-testcard",
+    "password": "Vodafone2019",
+    "contractNumber": "6",
+    "tileOrder": "59",
+    "burgerMenuOrder":"6",
+    "quickCheckListOrder": "161"
+  },
+  "SIT_GC01_Check_User_Change_GPP_AutoTopUp_Amount": {
+    "name": "arno-testcard",
+    "password": "Vodafone2019",
+    "contractNumber": "6",
+    "tileOrder": "59"
+  },
+  "SIT_GC02_Check_User_Change_GPP_AutoTopUp_Status": {
+    "name": "arno-testcard",
+    "password": "Vodafone2019",
+    "contractNumber": "6",
+    "tileOrder": "59"
+  },
+  "SIT_GC03_Check_User_CanDeleteAuto_Top_UpPaymentMethodFromGPP": {
+    "name": "arno-testcard",
+    "password": "Vodafone2019",
+    "contractNumber": "6",
+    "tileOrder": "21"
+  }
+}

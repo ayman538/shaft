@@ -1,0 +1,19 @@
+{
+
+  "GC01_MarieUserChecksZuZahlenderBetragMappingAndKontobezogeneKostenfield": {
+    "name": "foxtrot_team",
+    "password": "TEST@1234",
+    "totalDueAmount" : "0,00 €",
+    "totalDueAmountFieldCL" : "Zu zahlender Betrag",
+    "fieldOrder" : "1",
+    "latestDetails" : "12"
+  },
+  "GC02_KayUserChecksZuZahlenderBetragMappingAndKontobezogeneKostenfield": {
+    "name": "multi_contracts",
+    "password": "TEST@1234",
+    "totalDueAmount" : "0,00 €",
+    "totalDueAmountFieldCL" : "Zu zahlender Betrag",
+    "fieldOrder" : "1",
+    "latestDetails" : "12"
+  }
+}

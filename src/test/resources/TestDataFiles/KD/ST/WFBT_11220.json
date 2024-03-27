@@ -1,0 +1,17 @@
+{
+  "assertOnTheBurgerMenuOrder":
+  {
+    "name"  : "Automated-wfbt_11220_1",
+    "password": "Automated-wfbt_11220_1"
+  },
+  "checkNavigationFromKIPToTVPageAndHasCampaign":
+  {
+    "name": "Automated-wfbt_11220_2",
+    "password": "Automated-wfbt_11220_2"
+  },
+  "checkNavigationFromTVToKIPPageAndHasCampaign":
+  {
+    "name": "Automated-wfbt_11220_3",
+    "password": "Automated-wfbt_11220_3"
+  }
+}

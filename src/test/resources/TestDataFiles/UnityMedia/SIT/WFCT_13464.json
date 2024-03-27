@@ -1,0 +1,13 @@
+{
+  "GC01_UteUserAddsNewBankDetailsToTheAlreadyAddedOne": {
+    "name": "UnityRechnung",
+    "password": "Unity2021!",
+    "contractOrder": "2",
+    "IBAN": "DE86300700100002508000"
+  },
+  "GC01_UteDunningUserNotEligibleToAddBankDetails": {
+    "name": "UnityRechnung",
+    "password": "Unity2021!",
+    "contractOrder": "1"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "GC00_CreateAutoTopUp": {
+    "name": "arno-testcard",
+    "password": "Vodafone2019",
+    "contractNumber": "8",
+    "tileOrder": "59",
+    "burgerMenuOrder":"8",
+    "quickCheckListOrder": "161"
+  },
+  "GC01_PaulUserWithLowerBalanceAutoTopupChecksAutoTopupSO": {
+    "name": "arno-testcard",
+    "password": "Vodafone2019",
+    "contractNumber": "8",
+    "tileOrder": "59",
+    "burgerMenuOrder":"8",
+    "quickCheckListOrder": "161"
+  },
+  "GC02_PaulUserWithLowerBalanceAutoTopupChecksAutoTopupAccordion": {
+    "name": "arno-testcard",
+    "password": "Vodafone2019",
+  "contractNumber": "8",
+  "tileOrder": "59",
+  "burgerMenuOrder":"8",
+  "quickCheckListOrder": "161"
+},
+  "GC03_PaulUserWithLowerBalanceAutoTopupDeletesHisAutoTopup": {
+    "name": "arno-testcard",
+    "password": "Vodafone2019",
+    "contractNumber": "8",
+    "tileOrder": "59",
+    "burgerMenuOrder":"8",
+    "quickCheckListOrder": "161"
+  },
+  "PayPalEmail" : "aya.megala@vodafone.com" ,
+  "PayPalPassword" : "123456789*"
+}

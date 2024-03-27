@@ -1,0 +1,71 @@
+{
+  "GC01_PaulUserWithLowerBalanceAutoTopupChecksAutoTopupSO":
+  {
+    "name"  : "paul.KD.lowerBalance",
+    "password": "paul.KD.lowerBalance",
+    "contract_number": "1",
+    "saved_payment_method_number": "1",
+    "burgerMenuOrder": "1",
+    "quickCheckListOrder": "1",
+    "autoTopupAmount": "15"
+  },
+  "GC02_PaulUserWithLowerBalanceAutoTopupChecksAutoTopupAccordion":
+  {
+    "name"  : "paul.KD.lowerBalance",
+    "password": "paul.KD.lowerBalance",
+    "contract_number": "1",
+    "saved_payment_method_number": "1",
+    "burgerMenuOrder": "1",
+    "quickCheckListOrder": "1",
+    "autoTopupAmount": "15"
+  },
+  "GC03_PaulUserWithLowerBalanceAutoTopupDeletesHisAutoTopup":
+  {
+    "name"  : "paul.KD.lowerBalance",
+    "password": "paul.KD.lowerBalance",
+    "contract_number": "1",
+    "saved_payment_method_number": "1",
+    "burgerMenuOrder": "1",
+    "quickCheckListOrder": "1",
+    "autoTopupAmount": "15"
+  },
+  "GC04_PaulUserWithActiveLowerBalanceAutoTopupChecksSavedPaymentMethodCL":
+  {
+    "name"  : "paul.KD.lowerBalance",
+    "password": "paul.KD.lowerBalance",
+    "contract_number": "1",
+    "saved_payment_method_number": "1",
+    "burgerMenuOrder": "1",
+    "quickCheckListOrder": "1",
+    "autoTopupAmount": "15"
+  },
+  "GC05_PaulUserWithPausedLowerBalanceAutoTopupChecksSavedPaymentMethodCL":
+  {
+    "name"  : "paul.pausedGpp.auto.topup.30day",
+    "password": "paul.pausedGpp.auto.topup.30day",
+    "contract_number": "1",
+    "saved_payment_method_number": "1",
+    "burgerMenuOrder": "1",
+    "quickCheckListOrder": "1"
+  },
+  "GC06_PaulUserWithBlocked28DaysAutoTopupChecksSavedPaymentMethodCL":
+  {
+    "name"  : "paul.blocked.28.days",
+    "password": "paul.blocked.28.days",
+    "contract_number": "1",
+    "saved_payment_method_number": "2",
+    "burgerMenuOrder": "1",
+    "quickCheckListOrder": "1",
+    "autoTopupAmount": "15"
+  },
+  "GC07_PaulUserWithInProgressLowerBalanceAutoTopupChecksSavedPaymentMethodCL":
+  {
+    "name"  : "paul.inprogress.less.than.5",
+    "password": "paul.inprogress.less.than.5",
+    "contract_number": "1",
+    "saved_payment_method_number": "2",
+    "burgerMenuOrder": "1",
+    "quickCheckListOrder": "1",
+    "autoTopupAmount": "15"
+  }
+}

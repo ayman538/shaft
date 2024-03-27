@@ -1,0 +1,74 @@
+{
+   "GC01":{
+   "name": "Automated-wfgt_1170_1",
+   "password": "Automated-wfgt_1170_1",
+     "GPPHeader": "Deine Zahlung an Vodafone",
+     "restrictedPaypalPaymentMethod": "Du kannst die Paypal Zahlungsmethode gerade nicht nutzen. Entschuldige bitte!"
+},
+  "GC02":{
+    "name": "Automated-wfgt_1170_2",
+    "password": "Automated-wfgt_1170_2",
+    "restrictedMaxBalanceReached": "Dein Aufladebetrag ist höher als der Betrag, den Du pro Monat aufladen kannst. Gib bitte einen kleineren Betrag an oder lade anders auf. Lade beispielsweise mit Guthabenkarte oder im Vodafone-Shop auf."
+  },
+  "GC03":{
+    "name": "Automated-wfgt_1170_3",
+    "password": "Automated-wfgt_1170_3",
+    "restrictedSofortPaymentMethod": "Du kannst die Kreditkarte/ApplePay/Sofort Zahlungsmethode gerade nicht nutzen. Entschuldige bitte!"
+  },
+  "GC04":{
+    "name": "Automated-wfgt_1170_4",
+    "password": "Automated-wfgt_1170_4",
+    "restrictedMaxBalanceReached": "Dein Aufladebetrag ist höher als der Betrag, den Du pro Monat aufladen kannst. Gib bitte einen kleineren Betrag an oder lade anders auf. Lade beispielsweise mit Guthabenkarte oder im Vodafone-Shop auf."
+  },
+  "GC05":{
+    "name": "Automated-wfgt_1170_5",
+    "password": "Automated-wfgt_1170_5",
+    "externalNumber": "0153628494854",
+    "restrictedPaypalSofortPaymentMethod": "Du kannst die Sofort/Paypal Zahlungsmethode gerade nicht nutzen. Entschuldige bitte!"
+  },
+  "GC06":{
+    "name": "Automated-wfgt_1170_6",
+    "password": "Automated-wfgt_1170_6",
+    "externalNumber": "0153628494855",
+    "restrictedPaypalCreditCardPaymentMethod": "Du hast die höchste Auflade-Summe für Kreditkarte/Paypal erreicht. Du kannst mit der Zahlungsmethode Deine Rufnummern nicht weiter aufladen. Bitte versuch es später nochmal oder wähl eine andere Zahlungsmethode."
+  },
+  "GC08":{
+    "name": "Automated-wfgt_1170_8",
+    "password": "Automated-wfgt_1170_8",
+    "contractOrder": "1",
+    "numberIndex": "2",
+    "paymentMethod": "Sofort"
+  },
+
+  "GC10":{
+    "name": "Automated-wfgt_1170_9",
+    "password": "Automated-wfgt_1170_9",
+    "InvalidNumber": "015362849485f",
+    "InvalidNumberErrorMsg": "Bitte gib eine gültige Rufnummer ein. Ohne Leer- oder Sonderzeichen.",
+    "InvalidNumberNotificationMsgBackend": "Die eingegebene Rufnummer ist keine CallYa-Nummer. Bitte überprüfe Deine Angabe.",
+    "InvalidNumberBackend": "Diese Rufnummer ist keine CallYa-Rufnummer."
+  },
+
+  "GC13":{
+    "name": "Automated-wfgt_1170_12",
+    "password": "Automated-wfgt_1170_12",
+    "numberIndex": "1",
+    "BarredForAnyBarringReasonErrorMessage": "Leider können wir Deine Aufladung gerade nicht buchen. Entschuldige bitte! Bitte gib eine andere Rufnummer an."
+  },
+  "GC15":{
+    "name": "Automated-wfgt_1170_10",
+    "password": "Automated-wfgt_1170_10",
+    "GeneralErrorHeader": "Das hat leider nicht geklappt",
+    "GeneralErrorContent": "Aufgrund eines Service Fehlers konnten wir leider deine Zahlung nicht abschließen."
+  },
+  "GC16":{
+    "name": "Automated-wfgt_1170_13",
+    "password": "Automated-wfgt_1170_13",
+    "BarredForAnyBarringReasonErrorMessage": "Leider können wir Deine Aufladung gerade nicht buchen. Entschuldige bitte! Bitte gib eine andere Rufnummer an."
+  },
+  "GC17":{
+    "name": "Automated-wfgt_1170_14",
+    "password": "Automated-wfgt_1170_14",
+    "BarredForAnyBarringReasonErrorMessage": "Leider können wir Deine Aufladung gerade nicht buchen. Entschuldige bitte! Bitte gib eine andere Rufnummer an."
+  }
+}

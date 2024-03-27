@@ -1,0 +1,14 @@
+{
+  "gc01": {
+    "name": "Multi_contracts",
+    "password": "TEST@1234"
+  },
+  "gc02": {
+    "name": "MVATest042",
+    "password": "vodafone15"
+  },
+  "gc04": {
+    "name": "MVATest042",
+    "password": "vodafone15"
+  }
+}

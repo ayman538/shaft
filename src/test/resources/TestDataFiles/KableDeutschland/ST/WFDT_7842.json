@@ -1,0 +1,18 @@
+{
+  "gc01":
+  {
+    "name"  : "MartinChangePhoneBookFIRMA",
+    "password": "MartinChangePhoneBookFIRMA"
+  },
+  "gc02":
+  {
+    "name"  : "MartinChangePhoneBookFIRMA",
+    "password": "MartinChangePhoneBookFIRMA"
+  },
+
+  "bc01":
+  {
+    "name"  : "MartinChangePhoneBook",
+    "password": "MartinChangePhoneBook"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "GC01_CheckBookingFlowWithNoConflictWithNoSmartCard":
+  {
+    "name"  : "Automated-wfbt_11257_1",
+    "password": "Automated-wfbt_11257_1",
+    "ConfirmationPageHeaderCL": "Optionen buchen",
+    "ConfirmationMessageTVOptionCL": "Wir haben die Option für Dich gebucht.",
+    "OrderNotificationHeaderCL": "Wir bearbeiten jetzt Deinen Auftrag",
+    "OrderNotificationCTACL": "Meine Aufträge anzeigen",
+    "FirstTVOptionNameCL": "Vodafone Premium Plus Cable (1.-2. Monat 0 €)",
+    "StartDateHeadlineCL": "Beginnt nach Buchung am:"
+  },
+  "GC02_CheckBookingTransactionWhenNoReplaceExistingOptionOneSmartCard":
+  {
+    "name": "Automated-wfbt_11257_2",
+    "password": "Automated-wfbt_11257_2",
+    "OneSmartCardNameTVCL": "Smart card",
+    "OneSmartCardNumberTVCL": "071177010107"
+  },
+  "GC04_CheckBookingTransactionInCaseReplacesOneExistingOption":
+  {
+    "name"  : "Automated-wfbt_11257_1",
+    "password": "Automated-wfbt_11257_1",
+    "DroppedOptionTVNotificationMessageHeaderCL": "Gut zu wissen",
+    "DropOneOptionTVNotificationMessageBodyCL": "Du willst die Option Vodafone Cable buchen. Wenn Du weitermachst, löschen wir Deine aktuelle Option Vodafone Premium Plus Cable (1.-2. Monat 0 €)."
+  },
+  "GC05_CheckBookingTransactionInCaseTheOptionIsGoingToReplaceManyExistingBookedOptions":
+  {
+    "name"  : "Automated-wfbt_11257_1",
+    "password": "Automated-wfbt_11257_1",
+    "DroppedOptionTVNotificationMessageHeaderCL": "Gut zu wissen",
+    "SecondDroppedOptionTVCL": "Vodafone Cable",
+    "ThirdDroppedOptionTVCL": "Vodafone Premium Plus Cable (1.-2. Monat 0 €)"
+  },
+  "GC08_CheckConfirmationPageInCaseReplacingExistingOption":
+  {
+    "name" : "Automated-wfbt_11257_1",
+    "password" : "Automated-wfbt_11257_1",
+    "DroppedOptionTVNotificationMessageHeaderCL": "Gut zu wissen",
+    "DropOneOptionTVNotificationMessageBodyCL": "Du willst die Option Vodafone Cable buchen. Wenn Du weitermachst, löschen wir Deine aktuelle Option Vodafone Premium Plus Cable (1.-2. Monat 0 €)."
+  },
+  "GC11_CheckBookingTransactionPageInCaseClickOnBackButtonItWillReturnToTariffPage":
+  {
+    "name" : "Automated-wfbt_11257_1",
+    "password" : "Automated-wfbt_11257_1",
+    "BookableAccordionTitleCL": "Buchbare Optionen TV",
+    "KabelTVTitleCL": "Kabel-TV – Tarif"
+  },
+  "GC12_CheckRedirectionWhileBookingExternalBookableOption":
+  {
+    "name" : "Automated-wfbt_11257_4",
+    "password" : "Automated-wfbt_11257_4"
+  },
+  "GC13_CheckAfterBookAnOptionThenGoBackToTryToBookAnotherOption":
+  {
+    "name" : "Automated-wfbt_11257_1",
+    "password" : "Automated-wfbt_11257_1",
+    "FirstTVOptionNameCL": "Vodafone Premium Plus Cable (1.-2. Monat 0 €)",
+    "ConfirmationPageHeaderCL": "Optionen buchen",
+    "SecondDroppedOptionTVCL": "Vodafone Cable"
+  },
+  "GC14_CheckTheCLOfLegalTextInTheTransactionPage":
+  {
+    "name" : "Automated-wfbt_11257_1",
+    "password" : "Automated-wfbt_11257_1",
+    "ContractSummaryPreTextCL": "Hier findest Du Deine",
+    "ContractSummaryPostTextCL": ". So kannst Du nochmal alles in Ruhe prüfen, bevor Du Deine Buchung abschickst.",
+    "ContractSummaryTextCL": "Vertragszusammenfassung"
+  },
+  "GC15_CheckThatWhenTheUserClicksOnHyperLinkTheContractSummaryPdfIsDownloaded":
+  {
+    "name" : "Automated-wfbt_11257_1",
+    "password" : "Automated-wfbt_11257_1"
+  },
+  "BC01_CheckBookingTransactionPageInCaseOfGeneralErrorScreenWithStatusCode422Available":
+  {
+    "name" : "Automated-wfbt_11257_5",
+    "password" : "Automated-wfbt_11257_5",
+    "ErrorNotificationHeaderCL": "Das hat leider nicht geklappt",
+    "ErrorScreenAvailableNotificationSubLineCL": "Entschuldige bitte, unser Fehler. Versuch es bitte später nochmal oder buche direkt über unsere Hotline: 0800 955 4000."
+  },
+  "BC02_CheckBookingTransactionPageInCaseOfGeneralErrorPage":
+  {
+    "name" : "Automated-wfbt_11257_6",
+    "password" : "Automated-wfbt_11257_6",
+    "ErrorNotificationHeaderCL": "Das hat leider nicht geklappt",
+    "ErrorNotificationSubLineCL": "Entschuldige bitte, unser Fehler. Versuch es bitte später nochmal."
+  },
+  "BC03_CheckTryAgainNotificationMessageWhenClickOnHyperLinkAndFail":
+  {
+    "name" : "Automated-wfbt_11257_7",
+    "password" : "Automated-wfbt_11257_7",
+    "TryAgainNotificationHeaderCL": "Das hat leider nicht geklappt",
+    "TryAgainNotificationSubLineCL": "Entschuldige bitte, unser Fehler. Die Vertragszusammmenfassung konnte nicht geladen werden.",
+    "TryAgainNotificationCTACL": "Nochmal versuchen"
+  },
+  "BC04_CheckBookingTransactionPageInCaseOfTryAgainNotificationWithStatusCode422Unavailable":
+  {
+    "name" : "Automated-wfbt_11257_8",
+    "password" : "Automated-wfbt_11257_8",
+    "TryAgainNotificationHeaderCL": "Das hat leider nicht geklappt",
+    "TryAgainNotificationSubLineCL": "Entschuldige bitte, unser Fehler. Die Vertragszusammmenfassung konnte nicht geladen werden.",
+    "TryAgainNotificationCTACL": "Nochmal versuchen"
+  }
+}

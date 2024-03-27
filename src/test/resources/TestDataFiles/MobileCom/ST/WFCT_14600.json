@@ -1,0 +1,116 @@
+{
+  "GC01_RobertUserWithZeroAmountChecksDashboard": {
+    "name": "robert.with.zeroAmount",
+    "password": "robert.with.zeroAmount",
+    "contractOrder" : "1",
+    "pageHeader" : "Mein CallYa",
+    "color" : "230, 0, 0",
+    "cardTitle" : "Übersicht",
+    "smartTileNumber" : "1",
+    "productsTitleCl" : "Alles rund um Dein Produkt:",
+    "productsSublineCl" : "QuickCheck, Tarif, Extras und Optionen, SIM Karte",
+    "numberOfOptions" : "3",
+    "option1" : "QuickCheck & Kontostand",
+    "option2" : "Tarif",
+    "option3" : "SIM-Karte & Einstellungen",
+    "numberOfSmartCards" : "4",
+    "requiredCount" : "3",
+    "smartCard1" : "Daten",
+    "smartCard2" : "Mein Tarif",
+    "smartCard3" : "Meine Optionen",
+    "smartCard4" : "SIM-Karte",
+    "aktuelleGuthabenAmount" : "0,00 €",
+    "aktuelleGuthabenTitle" : "Aktuelles Guthaben",
+    "aktuelleGuthabenAmountSubtitle": "Beträge und Datenvolumen",
+    "remainingData" : "1 GB",
+    "totalData" : "10 GB",
+    "datenSoSubline" : "Daten in DE und EUSSS",
+    "dataEndDate" : "11.03.2024",
+    "remainingDataColor" : "235, 151, 0",
+    "tariffPlan" : "Tariff Name 1",
+    "tariffEndDate" : "20.04.2024",
+    "tariffDuration" : "Laufzeit 28"
+
+
+  },
+  "GC02_RobertUserWithUnreturnedAmountAtAktuellesGuthabenChecksDashboard": {
+    "name": "robert.notReturnedAmount",
+    "password": "robert.notReturnedAmount",
+    "dataPackage" : "300 MB",
+    "requiredCount" : "3",
+    "numberOfSmartCards" : "4",
+    "remainingData" : "120 MB",
+    "totalData" : "400 MB",
+    "datenSoSubline" : "Daten in DE und EUSSS",
+    "dataEndDate" : "28.10.2021",
+    "remainingDataColor" : "168, 180, 0",
+    "tariffPlan" : "Tariff Name 2",
+    "tariffDuration" : "Laufzeit 28"
+  },
+  "GC03_RobertUserWithNegativeAmountAtAktuellesGuthabenChecksDashboard": {
+    "name": "robert.with.negativeAmount",
+    "password": "robert.with.negativeAmount",
+    "negativeCurrentBalance": "-3,34 €",
+    "color" : "230, 0, 0",
+    "requiredCount" : "3",
+    "numberOfSmartCards" : "4",
+    "remainingData" : "39 MB",
+    "totalData" : "400 MB",
+    "remainingDataColor" : "233, 6, 3",
+    "datenSoSubline" : "Daten in DE und EUSSS",
+    "dataEndDate" : "12.03.2024",
+    "tariffPlan" : "Tariff Name 3",
+    "tariffEndDate" : "Gekündigt zum",
+    "tariffDuration" : "Laufzeit 28"
+
+  },
+  "GC04_RobertUserWithFailedAktuellesGuthabenChecksDashboard": {
+    "name": "robert.failure.currentBalance",
+    "password": "robert.failure.currentBalance",
+    "dataPackage" : "400 MB",
+    "tariffPlan" : "Tariff Name 4",
+    "requiredCount" : "3",
+    "numberOfSmartCards" : "4",
+    "tariffStartDate" : "Tarifwechsel zum",
+    "remainingData" : "0 MB",
+    "remainingDataColor" : "237, 236, 237",
+    "totalData" : "400 MB",
+    "datenSoSubline" : "Daten in DE und EUSSS",
+    "dataEndDate" : "11.03.2024",
+    "tariffDuration" : "Laufzeit 28"
+  },
+  "GC05_RobertUserWithFailedTariffChecksDashboard": {
+    "name": "robert.with.failedTariff",
+    "password": "robert.with.failedTariff",
+    "aktuelleGuthabenAmount" : "5555555,00 €",
+    "requiredCount" : "3",
+    "numberOfSmartCards" : "4",
+    "datenSoGenericCl" : "Dein Inklusiv-Volumen",
+    "tariffSoGenericCl" : "Deine Tarifdetails",
+    "contractOrder" : "1",
+    "aktuelleGuthabenTitle" : "Aktuelles Guthaben",
+    "aktuelleGuthabenAmountSubtitle": "Beträge und Datenvolumen",
+    "burgerUrl1" : "https://simplicity.wf-de.vodafone.com/meinvodafone/services/teilnehmer/quickcheck",
+    "burgerUrl2" : "https://simplicity.wf-de.vodafone.com/meinvodafone/services/teilnehmer/mein-tarif",
+    "burgerUrl3" : "https://simplicity.wf-de.vodafone.com/meinvodafone/services/teilnehmer/sim-karte-einstellungen"
+  },
+  "GC06_RobertUserWithSleepingTariffChecksDashboard": {
+    "name": "robert.with.sleepingTariff",
+    "password": "robert.with.sleepingTariff",
+    "requiredCount" : "3",
+    "numberOfSmartCards" : "4",
+    "aktuelleGuthabenAmount" : "66665,00 €",
+    "aktuelleGuthabenTitle" : "Aktuelles Guthaben",
+    "aktuelleGuthabenAmountSubtitle": "Beträge und Datenvolumen"
+  },
+  "Tag01_RobertChecksEcareAccordionAndPageViewTagging": {
+    "name": "robert.with.zeroAmount",
+    "password": "robert.with.zeroAmount",
+    "requiredCount" : "3",
+    "numberOfSmartCards" : "4",
+    "pageview" : "{siteArea:meinvodafone,platformType:responsive,siteStructure:[mein vodafone,dashboard],pageType:self service,loginStatus:logged in,seamlessLogin:true}",
+    "ecareAccordion": "{action:open,type:dashboard:singleContract,visitorType:consumer,visitorSubscription:prepaid}"
+  }
+
+
+}

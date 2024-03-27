@@ -1,0 +1,28 @@
+{
+  "GC01": {
+    "name": "UnityRechnung",
+    "password": "Unity2021!",
+    "NeueServicePinPageHeader": "Neue Service-PIN",
+    "NeueServicePinHeader": "Deine Service-PIN",
+    "NeueServiceDetailsHeader": "Neue Service-PIN anfordern",
+    "NeueServiceDetailsContent": "Bitte bestätige, dass Du eine neue PIN brauchst. Deine alte ist danach nicht mehr gültig.",
+    "JetztBestätigenButton": "Jetzt bestätigen"
+
+  },
+  "GC02": {
+    "name": "UnityRechnung",
+    "password": "Unity2021!",
+    "NeueServicePinPageHeader": "Neue Service-PIN",
+    "NeueServicePinHeader": "Deine Service-PIN",
+    "NeueServiceDetailsHeader": "Neue Service-PIN anfordern",
+    "NeueServiceDetailsContent": "Bitte bestätige, dass Du eine neue PIN brauchst. Deine alte ist danach nicht mehr gültig.",
+    "JetztBestätigenButton": "Jetzt bestätigen",
+    "ConfirmationPageHeader": "Neue Service-PIN",
+    "ConfirmationNotificationHeader": "Du hast jetzt eine neue PIN",
+    "ConfirmationNotificationContent": "Bitte pass auf, dass sie niemand sieht, der sie nicht sehen soll.",
+    "ÜbersichtHeader": "Übersicht",
+    "ÜbersichtHeadline": "Deine neue Service-PIN",
+    "ÜbersichtSubHeadline": "Service-PIN",
+    "backLink": "Schließen"
+  }
+}

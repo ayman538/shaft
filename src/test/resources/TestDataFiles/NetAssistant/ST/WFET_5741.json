@@ -1,0 +1,63 @@
+{
+  "ST_GC01": {
+    "userName": "WFET-5741 -DSL - NA - Outage Analysis | Banner Removal and starting dialogue update",
+    "password": "WFET-5741 -DSL - NA - Outage Analysis | Banner Removal and starting dialogue update",
+    "helpform": "meinvodafone/public/netzassistent/review?product=dsl"
+  },
+  "ST_GC02": {
+    "userName": "WFET-5741 - Cable - NA - Outage Analysis | Banner Removal and starting dialogue update",
+    "password": "WFET-5741 - Cable - NA - Outage Analysis | Banner Removal and starting dialogue update",
+    "helpform": "meinvodafone/public/netzassistent/review?product=cable",
+    "contractNumber" : "57415741"
+  },
+  "ST_GC03": {
+    "userName": "WFET-5741 - UM - NA - Outage Analysis | Banner Removal and starting dialogue update",
+    "password": "WFET-5741 - UM - NA - Outage Analysis | Banner Removal and starting dialogue update",
+    "helpform": "meinvodafone/public/netzassistent/review?product=cable"
+  },
+  "ST_GC04": {
+    "userName": "WFET-5741 -DSL - NA - Outage Analysis | Banner Removal and starting dialogue update",
+    "password": "WFET-5741 -DSL - NA - Outage Analysis | Banner Removal and starting dialogue update",
+    "link": "netz-assistent/chatbot?i=df60ab423b362f86e6df3fbfec17456bf988ade63b381e60764bd1a066d26c40ca542f3616f00ca91170a258&c=DSL&a=039&p=25b4f0d76cd090c0b4d16ed474d4a57d7f41fd98f7ba6604483ae01493dfa68fe77d2963&s=&c_id=hilfe_netzass_dsl"
+  },
+
+  "ST_GC05": {
+    "userName": "WFET-5741 - Cable - NA - Outage Analysis | Banner Removal and starting dialogue update",
+    "password": "WFET-5741 - Cable - NA - Outage Analysis | Banner Removal and starting dialogue update",
+    "link": "netz-assistent/chatbot?i=2b16c94f048be65199ec9d3c28d21d26bf44d4a264e007d61eea63cca32a7ebc0a1e67bf01d7e93f&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip"
+  },
+
+  "ST_GC06": {
+    "userName": "WFET-5741 - UM - NA - Outage Analysis | Banner Removal and starting dialogue update",
+    "password": "WFET-5741 - UM - NA - Outage Analysis | Banner Removal and starting dialogue update",
+    "link": "netz-assistent/chatbot?i=cb098c1debf1490a35228a0f911aa14ad69517859c025d4e96fc75c2237af209fd869a5775b63a5b&c=UM&a=&p=&s=NRW&c_id=hilfe_netzass_um"
+  },
+
+  "ST_GC08": {
+    "userName": "WFET-5741 - Cable - NA - Outage Analysis | Banner Removal and starting dialogue update",
+    "password": "WFET-5741 - Cable - NA - Outage Analysis | Banner Removal and starting dialogue update",
+    "contractNumber": "57415741"
+  },
+
+  "ST_GC09": {
+    "userName": "WFET-5741 - UM - NA - Outage Analysis | Banner Removal and starting dialogue update",
+    "password": "WFET-5741 - UM - NA - Outage Analysis | Banner Removal and starting dialogue update",
+    "contractNumber": "57415742"
+  },
+
+  "ST_GC10": {
+    "userName": "WFET-5511 | DSL - NA - Authentication | User with multiple contracts",
+    "password": "WFET-5511 | DSL - NA - Authentication | User with multiple contracts",
+    "tokenLink": "netz-assistent/tb?sys=1%26ta%3D12345678%26token%3DitWLKBuWvpqYp6O45Sl0DWt2Eo55SZxQ8Y77SsWAuSw%3D"
+  },
+  "ST_GC11": {
+    "userName": "WFET-5511 | DSL - NA - Authentication | User with multiple contracts",
+    "password": "WFET-5511 | DSL - NA - Authentication | User with multiple contracts",
+    "tokenLink": "netz-assistent/tb?sys=4&token=5741"
+  },
+  "ST_GC12": {
+    "userName": "WFET-5511 | DSL - NA - Authentication | User with multiple contracts",
+    "password": "WFET-5511 | DSL - NA - Authentication | User with multiple contracts",
+    "tokenLink": "netz-assistent/tb?sys=4&token=5742"
+  }
+}

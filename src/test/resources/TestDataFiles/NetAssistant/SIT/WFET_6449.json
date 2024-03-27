@@ -1,0 +1,100 @@
+{
+  "GC03":
+  {
+    "userName"  : "n678440302@umpost.de",
+    "password": "TestLab1",
+    "contractNumber" : "678440302",
+    "Steps"  : ["go on","Testbereich","Test_Form_DateTimePicker_Template"]
+  },
+  "GC04":
+  {
+    "userName"  : "lisa.theismann@vodafone.com",
+    "password": "TEST@1234",
+    "contractNumber" : "332881418",
+    "Steps"  : ["go on","Testbereich","Test_Form_DateTimePicker_Template"]
+  },
+  "GC07":
+  {
+    "userName"  : "n678440302@umpost.de",
+    "password": "TestLab1",
+    "contractNumber" : "678440302",
+    "Steps"  : ["go on","Testbereich","Test_Form_DateTimePicker_Template"]
+  },
+  "GC08":
+  {
+    "userName"  : "lisa.theismann@vodafone.com",
+    "password": "TEST@1234",
+    "contractNumber" : "332881418",
+    "Steps"  : ["go on","Testbereich","Test_Form_DateTimePicker_Template"]
+  },
+  "GC11":
+  {
+    "userName"  : "n678440302@umpost.de",
+    "password": "TestLab1",
+    "contractNumber" : "678440302",
+    "Steps"  : ["go on","Testbereich","Test_Form_DateTimePicker_Template"]
+  },
+  "GC12":
+  {
+    "userName"  : "lisa.theismann@vodafone.com",
+    "password": "TEST@1234",
+    "contractNumber" : "332881418",
+    "Steps"  : ["go on","Testbereich","Test_Form_DateTimePicker_Template"]
+  },
+  "GC15":
+  {
+    "userName"  : "n678440302@umpost.de",
+    "password": "TestLab1",
+    "contractNumber" : "678440302",
+    "Steps"  : ["go on","Testbereich","Test_Form_DateTimePicker_Template"]
+  },
+  "GC16":
+  {
+    "userName"  : "lisa.theismann@vodafone.com",
+    "password": "TEST@1234",
+    "contractNumber" : "332881418",
+    "Steps"  : ["go on","Testbereich","Test_Form_DateTimePicker_Template"]
+  },
+  "GC19":
+  {
+    "userName"  : "n678440302@umpost.de",
+    "password": "TestLab1",
+    "contractNumber" : "678440302",
+    "Steps"  : ["go on","Testbereich","Test_Form_DateTimePicker_Template"]
+  },
+  "GC20":
+  {
+    "userName"  : "lisa.theismann@vodafone.com",
+    "password": "TEST@1234",
+    "contractNumber" : "332881418",
+    "Steps"  : ["go on","Testbereich","Test_Form_DateTimePicker_Template"]
+  },
+  "GC23":
+  {
+    "userName"  : "n678440302@umpost.de",
+    "password": "TestLab1",
+    "contractNumber" : "678440302",
+    "Steps"  : ["go on","Testbereich","Test_Form_DateTimePicker_Template"]
+  },
+  "GC24":
+  {
+    "userName"  : "lisa.theismann@vodafone.com",
+    "password": "TEST@1234",
+    "contractNumber" : "332881418",
+    "Steps"  : ["go on","Testbereich","Test_Form_DateTimePicker_Template"]
+  },
+  "GC29":
+  {
+    "userName"  : "n678440302@umpost.de",
+    "password": "TestLab1",
+    "contractNumber" : "678440302",
+    "Steps"  : ["go on","Testbereich","Test_Form_DateTimePicker_Template"]
+  },
+  "GC30":
+  {
+    "userName"  : "lisa.theismann@vodafone.com",
+    "password": "TEST@1234",
+    "contractNumber" : "332881418",
+    "Steps"  : ["go on","Testbereich","Test_Form_DateTimePicker_Template"]
+  }
+}

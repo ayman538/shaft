@@ -1,0 +1,28 @@
+{
+  "gc01":
+  {
+    "name"  : "martin_mailNotSpecified_SOHO",
+    "password": "martin_mailNotSpecified_SOHO"
+  },
+  "gc02":
+  {
+    "name"  : "martin_mailValidated_SOHO",
+    "password": "martin_mailValidated_SOHO"
+  },
+  "gc03":
+  {
+    "name"  : "martin_mailNotValidated_SOHO",
+    "password": "martin_mailNotValidated_SOHO"
+  },
+  "gc04":
+  {
+    "name"  : "martin_phoneNotSpecified_SOHO",
+    "password": "martin_phoneNotSpecified_SOHO"
+  },
+  "gc05":
+  {
+    "name"  : "martin_loginDataSection_SOHO",
+    "password": "martin_loginDataSection_SOHO"
+  }
+
+}

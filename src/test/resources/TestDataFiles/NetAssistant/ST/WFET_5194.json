@@ -1,0 +1,114 @@
+{
+  "ST_GC01": {
+    "name": "WFET-5194 | madatoryField | True",
+    "password": "WFET-5194 | madatoryField | True",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Kontaktdaten NSA (prefill/optional/CB)","nicht pflicht"]
+  },
+  "ST_GC02": {
+    "name": "WFET-5194 | madatoryField | True",
+    "password": "WFET-5194 | madatoryField | True",
+    "link": "meinvodafone/services/netzassistent/review?product=dsl",
+    "Steps"  : ["Testbereich","Test Kontaktdaten NSA (prefill/optional/CB)","nicht pflicht"]
+  },
+  "ST_GC03": {
+    "name": "WFET-5194 | madatoryField | False",
+    "password": "WFET-5194 | madatoryField | False",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Kontaktdaten NSA (prefill/optional/CB)","nicht pflicht"]
+  },
+
+  "ST_GC04": {
+    "name": "WFET-5194 | madatoryField | False",
+    "password": "WFET-5194 | madatoryField | False",
+    "link": "meinvodafone/services/netzassistent/review?product=dsl",
+    "Steps"  : ["Testbereich","Test Kontaktdaten NSA (prefill/optional/CB)","nicht pflicht"]
+  },
+
+  "ST_GC05": {
+    "name": "WFET-5194 | madatoryField | notReturned",
+    "password": "WFET-5194 | madatoryField | notReturned",
+    "link": "meinvodafone/services/netzassistent/review?product=dsl",
+    "Steps"  : ["Testbereich","Test Kontaktdaten NSA (prefill/optional/CB)","nicht pflicht"]
+  },
+
+  "ST_GC06": {
+    "name": "WFET-5194 | madatoryField | notReturned",
+    "password": "WFET-5194 | madatoryField | notReturned",
+    "link": "meinvodafone/services/netzassistent/review?product=dsl",
+    "Steps"  : ["Testbereich","Test Kontaktdaten NSA (prefill/optional/CB)","nicht pflicht"]
+  },
+
+  "ST_GC07": {
+    "name": "WFET-5194 | Cable | memoNotRequired | True",
+    "password": "WFET-5194 | Cable | memoNotRequired | True",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht pflicht"]
+  },
+  "ST_GC08": {
+    "name": "WFET-5194 | Cable | memoNotRequired | True",
+    "password": "WFET-5194 | Cable | memoNotRequired | True",
+    "link": "meinvodafone/services/netzassistent/review?product=kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht pflicht"]
+  },
+  "ST_GC09": {
+    "name": "WFET-5194 | Cable | memoNotRequired | False",
+    "password": "WFET-5194 | Cable | memoNotRequired | False",
+    "link": "netz-assistent/?icmp=mvw_db_netzass_kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht pflicht"]
+  },
+  "ST_GC10": {
+    "name": "WFET-5194 | Cable | memoNotRequired | False",
+    "password": "WFET-5194 | Cable | memoNotRequired | False",
+    "link": "meinvodafone/services/netzassistent/review?product=kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht pflicht"]
+  },
+  "ST_GC11": {
+    "name": "WFET-5194 | Cable | memoNotRequired | notReturned",
+    "password": "WFET-5194 | Cable | memoNotRequired | notReturned",
+    "link": "meinvodafone/services/netzassistent/review?product=kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht pflicht"]
+  },
+  "ST_GC12": {
+    "name": "WFET-5194 | Cable | memoNotRequired | notReturned",
+    "password": "WFET-5194 | Cable | memoNotRequired | notReturned",
+    "link": "meinvodafone/services/netzassistent/review?product=kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht pflicht"]
+  },
+  "ST_GC13": {
+    "name": "WFET-5194 | UM | memoNotRequired | True",
+    "password": "WFET-5194 | UM | memoNotRequired | True",
+    "link": "meinvodafone/services/netzassistent/review?product=kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht pflicht"]
+  },
+  "ST_GC14": {
+    "name": "WFET-5194 | UM | memoNotRequired | True",
+    "password": "WFET-5194 | UM | memoNotRequired | True",
+    "link": "meinvodafone/services/netzassistent/review?product=kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht pflicht"]
+  },
+  "ST_GC15": {
+    "name": "WFET-5194 | UM | memoNotRequired | False",
+    "password": "WFET-5194 | UM | memoNotRequired | False",
+    "link": "meinvodafone/services/netzassistent/review?product=kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht pflicht"]
+  },
+  "ST_GC16": {
+    "name": "WFET-5194 | UM | memoNotRequired | False",
+    "password": "WFET-5194 | UM | memoNotRequired | False",
+    "link": "meinvodafone/services/netzassistent/review?product=kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht pflicht"]
+  },
+  "ST_GC17": {
+    "name": "WFET-5194 | UM | memoNotRequired | notRequired",
+    "password": "WFET-5194 | UM | memoNotRequired | notRequired",
+    "link": "meinvodafone/services/netzassistent/review?product=kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht pflicht"]
+  },
+  "ST_GC18": {
+    "name": "WFET-5194 | UM | memoNotRequired | notRequired",
+    "password": "WFET-5194 | UM | memoNotRequired | notRequired",
+    "link": "meinvodafone/services/netzassistent/review?product=kip",
+    "Steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht pflicht"]
+  }
+}

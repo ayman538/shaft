@@ -1,0 +1,51 @@
+{
+  "GC01_kayCreditAmountChecksRechnungGraphAndTable":
+  {
+    "name"  : "kay.credit.amount",
+    "password": "kay.credit.amount"
+  },
+  "GC02_bartZeroAmountChecksRechnungGraphAndTable":
+  {
+    "name": "bart.zero.amount",
+    "password": "bart.zero.amount",
+    "amount": "0,00 €"
+
+  },
+  "GC03_marieNoBillsChecksRechnungGraphAndTable":
+  {
+    "name": "marie.no.bills",
+    "password": "marie.no.bills"
+
+  },
+
+  "GC04_kayOneInvoiceChecksRechnungGraphAndTable":
+  {
+    "name": "kay.one.invoice",
+    "password": "kay.one.invoice"
+
+  },
+  "GC05_bartServiceErrorChecksRechnungGraphAndTable":
+  {
+    "name": "bart.service.error",
+    "password": "bart.service.error"
+
+  },
+  "GC06_kayInvoicePDFNotRetrievedChecksRechnungGraphAndTable":
+  {
+    "name": "kay.invoiceNotretrieved",
+    "password": "kay.invoiceNotretrieved"
+
+  },
+  "GC07_bartAmountAndDateNotRetrievedChecksRechnungGraphAndTable":
+  {
+    "name": "bart.amountAndDateNotretrieved",
+    "password": "bart.amountAndDateNotretrieved"
+
+  },
+  "GC08_marieItemizedPDFNotRetrievedChecksRechnungGraphAndTable":
+  {
+    "name": "marie.itemized.noRetrieved",
+    "password": "marie.itemized.noRetrieved"
+
+  }
+  }

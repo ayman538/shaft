@@ -1,0 +1,47 @@
+{
+  "GC01_MartinWith_OnlineBill_ValidatedEmail_SwitchedOnNotificationChecksEinstellungenTab": {
+    "name": "martin.all.active",
+    "password": "martin.all.active",
+    "email": "martin.all.active@test.test"
+  },
+  "GC02_MartinWith_PaperBill_ValidatedEmail_SwitchedOffNotificationChecksEinstellungenTab": {
+    "name": "martin.notification.off",
+    "password": "martin.notification.off",
+    "email": "martin.notification.off@test.test"
+
+  },
+  "GC03_MartinWith_PaperBill_NotValidatedEmailChecksEinstellungenTab": {
+    "name": "martin.not.validated.mail",
+    "password": "martin.not.validated.mail",
+    "email": "martin.not.validated.mail@test.test"
+
+  },
+  "GC04_MartinWith_OnlineBill_NoEmailChecksEinstellungenTab": {
+    "name": "martin.no.mail",
+    "password": "martin.no.mail",
+    "email": ""
+
+  },
+  "GC05_MartinChangesHisBillsFromPaperToOnlineSuccessfully": {
+    "name": "martin.change paper.to.online",
+    "password": "martin.change paper.to.online",
+    "email": ""
+
+  },
+  "GC06_MartinFailsToChangeHisBillsFromPaperToOnline": {
+    "name": "martin.change.fail",
+    "password": "martin.change.fail"
+  },
+  "GC07_MartinChangesHisBillsFrom_PaperAndOnline_To_OnlineSuccessfully": {
+    "name": "martin.paper.and.online.change",
+    "password": "martin.paper.and.online.change"
+  },
+  "BC01_MartinWthDispatchServiceErrorCheckEinstellungenTab": {
+    "name": "martin.dispatch.fail",
+    "password": "martin.dispatch.fail"
+  },
+  "BC02_MartinWithDispatchAndItemizedBillSettingsServiceErrorChecksEinstellungenTab": {
+    "name": "martin.all.fail",
+    "password": "martin.all.fail"
+  }
+}

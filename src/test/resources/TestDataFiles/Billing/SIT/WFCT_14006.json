@@ -1,0 +1,22 @@
+{
+
+  "GC03_MarieUserWithTotalAmountAtTheTopZeroChecksTheInvoiceSummarypage": {
+    "name": "multi_contracts",
+    "password": "TEST@1234",
+    "amountToBePaid": "0,00 €",
+    "i": 9,
+    "contractOrder": "1"
+  },
+
+  "GC04_KayUserWithCreditFromLastMonthZeroChecksInvoiceSummaryPage": {
+    "name": "multi_contracts",
+    "password": "TEST@1234",
+    "invoiceDetails1_Name": "Basispreis / Paketpreis (monatlich)",
+    "invoiceDetails2_Name": "Verbindungspreise und Services",
+    "invoiceDetails3_Name": "Zu Ihren Gunsten",
+    "invoiceDetails4_Name": "Zu zahlender Betrag",
+    "subscriberOrder": "1",
+    "i": 4,
+    "contractOrder": "1"
+  }
+}

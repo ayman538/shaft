@@ -1,0 +1,19 @@
+{
+  "GC03":
+  {
+    "userName": "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "mobileNumber" : "017131232123",
+    "Steps"  : ["Verkabelung-WLAN","mit Emulator","Nein, weiter mit der bisherigen Kundennummer","Kein Internet","EasyBox 805","LAN-Kabel","Aus","Aus","Die Steckdose funktioniert","Rückruf anfordern","Sofort angerufen werden"]
+  },
+
+  "GC05":
+  {
+    "userName": "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "mobileNumber" : "017131232123",
+    "Steps"  : ["Verkabelung-WLAN","mit Emulator","Nein, weiter mit der bisherigen Kundennummer","Kein Internet","EasyBox 805","LAN-Kabel","Aus","Aus","Die Steckdose funktioniert","Rückruf anfordern","Sofort angerufen werden"]
+  }
+}

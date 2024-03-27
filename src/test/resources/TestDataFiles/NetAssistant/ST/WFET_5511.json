@@ -1,0 +1,53 @@
+{
+  "ST_GC01": {
+    "userName": "WFET-5511 | DSL - NA - Authentication | User with multiple contracts",
+    "password": "WFET-5511 | DSL - NA - Authentication | User with multiple contracts",
+    "helpForm": "meinvodafone/services/netzassistent/review?product=dsl",
+    "customerNumber" : "551155115511",
+    "region" : "039",
+    "phoneNumber" : "011231313"
+  },
+
+  "ST_GC02": {
+    "userName": "WFET-5511 - NA - Authentication | User with multiple contracts",
+    "password": "WFET-5511 - NA - Authentication | User with multiple contracts",
+    "helpForm": "meinvodafone/services/netzassistent/review?product=cable",
+    "customerNumber" : "55115511",
+    "regionName" : "Andere Bundesländer"
+  },
+
+  "ST_GC03": {
+    "userName": "WFET-5511 | UM - NA - Authentication | User with multiple contracts",
+    "password": "WFET-5511 | UM - NA - Authentication | User with multiple contracts",
+    "helpForm": "meinvodafone/services/netzassistent/review?product=cable",
+    "customerNumber" : "55125511",
+    "regionName" : "Nordrhein-Westfalen"
+  },
+
+  "ST_GC14": {
+    "userName": "WFET-5511 - NA - Authentication | User with multiple contracts",
+    "password": "WFET-5511 - NA - Authentication | User with multiple contracts",
+    "customerNo": "55115511"
+  },
+
+  "ST_GC15": {
+    "userName": "WFET-5511 | UM - NA - Authentication | User with multiple contracts",
+    "password": "WFET-5511 | UM - NA - Authentication | User with multiple contracts",
+    "customerNo": "55125511"
+  },
+  "ST_GC25": {
+    "userName": "WFET-5511 | DSL - NA - Authentication | User with multiple contracts",
+    "password": "WFET-5511 | DSL - NA - Authentication | User with multiple contracts",
+    "link" : "netz-assistent/chatbot?i=6576f0e1cb244326d8d1d9baa9ba7dba5caccc761fff6f9a640151bf90aff46b1e428762ecfbe0e7898a246e&c=DSL&a=039&p=ef07673869f271dfbc75297e8b2da21f8ac242cfe4c2910f4e58140b41a3433e2d656955b7c506f3&s=&c_id=hilfe_netzass_dsl"
+  },
+  "ST_GC26": {
+    "userName": "WFET-5511 - NA - Authentication | User with multiple contracts",
+    "password": "WFET-5511 - NA - Authentication | User with multiple contracts",
+    "link" : "netz-assistent/chatbot?i=5a59ddba23a695e4e00082fbd047d971c7c5720f5cdda95f3f11dc667a0a76974a897038aa2fd8e9&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip"
+  },
+  "ST_GC27": {
+    "userName": "WFET-5511 | UM - NA - Authentication | User with multiple contracts",
+    "password": "WFET-5511 | UM - NA - Authentication | User with multiple contracts",
+    "link" : "netz-assistent/chatbot?i=3cbcdf3f9987508ce5cf2842a7b908d80adeb041e1be2af00e20e1ca49757c292c24d09033ee0e6c&c=UM&a=&p=&s=NRW&c_id=hilfe_netzass_um"
+  }
+}

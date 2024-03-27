@@ -1,0 +1,15 @@
+{
+  "GC01": {
+    "name": "GigaTV-TVUserOnly",
+    "password": "GigaTV-TVUserOnly",
+    "GigaTVGerateSOHeaderCL": "GigaTV-Geräte",
+    "GigaTVGerateSOSubLineCL": "Deine GigaTV-Geräte verwalten",
+    "RegisterDevicesTextCL": "Registrierte Geräte:"
+  },
+  "GC02": {
+    "name": "GigaTV-TVUserOnly",
+    "password": "GigaTV-TVUserOnly",
+    "DeviceAndSettingBurgerMenuCL": "Geräte & Einstellungen",
+    "DeviceAndSettingHeaderPageCL": "TV - Geräte & Einstellungen"
+  }
+}

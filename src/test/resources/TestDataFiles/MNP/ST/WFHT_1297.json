@@ -1,0 +1,157 @@
+{
+  "GC01":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/bisheriger-anbieter",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "FYVE",
+    "email": "mayar.metwally@vodafone.com",
+    "repeatEmail": "mayar.metwally@vodafone.com"
+  },
+  "GC02":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/bisheriger-anbieter",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "FYVE",
+    "email": "mayar.metwally@vodafone.com",
+    "repeatEmail": "mayar.metwally@vodafone.com",
+    "contractType": "Postpaid"
+  },
+  "GC03":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/bisheriger-anbieter",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "FYVE",
+    "email": "mayar.metwally@vodafone.com",
+    "repeatEmail": "mayar.metwally@vodafone.com"
+  },
+  "GC04":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/bisheriger-anbieter",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "FYVE",
+    "email": "mayar.metwally@vodafone.com",
+    "repeatEmail": "mayar.metwally@vodafone.com"
+  },
+  "GC05":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/bisheriger-anbieter",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "FYVE",
+    "email": "mayar.metwally@vodafone.com",
+    "repeatEmail": "mayar.metwally@vodafone.com"
+  },
+  "GC06":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/bisheriger-anbieter",
+    "firmenname" : "Google",
+    "kundnennummer" : "01622507481",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "FYVE",
+    "email": "mayar.metwally@vodafone.com",
+    "repeatEmail": "mayar.metwally@vodafone.com"
+  },
+  "GC08":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/bisheriger-anbieter",
+    "firmenname" : "Google",
+    "kundnennummer" : "01622507481",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "FYVE",
+    "email": "mayar.metwally@vodafone.com",
+    "repeatEmail": "mayar.metwally@vodafone.com"
+  },
+  "GC09":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/bisheriger-anbieter",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "FYVE",
+    "email": "mayar.metwally@vodafone.com",
+    "repeatEmail": "mayar.metwally@vodafone.com"
+  },
+  "GC10":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/bisheriger-anbieter",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "FYVE",
+    "email": "mayar.metwally@vodafone.com",
+    "repeatEmail": "mayar.metwally@vodafone.com"
+  },
+  "GC11":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/bisheriger-anbieter",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "FYVE",
+    "email": "mayar.metwally@vodafone.com",
+    "repeatEmail": "mayar.metwally@vodafone.com"
+  },
+  "BC01":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "hilfe/rufnummernmitnahme/bisheriger-anbieter",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "FYVE",
+    "email": "mayar.metwally@vodafone.com",
+    "repeatEmail": "mayar.metwally@vodafone.com"
+  },
+  "BC02":
+  {
+    "contactNumber"  : "01628919645",
+    "deeplink": "hilfe/rufnummernmitnahme/bisheriger-anbieter",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "FYVE",
+    "email": "mayar.metwally@vodafone.com",
+    "repeatEmail": "mayar.metwally@vodafone.com"
+  }
+}

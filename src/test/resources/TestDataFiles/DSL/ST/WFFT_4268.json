@@ -1,0 +1,62 @@
+{
+  "GC01": {
+    "name": "fixednet001",
+    "password": "fixednet001",
+    "header": "Aktuelle Infos zu Deinem Rechnungskonto",
+    "subHeader": "Du hast eine offene Zahlung bei uns. Zahl bitte den offenen Betrag. Die Bankverbindung und weitere Zahlmethoden siehst Du weiter unten. Denke bitte an die Rechnungsnummer beim Verwendungszweck. In der Übersicht siehst Du alle Buchungsposten auf Deinem Konto.",
+    "whiteBox_Headline": "Offener Betrag",
+    "whiteBox_InvoiceTitle": "Buchungsposten",
+    "whiteBox_InvoiceAmount": "Betrag",
+    "paymentOption_Headline": "Bezahl Deine offene Rechnung direkt hier:",
+    "paymentOption_Button": "Direkt bezahlen",
+    "firstInfo_SubHeadline": "Schreib bitte bei Deiner Überweisung beim Verwendungszweck die Rechnungsnummer hinein. Richte die Überweisung an diese Bankverbindung:",
+    "secondInfo_SubHeadline": "Wir können zukünftig den fälligen Rechnungsbetrag ganz bequem per Lastschrift von Deinem Konto abbuchen. Du erteilst uns ein Mal eine Einzugsermächtigung und den Rest erledigen wir für Dich. Hier kannst Du die Einzugsermächtigung einrichten.",
+    "document_Headline": "Deine Dokumente",
+    "firstDocument_Title": "Hier geht's zu Deinen Dokumenten",
+    "secondDocument_Title": "Jetzt auf Lastschrift umstellen"
+  },
+  "GC02": {
+    "name": "fixednet002",
+    "password": "fixednet002",
+    "header": "Aktuelle Infos zu Deinem Rechnungskonto",
+    "subHeader": "Du hast eine offene Zahlung bei uns. Zahl bitte den offenen Betrag. Die Bankverbindung und weitere Zahlmethoden siehst Du weiter unten. Denke bitte an die Rechnungsnummer beim Verwendungszweck. In der Übersicht siehst Du alle Buchungsposten auf Deinem Konto.",
+    "whiteBox_Headline": "Offener Betrag",
+    "whiteBox_InvoiceTitle": "Buchungsposten",
+    "whiteBox_InvoiceAmount": "Betrag",
+    "paymentOption_Headline": "Bezahl Deine überfällige Rechnung direkt hier:",
+    "paymentOption_Button": "Direkt bezahlen",
+    "firstInfo_SubHeadline": "Schreib bitte bei Deiner Überweisung beim Verwendungszweck die Rechnungsnummer hinein. Richte die Überweisung an diese Bankverbindung:",
+    "secondInfo_SubHeadline": "Wir können zukünftig den fälligen Rechnungsbetrag ganz bequem per Lastschrift von Deinem Konto abbuchen. Du erteilst uns ein Mal eine Einzugsermächtigung und den Rest erledigen wir für Dich. Hier kannst Du die Einzugsermächtigung einrichten.",
+    "document_Headline": "Deine Dokumente",
+    "firstDocument_Title": "Hier geht's zu Deinen Dokumenten",
+    "secondDocument_Title": "Jetzt auf Lastschrift umstellen",
+    "dunningNotif_Headline": "Wichtig für Dich"
+  },
+  "GC03": {
+    "name": "fixednet003",
+    "password": "fixednet003",
+    "header": "Aktuelle Infos zu Deinem Rechnungskonto",
+    "subHeader": "Du hast eine offene Zahlung bei uns. Zahl bitte den offenen Betrag. Die Bankverbindung und weitere Zahlmethoden siehst Du weiter unten. Denke bitte an die Rechnungsnummer beim Verwendungszweck. In der Übersicht siehst Du alle Buchungsposten auf Deinem Konto.",
+    "whiteBox_Headline": "Offener Betrag",
+    "whiteBox_InvoiceTitle": "Buchungsposten",
+    "whiteBox_InvoiceAmount": "Betrag",
+    "paymentOption_Headline": "Wähl den Betrag aus, den Du zahlen möchtest:",
+    "paymentOption_Button": "Direkt bezahlen",
+    "firstInfo_SubHeadline": "Schreib bitte bei Deiner Überweisung beim Verwendungszweck die Rechnungsnummer hinein. Richte die Überweisung an diese Bankverbindung:",
+    "secondInfo_SubHeadline": "Wir können zukünftig den fälligen Rechnungsbetrag ganz bequem per Lastschrift von Deinem Konto abbuchen. Du erteilst uns ein Mal eine Einzugsermächtigung und den Rest erledigen wir für Dich. Hier kannst Du die Einzugsermächtigung einrichten.",
+    "document_Headline": "Deine Dokumente",
+    "firstDocument_Title": "Hier geht's zu Deinen Dokumenten",
+    "secondDocument_Title": "Jetzt auf Lastschrift umstellen",
+    "dunningNotif_Headline": "Wichtig für Dich"
+  },
+  "GC04": {
+    "name": "fixednet004",
+    "password": "fixednet004",
+    "generalErrorNotif_Headline": "Das hat leider nicht geklappt"
+  },
+  "GC05": {
+    "name": "fixednet005",
+    "password": "fixednet005",
+    "eligibleErrorNotif_Headline": "Das hat leider nicht geklappt"
+  }
+}

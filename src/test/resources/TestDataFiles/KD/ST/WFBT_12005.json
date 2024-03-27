@@ -1,0 +1,47 @@
+{
+  "GC01_CheckMeinTariffNavigationFromBurgerMenu":
+  {
+    "name"  : "Automated-wfbt_10768_1",
+    "password": "Automated-wfbt_10768_1"
+  },
+  "GC02_CheckOverviewButtonRemovedFromKabelTVDashboard":
+  {
+    "name"  : "Automated-wfbt_10768_1",
+    "password": "Automated-wfbt_10768_1"
+  },
+  "GC03_CheckMeinTVOptionenSORedirectionToBookedOptionAccordion":
+  {
+    "name"  : "Automated-wfbt_10768_1",
+    "password": "Automated-wfbt_10768_1"
+  },
+  "GC04_CheckExklusiveAngeboteSORedirectionForKabelTV":
+  {
+    "name"  : "Automated-wfbt_10768_1",
+    "password": "Automated-wfbt_10768_1"
+  },
+  "GC05_CheckEinstellungenSORedirectionForKabelTV":
+  {
+    "name"  : "Automated-wfbt_10768_1",
+    "password": "Automated-wfbt_10768_1"
+  },
+  "GC06_CheckPhoneSettingSORedirectionForKIP":
+  {
+    "name"  : "Automated-wfbt_10768_1",
+    "password": "Automated-wfbt_10768_1"
+  },
+  "GC07_CheckExklusiveAngeboteSORedirectionForTV":
+  {
+    "name"  : "Automated-wfbt_10768_1",
+    "password": "Automated-wfbt_10768_1"
+  },
+  "GC08_CheckTariffChangeSORedirectToTariffChangeSectionInKIPTariffPage":
+  {
+    "name"  : "Automated-wfbt_10768_1",
+    "password": "Automated-wfbt_10768_1"
+  },
+  "GC10_CheckOverviewButtonRemovedFromBurgerMenuDashboardForKIP":
+  {
+    "name"  : "Automated-wfbt_10768_1",
+    "password": "Automated-wfbt_10768_1"
+  }
+}

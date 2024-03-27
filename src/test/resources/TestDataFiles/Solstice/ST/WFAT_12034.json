@@ -1,0 +1,16 @@
+{
+  "GC02_verifySolsticeFlow":
+  {
+    "name": "MBO212256",
+    "password": "MBO212256",
+    "phoneNum": "015666463333",
+    "smsCode": "654321"
+  },
+  "GC01_verifyLegacyFlow":
+  {
+    "name": "LegacyUSER",
+    "password": "LegacyUSER",
+    "phoneNum": "015666463333",
+    "smsCode": "654321"
+  }
+}

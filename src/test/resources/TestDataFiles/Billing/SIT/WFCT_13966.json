@@ -1,0 +1,8 @@
+{
+  "GC01_KayChecksInvoiceSummaryPageWhileSomeOfTheCardValuesDescriptionsNotReturned": {
+    "name"  : "kay.some.not.returned",
+    "password": "",
+    "invoiceDetails1_Name": "Siehe Rechnung",
+    "i": 1
+  }
+}

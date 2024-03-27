@@ -1,0 +1,55 @@
+{
+  "SIT_GC11": {
+    "name": "mark.biesek",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","4 Answers"]
+  },
+  "SIT_GC02": {
+    "name": "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_Wait","only auto wait, 25s","Nein"]
+  },
+  "SIT_GC01": {
+    "name": "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_Wait","normal use case - manual wait + auto wait, 45s","Nein"]
+  },
+  "SIT_GC04": {
+    "name": "n341449201@umpost.de",
+    "password":"TestLab1",
+    "contractnumber": "341449201",
+    "Steps": ["go on","Testbereich","Test WFET-4181","Automatic","4 Answers"]
+  },
+  "SIT_GC05": {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "contractnumber": "332881148",
+    "Steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","4 Answers"]
+  },
+  "SIT_GC06": {
+    "name": "christian.netzassistent",
+    "password": "TEST@1234",
+    "Steps"  : ["Testbereich","Test_Formular_RadioCombo","Automatic","4 Answers"]
+  },
+  "SIT_GC07": {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","3 Answers"]
+  },
+  "SIT_GC08": {
+    "name": "mark.biesek",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","3 Answers"]
+  },
+  "SIT_GC09": {
+    "name": "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test_Formular_RadioCombo","Automatic","3 Answers"]
+  }
+}

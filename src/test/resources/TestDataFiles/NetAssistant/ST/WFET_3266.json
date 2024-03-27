@@ -1,0 +1,33 @@
+{
+  "ST_GC04": {
+    "userName" : "WFET-3416 | UM | DeepLinkNetAssistant",
+    "userPassword" : "WFET-3416 | UM | DeepLinkNetAssistant",
+    "link": "netz-assistent/tickets?i=dcd136bdb1c46194f44b1b88d1c14802112758ca716d9c7ebf8592f0f87e946cbabec354dc344736&c=UM&s=NRW&icmp=mvw_db_netzass_um"
+  },
+  "ST_GC05": {
+    "userName" : "WFET-3416 | UM | DeepLinkNetAssistant",
+    "userPassword" : "WFET-3416 | UM | DeepLinkNetAssistant",
+    "link": "netz-assistent/tickets?i=dcd136bdb1c46194f44b1b88d1c14802112758ca716d9c7ebf8592f0f87e946cbabec354dc344736&c=UM&s=NRW&icmp=mvw_db_netzass_um"
+  },
+  "ST_GC09": {
+    "userName" : "WFET-3416 | UM | DeepLinkNetAssistant",
+    "userPassword" : "WFET-3416 | UM | DeepLinkNetAssistant",
+    "link": "netz-assistent/tickets?i=dcd136bdb1c46194f44b1b88d1c14802112758ca716d9c7ebf8592f0f87e946cbabec354dc344736&c=UM&s=NRW&icmp=mvw_db_netzass_um"
+  },
+  "ST_GC13": {
+    "userName" : "WFET-3416 | UM | DeepLinkNetAssistant",
+    "userPassword" : "WFET-3416 | UM | DeepLinkNetAssistant",
+    "link": "netz-assistent/tickets?i=dcd136bdb1c46194f44b1b88d1c14802112758ca716d9c7ebf8592f0f87e946cbabec354dc344736&s=NRW&icmp=mvw_db_netzass_um"
+  },
+  "ST_GC14": {
+    "userName" : "WFET-3416 | UM | DeepLinkNetAssistant",
+    "userPassword" : "WFET-3416 | UM | DeepLinkNetAssistant",
+    "link": "netz-assistent/tickets?c=UM&s=NRW&icmp=mvw_db_netzass_um"
+  },
+  "ST_GC15":
+  {
+  "userName" : "WFET-3416 | UM | DeepLinkNetAssistant",
+  "userPassword" : "WFET-3416 | UM | DeepLinkNetAssistant",
+  "link": "netz-assistent/tickets?s=NRW&icmp=mvw_db_netzass_um"
+}
+}

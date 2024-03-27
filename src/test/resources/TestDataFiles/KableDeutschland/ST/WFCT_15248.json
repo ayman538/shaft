@@ -1,0 +1,14 @@
+{
+  "GC01_MartinWithOneProductNoPaymentTypeChecksKontostandPage": {
+    "name": "martin.no.payment.type.1.product",
+    "password": "martin.no.payment.type.1.product",
+    "firstPill": "1"
+  },
+  "GC02_MartinWithManyProductsNoPaymentTypeChecksKontostandPage": {
+    "name": "martin.no.payment.type.many.products",
+    "password": "martin.no.payment.type.many.products",
+    "firstPill": "1",
+    "secondPill":"2",
+    "thirdPill":"3"
+  }
+}

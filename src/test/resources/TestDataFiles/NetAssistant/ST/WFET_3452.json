@@ -1,0 +1,26 @@
+{
+  "ST_GC01": {
+    "userName" : "WFET-3452 | UM | Set technician appointments",
+    "password" : "WFET-3452 | UM | Set technician appointments",
+    "Link" : "netz-assistent/tickets?i=ea1ad194f3b61105221bb494c5bedeecfe228abb59aa5f6541a076485084b7e5c972df9237d66066&c=UM&s=NRW&icmp=mvw_db_netzass_um"
+  },
+
+  "ST_GC03": {
+    "userName" : "WFET-3452 | UM | Set technician appointments",
+    "password" : "WFET-3452 | UM | Set technician appointments",
+    "Link" : "netz-assistent/tickets?i=ea1ad194f3b61105221bb494c5bedeecfe228abb59aa5f6541a076485084b7e5c972df9237d66066&c=UM&s=NRW&icmp=mvw_db_netzass_um"
+  },
+
+  "ST_GC05": {
+    "userName" : "WFET-3452 | UM | Set technician appointments",
+    "password" : "WFET-3452 | UM | Set technician appointments",
+    "Link" : "netz-assistent/tickets?i=ea1ad194f3b61105221bb494c5bedeecfe228abb59aa5f6541a076485084b7e5c972df9237d66066&c=UM&s=NRW&icmp=mvw_db_netzass_um"
+  },
+
+  "ST_GC06": {
+    "userName" : "WFET-3452 | UM | Set technician appointments",
+    "password" : "WFET-3452 | UM | Set technician appointments",
+    "Link" : "netz-assistent/tickets?i=ea1ad194f3b61105221bb494c5bedeecfe228abb59aa5f6541a076485084b7e5c972df9237d66066&c=UM&s=NRW&icmp=mvw_db_netzass_um"
+  }
+
+}

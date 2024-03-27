@@ -1,0 +1,16 @@
+{
+  "gC01_KayChecksEntryPointForInvoiceSummaryViaKostenubersicht": {
+    "name": "multi_delta",
+    "password": "TEST@1234",
+    "contractOrder": "4",
+    "showLessText" : "Weniger anzeigen",
+    "msisdn" : "01622497599"
+  },
+  "gC06_KayWith5SubscribertsChecksInvoiceSummaryPageAndTheirEntryPoint": {
+    "name": "multi_delta",
+    "password": "TEST@1234",
+    "contractOrder": "1",
+    "showLessText" : "Weniger anzeigen",
+    "msisdn" : "015200488892"
+  }
+}

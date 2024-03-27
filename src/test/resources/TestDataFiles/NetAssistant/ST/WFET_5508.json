@@ -1,0 +1,23 @@
+{
+  "GC07":
+  {
+    "name"  : "Ismail_TC3235_Cable_NoContracts",
+    "password": "Ismail_TC3235_Cable_NoContracts",
+    "link": "netz-assistent/?c_id=hilfe_netzass_dsl"
+  },
+
+  "GC08":
+  {
+    "name"  : "Ismail_TC3235_Cable_NoContracts",
+    "password": "Ismail_TC3235_Cable_NoContracts",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+
+  "GC09":
+  {
+    "name"  : "Ismail_TC3235_Cable_NoContracts",
+    "password": "Ismail_TC3235_Cable_NoContracts",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  }
+
+}

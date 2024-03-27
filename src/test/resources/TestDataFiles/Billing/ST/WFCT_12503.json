@@ -1,0 +1,127 @@
+{
+  "GC01_MarieUserWithOnlineBillChecksEinstellungenPage": {
+    "name": "marie.online.active.email.and.sms",
+    "password": "marie.online.active.email.and.sms",
+    "billType": "Online-Rechnung",
+    "emailStatus": "E-Mail ist aktiviert",
+    "smsStatus": "SMS ist aktiviert",
+    "emailColor": "0, 153, 0",
+    "mobileNumber": "0777 777 77 71",
+    "buttonColor": "51, 51, 51"
+  },
+  "GC02_BartUserWithOnlineBillAndInActiveSMSChecksEinstellungenPage": {
+    "name": "bart.online.active.email.and.inactive.sms",
+    "password": "bart.online.active.email.and.inactive.sms",
+    "billType": "Online-Rechnung",
+    "emailStatus": "E-Mail ist aktiviert",
+    "smsStatus": "Du hast keine SMS-Benachrichtigung aktiviert",
+    "emailColor": "0, 153, 0"
+  },
+  "GC03_KayUserWithOnlineBillAndNotVerifiedEmailChecksEinstellungenPage": {
+    "name": "kay.online.not.verified.email",
+    "password": "kay.online.not.verified.email",
+    "billType": "Online-Rechnung",
+    "emailStatus": "E-Mail Adresse NICHT verifiziert",
+    "smsStatus": "Du hast keine SMS-Benachrichtigung aktiviert",
+    "emailColor": "230, 0, 0",
+    "buttonColor": "255, 255, 255"
+  },
+  "GC04_KayUserWithOnlineBillAndNoEmailChecksEinstellungenPage": {
+    "name": "marie.online.no.email1",
+    "password": "marie.online.no.email1",
+    "billType": "Online-Rechnung",
+    "emailStatus": "Du hast keine E-Mail-Adresse angegeben",
+    "smsStatus": "Du hast keine SMS-Benachrichtigung aktiviert",
+    "emailColor": "230, 0, 0"
+  },
+  "GC05_KayUserWithOnlineBillAndUndeliverableEmailChecksEinstellungenPage": {
+    "name": "bart.online.bounce.email",
+    "password": "bart.online.bounce.email",
+    "billType": "Online-Rechnung",
+    "emailStatus": "E-Mail Adresse NICHT verifiziert",
+    "smsStatus": "SMS ist aktiviert",
+    "emailColor": "230, 0, 0"
+  },
+  "GC06_KayUserWithOnlineAndPaperBillChecksEinstellungenTab": {
+    "name": "kay.online.paper.inactive.email.inactive.sms",
+    "password": "kay.online.paper.inactive.email.inactive.sms",
+    "emailStatus": "E-Mail Adresse NICHT verifiziert",
+    "smsStatus": "Du hast keine SMS-Benachrichtigung aktiviert",
+    "emailColor": "230, 0, 0",
+    "currentBillType": "Online-Rechnung & Papierrechnung"
+  },
+  "GC07_MarieUserEncountersServiceFailure": {
+    "name": "marie.online.service.error",
+    "password": "marie.online.service.error"
+  },
+  "GC08_BartUserWithGKOaccountChecksEinstellungenPage": {
+    "name": "bart.gko.account",
+    "password": "bart.gko.account"
+  },
+
+  "GC09_KayUserWithOnlineAndPaperBillChangesToOnlineBill": {
+    "name": "kay.online.paper.active.email.sms",
+    "password": "kay.online.paper.active.email.sms",
+    "currentBillType": "Online-Rechnung & Papierrechnung",
+    "emailStatus": "E-Mail ist aktiviert",
+    "smsStatus": "SMS ist aktiviert",
+    "emailColor": "0, 153, 0",
+    "newBillType" :"Online-Rechnung"
+  },
+  "GC10_MarieUserWithPaperBillChangesToOnlineBill": {
+    "name": "marie.paper.active.email.sms",
+    "password": "marie.paper.active.email.sms",
+    "currentBillType": "Papierrechnung",
+    "emailStatus": "E-Mail ist aktiviert",
+    "smsStatus": "SMS ist aktiviert",
+    "emailColor": "0, 153, 0",
+    "newBillType" :"Online-Rechnung"
+  },
+  "GC11_BartUserEncountersServiceFailure": {
+    "name": "bart.service.error1",
+    "password": "bart.service.error1"
+  },
+  "GC12_KayUserEncountersServiceFailure": {
+    "name": "kay.service.error",
+    "password": "kay.service.error"
+  },
+  "Tg01_MarieUserChecksPageViewbeforeChangingFromPaperToOnline": {
+    "name": "marie.paper.active.email.sms",
+    "password": "marie.paper.active.email.sms",
+    "siteStructure": "mein vodafone,ihre-rechnungen,bill-settings",
+    "oFormValue": "{name:bill preference,formStep:1,formStepName:start,formStatus:[start],type:ecare}",
+    "pageType": "self service",
+    "platformType": "responsive",
+    "visitorSubscription": "postpaid:marie",
+    "loginStatus": "logged in",
+    "siteArea": "meinvodafone",
+    "oForm": "oForm",
+    "tagName": "pageview"
+  },
+  "Tg02_MarieUserChecksPageViewAfterChangingFromPaperToOnline": {
+    "name": "marie.paper.active.email.sms",
+    "password": "marie.paper.active.email.sms",
+    "siteStructure": "mein vodafone,ihre-rechnungen,bill-settings",
+    "oFormValue": "{name:bill preference,formStep:2,formStepName:confirmation,formStatus:[end,success],type:ecare}",
+    "pageType": "self service",
+    "platformType": "responsive",
+    "visitorSubscription": "postpaid:marie",
+    "loginStatus": "logged in",
+    "siteArea": "meinvodafone" ,
+    "oForm": "oForm",
+    "tagName": "pageview"
+  },
+  "Tg03_MarieUserChecksPageViewAfterUnsuccessfulChangingFromPaperToOnline": {
+    "name": "kay.service.error",
+    "password": "kay.service.error",
+    "siteStructure": "mein vodafone,ihre-rechnungen,bill-settings",
+    "oFormValue": "{name:bill preference,formStep:2,formStepName:confirmation,formStatus:[end,failure],type:ecare}",
+    "loginStatus": "logged in",
+    "pageType": "self service",
+    "platformType": "responsive",
+    "visitorSubscription": "postpaid:marie",
+    "siteArea": "meinvodafone",
+    "oForm": "oForm",
+    "tagName": "pageview"
+  }
+}

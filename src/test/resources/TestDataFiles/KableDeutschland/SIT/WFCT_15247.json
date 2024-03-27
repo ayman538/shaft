@@ -1,0 +1,13 @@
+{
+  "GC04_MartinHasInternetAndPhoneChecksProduktartColumn": {
+    "name": "KD934300996",
+    "password": "TEST@1234",
+    "internetAndPhoneNewCl": "Internet & Phone",
+    "secondProductOrder": "6"
+  },
+  "GC03_MartinHasMoreThanProductChecksAccountBalancePage": {
+    "name": "KD934300996",
+    "password": "TEST@1234",
+    "firstPill": "1"
+  }
+}

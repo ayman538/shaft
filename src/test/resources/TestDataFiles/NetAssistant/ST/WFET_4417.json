@@ -1,0 +1,18 @@
+{
+  "ST_GC01": {
+    "link": "netz-assistent/tb?sys=4&token=999"
+  },
+  "ST_GC02": {
+    "link": "netz-assistent/tb?sys=4&token=999"
+  },
+  "ST_GC03": {
+    "link": "netz-assistent/tb?sys=4&token=888"
+  },
+  "ST_GC04": {
+    "link": "netz-assistent/tb?sys=4&token=888"
+  },
+  "ST_GC08": {
+    "link": "netz-assistent/tb?sys=4&token=777"
+  }
+}
+

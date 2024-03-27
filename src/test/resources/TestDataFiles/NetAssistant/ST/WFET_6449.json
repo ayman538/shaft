@@ -1,0 +1,184 @@
+{
+  "GC01":
+  {
+    "userName"  : "automationTESTt-UM11",
+    "password": "automationTESTt-UM11",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC02":
+  {
+    "userName"  : "automationTESTt-Cable12",
+    "password": "automationTESTt-Cable12",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC03":
+  {
+    "userName"  : "automationTESTt-UM11",
+    "password": "automationTESTt-UM11",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC04":
+  {
+    "userName"  : "automationTESTt-Cable12",
+    "password": "automationTESTt-Cable12",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC05":
+  {
+    "userName"  : "automationTESTt-UM11",
+    "password": "automationTESTt-UM11",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC06":
+  {
+    "userName"  : "automationTESTt-Cable12",
+    "password": "automationTESTt-Cable12",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC07":
+  {
+    "userName"  : "automationTESTt-UM11",
+    "password": "automationTESTt-UM11",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC08":
+  {
+    "userName"  : "automationTESTt-Cable12",
+    "password": "automationTESTt-Cable12",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC09":
+  {
+    "userName"  : "automationTESTt-UM11",
+    "password": "automationTESTt-UM11",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC10":
+  {
+    "userName"  : "automationTESTt-Cable12",
+    "password": "automationTESTt-Cable12",
+    "deeplink" : "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC11":
+  {
+    "userName"  : "automationTESTt-UM11",
+    "password": "automationTESTt-UM11",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC12":
+  {
+    "userName"  : "automationTESTt-Cable12",
+    "password": "automationTESTt-Cable12",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC13":
+  {
+    "userName"  : "automationTESTt-UM11",
+    "password": "automationTESTt-UM11",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC14":
+  {
+    "userName"  : "automationTESTt-Cable12",
+    "password": "automationTESTt-Cable12",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC15":
+  {
+    "userName"  : "automationTESTt-UM11",
+    "password": "automationTESTt-UM11",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC16":
+  {
+    "userName"  : "automationTESTt-Cable12",
+    "password": "automationTESTt-Cable12",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC17":
+  {
+    "userName"  : "automationTESTt-UM11",
+    "password": "automationTESTt-UM11",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC18":
+  {
+    "userName"  : "automationTESTt-Cable12",
+    "password": "automationTESTt-Cable12",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC19":
+  {
+    "userName"  : "automationTESTt-UM11",
+    "password": "automationTESTt-UM11",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC20":
+  {
+    "userName"  : "automationTESTt-Cable12",
+    "password": "automationTESTt-Cable12",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC21":
+  {
+    "userName"  : "automationTESTt-UM11",
+    "password": "automationTESTt-UM11",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC22":
+  {
+    "userName"  : "automationTESTt-Cable12",
+    "password": "automationTESTt-Cable12",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC23":
+  {
+    "userName"  : "automationTESTt-UM11",
+    "password": "automationTESTt-UM11",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC24":
+  {
+    "userName"  : "automationTESTt-Cable12",
+    "password": "automationTESTt-Cable12",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC27":
+  {
+    "userName"  : "automationTESTt-UM11",
+    "password": "automationTESTt-UM11",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC28":
+  {
+    "userName"  : "automationTESTt-Cable12",
+    "password": "automationTESTt-Cable12",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC29":
+  {
+    "userName"  : "automationTESTt-UM11",
+    "password": "automationTESTt-UM11",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC30":
+  {
+    "userName"  : "automationTESTt-Cable12",
+    "password": "automationTESTt-Cable12",
+    "Steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  }
+}

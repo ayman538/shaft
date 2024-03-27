@@ -1,0 +1,46 @@
+{
+  "GC01": {
+    "urlIdent": "918211",
+    "Dashboardheader": "Teste Deine Router-Verbindung",
+    "Recallheader": "Hat nicht geklappt",
+    "RecallSubHeadline": "Du willst Deine Adresse korrigieren. Kein Problem. Wir prüfen mit Dir am Telefon, ob sich dadurch an Deinem Tarif was ändert.",
+    "RecallSecondSubHeadline": "Gib hier Deine Nummer ohne Leer- oder Sonderzeichen ein, zum Beispiel: 01721234566. Wir melden uns in wenigen Minuten bei Dir. ",
+    "RecallAbschickenBtn": "Abschicken",
+    "RecallPhoneNo": "01721234566",
+    "RecallConfirmationheader": "Rückruf vereinbart",
+    "RecallConfirmationSubheader": "Du bekommst gleich eine SMS mit der Rückrufzeit."
+  },
+  "GC05": {
+    "urlIdent": "918255",
+    "Dashboardheader": "Teste Deine Router-Verbindung",
+    "Recallheader": "Hat nicht geklappt",
+    "RecallSubHeadline": "Du willst Deine Adresse korrigieren. Kein Problem. Wir prüfen mit Dir am Telefon, ob sich dadurch an Deinem Tarif was ändert.",
+    "RecallSecondSubHeadline": "Gib hier Deine Nummer ohne Leer- oder Sonderzeichen ein, zum Beispiel: 01721234566. Wir melden uns in wenigen Minuten bei Dir. ",
+    "RecallAbschickenBtn": "Abschicken",
+    "RecallPhoneNo": "01721234566",
+    "RecallConfirmationheader": "Rückruf vereinbart",
+    "RecallConfirmationSubheader": "Du bekommst gleich eine SMS mit der Rückrufzeit."
+  },
+  "GC06": {
+    "urlIdent": "918210",
+    "Dashboardheader": "Teste Deine Router-Verbindung",
+    "Recallheader": "Hat nicht geklappt",
+    "RecallSubHeadline": "Du willst Deine Adresse korrigieren. Kein Problem. Wir prüfen mit Dir am Telefon, ob sich dadurch an Deinem Tarif was ändert.",
+    "RecallSecondSubHeadline": "Gib hier Deine Nummer ohne Leer- oder Sonderzeichen ein, zum Beispiel: 01721234566. Wir melden uns in wenigen Minuten bei Dir. ",
+    "RecallAbschickenBtn": "Abschicken",
+    "RecallPhoneNo": "01721234566",
+    "RecallConfirmationheader": "Rückruf vereinbart",
+    "RecallConfirmationSubheader": "Du bekommst gleich eine SMS mit der Rückrufzeit."
+  },
+  "GC07": {
+    "urlIdent": "918213",
+    "Dashboardheader": "Teste Deine Router-Verbindung",
+    "Recallheader": "Hat nicht geklappt",
+    "RecallSubHeadline": "Du willst Deine Adresse korrigieren. Kein Problem. Wir prüfen mit Dir am Telefon, ob sich dadurch an Deinem Tarif was ändert.",
+    "RecallSecondSubHeadline": "Gib hier Deine Nummer ohne Leer- oder Sonderzeichen ein, zum Beispiel: 01721234566. Wir melden uns in wenigen Minuten bei Dir. ",
+    "RecallAbschickenBtn": "Abschicken",
+    "RecallPhoneNo": "01721234566",
+    "RecallConfirmationheader": "Rückruf vereinbart",
+    "RecallConfirmationSubheader": "Du bekommst gleich eine SMS mit der Rückrufzeit."
+  }
+}

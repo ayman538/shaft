@@ -1,0 +1,66 @@
+{
+  "GC01_MarieUserWithAllValuesInTheCommonSectionReturnedWithZeroAmountChecksInvoiceSummaryPage": {
+    "name": "marie.all.common.values.zero",
+    "password": "marie.all.common.values.zero",
+    "invoiceDetails1_Name": "Anschlusspreis",
+    "invoiceDetails2_Name": "Siehe Rechnung",
+    "invoiceDetails3_Name": "Siehe Rechnung",
+    "invoiceDetails4_Name": "Sonstigess",
+    "invoiceDetails5_Name": "Zu Ihren Gunsten 1",
+    "invoiceDetails6_Name": "Zu zahlender Betrag",
+    "i": 6
+  },
+  "GC02_KayUserWithSomeOfTheCardAmountsZeroAndCardTotalAmountZeroChecksInvoiceSummaryPage": {
+    "name": "kay.some.amount.zero.total.card.amount.zero",
+    "password": "kay.some.amount.zero.total.card.amount.zero",
+    "invoiceDetails1_Name": "Verbindungspreise and Services",
+    "invoiceDetails2_Name": "Sonstigess",
+    "invoiceDetails3_Name": "Zu Ihren Gunsten 1",
+    "invoiceDetails4_Name": "Kontobezogene Posten",
+    "invoiceDetails5_Name": "Mobiles Bezahlen",
+    "invoiceDetails6_Name": "Transfer von Guthaben",
+    "invoiceDetails7_Name": "Guthaben aus dem Vormonat",
+    "invoiceDetails8_Name": "Zu zahlender Betrag",
+    "cardTotalAmount": "0,00 €",
+    "subscriberOrder": "1",
+    "i": 8
+  },
+  "GC03_MarieUserWithTotalAmountAtTheTopZeroChecksTheInvoiceSummarypage": {
+    "name": "marie.total.amount.zero",
+    "password": "marie.total.amount.zero",
+    "amountToBePaid": "0,00 €",
+    "i": 9
+  },
+  "GC04_KayUserWithCreditFromLastMonthZeroChecksInvoiceSummaryPage": {
+    "name": "kay.last.month.credit.zero",
+    "password": "kay.last.month.credit.zero",
+    "invoiceDetails1_Name": "Anschlusspreis",
+    "invoiceDetails2_Name": "Basispreis / Paketpreis",
+    "invoiceDetails3_Name": "Verbindungspreise and Services",
+    "invoiceDetails4_Name": "Sonstigess",
+    "invoiceDetails5_Name": "Zu Ihren Gunsten 1",
+    "invoiceDetails6_Name": "Kontobezogene Posten",
+    "invoiceDetails7_Name": "Mobiles Bezahlen",
+    "invoiceDetails8_Name": "Transfer von Guthaben",
+    "invoiceDetails9_Name": "Zu zahlender Betrag",
+    "subscriberOrder": "1",
+    "i": 9
+  },
+  "GC05_PeterUserWithSomeAmountsAndTotalAmountInTheCardZeroChecksInvoiceSummaryPage": {
+    "name": "peter.some.and.total.values.zero",
+    "password": "peter.some.and.total.values.zero",
+    "invoiceDetails1_Name": "Anschlusspreis",
+    "invoiceDetails2_Name": "Verbindungspreise und Services",
+    "invoiceDetails3_Name": "Zu Ihren Gunsten",
+    "invoiceDetails4_Name": "Mobiles Bezahlen",
+    "invoiceDetails5_Name": "Transfer von Guthaben",
+    "invoiceDetails6_Name": "Summe",
+    "i": 6
+  },
+  "GC06_PeterUserWithTotalAmountAtTheTopOfThePageZeroChecksTheInvoiceSummaryPage": {
+    "name": "peter.some.and.total.values.zero",
+    "password": "peter.some.and.total.values.zero",
+    "amountToBePaid": "0,00 €",
+    "i": 9
+  }
+}

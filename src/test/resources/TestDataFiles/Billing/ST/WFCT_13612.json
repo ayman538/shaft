@@ -1,0 +1,48 @@
+{
+  "gC01_KayChecksEntryPointForInvoiceSummaryViaKostenubersicht": {
+    "name": "kay.entry.2.subscribers",
+    "password": "kay.entry.2.subscribers",
+    "msisdn" : "01798751010",
+    "showLessText" : "Weniger anzeigen",
+    "underlineAndColorCssProperty" : "underline solid rgb(13, 13, 13)",
+    "oneCollapsedCard" : "1",
+    "oneExpandedCard" : "1"
+  },
+
+  "gC02_BartWithNotReturnedAmountAtKostenubersichtTableChecksInvoiceSummaryEntryPoint": {
+    "name": "bart.billReturned.totalamountNotReturned",
+    "password": "bart.billReturned.totalamountNotReturned",
+    "notUnderlineAndColorCssProperty" : "none solid rgb(13, 13, 13)"
+
+  },
+
+  "gC03_KayWitNotReturnedBillAtKostenubersichtTableChecksChecksInvoiceSummaryEntryPoint": {
+    "name": "kay.billNotReturned.totalamountReturned",
+    "password": "kay.billNotReturned.totalamountReturned",
+    "notUnderlineAndColorCssProperty" : "none solid rgb(13, 13, 13)"
+
+  },
+
+  "gC04_BartWithZeroAmountChecksInvoiceSummaryPageEntryPoint": {
+    "name": "bart.entry.0.amount",
+    "password": "bart.entry.0.amount",
+    "underlineAndColorCssProperty" : "underline solid rgb(13, 13, 13)"
+  },
+
+  "gC05_KayWithCreditAmountChecksInvoiceSummaryPageEntryPoint": {
+    "name": "kay.entry.credit.amount",
+    "password": "kay.entry.credit.amount",
+    "underlineAndColorCssProperty": "underline solid rgb(0, 138, 0)",
+    "showLessText" : "Weniger anzeigen"
+  },
+
+  "gC06_KayWith5SubscribertsChecksInvoiceSummaryPageAndTheirEntryPoint": {
+    "name": "kay.entry.5.subscribers",
+    "password": "kay.entry.5.subscribers",
+    "msisdn" : "01798751010",
+    "blueBoxColor" : "0, 124, 146",
+    "underlineAndColorCssProperty" : "underline solid rgb(13, 13, 13)",
+    "showLessText" : "Weniger anzeigen",
+    "nameAndMSISDN" : "VFsub1 - 0179 8751010"
+  }
+}

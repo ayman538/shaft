@@ -1,0 +1,36 @@
+{
+  "GC01":
+  {
+    "name"  : "multi_contracts",
+    "password": "TEST@1234"
+  },
+  "GC10":
+  {
+    "name"  : "multi_contracts",
+    "password": "TEST@1234"
+  },
+  "GC04":
+  {
+    "Link" : "https://vodafone.de/netz-assistent/tickets?i=302ee1d46b7d2cd201bdfe7a4091c451a27fb13ede518847c63784cda2eef7c1719e6a9d3189b24338&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip",
+    "name"  : "vou-user13",
+    "password": "testTEST-1"
+  },
+  "GC05":
+  {
+    "Link" : "https://vodafone.de/netz-assistent/tickets?i=302ee1d46b7d2cd201bdfe7a4091c451a27fb13ede518847c63784cda2eef7c1719e6a9d3189b24338&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip",
+    "name"  : "NiveditaR",
+    "password": "Test@615"
+  },
+  "GC06":
+  {
+    "Link" : "https://vodafone.de/netz-assistent/tickets?i=f471f96dc90796fca22309c2c3b4442bea0a119a0aeebba8c94873d197b6364cdd44b6023a865e5aee&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip",
+    "name"  : "csc332881421",
+    "password": "testTEST-1"
+  },
+  "GC11":
+  {
+    "Link" : "https://vodafone.de/netz-assistent/tickets?i=c6f4acc33eb3fd520be337ae92ab6e58276bb779f9f93b6aebe1719b0732466a296aab3bb3c00ec488&c=UM&a=&p=&s=NRW&c_id=hilfe_netzass_um",
+    "name"  : "nrw701539801",
+    "password": "testTEST-1"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "GC02":
+  {
+    "name"  : "WFET-Hadeer-Cable10-singlemass",
+    "password": "WFET-Hadeer-Cable10-singlemass",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+
+  "GC04":
+  {
+    "name"  : "WFET-3255 | Cable | single outage",
+    "password": "WFET-3255 | Cable | single outage",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "emailAddress": "Test@test.com"
+  },
+
+  "GC06":
+  {
+    "name"  : "WFET-3255 | Cable | multiple outage partial success",
+    "password": "WFET-3255 | Cable | multiple outage partial success",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "mobileNumber": "01223082323"
+  },
+
+  "GC08":
+  {
+    "name"  : "WFET-3255 | Cable | multiple outage partial success",
+    "password": "WFET-3255 | Cable | multiple outage partial success",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "mobileNumber": "01223082323"
+  },
+
+  "GC09":
+  {
+    "name"  : "WFET-3255 | Cable | multiple outage partial success",
+    "password": "WFET-3255 | Cable | multiple outage partial success",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+
+  "GC10":
+  {
+    "name"  : "WFET-3255 | Cable | multiple outage partial success",
+    "password": "WFET-3255 | Cable | multiple outage partial success",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+
+  "GC11":
+  {
+    "name"  : "WFET-3255 | Cable | multiple outage partial success",
+    "password": "WFET-3255 | Cable | multiple outage partial success",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+
+  "GC12":
+  {
+    "name"  : "WFET-3255 | Cable | multiple outage partial success",
+    "password": "WFET-3255 | Cable | multiple outage partial success",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+
+  "GC13":
+  {
+    "name"  : "WFET-3255 | Cable | single outage",
+    "password": "WFET-3255 | Cable | single outage",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "emailAddress": "Test@test.com"
+  },
+
+  "GC14":
+  {
+    "name"  : "WFET-3255 | Cable | single outage",
+    "password": "WFET-3255 | Cable | single outage",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "invalidEmailAddress": "Test@test"
+  },
+  "GC15":
+  {
+    "name"  : "WFET-3255 | Cable | single outage",
+    "password": "WFET-3255 | Cable | single outage",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "invalidEmailAddress": "Test@test",
+    "emailAddress": "Test@test.com"
+  },
+
+  "GC16":
+  {
+    "name"  : "WFET-3255 | Cable | multiple outage partial success",
+    "password": "WFET-3255 | Cable | multiple outage partial success",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "mobileNumber": "01223082323"
+  },
+
+  "GC18":
+  {
+    "name"  : "WFET-3255 | Cable | multiple outage partial success",
+    "password": "WFET-3255 | Cable | multiple outage partial success",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "mobileNumber": "01223082323",
+    "invalidMobileNumber": "0312"
+  },
+
+  "GC19":
+  {
+  "name"  : "WFET-3255 | Cable | single outage",
+  "password": "WFET-3255 | Cable | single outage",
+  "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+  "invalidEmailAddress": "Test@test"
+  },
+
+  "GC20":
+  {
+    "name"  : "WFET-3255 | Cable | multiple outage partial success",
+    "password": "WFET-3255 | Cable | multiple outage partial success",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip",
+    "invalidMobileNumber": "0312"
+  },
+  "GC21":
+  {
+    "name"  : "WFET-3255 | Cable | multiple outage partial success",
+    "password": "WFET-3255 | Cable | multiple outage partial success",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  }
+}

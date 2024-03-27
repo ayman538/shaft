@@ -1,0 +1,343 @@
+{
+  "GC01": {
+    "name": "WFET-4181 | UM | OptionPicker",
+    "password": "WFET-4181 | UM | OptionPicker",
+    "text" : "017123456",
+    "option" : "1",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","3 Answers"]
+  },
+  "GC02": {
+    "name": "WFET-41814181 | Cable | optionPicker",
+    "password": "WFET-41814181 | Cable | optionPicker",
+    "text" : "017123456",
+    "option" : "2",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","3 Answers"]
+  },
+  "GC03": {
+    "name": "WFET-4181 | DSL | optionPicker",
+    "password": "WFET-4181 | DSL | optionPicker",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "text" : "017123456",
+    "option" : "3",
+    "steps"  : ["Testbereich","Test_Formular_RadioCombo","Automatic","3 Answers"]
+  },
+  "GC04": {
+    "name": "WFET-4181 | UM | OptionPicker",
+    "password": "WFET-4181 | UM | OptionPicker",
+    "text" : ".....",
+    "option" : "2",
+    "steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","3 Answers"]
+  },
+  "GC05": {
+    "name": "WFET-41814181 | Cable | optionPicker",
+    "password": "WFET-41814181 | Cable | optionPicker",
+    "text" : "*esraa#",
+    "option" :"1",
+    "steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","3 Answers"]
+  },
+  "GC06": {
+    "name": "WFET-4181 | DSL | optionPicker",
+    "password": "WFET-4181 | DSL | optionPicker",
+    "link" : "netz-assistent/chatbot/review?icmp=mvw_db_netzass_dsl",
+    "text" : "Test",
+    "option" : "2",
+    "steps"  : ["Testbereich","Test_Formular_RadioCombo","Automatic","3 Answers"]
+  },
+  "GC07": {
+    "name": "WFET-4181 | UM",
+    "password": "WFET-4181 | UM",
+    "text": "Hello",
+    "option": "Answer Four",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","4 Answers"]
+  },
+  "GC08": {
+    "name": "WFET-41814181 | Cable",
+    "password": "WFET-41814181 | Cable",
+    "text": "VOIS",
+    "option": "Answer Three",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","4 Answers"]
+  },
+  "GC09": {
+    "name": "WFET-4181 | DSL | dropDown",
+    "password": "WFET-4181 | DSL | dropDown",
+    "text": "Egypt",
+    "option": "Answer One",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "steps"  : ["Testbereich","Test_Formular_RadioCombo","Automatic","4 Answers"]
+  },
+  "GC10": {
+    "name": "WFET-4181 | UM",
+    "password": "WFET-4181 | UM",
+    "text": "&All",
+    "option": "Answer One",
+    "steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","4 Answers"]
+  },
+  "GC11": {
+    "name": "WFET-41814181 | Cable",
+    "password": "WFET-41814181 | Cable",
+    "text": "VOIS",
+    "option": "Answer Four",
+    "steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","4 Answers"]
+  },
+  "GC12": {
+    "name": "WFET-4181 | DSL | dropDown",
+    "password": "WFET-4181 | DSL | dropDown",
+    "link" : "netz-assistent/chatbot/review?icmp=mvw_db_netzass_dsl",
+    "text": "Egypt",
+    "option": "Answer Two",
+    "steps"  : ["Testbereich","Test_Formular_RadioCombo","Automatic","4 Answers"]
+  },
+  "GC13":
+  {
+    "name" : "WFET-2397 | ChatbotAutomation | no mass outage",
+    "password" : "WFET-2397 | ChatbotAutomation | no mass outage",
+    "link"  : "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "steps"  : ["Verkabelung-WLAN","mit Emulator","Nein, weiter mit der bisherigen Kundennummer","Kein Internet","EasyBox 804","WLAN","Leuchtet grün","Leuchtet rot","Die Steckdose funktioniert","Rückruf anfordern","Sofort angerufen werden"]
+  },
+  "GC14":
+  {
+    "name" : "WFET-5794 | CallBackPreFill | Cable",
+    "password" : "WFET-5794 | CallBackPreFill | Cable",
+    "link"  : "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "steps"  : ["go on","Verkabelung-WLAN","Kein Internet","Compal CH7466CE","LAN-Kabel","Aus","Schalter war aus","Timer überspringen","Problem besteht weiterhin","Kabel ist defekt","Rückruf anfordern"]
+  },
+  "GC15":
+  {
+    "name" : "automationTESTt-UM14",
+    "password" : "automationTESTt-UM14",
+    "link"  : "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus"]
+  },
+  "GC16":
+  {
+    "name" : "WFET-2397 | ChatbotAutomation | no mass outage",
+    "password" : "WFET-2397 | ChatbotAutomation | no mass outage",
+    "link" : "netz-assistent/chatbot/review?icmp=mvw_db_netzass_dsl",
+    "steps"  : ["Verkabelung-WLAN","mit Emulator","Nein, weiter mit der bisherigen Kundennummer","Kein Internet","EasyBox 804","WLAN","Leuchtet grün","Leuchtet rot","Die Steckdose funktioniert","Rückruf anfordern","Sofort angerufen werden"]
+  },
+  "GC17":
+  {
+    "name" : "WFET-5794 | CallBackPreFill | Cable",
+    "password" : "WFET-5794 | CallBackPreFill | Cable",
+    "steps"  : ["go on","Verkabelung-WLAN","Kein Internet","Compal CH7466CE","LAN-Kabel","Aus","Schalter war aus","Timer überspringen","Problem besteht weiterhin","Kabel ist defekt","Rückruf anfordern"]
+  },
+  "GC18":
+  {
+    "name" : "automationTESTt-UM14",
+    "password" : "automationTESTt-UM14",
+    "steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus"]
+  },
+  "GC19": {
+    "name": "WFET-4181 | DSL | dropDown",
+    "password": "WFET-4181 | DSL | dropDown",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "steps"  : ["Testbereich","Test_Formular_RadioCombo","Automatic","4 Answers"]
+  },
+  "GC20": {
+    "name": "WFET-41814181 | Cable",
+    "password": "WFET-41814181 | Cable",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","4 Answers"]
+  },
+  "GC21": {
+    "name": "WFET-4181 | UM",
+    "password": "WFET-4181 | UM",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","4 Answers"]
+  },
+  "GC22": {
+    "name": "WFET-4181 | DSL | dropDown",
+    "password": "WFET-4181 | DSL | dropDown",
+    "link" : "netz-assistent/chatbot/review?icmp=mvw_db_netzass_dsl",
+    "steps"  : ["Testbereich","Test_Formular_RadioCombo","Automatic","4 Answers"]
+  },
+  "GC23": {
+    "name": "WFET-41814181 | Cable",
+    "password": "WFET-41814181 | Cable",
+    "steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","4 Answers"]
+  },
+  "GC24": {
+    "name": "WFET-4181 | UM",
+    "password": "WFET-4181 | UM",
+    "steps"  : ["go on","Testbereich","Test WFET-4181","Automatic","4 Answers"]
+  },
+  "GC25": {
+    "name": "WFET-5194 | madatoryField | True",
+    "password": "WFET-5194 | madatoryField | True",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "steps"  : ["Testbereich","Test Kontaktdaten NSA (prefill/optional/CB)","nicht pflicht"]
+  },
+  "GC26": {
+    "name": "WFET-5194 | Cable | memoNotRequired | True",
+    "password": "WFET-5194 | Cable | memoNotRequired | True",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht pflicht"]
+  },
+  "GC27": {
+    "name": "WFET-5194 | UM | memoNotRequired | True",
+    "password": "WFET-5194 | UM | memoNotRequired | True",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht pflicht"]
+  },
+  "GC28": {
+    "name": "WFET-5194 | madatoryField | True",
+    "password": "WFET-5194 | madatoryField | True",
+    "link" : "netz-assistent/chatbot/review?icmp=mvw_db_netzass_dsl",
+    "steps"  : ["Testbereich","Test Kontaktdaten NSA (prefill/optional/CB)","nicht pflicht"]
+  },
+  "GC29": {
+    "name": "WFET-5194 | Cable | memoNotRequired | True",
+    "password": "WFET-5194 | Cable | memoNotRequired | True",
+    "steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht pflicht"]
+  },
+  "GC30": {
+    "name": "WFET-5194 | UM | memoNotRequired | True",
+    "password": "WFET-5194 | UM | memoNotRequired | True",
+    "steps"  : ["go on","Testbereich","testNetzAssiMemo_field_not_required","nicht pflicht"]
+  },
+  "GC31":
+  {
+    "name"  : "WFET-6619 | CallBack | JumpBack=False",
+    "password": "WFET-6619 | CallBack | JumpBack=False",
+    "mobileNumber" : "017141234567",
+    "link" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "steps"  : ["Testbereich","Test Form_CallBack"]
+  },
+  "GC32":
+  {
+    "name"  : "WFET-6619 | CallBack | JumpBack=False",
+    "password": "WFET-6619 | CallBack | JumpBack=False",
+    "link" : "netz-assistent/chatbot/review?icmp=mvw_db_netzass_dsl",
+    "mobileNumber" : "017141234567",
+    "steps"  : ["Testbereich","Test Form_CallBack"]
+  },
+  "GC33":
+  {
+    "name"  : "WFET-6619 | CallBack | JumpBack=True",
+    "password": "WFET-6619 | CallBack | JumpBack=True",
+    "mobileNumber" : "017141234567",
+    "link" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "steps"  : ["Testbereich","Test Form_CallBack"]
+  },
+  "GC34":
+  {
+    "name"  : "WFET-6619 | CallBack | JumpBack=True",
+    "password": "WFET-6619 | CallBack | JumpBack=True",
+    "link" : "netz-assistent/chatbot/review?icmp=mvw_db_netzass_dsl",
+    "mobileNumber" : "017141234567",
+    "steps"  : ["Testbereich","Test Form_CallBack"]
+  },
+  "GC35":
+  {
+    "name"  : "WFET-6619 | Mic | JumpBack=True",
+    "password": "WFET-6619 | Mic | JumpBack=True",
+    "familyName" : "test",
+    "postalCode" : "12345",
+    "customerId" : "123456789046",
+    "link" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "steps"  : ["Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC36":
+  {
+    "name"  : "WFET-6619 | Mic | JumpBack=True",
+    "password": "WFET-6619 | Mic | JumpBack=True",
+    "familyName" : "test",
+    "postalCode" : "12345",
+    "customerId" : "123456789046",
+    "link" : "netz-assistent/chatbot/review?icmp=mvw_db_netzass_dsl",
+    "steps"  : ["Testbereich","Test Form_FormularOneColumn"]
+  },
+  "GC37":{
+    "name"  : "WFET-6619 | FormWait | JumpBack=notReturned",
+    "password": "WFET-6619 | FormWait | JumpBack=notReturned",
+    "link" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "steps"  : ["Testbereich","Test Form_Wait"]
+  },
+  "GC38": {
+    "name": "automationTESTt-DSL9",
+    "password": "automationTESTt-DSL9",
+    "link" : "netz-assistent/?c_id=hilfe_netzass_dsl"
+  },
+  "GC39": {
+    "name"  : "WFET-3255 | Cable | single outage",
+    "password": "WFET-3255 | Cable | single outage",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+  "GC40": {
+    "name"  : "WFET-5993-Hadeer-UM1-mass",
+    "password": "WFET-5993-Hadeer-UM1-mass",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+  "GC41": {
+    "name": "automationTESTt-DSL9",
+    "password": "automationTESTt-DSL9",
+    "link" : "netz-assistent/chatbot/review?icmp=mvw_db_netzass_dsl"
+  },
+  "GC42": {
+    "name"  : "WFET-3255 | Cable | single outage",
+    "password": "WFET-3255 | Cable | single outage"
+  },
+  "GC43": {
+    "name": "WFET-5993-Hadeer-UM1-mass",
+    "password": "WFET-5993-Hadeer-UM1-mass"
+  },
+  "GC44": {
+    "name": "automationTESTt-DSL9",
+    "password": "automationTESTt-DSL9",
+    "link" : "netz-assistent/?c_id=hilfe_netzass_dsl"
+  },
+  "GC45": {
+    "name"  : "WFET-3255 | Cable | single outage",
+    "password": "WFET-3255 | Cable | single outage",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+  "GC46": {
+    "name"  : "WFET-5993-Hadeer-UM1-mass",
+    "password": "WFET-5993-Hadeer-UM1-mass",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+  "GC47": {
+    "name": "automationTESTt-DSL9",
+    "password": "automationTESTt-DSL9",
+    "link" : "netz-assistent/?c_id=hilfe_netzass_dsl"
+  },
+  "GC48": {
+    "name"  : "WFET-3255 | Cable | single outage",
+    "password": "WFET-3255 | Cable | single outage",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+  "GC49": {
+    "name"  : "WFET-5993-Hadeer-UM1-mass",
+    "password": "WFET-5993-Hadeer-UM1-mass",
+    "link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+  "GC50":{
+    "name"  : "WFET-6619 | Timer | JumpBack=notReturned",
+    "password": "WFET-6619 | Timer | JumpBack=notReturned",
+    "link" : "netz-assistent/?c_id=hilfe_netzass_dsl",
+    "steps"  : ["Testbereich","Test Form_Timer","Timer überspringen"]
+  },
+  "GC51":{
+    "name"  : "Esraa | FormTimer | Cable",
+    "password": "Esraa | FormTimer | Cable",
+    "link"  : "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "steps"  : ["go on","Testbereich","Test Form_Timer"]
+  },
+  "GC52":{
+    "name"  : "Esraa | FormTimer | UM",
+    "password": "Esraa | FormTimer | UM",
+    "link"  : "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "steps"  : ["go on","Testbereich","Test Form_Timer"]
+  },
+  "GC53":
+  {
+    "name" : "WFET-5794 | CallBackPreFill | Cable",
+    "password" : "WFET-5794 | CallBackPreFill | Cable",
+    "link"  : "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "steps"  : ["go on","Verkabelung-WLAN","Kein Internet","Compal CH7466CE","LAN-Kabel","Aus","Schalter war aus","Timer überspringen","Problem besteht weiterhin","Kabel ist defekt","Rückruf anfordern"]
+  }
+}

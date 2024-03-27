@@ -1,0 +1,14 @@
+{
+  "GC01_SuspendedUteUserChecksBillSettingsAccordion": {
+    "name": "ute.itemized.suspended",
+    "password": "ute.itemized.suspended",
+    "suspendedNotificationHeadLine": "Zahlungsrückstand",
+    "suspendedNotificationBody": "Dein Konto ist gesperrt. Zurzeit kannst Du es nur eingeschränkt nutzen und nichts ändern."
+  },
+  "GC02_CancelledContractUteUserChecksSettingsAccordion": {
+    "name": "ute.itemized.deactivated",
+    "password": "ute.itemized.deactivated",
+    "cancelledNotificationHeadLine": "Vertrag gekündigt",
+    "cancelledNotificationHeadBody": "Dein Vertrag ist beendet. Darum kannst Du die folgenden Einstellungen nicht ändern."
+  }
+}

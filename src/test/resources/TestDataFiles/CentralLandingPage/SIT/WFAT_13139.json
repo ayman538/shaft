@@ -1,0 +1,26 @@
+{
+  "GC01":
+  {
+    "urlExtention"  : "legitimation"
+  },
+  "GC02":
+  {
+    "urlExtention"  : "legitimation"
+  },
+  "GC03":
+  {
+    "urlExtention"  : "nachweis-ma-rabatt"
+  },
+  "GC04":
+  {
+    "urlExtention"  : "jetztwechseln"
+  },
+  "GC05":
+  {
+    "urlExtention"  : "business/legitimation"
+  },
+  "GC06":
+  {
+    "urlExtention"  : "zuhause-legi"
+  }
+}

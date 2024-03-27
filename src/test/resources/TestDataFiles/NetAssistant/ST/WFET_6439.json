@@ -1,0 +1,146 @@
+{
+  "GC01":
+  {
+    "userName" : "WFET-6439 | UM | CallBackWithoutPreFill",
+    "password" : "WFET-6439 | UM | CallBackWithoutPreFill",
+    "link"  : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "phoneNumber" : "012312313133",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus","Schalter ist an, kein Strom","Die Steckdose funktioniert"]
+  },
+  "GC02":
+  {
+    "userName" : "WFET-6439 | UM | CallBackWithoutPreFill",
+    "password" : "WFET-6439 | UM | CallBackWithoutPreFill",
+    "phoneNumber" : "015170107393",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus","Schalter ist an, kein Strom","Die Steckdose funktioniert"]
+  },
+  "GC03":
+  {
+    "userName" : "WFET-6439 | UM | CallBackWithoutPreFill",
+    "password" : "WFET-6439 | UM | CallBackWithoutPreFill",
+    "link"  : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "phoneNumber" : "012312313133",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus","Schalter ist an, kein Strom","Die Steckdose funktioniert"]
+  },
+  "GC04":
+  {
+    "userName" : "WFET-6439 | UM | CallBackWithoutPreFill",
+    "password" : "WFET-6439 | UM | CallBackWithoutPreFill",
+    "phoneNumber" : "012312313133",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus","Schalter ist an, kein Strom","Die Steckdose funktioniert"]
+  },
+  "GC05":
+  {
+    "userName" : "WFET-6439 | UM | CallBackWithPreFill",
+    "password" : "WFET-6439 | UM | CallBackWithPreFill",
+    "link"  : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus","Schalter ist an, kein Strom","Die Steckdose funktioniert"]
+  },
+  "GC06":
+  {
+    "userName" : "WFET-6439 | UM | CallBackWithPreFill",
+    "password" : "WFET-6439 | UM | CallBackWithPreFill",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus","Schalter ist an, kein Strom","Die Steckdose funktioniert"]
+  },
+  "GC07":
+  {
+    "userName" : "WFET-6439 | UM | CallBackWithPreFill",
+    "password" : "WFET-6439 | UM | CallBackWithPreFill",
+    "link"  : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "phoneNumber" : "012312313133",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus","Schalter ist an, kein Strom","Die Steckdose funktioniert"]
+  },
+  "GC08":
+  {
+    "userName" : "WFET-6439 | UM | CallBackWithPreFill",
+    "password" : "WFET-6439 | UM | CallBackWithPreFill",
+    "phoneNumber" : "012312313133",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus","Schalter ist an, kein Strom","Die Steckdose funktioniert"]
+  },
+  "GC09":
+  {
+    "userName" : "WFET-6439 | UM | CallBackWithPreFill",
+    "password" : "WFET-6439 | UM | CallBackWithPreFill",
+    "link"  : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "phoneNumber" : "012312313133",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus","Schalter ist an, kein Strom","Die Steckdose funktioniert"]
+  },
+  "GC10":
+  {
+    "userName" : "WFET-6439 | UM | CallBackWithPreFill",
+    "password" : "WFET-6439 | UM | CallBackWithPreFill",
+    "phoneNumber" : "012312313133",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus","Schalter ist an, kein Strom","Die Steckdose funktioniert"]
+  },
+  "GC11":
+  {
+    "userName" : "WFET-6439 | UM | CallBackWithoutPreFill",
+    "password" : "WFET-6439 | UM | CallBackWithoutPreFill",
+    "link"  : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "phoneNumber" : "012312313133",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus","Schalter ist an, kein Strom","Die Steckdose funktioniert"]
+  },
+  "GC12":
+  {
+    "userName" : "WFET-6439 | UM | CallBackWithoutPreFill",
+    "password" : "WFET-6439 | UM | CallBackWithoutPreFill",
+    "phoneNumber" : "012312313133",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus","Schalter ist an, kein Strom","Die Steckdose funktioniert"]
+  },
+  "GC13":
+  {
+    "userName" : "WFET-6439 | UM | CallBackWithPreFill",
+    "password" : "WFET-6439 | UM | CallBackWithPreFill",
+    "link"  : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "phoneNumber" : "3243242424242",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus","Schalter ist an, kein Strom","Die Steckdose funktioniert"]
+  },
+  "GC14":
+  {
+    "userName" : "WFET-6439 | UM | CallBackWithPreFill",
+    "password" : "WFET-6439 | UM | CallBackWithPreFill",
+    "phoneNumber" : "3243242424242",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus","Schalter ist an, kein Strom","Die Steckdose funktioniert"]
+  },
+  "GC15":
+  {
+    "userName" : "WFET-6439 | UM | CallBackWithoutPreFill",
+    "password" : "WFET-6439 | UM | CallBackWithoutPreFill",
+    "link"  : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus","Schalter ist an, kein Strom","Die Steckdose funktioniert"]
+  },
+  "GC16":
+  {
+    "userName" : "WFET-6439 | UM | CallBackWithoutPreFill",
+    "password" : "WFET-6439 | UM | CallBackWithoutPreFill",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus","Schalter ist an, kein Strom","Die Steckdose funktioniert"]
+  },
+  "GC17":
+  {
+    "userName" : "WFET-6439 | UM | CallBackMessageFailure",
+    "password" : "WFET-6439 | UM | CallBackMessageFailure",
+    "link"  : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus","Schalter ist an, kein Strom","Die Steckdose funktioniert"]
+  },
+  "GC18":
+  {
+    "userName" : "WFET-6439 | UM | CallBackMessageFailure",
+    "password" : "WFET-6439 | UM | CallBackMessageFailure",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus","Schalter ist an, kein Strom","Die Steckdose funktioniert"]
+  },
+  "GC19":
+  {
+    "userName" : "WFET-6439 | UM | CallBackWithPreFill",
+    "password" : "WFET-6439 | UM | CallBackWithPreFill",
+    "link"  : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "phoneNumber" : "0122334456",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus","Schalter ist an, kein Strom","Die Steckdose funktioniert"]
+  },
+  "GC20":
+  {
+    "userName" : "WFET-6439 | UM | CallBackWithPreFill",
+    "password" : "WFET-6439 | UM | CallBackWithPreFill",
+    "phoneNumber" : "0122334456",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus","Schalter ist an, kein Strom","Die Steckdose funktioniert"]
+  }
+}

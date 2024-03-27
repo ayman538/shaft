@@ -1,0 +1,22 @@
+{
+  "gc01":
+  {
+    "name"  : "Martin-homespot-hasInternetProduct",
+    "password": "Martin-homespot-hasInternetProduct"
+  },
+  "gc02":
+  {
+    "name"  : "Soho-homespot-hasInternetProduct",
+    "password": "Soho-homespot-hasInternetProduct"
+  },
+  "gc03":
+  {
+    "name"  : "Martin-homespot-hasNoInternetProduct",
+    "password": "Martin-homespot-hasNoInternetProduct"
+  },
+  "bc01":
+  {
+    "name"  : "Martin-homespotservicefailure",
+    "password": "Martin-homespotservicefailure"
+  }
+}

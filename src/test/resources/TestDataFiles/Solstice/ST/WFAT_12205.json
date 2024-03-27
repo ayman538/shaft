@@ -1,0 +1,17 @@
+{
+  "GC01":
+  {
+    "name"  : "Solstice3Additional",
+    "password": "Solstice3Additional"
+  },
+  "GC02":
+  {
+    "name"  : "Solstice2Additional",
+    "password": "Solstice2Additional"
+  },
+  "GC03":
+  {
+    "name"  : "SolsticeNoAdditional",
+    "password": "SolsticeNoAdditional"
+  }
+}

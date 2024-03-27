@@ -1,0 +1,18 @@
+{
+  "gc01": {
+    "name": "MartinAllFSK18Success",
+    "password": "MartinAllFSK18Success"
+  },
+  "gc02": {
+    "name": "MartinPartialFSK18Success",
+    "password": "MartinPartialFSK18Success"
+  },
+  "gc03": {
+    "name": "MartinAllFSK18Failed",
+    "password": "MartinAllFSK18Failed"
+  },
+  "gc04": {
+    "name": "MartinFSK18InProgress",
+    "password": "MartinFSK18InProgress"
+  }
+}

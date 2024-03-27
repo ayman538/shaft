@@ -1,0 +1,157 @@
+{
+  "GC01":
+  {
+    "userName"  : "WFET-6513 | UM | Overlay | returned",
+    "password": "WFET-6513 | UM | Overlay | returned",
+    "steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC02":
+  {
+    "userName"  : "WFET-6653 | Cable | Overlay",
+    "password": "WFET-6653 | Cable | Overlay",
+    "steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC03":
+  {
+    "userName"  : "WFET-6653 |DSL| Overlay | allReturned",
+    "password": "WFET-6653 |DSL| Overlay | allReturned",
+    "deeplink" : "netz-assistent/chatbot/review?icmp=mvw_db_netzass_dsl",
+    "steps"  : ["Testbereich","Test Overlay"]
+  },
+  "GC04":
+  {
+    "userName"  : "automationTESTt-UM11",
+    "password": "automationTESTt-UM11",
+    "steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC05":
+  {
+    "userName"  : "automationTESTt-Cable12",
+    "password": "automationTESTt-Cable12",
+    "steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC08":
+  {
+    "userName"  : "WFET-6653 | Cable | Overlay",
+    "password": "WFET-6653 | Cable | Overlay",
+    "steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC09":
+  {
+    "userName"  : "WFET-6653 |DSL| Overlay | allReturned",
+    "password": "WFET-6653 |DSL| Overlay | allReturned",
+    "deeplink" : "netz-assistent/chatbot/review?icmp=mvw_db_netzass_dsl",
+    "steps"  : ["Testbereich","Test Overlay"]
+  },
+  "GC10":
+  {
+    "userName"  : "automationTESTt-UM11",
+    "password": "automationTESTt-UM11",
+    "steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC11":
+  {
+    "userName"  : "automationTESTt-Cable12",
+    "password": "automationTESTt-Cable12",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_kip",
+    "steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC13":
+  {
+    "userName"  : "WFET-6513 | UM | Overlay | returned",
+    "password": "WFET-6513 | UM | Overlay | returned",
+    "steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC14":
+  {
+    "userName"  : "WFET-6653 | Cable | Overlay",
+    "password": "WFET-6653 | Cable | Overlay",
+    "steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC15":
+  {
+    "userName"  : "WFET-6653 |DSL| Overlay | allReturned",
+    "password": "WFET-6653 |DSL| Overlay | allReturned",
+    "deeplink" : "netz-assistent/chatbot/review?icmp=mvw_db_netzass_dsl",
+    "steps"  : ["Testbereich","Test Overlay"]
+  },
+  "GC16":
+  {
+    "userName"  : "automationTESTt-UM11",
+    "password": "automationTESTt-UM11",
+    "deeplink" : "netz-assistent/chatbot/review?c_id=hilfe_netzass_um",
+    "steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC17":
+  {
+    "userName"  : "automationTESTt-Cable12",
+    "password": "automationTESTt-Cable12",
+    "steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC19":
+  {
+    "userName"  : "WFET-6513 | UM | Overlay | returned",
+    "password": "WFET-6513 | UM | Overlay | returned",
+    "steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC20":
+  {
+    "userName"  : "WFET-6653 | Cable | Overlay",
+    "password": "WFET-6653 | Cable | Overlay",
+    "steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC21":
+  {
+    "userName"  : "WFET-6653 |DSL| Overlay | allReturned",
+    "password": "WFET-6653 |DSL| Overlay | allReturned",
+    "deeplink" : "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "steps"  : ["Testbereich","Test Overlay"]
+  },
+  "GC22":
+  {
+    "userName"  : "automationTESTt-UM11",
+    "password": "automationTESTt-UM11",
+    "steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC23":
+  {
+    "userName"  : "automationTESTt-Cable12",
+    "password": "automationTESTt-Cable12",
+    "steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC25":
+  {
+    "userName"  : "WFET-6513 | UM | Overlay | returned",
+    "password": "WFET-6513 | UM | Overlay | returned",
+    "deeplink" : "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC26":
+  {
+    "userName"  : "WFET-6653 | Cable | Overlay",
+    "password": "WFET-6653 | Cable | Overlay",
+    "deeplink" : "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "steps"  : ["go on","Testbereich","Test Overlay"]
+  },
+  "GC27":
+  {
+    "userName"  : "WFET-6653 |DSL| Overlay | allReturned",
+    "password": "WFET-6653 |DSL| Overlay | allReturned",
+    "deeplink" : "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "steps"  : ["Testbereich","Test Overlay"]
+  },
+  "GC28":
+  {
+    "userName"  : "automationTESTt-UM11",
+    "password": "automationTESTt-UM11",
+    "deeplink" : "netz-assistent/?c_id=hilfe_netzass_um",
+    "steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  },
+  "GC29":
+  {
+    "userName"  : "automationTESTt-Cable12",
+    "password": "automationTESTt-Cable12",
+    "deeplink" : "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "steps"  : ["go on","Testbereich","Test Form_DateTimePicker"]
+  }
+}

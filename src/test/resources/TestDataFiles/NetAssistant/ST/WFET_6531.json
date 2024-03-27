@@ -1,0 +1,146 @@
+{
+  "ST_GC01": {
+    "name": "WFET-6513 | Cable | optionPicker | JumpBack=False",
+    "password": "WFET-6513 | Cable | optionPicker | JumpBack=False",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181","RadioButton"]
+  },
+  "ST_GC02": {
+    "name": "WFET-6513 | Cable | optionPicker | JumpBack=False",
+    "password": "WFET-6513 | Cable | optionPicker | JumpBack=False",
+    "link": "netz-assistent/chatbot?icmp=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181","RadioButton"]
+  },
+  "ST_GC03": {
+    "name": "WFET-6513 | UM | optionPicker | JumpBack=False",
+    "password": "WFET-6513 | UM | optionPicker | JumpBack=False",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181","RadioButton"]
+  },
+  "ST_GC04": {
+    "name": "WFET-6513 | UM | optionPicker | JumpBack=False",
+    "password": "WFET-6513 | UM | optionPicker | JumpBack=False",
+    "link": "netz-assistent/chatbot?icmp=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181","RadioButton"]
+  },
+  "ST_GC05": {
+    "name": "WFET-6513 | Cable | optionPicker | JumpBack=notReturned",
+    "password": "WFET-6513 | Cable | optionPicker | JumpBack=notReturned",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181","RadioButton"]
+  },
+  "ST_GC06": {
+    "name": "WFET-6513 | Cable | optionPicker | JumpBack=notReturned",
+    "password": "WFET-6513 | Cable | optionPicker | JumpBack=notReturned",
+    "link": "netz-assistent/chatbot?icmp=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181","RadioButton"]
+  },
+  "ST_GC07": {
+    "name": "WFET-6513 | UM | optionPicker | JumpBack=notReturned",
+    "password": "WFET-6513 | UM | optionPicker | JumpBack=notReturned",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181","RadioButton"]
+  },
+  "ST_GC08": {
+    "name": "WFET-6513 | UM | optionPicker | JumpBack=notReturned",
+    "password": "WFET-6513 | UM | optionPicker | JumpBack=notReturned",
+    "link": "netz-assistent/chatbot?icmp=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181","RadioButton"]
+  },
+  "ST_GC09": {
+    "name": "WFET-6513 | Cable | optionPicker | JumpBack=True",
+    "password": "WFET-6513 | Cable | optionPicker | JumpBack=True",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181","RadioButton"]
+  },
+  "ST_GC10": {
+    "name": "WFET-6513 | Cable | optionPicker | JumpBack=True",
+    "password": "WFET-6513 | Cable | optionPicker | JumpBack=True",
+    "link": "netz-assistent/chatbot?icmp=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181","RadioButton"]
+  },
+  "ST_GC11": {
+    "name": "WFET-6513 | UM | optionPicker | JumpBack=True",
+    "password": "WFET-6513 | UM | optionPicker | JumpBack=True",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181","RadioButton"]
+  },
+  "ST_GC12": {
+    "name": "WFET-6513 | UM | optionPicker | JumpBack=True",
+    "password": "WFET-6513 | UM | optionPicker | JumpBack=True",
+    "link": "netz-assistent/chatbot?icmp=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181","RadioButton"]
+  },
+  "ST_GC13": {
+    "name": "WFET-6531 | Cable | Callback | JumpBack=False",
+    "password": "WFET-6531 | Cable | Callback | JumpBack=False",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181"]
+  },
+  "ST_GC14": {
+    "name": "WFET-6531 | Cable | Callback | JumpBack=False",
+    "password": "WFET-6531 | Cable | Callback | JumpBack=False",
+    "link": "netz-assistent/chatbot?icmp=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181"]
+  },
+  "ST_GC15": {
+    "name": "WFET-6513 | UM | Callback | JumpBack=False",
+    "password": "WFET-6513 | UM | Callback | JumpBack=False",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181"]
+  },
+  "ST_GC16": {
+    "name": "WFET-6513 | UM | Callback | JumpBack=False",
+    "password": "WFET-6513 | UM | Callback | JumpBack=False",
+    "link": "netz-assistent/chatbot?icmp=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181"]
+  },
+  "ST_GC17": {
+    "name": "WFET-6513 | Cable | Callback | JumpBack=notReturned",
+    "password": "WFET-6513 | Cable | Callback | JumpBack=notReturned",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181"]
+  },
+  "ST_GC18": {
+    "name": "WFET-6513 | Cable | Callback | JumpBack=notReturned",
+    "password": "WFET-6513 | Cable | Callback | JumpBack=notReturned",
+    "link": "netz-assistent/chatbot?icmp=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181"]
+  },
+  "ST_GC19": {
+    "name": "WFET-6513 | UM | Callback | JumpBack=notReturned",
+    "password": "WFET-6513 | UM | Callback | JumpBack=notReturned",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181"]
+    },
+  "ST_GC20": {
+    "name": "WFET-6513 | UM | Callback | JumpBack=notReturned",
+    "password": "WFET-6513 | UM | Callback | JumpBack=notReturned",
+    "link": "netz-assistent/chatbot?icmp=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181"]
+  },
+  "ST_GC21": {
+      "name": "WFET-6531 | Cable | Callback | JumpBack=True",
+    "password": "WFET-6531 | Cable | Callback | JumpBack=True",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181"]
+  },
+  "ST_GC22": {
+    "name": "WFET-6531 | Cable | Callback | JumpBack=True",
+    "password": "WFET-6531 | Cable | Callback | JumpBack=True",
+    "link": "netz-assistent/chatbot?icmp=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181"]
+  },
+  "ST_GC23": {
+    "name": "WFET-6513 | UM | Callback | JumpBack=True",
+    "password": "WFET-6513 | UM | Callback | JumpBack=True",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181"]
+  },
+  "ST_GC24": {
+    "name": "WFET-6513 | UM | Callback | JumpBack=True",
+    "password": "WFET-6513 | UM | Callback | JumpBack=True",
+    "link": "netz-assistent/chatbot?icmp=hilfe_netzass_kip",
+    "Steps"  : ["go on","Testbereich", "Test WFET-4181"]
+  }
+}

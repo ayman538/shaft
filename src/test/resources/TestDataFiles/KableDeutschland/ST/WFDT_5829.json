@@ -1,0 +1,62 @@
+{
+  "gc01": {
+    "name": "martin_ViewBank01",
+    "password": "martin_ViewBank01"
+  },
+  "gc02": {
+    "name": "martin_ViewBank02",
+    "password": "martin_ViewBank02"
+  },
+  "gc03": {
+    "name": "martin_ViewBank03",
+    "password": "martin_ViewBank03"
+  },
+  "gc04": {
+    "name": "martin_ViewBank04",
+    "password": "martin_ViewBank04"
+  },
+  "gc05": {
+    "name": "martin_ViewBank05",
+    "password": "martin_ViewBank05"
+  },
+  "gc06": {
+    "name": "martin_ViewBank06",
+    "password": "martin_ViewBank06"
+  },
+  "gc07": {
+    "name": "martin_ViewBank08",
+    "password": "martin_ViewBank08"
+  },
+  "gc08": {
+    "name": "martin_ViewBank09",
+    "password": "martin_ViewBank09"
+  },
+  "gc09": {
+    "name": "martin_ViewBank10",
+    "password": "martin_ViewBank10"
+  },
+  "gc10": {
+    "name": "martin_ViewBank11",
+    "password": "martin_ViewBank11"
+  },
+  "gc11": {
+    "name": "martin_ViewBank12",
+    "password": "martin_ViewBank12"
+  },
+  "gc12": {
+    "name": "martin_ViewBank14",
+    "password": "martin_ViewBank14"
+  },
+  "gc13": {
+    "name": "martin_ViewBank15",
+    "password": "martin_ViewBank15"
+  },
+  "gc15": {
+    "name": "martin_ViewBank17",
+    "password": "martin_ViewBank17"
+  },
+  "bc01": {
+    "name": "BC01martin_ViewBank18",
+    "password": "BC01martin_ViewBank18"
+  }
+}

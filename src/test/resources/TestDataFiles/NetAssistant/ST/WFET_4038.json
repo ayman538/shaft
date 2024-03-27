@@ -1,0 +1,32 @@
+{
+  "GC01":
+  {
+    "userName"  : "WFET-3016 | DSL | CallbackForm",
+    "password": "WFET-3016 | DSL | CallbackForm",
+    "Link" : "netz-assistent/chatbot?i=26de9d364973bf9642da47b12c8b5fea5e8f1f22027b13e28a6695a178b99e186b7f60920a9eb8b5862c55c9&c=DSL&a=039&p=519da76b7820006d374ec6a6fbc4c7e5307e6f7e11d59d712e589b36595c5b6e6e880c95b03135&s=&c_id=hilfe_netzass_dsl"
+  },
+  "GC02":
+  {
+    "userName"  : "WFET-3016 | DSL | CallbackForm",
+    "password": "WFET-3016 | DSL | CallbackForm",
+    "Link" : "netz-assistent/chatbot?i=5914e6432b91bd70ae6e31e14e94fc412eb5098f77c6166953a87bd72031c1f12470bd6746f5caf66419&c=DSL&a=040&p=5f2ec39dde828ccd3ace9595c7958a51b2f420a9175282f7f4032e3be8cc37ea45951efa9272&s=&c_id=hilfe_netzass_dsl"
+  },
+  "GC03":
+  {
+    "userName"  : "WFET-5741 -DSL - NA - Outage Analysis | Banner Removal and starting dialogue update",
+    "password": "WFET-5741 -DSL - NA - Outage Analysis | Banner Removal and starting dialogue update",
+    "Link" : "netz-assistent/chatbot?i=8e491475e49200e081396ad6d8097f3ebb3f2bcb74ef1626f0b6c25b5f39d2b7d734d6368d4f4fbba1b3f0&c=DSL&a=030&p=6d8bef2e52e752c2ff8cd2140b29e3e533bf8797afdd74f6cb5f0e95dc1527a4abbb8fca9f60f4&s=&c_id=hilfe_netzass_dsl"
+  },
+  "GC04":
+  {
+    "Link" : "netz-assistent/chatbot?icmp=mvw_st_tickets_dsl",
+    "userName"  : "WFET-3016 | DSL | CallbackForm",
+    "password": "WFET-3016 | DSL | CallbackForm"
+  },
+  "GC05":
+  {
+    "Link" : "netz-assistent/chatbot?icmp=mvw_st_tickets_dsl",
+    "userName"  : "WFET-3016 | DSL | CallbackForm",
+    "password": "WFET-3016 | DSL | CallbackForm"
+  }
+}

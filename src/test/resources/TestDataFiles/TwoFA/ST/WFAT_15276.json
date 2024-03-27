@@ -1,0 +1,90 @@
+{
+  "GC01":
+  {
+    "name": "Merge2FA",
+    "password": "Merge2FA",
+    "username2": "yasmin1@vodafone.com",
+    "password2": "Test1@1234",
+    "code": "232111"
+  },
+  "GC02":
+  {
+    "name": "Merge2FABUC",
+    "password": "Merge2FABUC",
+    "username2": "yasmin2@vodafone.com",
+    "password2": "Test2@1234",
+    "code": "9943234234123456"
+  },
+  "GC03":
+  {
+    "name": "MergeSanity",
+    "password": "MergeSanity",
+    "username2": "yasmin3@vodafone.com",
+    "password2": "Test3@1234",
+    "code": "654666"
+  },
+  "BC05":
+  {
+    "name": "Merge2FA",
+    "password": "Merge2FA",
+    "username2": "yasmin1@vodafone.com",
+    "password2": "Test1@1234",
+    "code": "232423"
+  },
+  "BC06":
+  {
+    "name": "Merge2FA",
+    "password": "Merge2FA",
+    "username2": "yasmin1@vodafone.com",
+    "password2": "Test1@1234",
+    "code": "232423"
+  },
+  "BC07":
+  {
+    "name": "Merge2FAinvalid",
+    "password": "Merge2FAinvalid",
+    "username2": "yasmin4@vodafone.com",
+    "password2": "Test4@1234",
+    "code": "545454"
+  },
+  "BC08":
+  {
+    "name": "Merge2FAlocked",
+    "password": "Merge2FAlocked",
+    "username2": "yasmin5@vodafone.com",
+    "password2": "Test5@1234",
+    "code": "223344"
+  },
+  "BC09":
+  {
+    "name": "Merge2FABUC",
+    "password": "Merge2FABUC",
+    "username2": "yasmin2@vodafone.com",
+    "password2": "Test2@1234",
+    "code": "9943234234"
+  },
+  "BC10":
+  {
+    "name": "Merge2FABUC",
+    "password": "Merge2FABUC",
+    "username2": "yasmin2@vodafone.com",
+    "password2": "Test2@1234",
+    "code": "9943234234"
+  },
+  "BC11":
+  {
+    "name": "MergeBUCinvalid",
+    "password": "MergeBUCinvalid",
+    "username2": "yasmin6@vodafone.com",
+    "password2": "Test6@1234",
+    "code": "1234567890123456"
+  },
+  "BC12":
+  {
+    "name": "MergeBUClocked",
+    "password": "MergeBUClocked",
+    "username2": "yasmin7@vodafone.com",
+    "password2": "Test7@1234",
+    "code": "0987654321123456"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "GC06":
+  {
+    "userName"  : "automationTESTt-Cable6",
+    "password": "automationTESTt-Cable6",
+    "Link" : "netz-assistent/chatbot"
+  },
+  "GC07":
+  {
+    "userName"  : "automationTESTt-UM7",
+    "password" : "automationTESTt-UM7",
+    "Link" : "netz-assistent/chatbot"
+  },
+  "GC08":
+  {
+    "userName"  : "automationTESTt-DSL7",
+    "password": "automationTESTt-DSL7",
+    "Link" : "netz-assistent/chatbot"
+  },
+  "GC09":
+  {
+    "userName"  : "automationTESTt-Cable6",
+    "password": "automationTESTt-Cable6",
+    "Link" : "netz-assistent/chatbot"
+  },
+  "GC10":
+  {
+    "userName"  : "automationTESTt-UM7",
+    "password": "automationTESTt-UM7",
+    "Link" : "netz-assistent/chatbot"
+  }
+}

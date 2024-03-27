@@ -1,0 +1,75 @@
+{
+  "GC01": {
+    "name": "Automated-wfgt_956_1",
+    "password": "Automated-wfgt_956_1",
+    "KennwörterPINsSmartObjectTitle": "Kennwörter & PINs",
+    "KennwörterPINsSmartObjetcDetails": "Kennwörter & PINs bearbeiten",
+    "KennwörterPINsAccordionTitle": "Kennwörter & PINs",
+    "KennwörterPINsAccordionDetails": "Hier kannst Du Deine Kennwörter & PINs bearbeiten",
+    "DeineServicePINTitle": "Deine Service-PIN",
+    "DeineServicePINDetailsFirstPart": "Mit der Service-PIN bestätigst Du Deine Identität an der Hotline. Und kannst kostenpflichtige Optionen und Services buchen.",
+    "DeineServicePINDetailsSecondPart": "Auf der nächsten Seite kannst Du Dir Deine Service-PIN anzeigen lassen. Aus Sicherheitsgründen geht das nur 3x pro Tag. Achtung: Danach kommst Du nicht mehr auf die Seite und Dein PIN wird für 24 h deaktiviert.",
+    "PINansehen": "PIN ansehen"
+  },
+  "GC02": {
+    "name": "Automated-wfgt_956_7",
+    "password": "Automated-wfgt_956_7",
+    "ServicePinPageHeader": "Service-PIN",
+    "PINAnsehenAccordionTitle": "Service-PIN ansehen",
+    "PINAnsehenAccordionDetailsFirstPart": "Die Service-PIN brauchst Du, um an der Hotline kostenpflichtige Optionen und Services buchen zu können. Sie ist so lange gültig, bis Du eine neue anforderst.",
+    "PINAnsehenAccordionDetailsSecondPart": "Pass auf, dass niemand Deine PIN mitlesen kann.",
+    "ServicePinHeader": "Neue PIN anfordern",
+    "ServiceDetailsFirstPart": "Die Service-PIN brauchst Du, um an der Hotline kostenpflichtige Optionen und Services buchen zu können. Sie ist so lange gültig, bis Du eine neue anforderst.",
+    "ServiceDetailsSecondPart": "Pass auf, dass niemand Deine PIN mitlesen kann.",
+    "ansehenServicePinMessage": "Ist Deine PIN nicht mehr sicher? Forder hier eine neue an.",
+    "NeuePINanfordernButton": "Neue PIN anfordern"
+  },
+  "GC03": {
+    "name": "Automated-wfgt_956_9",
+    "password": "Automated-wfgt_956_9",
+    "ErrorTitleExceeds3Trials": "Dein PIN ist deaktiviert",
+    "ErrorDetailsExceeds3Trials": "Dein PIN ist deaktiviert. Nach 24 Stunden ist er wieder aktiv."
+  },
+  "GC04": {
+    "name": "Automated-wfgt_956_8",
+    "password": "Automated-wfgt_956_8",
+    "ErrorTitleNopin": "Dein Service PIN",
+    "ErrorDetailsNopin": "Mit der Service PIN bestätigst Du Deine Identität an der Hotline. Und kannst Optionen und Services buchen.\n\nAktuell hast Du noch keine PIN. Bitte warte noch etwas, oder ruf hier an: 1212"
+  },
+  "GC05": {
+    "name": "Automated-wfgt_956_10",
+    "password": "Automated-wfgt_956_10",
+    "ErrorHeader3TrialsDeepLink": "Dein Limit ist erreicht",
+    "ErrorBody3TrialsDeepLink": "Du hast Dir Deine PIN heute schon 3x anzeigen lassen. Damit ist Dein Limit dafür erreicht. Morgen geht es wieder."
+  },
+  "GC09": {
+    "name": "Automated-wfgt_956_9",
+    "password": "Automated-wfgt_956_9",
+    "ErrorTitleExceeds3Trials": "Dein PIN ist deaktiviert",
+    "ErrorDetailsExceeds3Trials": "Dein PIN ist deaktiviert. Nach 24 Stunden ist er wieder aktiv."
+  },
+  "BC01": {
+    "name": "Automated-wfgt_956_5",
+    "password": "Automated-wfgt_956_5",
+    "ErrorHeader": "Entschuldigung, da ist was schiefgelaufen.",
+    "ErrorBody": "Bitte versuchen Sie es später nochmal."
+  },
+  "BC02": {
+    "name": "Automated-wfgt_956_6",
+    "password": "Automated-wfgt_956_6",
+    "ErrorHeader": "Entschuldigung, da ist was schiefgelaufen.",
+    "ErrorBody": "Bitte versuchen Sie es später nochmal."
+  },
+  "BC03": {
+    "name": "Automated-wfgt_956_11",
+    "password": "Automated-wfgt_956_11",
+    "ErrorHeader": "Entschuldigung, da ist was schiefgelaufen.",
+    "ErrorBody": "Bitte versuchen Sie es später nochmal."
+  },
+  "BC04": {
+    "name": "Automated-wfgt_956_12",
+    "password": "Automated-wfgt_956_12",
+    "ErrorHeader": "Entschuldigung, da ist was schiefgelaufen.",
+    "ErrorBody": "Bitte versuchen Sie es später nochmal."
+  }
+}

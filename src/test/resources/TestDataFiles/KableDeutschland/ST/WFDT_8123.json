@@ -1,0 +1,27 @@
+{
+  "gc01": {
+    "name": "martin_ChangeHomespot01",
+    "password": "martin_ChangeHomespot01"
+  },
+
+  "gc02": {
+    "name": "martin_ChangeHomespot02",
+    "password": "martin_ChangeHomespot02"
+  },
+
+  "gc03": {
+    "name": "martin_ChangeHomespot01",
+    "password": "martin_ChangeHomespot01"
+  },
+
+  "bc01": {
+    "name": "martin_ChangeHomespot03",
+    "password": "martin_ChangeHomespot03"
+  },
+
+  "bc02": {
+    "name": "martin_ChangeHomespot04",
+    "password": "martin_ChangeHomespot04"
+  }
+
+}

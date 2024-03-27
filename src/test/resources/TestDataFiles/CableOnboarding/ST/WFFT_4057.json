@@ -1,0 +1,51 @@
+{
+  "GC01":
+  {
+    "urn":"223352222",
+    "header": "Einfach loslegen mit Deinem Start-Portal",
+    "tile": "Infos zum Technik-Service",
+    "headline1": "Infos zum Technik-Service",
+    "subline1": "Verfolg den Technik-Service in unserem MyTechie-Portal. So weißt Du genau, wer wann kommt. Mit Name und Foto. Den Link zu MyTechie bekommst Du per SMS und Email von uns.",
+    "headline2": "Gut zu wissen",
+    "subline2": "Der Technik-Service bringt Deinen Router und alles andere mit.",
+    "button": "Zum Start-Portal"
+
+  },
+
+  "GC02": {
+    "urn": "223354442",
+    "header": "Einfach loslegen mit Deinem Start-Portal",
+    "tile": "Infos zum Technik-Service",
+    "headline1": "Infos zum Technik-Service",
+    "subline1": "Verfolg den Technik-Service in unserem MyTechie-Portal. So weißt Du genau, wer wann kommt. Mit Name und Foto. Den Link zu MyTechie bekommst Du per SMS und Email von uns.",
+    "headline2": "Gut zu wissen",
+    "subline2": "Der Technik-Service bringt Deinen Router und alles andere mit.",
+    "button": "Zum Start-Portal"
+
+  },
+
+  "GC03": {
+      "urn": "223353332",
+    "header": "Einfach loslegen mit Deinem Start-Portal",
+    "tile": "Infos zum Technik-Service",
+    "headline1": "Infos zum Technik-Service",
+    "subline1": "Verfolg den Technik-Service in unserem MyTechie-Portal. So weißt Du genau, wer wann kommt. Mit Name und Foto. Den Link zu MyTechie bekommst Du per SMS und Email von uns.",
+    "headline2": "Gut zu wissen",
+    "subline2": "Der Technik-Service bringt Deinen Router und alles andere mit.",
+    "button": "Zum Start-Portal"
+
+  },
+  "GC04": {
+      "urn": "223355552",
+    "header": "Einfach loslegen mit Deinem Start-Portal",
+    "tile": "Infos zum Technik-Service",
+    "headline1": "Infos zum Technik-Service",
+    "subline1": "Verfolg den Technik-Service in unserem MyTechie-Portal. So weißt Du genau, wer wann kommt. Mit Name und Foto. Den Link zu MyTechie bekommst Du per SMS und Email von uns.",
+    "headline2": "Gut zu wissen",
+    "subline3": "Da Du einen eigenen Router nutzen willst, schaltet der Technik-Service nur den Anschluss an Deiner Kabel-Dose frei. Deinen Router installierst Du selbst.",
+    "button": "Zum Start-Portal"
+
+  }
+  }
+
+

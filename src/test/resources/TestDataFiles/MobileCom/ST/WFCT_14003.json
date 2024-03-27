@@ -1,0 +1,43 @@
+{
+  "GC01_RobertUserWithBookOptionOfferChecksBookingTheOffer": {
+    "name": "robert.book.offer",
+    "password": "robert.book.offer",
+    "offerTitle": "name for book offer",
+    "offerDescription": "description for book offer"
+  },
+  "GC02_RobertUserWithChangeTariffOfferChecksBookingTheOffer": {
+    "name": "robert.change.tariff.offer",
+    "password": "robert.change.tariff.offer",
+    "offerTitle": "name for change tariff offer",
+    "offerDescription": "description for change tariff offer"
+  },
+  "GC03_RobertUserWithVariousOfferChecksBookingTheOffer": {
+    "name": "robert.various.offer",
+    "password": "robert.various.offer",
+    "offerTitle": "name for various offer",
+    "offerDescription": "description for various offer"
+  },
+  "GC04_RobertUserWithTopUpOfferChecksBookingTheOffer": {
+    "name": "robert.topup.offers",
+    "password": "robert.topup.offers",
+    "offerTitle": "name for Topup offer",
+    "offerDescription": "description for Topup offer"
+  },
+  "GC05_RobertUserWithInformativeOfferCheckPointsOffersInTheDashboard":
+  {
+    "name"  : "robert.informativeoffer",
+    "password": "robert.informativeoffer",
+    "informativeOfferOverlayDescription": "Hast Du Lust unbegrenzt und überall Musik zu hören und immer die aktuellen News zu bekommen? Dann hol Dir jetzt ganz einfach und bequem mit Deinem Prepaid-Guthaben Deezer, Spotify oder BILDplus. Buche jetzt hier in der App und bezahle sicher mit Deinem Prepaid-Guthaben. Die Abos sind jederzeit kündbar.",
+    "informativeOfferOverlayTitle" : "informative offer",
+    "offer1text": "informative offer"
+  },
+  "GC02_RobertUserChecksTagsForPontisOffer":
+  {
+    "name"  : "robert.book.offer",
+    "password": "robert.book.offer",
+    "redommendationitemId": "WRONGDINBNDR01PAYGSSTTAR000SMFGLV0016933056585142221",
+    "siteStructureBeforeConfirm": "mein vodafone,services,pontis,pruefen",
+    "siteStructureAfterConfirm" : "mein vodafone,services,pontis,bestaetigung"
+
+  }
+}

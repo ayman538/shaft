@@ -1,0 +1,22 @@
+{
+  "GC01_SohoUserWithPhoneProductChecksEinstellungenTab": {
+    "name": "soho.phone.product",
+    "password": "soho.phone.product"
+  },
+  "GC02_SohoUserWithNoPhoneProductChecksEinstellungenTab": {
+    "name": "soho.no.phone.product",
+    "password": "soho.no.phone.product"
+  },
+  "GC03_ConsumerUserWithPhoneProductChecksEinstellungenTab": {
+    "name": "consumer.phone.product",
+    "password": "consumer.phone.product"
+  },
+  "GC04_ConsumerUserWithNoPhoneProductChecksEinstellungenTab": {
+    "name": "consumer.no.phone.product",
+    "password": "consumer.no.phone.product"
+  },
+  "GC05_ConsumerUserWithNoPhoneProductDeepLinksToOptionsPage": {
+    "name": "consumer.no.phone.product",
+    "password": "consumer.no.phone.product"
+  }
+}

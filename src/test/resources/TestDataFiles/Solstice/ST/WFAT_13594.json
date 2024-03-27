@@ -1,0 +1,12 @@
+{
+  "GC01":
+  {
+    "name"  : "Solstice.LeadingProduct",
+    "password": "Solstice.LeadingProduct"
+  },
+  "GC02":
+  {
+    "name": "Solstice.LeadingProduct",
+    "password": "Solstice.LeadingProduct"
+  }
+}

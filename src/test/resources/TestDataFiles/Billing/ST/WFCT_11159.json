@@ -1,0 +1,81 @@
+{
+  "GC01_KayUserChecksTheVerbindungubersichtTab":
+  {
+    "name"  : "kay.itemized.tab",
+    "password": "kay.itemized.tab",
+    "totalAmount": "44,5000 €"
+  },
+  "GC02_BartUserChecksNumbersFilter":
+  {
+    "name"  : "bart.6.periods",
+    "password": "bart.6.periods",
+    "totalAmount": "66,0000 €",
+    "phoneNumber" : "01534323666",
+    "initValue": "44,0000 €"
+
+  },
+  "GC03_KayUserChecksBillPeriodFilter":
+  {
+    "name"  : "kay.itemized.tab",
+    "password": "kay.itemized.tab",
+    "totalAmount": "0,0000 €",
+    "billPeriod" : "20.07.2023 bis 20.08.2023",
+    "initValue": "44,5000 €"
+  },
+  "GC04_BartUserChecksThePdfDownload":
+  {
+    "name"  : "bart.6.periods",
+    "password": "bart.6.periods"
+  },
+  "GC05_KayUserChecksCsvDownload":
+  {
+    "name"  : "kay.itemized.tab",
+    "password": "kay.itemized.tab"
+  },
+  "GC06_BartUserChecksUsingBothFiltersTogther":
+  {
+    "name"  : "bart.6.periods",
+    "password": "bart.6.periods",
+    "totalAmount": "66,0000 €",
+    "billPeriod" : "20.07.2023 bis 20.08.2023",
+    "phoneNumber" : "01534323666",
+    "initValue": "44,0000 €"
+  },
+  "GC07_KayUserChecksTheFaqSection":
+  {
+    "name"  : "kay.itemized.tab",
+    "password": "kay.itemized.tab"
+  },
+  "Tag01_UserChecksThePageViewTags":
+  {
+    "name"  : "kay.itemized.tab",
+    "password": "kay.itemized.tab",
+    "siteStructure": "mein vodafone,ihre-rechnungen,verbindungsubersicht"
+  },
+  "Tag02_UserChecksTagsAfterPdfDownload":
+  {
+    "name"  : "kay.itemized.tab",
+    "password": "kay.itemized.tab",
+    "clickName": "itemized bill",
+    "clickInfo":"pdf",
+    "downloadName": "itemized bill",
+    "downloadType": "pdf"
+  },
+  "Tag03_UserChecksTagsAfterCsvDownload":
+  {
+    "name"  : "kay.itemized.tab",
+    "password": "kay.itemized.tab",
+    "clickName": "itemized bill",
+    "clickInfo":"csv",
+    "downloadName": "itemized bill",
+    "downloadType": "csv"
+  },
+  "Tag04_UserChecksTagsAfterExpandingFaqAccordions":
+  {
+    "name"  : "kay.itemized.tab",
+    "password": "kay.itemized.tab",
+    "firstInformation": "{information_action:reveal,information_name:was ist eine cvs-datei und was mache ich mit ihr?,information_ui_type:faq,information_trigger:accordion}",
+
+    "secondInformation": "{information_action:reveal,information_name:wie bearbeitest du eine csv-datei in excel?,information_ui_type:faq,information_trigger:accordion}"
+  }
+}

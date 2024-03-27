@@ -1,0 +1,23 @@
+{
+  "GC01":
+  {
+    "name"  : "DslUserToCancelSecureNetPlus",
+    "password": "DslUserToCancelSecureNetPlus"
+  },
+  "GC02":
+  {
+    "name": "DslUserWithNoEmailToCancelSecureNet",
+    "password": "DslUserWithNoEmailToCancelSecureNet"
+  },
+  "GC03":
+  {
+    "name": "DslUserWithBookedOldSecurityPackage",
+    "password": "DslUserWithBookedOldSecurityPackage"
+  },
+  "GC04":
+  {
+    "name": "DslUserWithCanceledSecureNet",
+    "password": "DslUserWithCanceledSecureNet"
+  }
+
+}

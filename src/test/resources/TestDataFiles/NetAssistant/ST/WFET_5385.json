@@ -1,0 +1,60 @@
+{
+  "ST_GC01": {
+    "name": "WFET-5385 | DSL | 45Seconds",
+    "password": "WFET-5385 | DSL | 45Seconds",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_Wait","normal use case - manual wait + auto wait, 45s","Ja"]
+  },
+  "ST_GC02": {
+    "name": "WFET-5385 | DSL |25Seconds",
+    "password": "WFET-5385 | DSL |25Seconds",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_Wait","only auto wait, 25s","Ja"]
+  },
+  "ST_GC03": {
+    "name": "WFET-5385 | DSL | 45Seconds",
+    "password": "WFET-5385 | DSL | 45Seconds",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_Wait","normal use case - manual wait + auto wait, 45s","Ja"]
+  },
+
+  "ST_GC04": {
+    "name": "WFET-5385 | DSL | 45Seconds",
+    "password": "WFET-5385 | DSL | 45Seconds",
+    "link": "meinvodafone/services/netzassistent/review?product=dsl",
+    "Steps"  : ["Testbereich","Test Form_Wait","normal use case - manual wait + auto wait, 45s","Ja"]
+  },
+
+  "ST_GC05": {
+    "name": "WFET-5385 | DSL |25Seconds",
+    "password": "WFET-5385 | DSL |25Seconds",
+    "link": "meinvodafone/services/netzassistent/review?product=dsl",
+    "Steps"  : ["Testbereich","Test Form_Wait","only auto wait, 25s","Ja"]
+  },
+
+  "ST_GC06": {
+    "name": "WFET-5385 | DSL | 45Seconds",
+    "password": "WFET-5385 | DSL | 45Seconds",
+    "link": "meinvodafone/services/netzassistent/review?product=dsl",
+    "Steps"  : ["Testbereich","Test Form_Wait","normal use case - manual wait + auto wait, 45s","Ja"]
+  },
+
+  "ST_GC07": {
+    "name": "WFET-5385 | DSL | 45Seconds",
+    "password": "WFET-5385 | DSL | 45Seconds",
+    "link": "netz-assistent/chatbot?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_Wait","normal use case - manual wait + auto wait, 45s","Ja"]
+  },
+  "ST_GC08": {
+    "name": "WFET-5385 | DSL |25Seconds",
+    "password": "WFET-5385 | DSL |25Seconds",
+    "link": "netz-assistent/chatbot?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_Wait","only auto wait, 25s","Ja"]
+  },
+  "ST_GC09": {
+    "name": "WFET-5385 | DSL | 45Seconds",
+    "password": "WFET-5385 | DSL | 45Seconds",
+    "link": "netz-assistent/chatbot?icmp=mvw_db_netzass_dsl",
+    "Steps"  : ["Testbereich","Test Form_Wait","normal use case - manual wait + auto wait, 45s","Ja"]
+  }
+}

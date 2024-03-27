@@ -1,0 +1,34 @@
+{
+  "GC01": {
+    "urlIdent": "12664",
+    "Dashboardheader": "Teste Deine Router-Verbindung",
+    "RefusedProductheader": "Leider hat's nicht geklappt.",
+    "RefusedProductSubHeadline": "Der Telekom-Techniker hat uns mitgeteilt, dass Du die Aktivierung abgelehnt hast.",
+    "RefusedProductSubHeadline2": "Wir wollen Dich weiterhin mit unseren GigaNetz verbinden. Wie sieht's bei Dir aus?",
+    "RefusedProduct-JAButton": "Ja, los. Weiter geht's!",
+    "RefusedProduct-NeinButton": "Nein, ich will den Anschluss nicht mehr.",
+    "ReserveAppointmentheader": "Neuer Versuch",
+    "ReserveAppointmentSubHeadline": "Um Deinen Anschluss zu aktivieren, muss nochmal ein Techniker zu Dir kommen. Du kannst jetzt Vormittag oder Nachmittag wählen. So ist es einfacher für Dich.",
+    "TerminAussuchen_Button": "Termin aussuchen",
+    "Calendarheader": "Wann soll der Techniker kommen?",
+    "MorningCheckBoxText": "Vormittags 8-13 Uhr",
+    "EveningCheckBoxText": "Nachmittags 12-17 Uhr",
+    "ReviewDataheader": "Passt alles für Dich?",
+    "ReviewDataFirstText": "Check nochmal den Tag und die Uhrzeit. Dann schick ab.",
+    "ReviewDate-DateCL": "Dein Termin:",
+    "TerminwahlbestätigenButtonTxt": "Terminwahl bestätigen",
+    "ConfirmedDateheader": "Vielen Dank für Deine Termin-Wahl"
+  },
+  "GC02": {
+    "urlIdent": "12664",
+    "Dashboardheader": "Teste Deine Router-Verbindung",
+    "RefusedProductheader": "Leider hat's nicht geklappt.",
+    "RefusedProductSubHeadline": "Der Telekom-Techniker hat uns mitgeteilt, dass Du die Aktivierung abgelehnt hast.",
+    "RefusedProductSubHeadline2": "Wir wollen Dich weiterhin mit unseren GigaNetz verbinden. Wie sieht's bei Dir aus?",
+    "RefusedProduct-JAButton": "Ja, los. Weiter geht's!",
+    "RefusedProduct-NeinButton": "Nein, ich will den Anschluss nicht mehr.",
+    "CancelContractheader": "Das ist schade.",
+    "CancelContractSubHeadline": "Wir leiten Dich jetzt in unser Retourenportal weiter. Folge dort einfach den Anweisungen.",
+    "RetourenportalButton": "Weiter zum Retourenportal"
+  }
+}

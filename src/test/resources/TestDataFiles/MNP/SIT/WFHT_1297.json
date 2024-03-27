@@ -1,0 +1,157 @@
+{
+  "GC01":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "DOKO",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC02":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "DOKO",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC03":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "DOKO",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC04":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "DOKO",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC05":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "DOKO",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC06":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "firmenname" : "Google",
+    "kundnennummer" : "01622507481",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "DOKO",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC08":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "DOKO",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC09":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "DOKO",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC10":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "DOKO",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "GC11":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "DOKO",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "BC01":
+  {
+    "contactNumber"  : "01622507481",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "DOKO",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  },
+  "BC02":
+  {
+    "contactNumber"  : "01628919645",
+    "deeplink": "simplicity/apps/bob-mnp-app/js/index.html",
+    "vorname" : "ahmed",
+    "nachname" : "mahmoud",
+    "geburtsdatum" : "22.12.2022",
+    "phoneNumber"  : "01628919645",
+    "phoneNumber2"  : "01628919645",
+    "provider2" : "DOKO",
+    "email" : "mostafa@gmail.com",
+    "repeatEmail" : "mostafa@gmail.com"
+  }
+}

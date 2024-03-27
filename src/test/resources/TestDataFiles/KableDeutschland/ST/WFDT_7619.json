@@ -1,0 +1,27 @@
+{
+  "gc01": {
+    "name"  : "martin_ViewPBSettings01",
+    "password": "martin_ViewPBSettings01"
+  },
+  "gc02": {
+    "name"  : "martin_ViewPBSettings02",
+    "password": "martin_ViewPBSettings02"
+  },
+  "gc03": {
+    "name"  : "martin_ViewPBSettings01",
+    "password": "martin_ViewPBSettings01"
+  },
+  "gc04": {
+    "name"  : "martin_ViewPBSettings04",
+    "password": "martin_ViewPBSettings04"
+  },
+  "gc06": {
+    "name"  : "martin_ViewPBSettings06",
+    "password": "martin_ViewPBSettings06"
+  },
+  "bc01": {
+    "name"  : "martin_ViewPBSettings05",
+    "password": "martin_ViewPBSettings05"
+  }
+
+}

@@ -1,0 +1,56 @@
+{
+  "GC01_UteUserWithoutAnyBankDetailsSuccessfullyAddsHisBankDetails": {
+    "name": "ute.add.success",
+    "password": "ute.add.success",
+    "validIban": "DE86300700100002508000"
+
+
+  },
+  "GC02_UteUserFailsToAddHisBankDetails": {
+    "name": "ute.add.failure",
+    "password": "ute.add.failure",
+    "validIban": "DE86300700100002508000"
+
+  },
+  "GC03_UteUserTriesToAddHisBankDetailsWithAForeignIban": {
+    "name": "ute.add.success",
+    "password": "ute.add.success",
+    "foreignIban": "GB29NWBK60161331926819"
+  },
+  "GC04_UteUserTriesToAddHisBankDetailsWithAWrongIban": {
+    "name": "ute.add.success",
+    "password": "ute.add.success",
+    "wrongIban": "%86300700100002508000"
+  },
+  "GC01_ValidateThatDunningUserIsNotEligibleToAddHisBankDetails": {
+    "name": "Ute.add.bank.details.suspended",
+    "password": "Ute.add.bank.details.suspended"
+  },
+
+  "GC05_UteUserWithoutAnyBankDetailsSuccessfullyAddsHisBankDetailsCheckTags":
+{
+  "name": "ute.add.success",
+  "password": "ute.add.success",
+  "validIban": "DE86300700100002508000",
+  "siteStructureStep1Success": "mein vodafone,services,bank details,add bank details,start",
+  "siteStructureStep2Success": "mein vodafone,services,bank details,change bank details,add iban",
+  "siteStructureStep3Success": "mein vodafone,services,bank details,change bank details,confirm",
+  "oFormObjectStep1Success": "{name:add bank Details,formStep:1,formStepName:start,formStatus:[start],type:ecare,oApplication:{type:myvodafone:transaction,name:add bank Details}}",
+  "oFormObjectStep2Success": "{name:add bank details,formStep:2,formStepName:add IBAN,formStatus:[review],type:ecare,oApplication:{type:myvodafone:transaction,name:change bank details}}",
+  "oFormObjectStep3Success": "{name:add bank details,formStep:3,formStepName:confirmation,formStatus:[end,success],type:ecare,oApplication:{type:myvodafone:transaction,name:change bank details},outcome:SEPA flag checked}"
+
+},
+
+"GC02_UteUserFailsToAddHisBankDetailsCheckTags": {
+  "name": "ute.add.failure",
+  "password": "ute.add.failure",
+  "validIban": "DE86300700100002508000",
+  "siteStructureStep1Failure": "mein vodafone,services,bank details,add bank details,start",
+  "siteStructureStep2Failure ": "mein vodafone,services,bank details,add bank details,add iban",
+  "siteStructureStep3Failure": "mein vodafone,services,bank details,add bank details,confirm",
+  "oFormObjectStep1Failure": "",
+  "oFormObjectStep2Failure":"",
+  "oFormObjectStep3Failure": ""
+
+}
+}

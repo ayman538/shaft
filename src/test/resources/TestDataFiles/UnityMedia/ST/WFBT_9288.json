@@ -1,0 +1,24 @@
+{
+  "bookingPhoneBookableOption":
+  {
+    "name"  : "UMUserBookablePhoneOption",
+    "password": "UMUserBookablePhoneOption",
+    "optionHeaderCL": "Willst Du Mobile & International-Flat-MF buchen?",
+    "bookingPageURL": "https://simplicity.wf-de.vodafone.com/meinvodafone/services/meine-produkte/kabel-optionen-buchen",
+    "optionNameCL": "Mobile & International-Flat-MF",
+    "optionPriceCL": "9,99 €",
+    "bookingDateTitleCL": "Beginnt nach Buchung am:",
+    "confirmationMessageCL": "Wir haben die Option für Dich gebucht."
+  },
+  "cancelTVOption":
+  {
+    "name"  : "Automated-wfbt_13834_UM_1",
+    "password": "Automated-wfbt_13834_UM_1",
+    "optionHeaderCL": "Willst Du Vodafone Premium Plus Cable (1.-2. Monat 0 €) kündigen?",
+    "cancellationPageURL": "https://simplicity.wf-de.vodafone.com/meinvodafone/services/meine-produkte/kabel-buchung-stornieren",
+    "optionNameCL": "Vodafone Premium Plus Cable (1.-2. Monat 0 €)",
+    "optionPriceCL": "6,99 €",
+    "cancelingDateTitleCL": "Deine Option endet am:",
+    "confirmationMessageCL": "Wir haben die Option für Dich gekündigt."
+  }
+}

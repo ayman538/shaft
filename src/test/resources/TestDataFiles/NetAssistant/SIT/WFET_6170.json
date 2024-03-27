@@ -1,0 +1,34 @@
+{
+
+"SIT_GC01": {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet","Compal CH6640E","WLAN","Aus","Schalter war aus","Timer überspringen","Problem gelöst!"]
+  },
+  "SIT_GC02": {
+    "name": "christian.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["Verkabelung-WLAN","mit Emulator","Nein, weiter mit der bisherigen Kundennummer","Kein Internet","EasyBox 804","WLAN","Leuchtet grün","Blinkt","Stromkabel ist draußen","Timer überspringen","Stromkabel ist eingesteckt","Timer überspringen","Problem gelöst!"]
+  },
+  "SIT_GC03": {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "mobileNumber" : "017131232123",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet","Compal CH6640E","WLAN","Aus","Schalter war aus","Timer überspringen","Problem besteht weiterhin","Kabel ist defekt","Rückruf anfordern"]
+  },
+  "SIT_GC04": {
+    "name": "mark.biesek",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet und Telefon","Aus","Schalter ist an, kein Strom","Die Steckdose funktioniert nicht","Der Router hat Strom","Timer überspringen","Problem gelöst!"]
+  },
+  "SIT_GC05": {
+    "name": "simone.netzassistent",
+    "password": "TEST@1234",
+    "link": "netz-assistent/chatbot?c_id=hilfe_netzass_kip",
+    "Steps"  : ["go on","Verkabelung-WLAN","Kein Internet","Vodafone Station","Vodafone CGA4233DE","WLAN","Leuchtet weiß","Leuchtet weiß","Aus","Ja","Problem gelöst!"]
+  }
+}

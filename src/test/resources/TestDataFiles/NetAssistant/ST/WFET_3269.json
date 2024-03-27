@@ -1,0 +1,32 @@
+{
+  "ST_GC01": {
+    "userName" : "WFET-3269 | UM | TicketDetails",
+    "password" : "WFET-3269 | UM | TicketDetails",
+    "link": "netz-assistent/tickets?i=4bf4ff1d2e42eb50a432826491938287512942ae719b655db847f9008e4c04e97ff8c431cd317765&c=UM&s=NRW&icmp=mvw_db_netzass_um"
+  },
+
+  "ST_GC02": {
+    "userName" : "WFET-3269 | UM | TicketDetails",
+    "password" : "WFET-3269 | UM | TicketDetails",
+    "link": "netz-assistent/tickets?i=4bf4ff1d2e42eb50a432826491938287512942ae719b655db847f9008e4c04e97ff8c431cd317765&c=UM&s=NRW&icmp=mvw_db_netzass_um"
+  },
+
+  "ST_GC04": {
+    "userName" : "WFET-3269 | UM | TicketDetails",
+    "password" : "WFET-3269 | UM | TicketDetails",
+    "link": "netz-assistent/tickets?i=4bf4ff1d2e42eb50a432826491938287512942ae719b655db847f9008e4c04e97ff8c431cd317765&c=UM&s=NRW&icmp=mvw_db_netzass_um"
+  },
+
+  "ST_GC10": {
+    "userName" : "WFET-3269 | UM | TicketDetails",
+    "password" : "WFET-3269 | UM | TicketDetails",
+    "link": "netz-assistent/tickets?i=4bf4ff1d2e42eb50a432826491938287512942ae719b655db847f9008e4c04e97ff8c431cd317765&c=UM&s=NRW&icmp=mvw_db_netzass_um"
+  },
+
+  "ST_GC12": {
+    "userName" : "WFET-3269 | UM | TicketDetails",
+    "password" : "WFET-3269 | UM | TicketDetails",
+    "link": "netz-assistent/tickets?i=4bf4ff1d2e42eb50a432826491938287512942ae719b655db847f9008e4c04e97ff8c431cd317765&c=UM&s=NRW&icmp=mvw_db_netzass_um"
+  }
+
+}

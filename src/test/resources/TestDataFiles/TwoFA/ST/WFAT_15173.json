@@ -1,0 +1,12 @@
+{
+  "GC01":
+  {
+    "name"  : "LegacyUser",
+    "password": "LegacyUser"
+  },
+  "GC02":
+  {
+    "name": "SolsticeUser",
+    "password": "SolsticeUser"
+  }
+}

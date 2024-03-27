@@ -1,0 +1,12 @@
+{
+  "GC01_Check_Icmp_In_The_Booking_Link_For_External_Internet_Option":
+  {
+    "name" : "Automated-wfbt_11053_8",
+    "password" : "Automated-wfbt_11053_8"
+  },
+  "GC02_Check_Icmp_In_The_Booking_Link_For_External_Phone_Option":
+  {
+    "name" : "Automated-wfbt_11242_1",
+    "password" : "Automated-wfbt_11242_1"
+  }
+}

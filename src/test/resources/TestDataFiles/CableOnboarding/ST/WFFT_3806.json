@@ -1,0 +1,50 @@
+{
+  "GC01": {
+    "urn": "7070801",
+    "checklistTitle": "Deine Checkliste",
+    "checklistSubtitle": "Dein Anschluss wird vom Technik-Service eingerichtet. Er ruft Dich an, um einen Termin mit Dir zu vereinbaren. Bereite bitte schonmal alles dafür vor:",
+    "checklistFirstBoxText": "Stell den Zugang zum Hausanschluss sicher. Er befindet sich meist im Keller. Eine Ansicht findest Du hier.",
+    "checklistSecondBoxText": "Stell sicher, dass der Technik-Service an Deine Antennen-Dose kommt. Sie befindet sich in Deiner Wohnung.",
+    "checklistThirdBoxText": "Prüf bitte Dein Klingelschild, damit der Technik-Service Dich findet. Einen Vordruck findest Du hier.",
+    "firstButton": "Alles erledigt!",
+    "secondButton": "Zum Start-Portal",
+    "notificationMessage": "Alle Vorbereitungen sind abgeschlossen.",
+    "checklistStatus": "Erledigt"
+  },
+  "GC02": {
+    "urn": "7070802",
+    "checklistTitle": "Deine Checkliste",
+    "checklistSubtitle": "Dein Anschluss wird vom Technik-Service eingerichtet. Er ruft Dich an, um einen Termin mit Dir zu vereinbaren. Bereite bitte schonmal alles dafür vor:",
+    "checklistFirstBoxText": "Stell den Zugang zum Hausanschluss sicher. Er befindet sich meist im Keller. Eine Ansicht findest Du hier.",
+    "checklistSecondBoxText": "Stell sicher, dass der Technik-Service an Deine Antennen-Dose kommt. Sie befindet sich in Deiner Wohnung.",
+    "checklistThirdBoxText": "Prüf bitte Dein Klingelschild, damit der Technik-Service Dich findet. Einen Vordruck findest Du hier.",
+    "firstButton": "Alles erledigt!",
+    "secondButton": "Zum Start-Portal",
+    "notificationMessage": "Alle Vorbereitungen sind abgeschlossen.",
+    "checklistStatus": "Erledigt"
+  },
+  "GC03": {
+    "urn": "7070803",
+    "checklistTitle": "Deine Checkliste",
+    "checklistSubtitle": "Dein Anschluss wird vom Technik-Service eingerichtet. Er ruft Dich an, um einen Termin mit Dir zu vereinbaren. Bereite bitte schonmal alles dafür vor:",
+    "checklistFirstBoxText": "Stell den Zugang zum Hausanschluss sicher. Er befindet sich meist im Keller. Eine Ansicht findest Du hier.",
+    "checklistSecondBoxText": "Stell sicher, dass der Technik-Service an Deine Antennen-Dose kommt. Sie befindet sich in Deiner Wohnung.",
+    "checklistThirdBoxText": "Prüf bitte Dein Klingelschild, damit der Technik-Service Dich findet. Einen Vordruck findest Du hier.",
+    "firstButton": "Alles erledigt!",
+    "secondButton": "Zum Start-Portal",
+    "notificationMessage": "Alle Vorbereitungen sind abgeschlossen.",
+    "checklistStatus": "Erledigt"
+  },
+  "GC04": {
+    "urn": "7070804",
+    "checklistTitle": "Deine Checkliste",
+    "checklistSubtitle": "Dein Anschluss wird vom Technik-Service eingerichtet. Er ruft Dich an, um einen Termin mit Dir zu vereinbaren. Bereite bitte schonmal alles dafür vor:",
+    "checklistFirstBoxText": "Stell den Zugang zum Hausanschluss sicher. Er befindet sich meist im Keller. Eine Ansicht findest Du hier.",
+    "checklistSecondBoxText": "Stell sicher, dass der Technik-Service an Deine Antennen-Dose kommt. Sie befindet sich in Deiner Wohnung.",
+    "checklistThirdBoxText": "Prüf bitte Dein Klingelschild, damit der Technik-Service Dich findet. Einen Vordruck findest Du hier.",
+    "firstButton": "Alles erledigt!",
+    "secondButton": "Zum Start-Portal",
+    "notificationMessage": "Alle Vorbereitungen sind abgeschlossen.",
+    "checklistStatus": "Erledigt"
+  }
+}

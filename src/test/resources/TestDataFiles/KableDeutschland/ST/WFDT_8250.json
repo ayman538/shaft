@@ -1,0 +1,10 @@
+{
+  "gc01": {
+    "name": "SOHOBridgeHomeSpot",
+    "password": "SOHOBridgeHomeSpot"
+  },
+  "gc02": {
+    "name": "ConsumerBridgeHomeSpot",
+    "password": "ConsumerBridgeHomeSpot"
+  }
+}

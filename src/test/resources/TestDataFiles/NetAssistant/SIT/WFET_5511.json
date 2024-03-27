@@ -1,0 +1,101 @@
+{
+  "GC01":
+  {
+    "Link" : "meinvodafone/public/netzassistent/review?product=dsl",
+    "name"  : "christine.netzassistent",
+    "password": "TEST@1234",
+    "contractNumber" : "001950375484"
+  },
+  "GC02":
+  {
+    "Link" : "meinvodafone/public/netzassistent/review?product=cable",
+    "name"  : "multi_contracts",
+    "password": "TEST@1234",
+    "contractNumber" : "934034564"
+  },
+  "GC03":
+  {
+    "Link" : "meinvodafone/public/netzassistent/review?product=cable",
+    "name"  : "multi_contracts",
+    "password": "TEST@1234",
+    "contractNumber" : "973997302"
+  },
+  "GC04":
+  {
+    "Link" : "meinvodafone/public/netzassistent/review?product=dsl",
+    "name"  : "christine.netzassistent",
+    "password": "TEST@1234",
+    "contractNumber" : "001950375484"
+  },
+  "GC05":
+  {
+    "Link" : "meinvodafone/public/netzassistent/review?product=cable",
+    "name"  : "multi_contracts",
+    "password": "TEST@1234",
+    "contractNumber" : "934034564"
+  },
+  "GC06":
+  {
+  "Link" : "meinvodafone/public/netzassistent/review?product=cable",
+  "name"  : "multi_contracts",
+  "password": "TEST@1234",
+  "contractNumber" : "973997302"
+},
+  "GC07":
+{
+  "Link" : "meinvodafone/public/netzassistent/review?product=dsl",
+  "name"  : "christine.netzassistent",
+  "password": "TEST@1234"
+},
+  "GC08":
+  {
+    "Link" : "meinvodafone/public/netzassistent/review?product=cable",
+    "name"  : "multi_contracts",
+    "password": "TEST@1234"
+  },
+  "GC09":
+  {
+    "Link" : "meinvodafone/public/netzassistent/review?product=cable",
+    "name"  : "multi_contracts",
+    "password": "TEST@1234"
+  },
+  "GC10":
+  {
+    "Link" : "meinvodafone/public/netzassistent/review?product=dsl",
+    "name"  : "christine.netzassistent",
+    "password": "TEST@1234"
+  },
+  "GC11":
+  {
+    "Link" : "meinvodafone/public/netzassistent/review?product=cable",
+    "name"  : "bw489235904@umpost.de",
+    "password": "TestLab1"
+  },
+  "GC12":
+  {
+    "Link" : "meinvodafone/public/netzassistent/review?product=cable",
+    "name"  : "bw489235904@umpost.de",
+    "password": "TestLab1"
+  },
+  "GC25" :
+{
+  "Link" : "netz-assistent/chatbot?i=b491c6345a36e268a6829c74db42bae8574d39a622f4bef95223475b35ec29953e906ed8bba16c954e1aa102&c=DSL&a=02307&p=9c413ebde109fe644a44680abde8b6bc27e2312232152402e6a0bde14487c7a00994c09f22dcd0&icmp=mvw_db_netzass_dsl",
+  "name"  : "christine.netzassistent",
+  "password": "TEST@1234",
+  "contractNumber" : "001950375484"
+},
+  "GC26":
+  {
+    "Link" : "netz-assistent/chatbot?i=773ffaad1afb5c081d3ab03ae319c0ba2afedb1ec3db1d6ccf8639fe3e2de895b3def5d094310f5e2e&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip",
+    "name"  : "multi_contracts",
+    "password": "TEST@1234",
+    "contractNumber" : "934034564"
+  },
+  "GC27":
+  {
+    "Link" : "netz-assistent/chatbot?i=6313068c8f3ec51082ee906da789e031b102ecc3296c70349e0c9578de1d1decc5a655e3714da52aed&c=UM&a=&p=&s=NRW&c_id=hilfe_netzass_um",
+    "name"  : "multi_contracts",
+    "password": "TEST@1234",
+    "contractNumber" : "973997302"
+  }
+}

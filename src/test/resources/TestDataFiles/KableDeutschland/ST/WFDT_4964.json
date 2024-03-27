@@ -1,0 +1,40 @@
+{
+  "gc01":
+  {
+    "name"  : "Martin-SingleTV-SingleKIP_V2",
+    "password": "Martin-SingleTV-SingleKIP_V2"
+
+  },
+  "gc02":
+  {
+    "name"  : "Martin-MultiTV-SingleKIP_V2",
+    "password": "Martin-MultiTV-SingleKIP_V2"
+
+  },
+  "gc03":
+  {
+    "name"  : "Martin-MultiProducts_NoDetails_V2",
+    "password": "Martin-MultiProducts_NoDetails_V2"
+
+  },
+  "gc04":
+  {
+    "name"  : "Martin-MultiTV-SingleKIP_V2",
+    "password": "Martin-MultiTV-SingleKIP_V2"
+
+  },
+  "gc05":
+  {
+    "name"  : "Martin-MultiTV-SingleKIP_V2",
+    "password": "Martin-MultiTV-SingleKIP_V2"
+
+  },
+  "gc06":
+  {
+    "name"  : "Martin_NO_Devices_AnalogTV_V2",
+    "password": "Martin_NO_Devices_AnalogTV_V2"
+
+  }
+
+
+}

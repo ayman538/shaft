@@ -1,0 +1,56 @@
+{
+  "checkDefaultViewOfBookedOptionsAccordionWithCLSDropDownMenu":
+  {
+    "name"  : "Automated-wfbt_12349_1",
+    "password": "Automated-wfbt_12349_1",
+    "bookedOptionsAccordionBodyHeaderCL": "Deine gebuchten Optionen",
+    "bookedOptionsAccordionBodySubHeaderCL": "Diese Optionen ergänzen Deinen Tarif im Moment. Du willst etwas ändern? Hier siehst Du, wann Du eine Option kündigen kannst:",
+    "defaultContractHeaderCL": "Kundennummer",
+    "defaultContractNumberCL": "972510524"
+  },
+  "validateAllContractNumberExists":
+  {
+    "name": "Automated-wfbt_12349_1",
+    "password": "Automated-wfbt_12349_1"
+  },
+  "validateDisplayedOptionsRelatedToItsContract":
+  {
+    "name": "Automated-wfbt_12349_1",
+    "password": "Automated-wfbt_12349_1"
+  },
+  "validateCLSOptionsOnlyDisplayed":
+  {
+    "name": "Automated-wfbt_12349_2",
+    "password": "Automated-wfbt_12349_2",
+    "CLSOption1": "Preisvorteil WLAN-HOTSPOT: 4.-24. Monat netto -19,99 €, danach 0 €",
+    "CLSOption2": "Business Kombi Vorteil netto -10,04 €",
+    "CLSOption3": "Basispreisanpassung netto 3 EUR (monatlich)",
+    "CLSOption4": "Sicherheitspaket 5er Lizenz",
+    "CLSOption5": "Vertragsstrafe für 3 Monate"
+  },
+  "validateKIPOptionsOnlyDisplayed":
+  {
+    "name": "Automated-wfbt_12349_3",
+    "password": "Automated-wfbt_12349_3",
+    "KIPOption1": "Sicherheitspaket",
+    "KIPOption2": "Mobile & International-Allnet-Flat",
+    "KIPOption3": "20,00 € netto monatliche Gutschrift",
+    "KIPOption4": "Option Homebox 4",
+    "KIPOption5": "Festnetz-Flatrate (Bundle)",
+    "KIPOption6": "Option Homespot",
+    "KIPOption7": "Vodafone GigaKombi Angebot Red Internet & Phone Cable",
+    "KIPOption8": "GigaKombi Vorteil Mobile-Flat"
+  },
+  "assertOnNoDropdownMenuAppearsWhenOnlyOneCLSContract":
+  {
+    "name": "Automated-wfbt_12349_5",
+    "password": "Automated-wfbt_12349_5",
+    "CLSOption": "TV International Russisch"
+  },
+  "assertOnNoDropdownMenuAppearsWhenOnlyOneKIPContract":
+  {
+    "name": "Automated-wfbt_12349_6",
+    "password": "Automated-wfbt_12349_6",
+    "KIPOption": "Upload Option 50"
+  }
+}

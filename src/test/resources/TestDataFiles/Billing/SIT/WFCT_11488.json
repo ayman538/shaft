@@ -1,0 +1,9 @@
+{
+  "GC03_KayChecksEntryPointToInvoiceSummaryThroughRechnungenTable": {
+    "name": "multi_contracts",
+    "password": "TEST@1234",
+    "contractNumber": "1",
+    "underlineAndColorCssProperty" : "underline rgb(13, 13, 13)",
+    "amountToBePaid" : "0,00 €"
+  }
+}

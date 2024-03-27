@@ -1,0 +1,62 @@
+{
+  "GC01": {
+    "name": "TVUserCancelledMainTOnly",
+    "password": "TVUserCancelledMainTOnly",
+    "CancellationNotificationBodySOCL": "Bis wann Du Deinen Tarif noch nutzen kannst, findest Du in Deiner Kündigungsbestätigung.",
+    "CancellationNotificationBodyMainTariffAccCL": "Wir machen Dir gerne ein persönliches Angebot.",
+    "ContractEndDateLabelCL": "Vertragsende frühestens am",
+    "CancelledContractFirstHintCL": "Du hast Deinen Vertrag gekündigt. Alle Details dazu findest Du in Deiner Kündigungsbestätigung.",
+    "CancelledContractSecondHintCL": "Du findest die aktuellen Preise auf Deiner Rechnung.",
+    "BillSectionHyperLinkCL": "Deiner Rechnung.",
+    "GoToBookedOptionsAccCTACL": "Deine gebuchten Optionen"
+    },
+  "GC02": {
+    "name": "TVUserCancelledCLSTOnly",
+    "password": "TVUserCancelledCLSTOnly",
+    "CancellationNotificationBodySOCL": "Bis wann Du Deinen Tarif noch nutzen kannst, findest Du in Deiner Kündigungsbestätigung.",
+    "CancellationNotificationBodyMainTariffAccCL": "Wir machen Dir gerne ein persönliches Angebot.",
+    "ContractEndDateLabelCL": "Vertragsende frühestens am",
+    "CancelledContractFirstHintCL": "Du hast Deinen Vertrag gekündigt. Alle Details dazu findest Du in Deiner Kündigungsbestätigung.",
+    "CancelledContractSecondHintCL": "Du findest die aktuellen Preise auf Deiner Rechnung.",
+    "BillSectionHyperLinkCL": "Deiner Rechnung.",
+    "GoToBookedOptionsAccCTACL": "Deine gebuchten Optionen"
+  },
+  "GC03": {
+    "name": "TVUserCancelledMainTandActiveCLST",
+    "password": "TVUserCancelledMainTandActiveCLST",
+    "CancellationNotificationBodySOCL": "Einer Deiner Tarife ist gekündigt. Das Vertragsende siehst Du in den Details unten und in Deiner Kündigungsbestätigung.",
+    "CancellationNotificationBodyMainTariffAccCL": "Wir machen Dir gerne ein persönliches Angebot."
+  },
+  "GC04": {
+    "name": "TVUserAactiveMainTandCancelledCLST",
+    "password": "TVUserAactiveMainTandCancelledCLST",
+    "MainTariffNameSOCL": "Digitaler Kabelanschluss",
+    "CancellationNotificationBodyMainTariffAccCL": "Wir machen Dir gerne ein persönliches Angebot."
+  },
+  "GC05": {
+    "name": "TVUserMultipleMainTandOneMainTCancelled",
+    "password": "TVUserMultipleMainTandOneMainTCancelled",
+    "CancellationNotificationBodySOCL": "Einer Deiner Tarife ist gekündigt. Das Vertragsende siehst Du in den Details unten und in Deiner Kündigungsbestätigung.",
+    "CancellationNotificationBodyMainTariffAccCL": "Wir machen Dir gerne ein persönliches Angebot."
+  },
+  "GC06": {
+    "name": "TVUserMultipleMainTandTwoMainTCancelled",
+    "password": "TVUserMultipleMainTandTwoMainTCancelled",
+    "CancellationNotificationBodySOCL": "Bis wann Du Deinen Tarif noch nutzen kannst, findest Du in Deiner Kündigungsbestätigung.",
+    "CancellationNotificationBodyMainTariffAccCL": "Wir machen Dir gerne ein persönliches Angebot.",
+    "CancellationNotificationBodyMainTariffAccCL": "Wir machen Dir gerne ein persönliches Angebot."
+  },
+  "GC07": {
+    "name": "TVUserCancelledMainTandCancelledCLST",
+    "password": "TVUserCancelledMainTandCancelledCLST",
+    "CancellationNotificationBodySOCL": "Bis wann Du Deinen Tarif noch nutzen kannst, findest Du in Deiner Kündigungsbestätigung.",
+    "CancellationNotificationBodyMainTariffAccCL": "Wir machen Dir gerne ein persönliches Angebot.",
+    "CancellationNotificationBodyMainTariffAccCL": "Wir machen Dir gerne ein persönliches Angebot."
+  },
+  "GC08": {
+    "name": "TVUserMultipleCLSTandOneCLSTCancelled",
+    "password": "TVUserMultipleCLSTandOneCLSTCancelled",
+    "CancellationNotificationBodySOCL": "Einer Deiner Tarife ist gekündigt. Das Vertragsende siehst Du in den Details unten und in Deiner Kündigungsbestätigung.",
+    "CancellationNotificationBodyMainTariffAccCL": "Wir machen Dir gerne ein persönliches Angebot."
+  }
+}

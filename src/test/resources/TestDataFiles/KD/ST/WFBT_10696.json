@@ -1,0 +1,17 @@
+{
+  "assertOnDynamicMeinTarifSOInKabelTVAccordion":
+  {
+    "name"  : "Automated-wfbt_10696_1",
+    "password": "Automated-wfbt_10696_1"
+  },
+  "assertOnStaticMeinTarifSOInKabelTVAccordion":
+  {
+    "name": "Automated-wfbt_10696_2",
+    "password": "Automated-wfbt_10696_2"
+  },
+  "assertOnMeinTarifInBurgerMenu":
+  {
+    "name": "Automated-wfbt_10696_1",
+    "password": "Automated-wfbt_10696_1"
+  }
+}

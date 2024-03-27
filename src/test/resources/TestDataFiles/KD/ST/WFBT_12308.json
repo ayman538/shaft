@@ -1,0 +1,15 @@
+{
+  "GC01_CheckWhenUserHasBothTariffsAvailableInTraiffChangeAccordion":
+  {
+    "name"  : "Automated-wfbt_12308_1",
+    "password": "Automated-wfbt_12308_1",
+    "GigaZuhauseCabelMaxNameCL": "GigaZuhause CableMax 1000"
+  },
+  "GC02_CheckWhenUserHasGigaZuhause1000KabelBooked":
+  {
+    "name"  : "Automated-wfbt_12308_2",
+    "password": "Automated-wfbt_12308_2",
+    "GigaZuhause1000MainTariffCL": "GigaZuhause 1000 Kabel",
+    "GigaZuhauseCabelMaxNameCL": "GigaZuhause CableMax 1000"
+  }
+}

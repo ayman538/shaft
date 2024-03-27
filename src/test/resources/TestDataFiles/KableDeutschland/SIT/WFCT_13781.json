@@ -1,0 +1,13 @@
+{
+
+  "GC08_KdUserEntersValidIbanButNotTheIbanInTheContract": {
+    "name": "KD333086528",
+    "password": "TEST@1234",
+    "contractOrder" : "1",
+    "toolTipCl" : "Ich ermächtige die Vodafone GmbH, Zahlungen von meinem Konto mittels Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, diese Lastschriften einzulösen. Gut zu wissen: Ich kann innerhalb von 8 Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrags verlangen. Es gelten dabei die Bedingungen, die ich mit meinem Kreditinstitut vereinbart habe.",
+    "iban" : "DE89370400440532013000",
+    "sepaMandateCL" : "Hiermit erteile ich Vodafone ein SEPA-Lastschriftmandat.",
+    "errorTitle" : "Hier stimmt was nicht",
+    "errorBody" : "Du kannst diese IBAN nicht nutzen. Der:Die Kontoinhaber:in stimmt nicht mit dem:der Vertragspartner:in überein. Bitte nutz eine IBAN des:der Vertragspartner:in. Hast Du Fragen? Ruf uns unter   "
+  }
+}

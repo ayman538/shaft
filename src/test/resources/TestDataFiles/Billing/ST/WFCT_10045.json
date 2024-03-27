@@ -1,0 +1,12 @@
+{
+  "GC01_paulActiveTopUp20Days": {
+    "name": "paul.activeGpp.auto.topup.20day",
+    "password": "paul.activeGpp.auto.topup.20day",
+    "mappedValue": "alle 20 Tage"
+  },
+  "GC02_paulPausedTopUp30Days": {
+    "name": "paul.pausedGpp.auto.topup.30day",
+    "password": "paul.pausedGpp.auto.topup.30day",
+    "mappedValue": "alle 30 Tage"
+  }
+}

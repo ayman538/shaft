@@ -1,0 +1,21 @@
+{
+  "GC01_UteUserChecksTheInvoiceDetailsPageForLatestMonth": {
+    "name": "ute.unpaid.amount.invoice.details",
+    "password": "ute.unpaid.amount.invoice.details",
+    "detailsPageOrder": "2",
+    "unPaidAmount": "44,30 €",
+    "amountToPay": "Siehe PDF-Rechnung"
+  },
+  "GC02_UteUserChecksTheInvoiceDetailsPageForOldMonths": {
+    "name": "ute.unpaid.amount.invoice.details",
+    "password": "ute.unpaid.amount.invoice.details",
+    "detailsPageOrder": "1",
+    "chartBarOrder": "11"
+  },
+  "GC03_UteUserWithCreditAmountChecksTheInvoiceDetailsPageForOldMonths": {
+    "name": "ute.credit.invoice.details",
+    "password": "ute.credit.invoice.details",
+    "detailsPageOrder": "2",
+    "chartBarOrder": "11"
+  }
+}

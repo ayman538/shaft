@@ -1,0 +1,22 @@
+{
+  "GC01":
+  {
+    "contactNumber"  : "0162 250 74 92",
+    "deeplink": "hilfe/rufnummernmitnahme-login"
+  },
+  "GC02":
+  {
+    "contactNumber"  : "0162 250 74 92",
+    "deeplink": "hilfe/rufnummernmitnahme/start"
+  },
+  "GC03":
+  {
+    "contactNumber"  : "0162 250 74 823",
+    "deeplink": "hilfe/rufnummernmitnahme/start"
+  },
+  "GC05":
+  {
+    "contactNumber"  : "0162 250 74 823",
+    "deeplink": "hilfe/rufnummernmitnahme/fragebogen"
+  }
+}

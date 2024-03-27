@@ -1,0 +1,61 @@
+{
+  "ST_GC19": {
+    "userName": "Hadeer-WFET5468-DSL",
+    "password": "Hadeer-WFET5468-DSL",
+    "Link": "netz-assistent/chatbot/review?i=f3547f3ad4193aee6da68dafc63caad8b5661c0486e234d8ff3fe0d14ca8a96a4d551c6addbd49b695e8&c=DSL&a=049&p=64cf49ffae90b1d52d30219f8568b8cf2289ec5f2c864a2256f8d507a149b90085ff2204&s=&c_id=hilfe_netzass_dsl"
+  },
+  "ST_GC20": {
+    "userName": "Hadeer-WFET5468-DSL",
+    "password": "Hadeer-WFET5468-DSL",
+    "Link": "netz-assistent/?c_id=hilfe_netzass_dsl"
+  },
+  "ST_GC21": {
+    "userName": "Hadeer-WFET5468-DSL",
+    "password": "Hadeer-WFET5468-DSL",
+    "Link": "netz-assistent/?icmp=hilfe_netzass_dsl"
+  },
+  "ST_GC22": {
+    "userName": "Hadeer-WFET5468-UM",
+    "password": "Hadeer-WFET5468-UM",
+    "Link": "netz-assistent/chatbot/review?i=553510bab4ed80836466fb78c65e107fac472eddacf8618a5a0098b69d50d9ca37579082363b7145&c=UM&a=&p=&s=NRW&c_id=hilfe_netzass_um"
+  },
+  "ST_GC23": {
+    "userName": "Hadeer-WFET5468-UM",
+    "password": "Hadeer-WFET5468-UM",
+    "Link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+  "ST_GC24": {
+    "userName": "Hadeer-WFET5468-UM",
+    "password": "Hadeer-WFET5468-UM"
+  },
+  "ST_GC25": {
+    "userName": "WFET-Hadeer-Cable10-nomass",
+    "password": "WFET-Hadeer-Cable10-nomass",
+    "Link": "netz-assistent/chatbot?i=0896423853521882b13cffbc5fa1845ffe8fa5e38e24ae3d0987c40b17266973af09c2269a6d77ce&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip"
+  },
+  "ST_GC26": {
+    "userName": "Hadeer-WFET5468-cable",
+    "password": "Hadeer-WFET5468-cable",
+    "Link": "netz-assistent/?c_id=hilfe_netzass_kip"
+  },
+  "ST_GC27": {
+    "userName": "Hadeer-WFET5468-cable",
+    "password": "Hadeer-WFET5468-cable"
+  },
+  "ST_GC31": {
+    "userName": "WFET-5522 | DSL | Netzassistent Entry Points",
+    "password": "WFET-5522 | DSL | Netzassistent Entry Points",
+    "Link": "netz-assistent/chatbot?i=7446d1f62a841d1fa9a7bbd177e7746b238d6443970cf5a8722d3626a5fb85de0555dfc4c564e12dae0e1461&c=DSL&a=093&p=6a2644de14d9733350a8f50e3885340399e37d55ca2d004cbffb61b4e56b093f5f9e45d9&s=&c_id=hilfe_netzass_dsl"
+
+  },
+  "ST_GC32": {
+    "userName": "WFET-5522 | UM | Netzassistent Entry Points",
+    "password": "WFET-5522 | UM | Netzassistent Entry Points",
+    "Link": "netz-assistent/chatbot/review?i=374e8571f068ab99aebaae29918cace1114d67218fe36112a47ca335dc4b5328b460e38a709d0643&c=UM&a=&p=&s=NRW&c_id=hilfe_netzass_um"
+  },
+  "ST_GC33": {
+    "userName": "WFET-Hadeer-Cable10-singlemass",
+    "password": "WFET-Hadeer-Cable10-singlemass",
+    "Link": "netz-assistent/chatbot/review?i=f883c82659b6ae4f39d1bb00d6e2fdf6bf63c0bf80fdc65483f5bb08552bfbedcad16c2c458ae16e&c=CABLE&a=&p=&s=&c_id=hilfe_netzass_kip"
+  }
+}

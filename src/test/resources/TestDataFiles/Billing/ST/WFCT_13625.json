@@ -1,0 +1,10 @@
+{
+  "GC01_peterUserCheckBackButtonInInvoiceSummaryPage": {
+    "name": "peter.with.invoices",
+    "password": "peter.with.invoices"
+  },
+  "GC02_UteUserCheckBackButtonInInvoiceSummaryPage": {
+    "name": "ute.credit.invoice.details",
+    "password": "ute.credit.invoice.details"
+  }
+}

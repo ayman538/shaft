@@ -1,0 +1,73 @@
+{
+  "GC02_BartUserOnlineBillDeactivatesSmsNotification": {
+    "name": "bart.online.sms.activated",
+    "password": "bart.online.sms.activated",
+    "emailStatus" : "aktiv",
+    "smsStatus" : "nicht aktiv"
+  },
+  "GC03_KayUserOnlineBillActivatesSmsNotification": {
+    "name": "kay.online.sms.deactivated",
+    "password": "kay.online.sms.deactivated",
+    "number" : "0171 618 11 77"
+
+  },
+  "GC04_MarieUserOnlineBillWithOnlyOneNumberChecksChangeNotificationSettingsPage": {
+    "name": "marie.one.number",
+    "password": "marie.one.number"
+  },
+  "GC05_KayUserOnlineAndPaperBillActivatesEmailNotification": {
+    "name": "kay.paper.and.online.email.deactivated",
+    "password": "kay.paper.and.online.email.deactivated",
+    "emailStatus": "aktiv"
+
+  },
+  "GC06_BartUserOnlineAndPaperBillDeActivatesEmailNotification": {
+    "name": "bart.paper.and.online.email.activated",
+    "password": "bart.paper.and.online.email.activated",
+    "emailStatus": "nicht aktiv"
+  },
+  "GC07_KayUserWith20NumbersCheckTheNumbersDropdownList": {
+    "name": "kay.20.numbers",
+    "password": "kay.20.numbers"
+  },
+  "GC08_BartUserWithMoreThan20NumbersCheckTheNumbersDropdownList": {
+    "name": "bart.more.than.20.numbers",
+    "password": "bart.more.than.20.numbers"
+  },
+  "BC01_KayUserSmsNotificationActiveWithGetSubscriberListServiceFailure": {
+    "name": "kay.sms.activated.failure",
+    "password": "kay.sms.activated.failure"
+  },
+  "BC02_BartUserSmsNotificationInActiveWithGetSubscriberListServiceFailure": {
+    "name": "bart.sms.deactivated.failure",
+    "password": "bart.sms.deactivated.failure"
+  },
+  "BC03_MarieUserWithUpdateMediaCategoryPutServiceFailure": {
+    "name": "marie.confirmation.failure",
+    "password": "marie.confirmation.failure"
+  },
+  "Tag01_UserChecksPageViewTagsAndPageUrlInTheChangeSettingsPage": {
+    "name": "marie.confirmation.failure",
+    "password": "marie.confirmation.failure",
+    "siteStructure" : "meinvodafone,services,ihre-rechnungen,einstellungen,change bill settings,start"
+  },
+  "Tag02_UserChecksPageViewTagsAndPageUrlInTheConfirmationPage": {
+    "name": "marie.confirmation.failure",
+    "password": "marie.confirmation.failure",
+    "siteStructure" : "meinvodafone,services,ihre-rechnungen,einstellungen,change bill settings,confirm"
+  },
+  "Tag03_UserChecksErrorTagInTheChangeSettingsPage": {
+    "name": "bart.sms.deactivated.failure",
+    "password": "bart.sms.deactivated.failure",
+    "errorArea" :"subscriptionlist_get" ,
+    "errorCode" :"400 - general.e400t_http_message_conversion_failure" ,
+    "errorMessage" :"entschuldigung, da ist was schiefgelaufen."
+  },
+  "Tag04_UserChecksErrorTagInTheConfirmationPage": {
+    "name": "marie.confirmation.failure",
+    "password": "marie.confirmation.failure",
+    "errorArea" :"media_category-put" ,
+    "errorCode" :"400 - general.e400t_http_message_conversion_failure" ,
+    "errorMessage" :"entschuldigung, da ist was schiefgelaufen."
+  }
+}

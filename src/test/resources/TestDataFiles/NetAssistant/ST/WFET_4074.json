@@ -1,0 +1,23 @@
+{
+  "ST_GC01": {
+    "userName": "WFET-4074 - Outage",
+    "password": "WFET-4074 - Outage",
+    "link" : "netz-assistent/?c_id=hilfe_netzass_um"
+  },
+
+  "ST_GC02": {
+    "userName": "WFET-4074 - NoOutage",
+    "password": "WFET-4074 - NoOutage",
+    "link" : "netz-assistent/?c_id=hilfe_netzass_um"
+  },
+
+  "ST_GC03": {
+    "userName": "WFET-4074 - Outage",
+    "password": "WFET-4074 - Outage"
+  },
+
+  "ST_GC04": {
+    "userName": "WFET-4074 - NoOutage",
+    "password": "WFET-4074 - NoOutage"
+  }
+}

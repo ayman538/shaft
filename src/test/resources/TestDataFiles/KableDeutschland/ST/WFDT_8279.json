@@ -1,0 +1,22 @@
+{
+  "gc01": {
+    "name": "martin_SIPCredentials01",
+    "password": "martin_SIPCredentials01"
+  },
+  "gc02": {
+    "name": "martin_SIPCredentials02",
+    "password": "martin_SIPCredentials02"
+  },
+  "gc03": {
+    "name": "martin_SIPCredentials04",
+    "password": "martin_SIPCredentials04"
+  },
+  "bc01": {
+    "name": "martin_SIPCredentials03",
+    "password": "martin_SIPCredentials03"
+  },
+    "bc02": {
+    "name": "martin_SIPCredentials05",
+    "password": "martin_SIPCredentials05"
+  }
+}

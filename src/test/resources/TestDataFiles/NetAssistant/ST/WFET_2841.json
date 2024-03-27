@@ -1,0 +1,14 @@
+{
+  "GC04":
+  {
+    "name"  : "WFET-2841 | Cable | Customer Authentication",
+    "password": "WFET-2841 | Cable | Customer Authentication",
+    "deeplink" : "netz-assistent/tickets?i=592c66ca659499ce08ac8d06d24ce75568cb06c918b79c5dce0637c9af7e1944621ccd0af5086b52&c=CABLE&icmp=mvw_db_netzass_kip"
+  },
+  "GC05":
+  {
+    "name"  : "WFET-2841 | Cable | Customer Authentication",
+    "password": "WFET-2841 | Cable | Customer Authentication",
+    "deeplink" : "netz-assistent/tickets?i=592c66ca659499ce08ac8d06d24ce75568cb06c918b79c5dce0637c9af7e1944621ccd0af5086b52&c=CABLE&icmp=mvw_db_netzass_kip"
+  }
+}

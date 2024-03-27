@@ -1,0 +1,27 @@
+{
+  "GC01":
+  {
+    "userName"  : "christian.netzassistent",
+    "password": "TEST@1234",
+    "Link" : "netz-assistent/chatbot"
+  },
+  "GC02":
+  {
+    "userName"  : "doris.netzassistent",
+    "password": "TEST@1234",
+    "Link" : "netz-assistent/chatbot",
+    "contractNumber": "332881431"
+  },
+  "GC03":
+  {
+    "userName"  : "marco.netzassistent",
+    "password" : "TEST@1234",
+    "Link" : "netz-assistent/chatbot",
+    "contractNumber": "309660902"
+  },
+  "GC05": {
+    "userName": "christian.netzassistent",
+    "password": "TEST@1234",
+    "Link": "netz-assistent/chatbot"
+  }
+}

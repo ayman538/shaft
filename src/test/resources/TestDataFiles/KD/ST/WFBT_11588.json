@@ -1,0 +1,32 @@
+{
+  "validateSecurityPackageSOAndAccordion":
+  {
+    "name"  : "Automated-wfbt_11588_1",
+    "password": "Automated-wfbt_11588_1"
+  },
+  "checkIneligibleUserToBookSecurityPackage":
+  {
+    "name": "Automated-wfbt_11588_2",
+    "password": "Automated-wfbt_11588_2"
+  },
+  "checkEligibleUserToBookSecurityPackage":
+  {
+    "name": "Automated-wfbt_11588_1",
+    "password": "Automated-wfbt_11588_1"
+  },
+  "ValidateWhenUserHasBookedSecurityPackage":
+  {
+    "name": "Automated-wfbt_11588_3",
+    "password": "Automated-wfbt_11588_3"
+  },
+  "ValidateInventoryBENotificationMessage":
+  {
+    "name": "Automated-wfbt_11588_5",
+    "password": "Automated-wfbt_11588_5"
+  },
+  "ValidateAvailabilityBENotificationMessage":
+  {
+    "name": "Automated-wfbt_11588_6",
+    "password": "Automated-wfbt_11588_6"
+  }
+}

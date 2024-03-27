@@ -1,0 +1,17 @@
+{
+  "ST_GC01": {
+    "userName"  : "WFET-3066 | Cable",
+    "password": "WFET-3066 | Cable",
+    "deeplink" : "netz-assistent/tickets/review?i=ca5386287293c445e37f5d84cbe3d1bbb9ab972db7db3edc7161c213ef0e5fc404c17a445b322f62&c=cable&a=&p=&c_id=hilfe_netzass_kip"
+  },
+  "ST_GC03": {
+    "userName"  : "WFET-3066 | Cable",
+    "password": "WFET-3066 | Cable",
+    "deeplink" : "netz-assistent/tickets/review?i=ca5386287293c445e37f5d84cbe3d1bbb9ab972db7db3edc7161c213ef0e5fc404c17a445b322f62&c=cable&a=&p=&c_id=hilfe_netzass_kip"
+  },
+  "ST_GC04": {
+    "userName"  : "WFET-3066 | Cable",
+    "password": "WFET-3066 | Cable",
+    "deeplink" : "netz-assistent/tickets/review?i=ca5386287293c445e37f5d84cbe3d1bbb9ab972db7db3edc7161c213ef0e5fc404c17a445b322f62&c=cable&a=&p=&c_id=hilfe_netzass_kip"
+  }
+}

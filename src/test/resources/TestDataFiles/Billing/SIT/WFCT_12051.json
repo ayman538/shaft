@@ -1,0 +1,27 @@
+{
+  "GC01_KayUserChecksTheItemizedBillsForAllNumbersInLatest6MonthsInKostenübersichtTab": {
+    "name": "multi_contracts",
+    "password": "TEST@1234",
+    "contract_number": "1",
+    "latestMonth": "November 2022",
+    "lastMonthEligibleForItemizedBill": "Juli 2022",
+    "firstConnectionOverViewPreviewIconRowNum": "1",
+    "lastConnectionOverViewPreviewIconRowNum": "8"
+  },
+  "GC02_BartUserChecksTheItemizedBillsCtaAndColumnInMonth7InKostenübersichtTab": {
+    "name": "multi_contracts",
+    "password": "TEST@1234",
+    "contract_number": "1",
+    "latestMonth": "November 2022",
+    "firstMonthNotEligibleForItemizedBill": "Mai 2022",
+    "msisdn": "4915200488840",
+    "firstConnectionOverViewPreviewIconRowNum": "1",
+    "lastConnectionOverViewPreviewIconRowNum": "8"
+  },
+  "GC03_peterUserChecksCreditAmountInCostOverviewPage": {
+    "name": "PETERs_BUSINESS",
+    "password": "TEST@1234",
+    "amountRowNum": "4",
+    "contractIndex": "1"
+  }
+}

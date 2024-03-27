@@ -1,0 +1,28 @@
+{
+  "GC01":
+  {
+    "name"  : "Automated-wfbt_8660_02",
+    "password": "Automated-wfbt_8660_02"
+  },
+
+  "GC02":
+  {
+    "name"  : "Automated-wfbt_8660_01",
+    "password": "Automated-wfbt_8660_01"
+  },
+  "GC03":
+  {
+    "name"  : "Automated-wfbt_8660_03",
+    "password": "Automated-wfbt_8660_03"
+  },
+  "GC04":
+  {
+    "name"  : "Automated-wfbt_8660_04",
+    "password": "Automated-wfbt_8660_04"
+  },
+  "GC05":
+  {
+    "name"  : "Automated-wfbt_8660_05",
+    "password": "Automated-wfbt_8660_05"
+  }
+}

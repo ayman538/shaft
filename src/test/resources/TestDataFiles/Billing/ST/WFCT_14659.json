@@ -1,0 +1,55 @@
+{
+  "GC01_MarieSohoUserWithActiveEmailNotificationDisablesPdfNotification": {
+    "name": "Marie.Soho.DisablePdfNotification",
+    "password": "Marie.Soho.DisablePdfNotification",
+    "activePdfCL" : "Unverschlüsselter Rechnungsversand ist aktiviert",
+    "greenEmailColor" : "0, 153, 0",
+    "inactivePdfStatus" : "nicht aktiv"
+  },
+
+
+  "GC02_KaySohoUserWithActiveEmailNotificationEnablesPdfNotification": {
+    "name": "kay.Soho.EnablePdfNotification",
+    "password": "kay.Soho.EnablePdfNotification",
+    "inactivePdfCl" : "Unverschlüsselter Rechnungsversand ist nicht aktiviert",
+    "greenEmailColor" : "0, 153, 0",
+    "activePdfStatus" : "aktiv"
+  },
+
+
+  "GC03_BartSohoUserWithInactiveEmailNotificationChecksPdfNotification": {
+    "name": "bart.Soho.InActiveEmail.EnablePdf",
+    "password": "bart.Soho.InActiveEmail.EnablePdf",
+    "greenEmailColor" : "0, 153, 0",
+    "InActiveEmailNotificationCl" : "Du hast keine E-Mail-Benachrichtigung aktiviert",
+    "activePdfStatus" : "aktiv"
+  },
+
+
+  "GC04_GkoUserChecksEnablingPdfNotification": {
+    "name": "Kay.GKO",
+    "password": "Kay.GKO"
+  },
+
+
+  "GC05_ConsumerMarieUserChecksEnablingPdfNotification": {
+    "name": "Marie.Consumer.CheckPdfNotification",
+    "password": "Marie.Consumer.CheckPdfNotification"
+  },
+
+
+  "Tag01_KaySohoUserWithActiveEmailNotificationEnablesPdfNotificationThenChecksTagging": {
+    "name": "kay.Soho.EnablePdfNotification",
+    "password": "kay.Soho.EnablePdfNotification",
+    "oFormStepOne" : "{name:change bill notifications settings,formStep:1,formStepName:start,formStatus:[start],type:ecare,oApplication:{type:myvodafone:transaction,name:change bill notifications settings},context:current email on | current SMS on | current pdf off}",
+    "oFormStepTwo" : "{name:change bill notifications settings,formStep:2,formStepName:confirmation,formStatus:[end,success],type:ecare,oApplication:{type:myvodafone:transaction,name:confirmation},outcome:chosen email on | chosen SMS on | chosen pdf on}"
+  },
+
+
+  "Tag02_MarieSohoUserWithActiveEmailNotificationDisablesPdfNotificationThenChecksTagging": {
+    "name": "Marie.Soho.DisablePdfNotification",
+    "password": "Marie.Soho.DisablePdfNotification",
+    "oFormStepOne" : "{name:change bill notifications settings,formStep:1,formStepName:start,formStatus:[start],type:ecare,oApplication:{type:myvodafone:transaction,name:change bill notifications settings},context:current email on | current SMS on | current pdf on}",
+    "oFormStepTwo" : "{name:change bill notifications settings,formStep:2,formStepName:confirmation,formStatus:[end,success],type:ecare,oApplication:{type:myvodafone:transaction,name:confirmation},outcome:chosen email on | chosen SMS on | chosen pdf off}"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "gc01": {
+    "name": "MartinAnonNonRouter1",
+    "password": "MartinAnonNonRouter1"
+  },
+  "gc02": {
+    "name": "SOHOanonRouter",
+    "password": "SOHOanonRouter"
+  },
+  "gc03": {
+    "name": "MartinAnonNonRouter",
+    "password": "MartinAnonNonRouter"
+  },
+  "gc04": {
+    "name": "MartinAnonNonRouter",
+    "password": "MartinAnonNonRouter"
+  },
+  "gc05": {
+    "name": "MartinAnonRouterSF",
+    "password": "MartinAnonRouterSF"
+  },
+  "gc06": {
+    "name": "SOHOAnonNonRouterSF",
+    "password": "SOHOAnonNonRouterSF"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "GC01": {
+    "name": "KIPUserCancelledMainTandCLST",
+    "password": "KIPUserCancelledMainTandCLST",
+    "MainTariffCancellationMessageHeaderCL": "Dein Tarif ist gekündigt",
+    "MainTariffCancellationMessageBodyCL": "Du möchtest bleiben? Wir machen Dir gerne ein persönliches Angebot. Ruf uns einfach unter der 0800 664 76 08 an. Montags bis freitags von 7.30 bis 22 Uhr und samstags von 9 bis 18 Uhr, kostenlos aus allen deutschen Netzen."
+  },
+  "GC02": {
+    "name": "KIPUserCancelledCLSTandMainT",
+    "password": "KIPUserCancelledCLSTandMainT",
+    "MainTariffCancellationMessageHeaderCL": "Dein Tarif ist gekündigt",
+    "MainTariffCancellationMessageBodyCL": "Du möchtest bleiben? Wir machen Dir gerne ein persönliches Angebot. Ruf uns einfach unter der 0800 664 76 08 an. Montags bis freitags von 7.30 bis 22 Uhr und samstags von 9 bis 18 Uhr, kostenlos aus allen deutschen Netzen."
+  },
+  "GC03": {
+    "name": "KIPUserCancelledMainTandCLST",
+    "password": "KIPUserCancelledMainTandCLST"
+  },
+  "GC04": {
+    "name": "KIPUserCancelledCLSTandMainT",
+    "password": "KIPUserCancelledCLSTandMainT"
+  }
+}

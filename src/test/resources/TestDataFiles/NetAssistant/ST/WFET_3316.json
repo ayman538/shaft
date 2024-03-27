@@ -1,0 +1,16 @@
+{
+  "ST_GC02": {
+    "userName"  : "WFET-3316 | UM | TechAppointment",
+    "password": "WFET-3316 | UM | TechAppointment",
+    "Link" : "netz-assistent/tickets?i=4850156a261da6c48ffe9f8b0916f9c91c12105faed522ed792eaafd6e682b8d29956bee6c4f9656&c=UM&s=NRW&icmp=mvw_db_netzass_um"  },
+
+  "ST_GC04": {
+    "userName"  : "WFET-3316 | UM | TechAppointment",
+    "password": "WFET-3316 | UM | TechAppointment",
+    "Link" : "netz-assistent/tickets?i=4850156a261da6c48ffe9f8b0916f9c91c12105faed522ed792eaafd6e682b8d29956bee6c4f9656&c=UM&s=NRW&icmp=mvw_db_netzass_um"  },
+
+  "ST_GC06": {
+    "userName"  : "WFET-3316 | UM | TechAppointment",
+    "password": "WFET-3316 | UM | TechAppointment",
+    "Link" : "netz-assistent/tickets?i=4850156a261da6c48ffe9f8b0916f9c91c12105faed522ed792eaafd6e682b8d29956bee6c4f9656&c=UM&s=NRW&icmp=mvw_db_netzass_um"  }
+}

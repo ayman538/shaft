@@ -1,0 +1,26 @@
+{
+  "gc01": {
+    "name": "Multi-CablMore10Docs",
+    "password": "Multi-CablMore10Docs"
+  },
+  "gc02": {
+    "name": "Multi-CablMore10Docs",
+    "password": "Multi-CablMore10Docs"
+  },
+  "gc03": {
+    "name": "Multi-CablMore10Docs",
+    "password": "Multi-CablMore10Docs"
+  },
+  "gc04": {
+    "name": "Single-Cablless10Docs",
+    "password": "Single-Cablless10Docs"
+  },
+  "gc05": {
+    "name": "Multi-CablMore10Docs",
+    "password": "Multi-CablMore10Docs"
+  },
+  "gc07": {
+    "name": "Multi-CablMore&Less10Docs",
+    "password": "Multi-CablMore&Less10Docs"
+  }
+}
